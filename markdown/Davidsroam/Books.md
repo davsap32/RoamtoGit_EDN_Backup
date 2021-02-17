@@ -24,10 +24,11 @@
         - [[Ernest Hemingway on Writing]] by [[Larry W. Phillips]]
         - Books by [[Ernest Hemingway]]
         - [[Ultralearning]] by [[Scott Young]]
+        - [[The Cult of Trump]] by [[Steven Hassan]]
     - Reading
         - [[Hitler Ascent 1889-1939]] by [[Volker Ullrich]]
-        - [[Transcendent Kingdom]] by [[Yaa Gyasi]]
     - Paused
+        - [[Transcendent Kingdom]] by [[Yaa Gyasi]]
         - [[Jonathan Strange and Mr. Norell]] by [[Susanna Clarke]]
         - [[The Stoic Guide to a Happy Life]] by [[Massimo Pigliucci]]
         - [[Very Important People]] by [[Ashley Mears]]

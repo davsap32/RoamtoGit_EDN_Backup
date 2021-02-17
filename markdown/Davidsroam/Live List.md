@@ -121,7 +121,7 @@
 - {{[[DONE]]}} lightroom backup 2020 complete #Lightroom
 - {{[[DONE]]}} excel questionnaire for SLA info #Work
 - {{[[TODO]]}} purchase Governo Rosso wine
-- {{[[TODO]]}}  book doctor's appointment for discoloration under right eye. #Waiting
+- {{[[DONE]]}}  book doctor's appointment for discoloration under right eye. #Waiting
 - {{[[TODO]]}} consider purchases for #Riscom 
 - {{[[TODO]]}} lee townson missing item #Work
 - {{[[TODO]]}} take stuff to returpunkten #[[Sort and Tidy]]
@@ -129,7 +129,6 @@
 - {{[[TODO]]}} JIRA tracking for CHAPS #Work
 - {{[[DONE]]}} JIRA tracking for CRM service description #Work
 - {{[[DONE]]}} path to compost
-- {{[[TODO]]}} change to [backup routine with EDN backup](https://github.com/everruler12/roam2github) to [[Roam Backup/Restore]]
 - {{[[DONE]]}} vägassistans number to [[Kerstin]]
 - {{[[DONE]]}} try to fix [[Roam Backup/Restore]] #Waiting
 - {{[[DONE]]}} [[SHB]] Tupp, [[ITC]] time report & invoice [[January 31st, 2021]]

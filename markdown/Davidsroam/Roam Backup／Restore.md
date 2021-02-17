@@ -1,3 +1,4 @@
+- [backup routine with EDN backup](https://github.com/everruler12/roam2github) to [[Roam Backup/Restore]] [[Roam Research]]
 - Question to https://effortless-output-with-roam.circle.so/
 - I thought it would be just as well to check that I can backup my data from Roam and restore it if necessary. I exported all pages from my Roam graph in JSON and in Markdown and then created a new, empty graph in order to see what would happen if I imported to an empty graph from these backups.
     -  I could not open the zip file from the Markdown backup atall ("Invalid zip file")

@@ -14,9 +14,12 @@
         - 13:00
         - 14:00
         - 15:00
+            - status discussion with Kenneth
         - [[Need to plan]]
 - 09:11
     - I received a call from [[Åby Vårdcentral]] after my call to them yesterday about discoloration under my eye. They asked me to send a picture of the discoloration and also to come in and leave a blood sample any day between 8-11 am, fasting. The nurse said that [[Sara Seaton]] suspects it may be [[Xanthelasma]] and that I should have my blood fats checked.
+- 14:44
+    - Listening to a #Podcast in the [[Sensibly Speaking]] series with [[Tim Ward]] about truth in politics. The book [[The Cult of Trump]] was mentioned - seems interesting. #Books
 - DAC
     - https://youtu.be/zgRLCAbrr2c
 - Obersalzburg movies 1937
