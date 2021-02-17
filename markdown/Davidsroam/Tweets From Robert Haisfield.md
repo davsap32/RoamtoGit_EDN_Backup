@@ -1,0 +1,5 @@
+- Author:: [[Robert Haisfield]]
+- URL:: https://twitter.com/RobertHaisfield
+- Recommended By::
+- Tags:: #Tweets #Inbox
+- From a metaphor design perspective, I like "evergreen notes" or "claims" better than "permanent notes." I don't have nearly the intellectual certainty to make something permanent, though I may be able to maintain it or update my evergreen notes. 

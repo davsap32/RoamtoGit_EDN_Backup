@@ -1,0 +1,22 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F49gxhWkkf_.png?alt=media&token=56d0424f-931f-43e5-8357-989a51370def)
+- {{table}}
+    - Schedule
+        - task
+    - 08:00
+        - whm
+    - 09:30
+        - core team planning
+    - 11:00
+        - go [[HT_Bathing]]
+    - 12:00
+    - 13:00
+    - 14:00
+        - [[Alice]] and [[Leo]] with us
+    - 20:00
+        - Call Esther
+-  21:40
+    - [[Kerstin]] fetched [[Leo]] and [[Ellen]] this afternoon and we went on an outing with them to the forest above [[Hults Bruk]]. We ate muffins and looked for mushrooms, which we found a few of. [Link to pictures](https://www.davidsapire.com/Unlisted-galleries/Events/n-bpRWxq/20201001-Forest-with-grandchildren/)
+    - This evening [[Samuel]], [[Josefine]] and [[Alice]] came for dinner. We talked about [[Samuel]]’s plans to travel to [[Cape Town]] at the end of October to help a team of four developers get started with their new assignments for [[Angry Creative]]. Several developers have resigned from the new daughter company in UK, so [[Samuel]]’s idea is to employ developers in [[South Africa]] where the web development market is depressed due to the pandemic and many developers are looking for work.
+    - I asked [[Samuel]] if he knew where I could find out about product recommendations for electric radiators, we need to put in new ones throughout the house. His friend [[Henrik]] has researched this question for his own house, [[Samuel]] has asked him to provide info on his conclusions.
+- #[[Quick Capture]]
+    - test of caprure

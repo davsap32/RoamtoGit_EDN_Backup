@@ -1,0 +1,29 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FZ3SSkyVD0Y.png?alt=media&token=872ed6b4-4c4e-4ca1-9ecd-94a16d706ce5)
+- HT_Date:: 20201215
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 09:42
+    - Enjoying [[Helene]]s and [[Johan]]s visit, although at times I would prefer to be alone for a while.
+    - Ate Christmas dinnes with [[Helene]], [[Johan]] and [[Amanda]] yesterday evening. I drove Amanda home afterwards.
+    - I received a reply from [[Typesy]] to my reported issue, after reminding them via [[Facebook]]. The reply did not answer my question, and I have had no answer after repeating the question. Quite frustrating. Quote from support@ereflect1.zohosupport.com :
+        - We do have implemented a new activity that requires the user to press the correct key to continue after making a mistake.
+        - For example, if the correct key is “j” and the user presses “k”, they will get the error beep (if on) and the letter will turn red. But the cursor will stay in the same position until they press the correct key j. J will stay red and will still be considered a mistake when calculating accuracy
+    - Still experiencing hip pain/lower back pain and Sciatica. Continuing with my exercises. #Illness
+    - Ice had begun to form at the edges of [[Lillsjön]] when I went #bathing yesterday, so I went in by the ladder on the pier. Today is colder, the ice cover might make it difficult to find somewhere to go into the water.
+- 15:16
+    - I left [[Johan]] and [[Helene]] at the sstation for their journey back to [[Stockholm]]. Fetched [[Amanda]] and brought her home. Soon [[Samuel]] and family will arrive for their Christmas dinner with us.

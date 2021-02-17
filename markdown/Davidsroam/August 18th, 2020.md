@@ -1,0 +1,34 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fl5dKvhaaFp.png?alt=media&token=53328c61-68ba-4e22-95e1-288acda0608f)
+- 07:46
+    - Yesterday we visited [[Annika]] at [[Björkbrinken]], we had tea there and then went #bathing at [[Kalvhomens Camping]] near [[Björkbrinken]]. We ate dinner with her and then went to see [[Patrik Svensson]] talk about his book  [[Ålevangeliet]] at [[Edgars at Lagnö]]. About the mysteries of Eels and the discovery about what we know about them so far. [[Patrik Svensson]] says that he is interested in the stories behind scientific discovery and that many of these stories are not widely known. #Books
+    - I spoke with [[Esther]] when we came home, she had spoken with [[Samuel]] who was feeling disheartened after arguing with [[Josefine]]. [[Samuel]] stayed at his own house yesterday evening, so we are without grandchildren this morning.
+    - Today [[Kerstin]] will take [[Amanda]] to the hospital to have a birthmark removed.
+- 09:27
+    - Core team meeting with [[Erika]] [[Judith]]and [[Peter]]. 
+        - ISDM requirements concerning VOST
+        - {{{[[DONE]]}}}} ISDM requirements concerning ITDP - send forst analysis to [[Peter]] [[August 21st, 2020]] #scheduled
+        - {{{[[DONE]]}}}} Create JIRA board [[August 19th, 2020]] #scheduled
+        - {{{[[DONE]]}}}} review UK draft service description for Payments
+- 14:15
+    - Very warm weather. I walked down to [[Lillsjön]] to bathe - very pleasant. Lots of people there, many older people on folding chairs. Not noisy, which is the main thing.
+    - [[Kerstin]] is back from taking [[Amanda]] to the hospital to have a birthmark removed. 
+    - Saw a reference somewhere (can't remember where) to [[Sam Harris]] new book [[Making Sense]]. Looks interesting. I've put it on my #ToRead list, where there are now 29 books. As usual, the number of #Books on the list increases much faster than my pace of reading them.
+- 16:32
+    - Attempted to cancel my TV subscription with [[Viasat]], to no avail. A half an hour in a telephone queue, when an operator answered at last he said he had a problem with his computer and asked me to wait for a minute. That was the last I heard of him. I suspect that [[Viasat]] intentionally make it difficult to cancel a subscription.
+    - Started reading [[Barking Up the Wrong Tree]]. 
+- {{{[[DONE]]}}}} [[August 19th, 2020]] cancel [[Viasat]] subscription: #scheduled
+    -  lämna ditt telefonnummer till oss på 08-525 08 103 och därefter trycka #. Detta är möjligt mellan 09:00-13.30 på vardagar
+    - Reply from [[Viasat]] after my complaint to them via Messenger:
+        - (My complaint) Hej, jag har suttit i telefonkö i 30 minuter för att säga upp mitt abbonemang. När jag äntligen kom fram till en handläggare fick jag veta att han hade problem med sin dator och skull återkomma om en minut. Det var för tio minuter sedan. Jag sitter än så länge kvar i telefon och väntar på honom. Är det en medveten strategi från er sida att göra det svårt att säga upp abbonemanget?
+        - (Reply) Ni får maila till fraga@viasat.se med ert kundnummer samt adressen och ärende avslut så kan vi schemalägga avslut när det är mindre än 6 månader kvar av abonnemanget.
+- 17:41
+    - I tried again to reach [[Viasat]] customer service and this time the queue was short and I got through. I cancelled my subscription and asked for written confirmation which I have received.
+- 19:06
+    - Spoke briefly to [[Esther]]. Her vacuum cleaner had broken, [[Ivan]] had gone out of his way to buy a new one for her, [[Rochelle]] had taken her shopping list and gone shopping for her and they had driven her shopping and vacuum cleaner home to her. 
+    - I asked [[Samuel]] via Messenger if he would be coming here this evening, he replied that he would not. No news from him after their therapy session today.
+- 19:48
+    - I have read about 100 of 400 pages of [[Barking Up the Wrong Tree]] and am finding it very interesting. Looking forward to working with the highlights.
+- 21:25
+    - I have received a [link](https://learn.fortelabs.co/courses/enrolled/1097377) to [[Nat Eliason]]s [[Roam Research]] video course. It worked once, on my PC, but  when I try to use it on my [[Ipad]] I get asked to pay to enrol.
+        - I got this to work by logging in on teachable.com and through that page onwards to the course.
+        - {{{[[DONE]]}}}} [[August 19th, 2020]] Introduce myself to effortless-output-with-roam.circle. [Link](https://effortless-output-with-roam.circle.so/c/introductions)

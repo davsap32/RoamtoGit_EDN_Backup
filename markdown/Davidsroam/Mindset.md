@@ -1,0 +1,3 @@
+- Author:: [[Carol Dweck]]
+- Recommended By:: [[fs.blog]]
+- Keywords:: #Books #ToRead

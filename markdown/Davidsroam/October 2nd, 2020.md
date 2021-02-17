@@ -1,0 +1,33 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FE-7MSBQ5Oa.png?alt=media&token=f73c41dc-e92a-4e5b-b70a-33667d8f4503)
+- {{table}}
+    - Schedule
+        - task
+    - 08:00
+        - whm
+    - 09:00
+        - Meeting with Torgny Elf about CHAPS question concerning security tokens as assets.
+    - 10:00
+    - 11:00
+        - PT
+    - 12:00
+        - meeting with EVRY 
+    - 14:00
+        - go [[HT_Bathing]]
+    - 15:00
+        - call with Jens Landin
+        - minutes of service review meeting
+    - 20:00
+        - Call Esther
+-  08:22
+    - I have experimented with the [[query]] function in [[Roam Research]] in order to understand it better. I now understand that queries return blocks. If a block which  meets the search criteria  is indented, the above blocks will also be returned, at all levels of indentation. If you click on the returned text, the full structure will be displayed, with the block which meets the search criteria highlighted.
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FQVSx7-0KP4.png?alt=media&token=abfd9927-13ea-42ed-bb75-5a56d9843165)
+- 10:51
+    - I finally received an answer from [[Logitech]] that the [[Logitech Bluetooth Audio Adapter]] will not pair with Apple [[Airpod Pros]]. I will use the [[Logitech Bluetooth Audio Adapter]] with the stereo in the lounge and have ordered an [[AirFly Pro]] Wireless transmitter/receiver from Amazon.co.uk. I also created a business account linked to my [[Riscom]] email address [[riscomab@gmail.com]]. It should arrive on [[October 8th, 2020]]. Remains to be seen if I will be able to use the [[Airpod Pros]] microphone when connected to the PC audio jack via the bluetooth adapter. The main thin is for me to be able to listen via the [[Airpod Pros]].
+        - {{[[youtube]]: https://youtu.be/pVko8Ur1hm0}}
+        - 
+    - I have been considering participating in [[Robert Haisfield]]'s workshop tomorrow on using the [[query]] function in [[Roam Research]]. Reading his workshop description a little more carefully, I realise that he expects participants to have their own [[query]] use cases to work with together with him in the worskhop. I don's have any such unsolved use cases at the moment, so I would probably not be using my time well by participating. I have not yet started extracting ideas from my [[Evergreens]]. I should maybe experiment with this a bit and see if questions arise which the workshop may be useful in answering.
+- 19:34
+    - I have been doing more [[Touch Typing]] training recently, my finger hurts a bit but not to much. Something that I have just recently understood is that I have been using unnecessary force in depressing the keyboard keys. I can type more easily by pressing lightly and at the same time rum less risk of [[RSI]] (repetitive strain injury).
+    - [[Kerstin]] told me today that [[Amanda]] had become pregnant in spite of taking a contraceptive pill. She was given abortion-inducing medication at the hospital yesterday (or the day before) and has been in pain today due to the effects./cir
+- 20:25
+    - Spoke to Esther - she tells me that [[Daudi]] npw comes regularly to the house to work in the garden and the cellar. She is glad for the extra help and he is happy to be engaged in meaningful work.

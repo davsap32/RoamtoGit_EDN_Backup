@@ -1,0 +1,38 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fnm52qjdLhc.png?alt=media&token=4fcec1a0-a8b6-454a-998f-ba555b7f6520)
+- HT_Date:: 20201006
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 5 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 08:00
+        - whm
+    - 09:00-10:30
+        - preparatory mtg for feedback session with UK
+    - 10:00
+    - 11:00-12:00
+        - Feedback session after Groups meeting with Service Owners
+    - 12:00
+    - 13:00
+    - 14:00
+        - chaps actions
+    - 15:00
+        - go bathing
+    - 20:00
+        - Call Esther
+- 11:31
+    - Meetings with UK postponed today, Ray had to take leave. Had a good discussion with [[Peter]], [[Erika]] and [[Judith]] about the way forward concerning service provision to UK. ISDM will have to play a larger coordinating role, we need more staff to be able to do this. To be discussed at a meeting with [[Magnus]] and [[Tine]] next week
+    - From the recording with [[Wayne Liqourman]] that I am listening to: Everything that any spiritual teacher has ever said is wrong. Whatever was said were pointers specific to a time, place and audience.
+- 14:46
+    - Went [[bathing]]. Sunny, pleasant weather, 14 C in the air.
+    - Following the dramatic developments as USA votes are being counted.
+    - Next PT: [[November 8th, 2020]]
+    - Spent some time this afternoon on correspondence concerning the CHAPS remediation activities.
+- 21:29
+    - [[Kerstin]] has returned from Arboga. 
+    - Spoke with [[Samuel]] - he has still not been able to retrieve his computers from SA customs, at least partly due to misses on the part of DHL. His colleague in [[Cape Town]], Henry, will have to sort it out next week.
+-  

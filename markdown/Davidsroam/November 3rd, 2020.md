@@ -1,0 +1,36 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FLJIAcheP-g.png?alt=media&token=b526bb10-ca60-4d93-b535-b1aa4cdfe720)
+- HT_Date:: 20201103
+- HT_WHM:: no
+- HT_Meditation:: No
+- HT_PT:: no
+- HT_Bathing:: 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 07:30
+        - whm
+    - 08:30
+        - core team mtg
+    - 09:30-11:00
+        - Monthly service review mtg
+    - 11:00
+        - Services agreement progress tracking
+    - 12:00
+    - 13:00
+    - 14:00
+    - 20:00
+        - Call Esther
+-  14:31
+    - Read an [article](https://marginalrevolution.com/marginalrevolution/2020/11/best-non-fiction-books-of-2020.html?utm_source=dlvr.it&utm_medium=twitter) by [[Tyler Cowen]] with recommended non-fiction books  of 2020, of which several looked interesting: #Books #Articles
+        - [[Very Important People]] by [[Ashley Mears]]
+        - [[The Story of China]] by [[Michael Wood]]
+        - [[The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous]] by [[Joseph Henrich]]
+        - [[Editing Humanity_ The CRISPR Revolution and the New Era of Genome Editing]] by [[Kevin Davies]]
+        - [[The Decadent Society: How We Became the Victims of Our Own Success]] by [[Ross Douthat]]
+    - Read an [article](https://writingcooperative.com/how-to-slow-down-and-build-a-writing-business-youll-love-4f09402b0f2d) by [[Ailsa Bristow]] titled [[How to Slow Down and Build a Writing Business You’ll Love]]. About the hype created by sellers of online courses and workshops that an online business must be built quickly. How important it is do do this in your own pace based on your own values and goals. #Articles #[[Business Future]]
+- 16:11
+    - [[Kerstin]] went shopping, bought among other things coriander.
+    - After my last meeting for the day with [[SHB]], I went out to rake some leaves in the garden. I have taken care of the bulk of leaves now, but will need to keep doing this as the rest of the leaves fall. #[[Sort and Tidy]]
+-  

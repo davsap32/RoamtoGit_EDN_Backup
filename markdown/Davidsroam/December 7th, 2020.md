@@ -1,0 +1,29 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F2Bsix80LTl.png?alt=media&token=a074faa3-a251-4a92-b338-f5788a47733c)
+- HT_Date:: 20201207
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: 2 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:30
+        - core team mtg
+    - 09:00
+        - whm
+    - 10:00 
+        - go bathing
+    - 11:00 
+    - 12:00
+    - 13:00
+        - mtg on enquiry link security code of conduct
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 13:00
+    - [[Samuel]] called earlier to inform us that [[Amanda]] is not coping with her job, [[Angry Creative]] have decided to terminate her trial employment, which they will inform her about during the coming week. Samuel has done what he could to see to it that she gets the help she needs, but it hasn't worked out. Amanda will most likely not be able to find a new job, I am afraid that it will fall on us to pay her bills.
+- 17:47
+    - [[Kerstin]] watched a film [[The Equalizer]] yesterady evening, which she enjoyed. It streams on [[Netflix]]. #Films

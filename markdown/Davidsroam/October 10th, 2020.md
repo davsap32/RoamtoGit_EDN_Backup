@@ -1,0 +1,39 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FsyefXGhG04.png?alt=media&token=b9c71c8c-3221-44e3-a818-63309d34a98e)
+- HT_Date:: 20201010
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: yes
+- HT_Bathing:: 10C 4M
+- HT_Back_ex:: no
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - whm
+    - 10:00
+        - pt
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+        - bathing
+    - 20:00
+        - Call Esther
+- 16:53
+    - [[Roam Research]] Installed [[Mark Robertson]]s [[Roam Capture]] shortcut for IOS. [Link](https://www.icloud.com/shortcuts/e773398c14164c12bb682135446f2ca4)
+        - https://twitter.com/calhistorian/status/1311086745149038592?s=21
+        - This enable me to jot down notes and ideas and get them into [[Roam Research]] without much friction.
+    - Spending about 15 minutes every day practicing [[Touch Typing]] with [[Typesy]].  This is [[Deliberate practice]] as described in [[Peak_ Secrets from the New Science of Expertise]], as it requires focus and concentration, and performance is being measured.  My best result so far it 98% accuracy and 33 WPM speed. It seems to be extremely difficult to reach 100% accuracy. #Productivity
+    - Now that I can sort the rows in an attribute table using [[David Vargas]] javascript plugin, I think that I have a good solution for tracking habits in [[Roam Research]]. I'll do my #Habit-tracker in [[Notion]] and [[Roam Research]] in parallel for a while, and then continue in [[Roam Research]] if no complications turn up. 
+    - I have spent some time today extracting #Evergreens from the highlights frim the [[The 80/20 Principle: The Secret to Achieving More with Less]]. I have highlighted large amounts of text from the book, so there is some work to be done processing the highlights. #Books #[[Digital Garden]] This book together with the one I am reading now, [[The Unfair Advantage]] contain much food for thought for my [[Business Future]] project. #Books
+- 18:30
+    - [[Shawn Murphy]] has published a tweet about a javascript extension for [[Roam Research]] which enables filtering of [[Attribute Tables]]. [Link](https://gist.github.com/GitMurf/aece9f105628640cb79925d1310449ec) to code on [[GitHub]]. I could filter out the template row by filtering for "202" in the date column. The template row isn't such a big deal but it would be fun to try.
+        - https://twitter.com/shawnpmurphy8/status/1314877901297262593?s=20
+- 18:45
+    - Latest result on [[Typesy]]:
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F6j93zCdpze.png?alt=media&token=64fa1f67-7272-44a3-8ed7-15720b28dfae)
+    - Finished listening to the #Podcast with [[Rich Roll]] and [[Michael Gervais]]. I found the discussion about [[Vision]], [[Purpose]] and [[Philosophy]] very interesting. I'd like to read [[Michael Gervais]] book. [Link to the podcast](https://youtu.be/yXmOHP5sBxs). [Link to audio book](https://www.amazon.com/Compete-Create-Approach-Leading-Authentically/dp/B08911JMJX/ref=sr_1_1?crid=F1LFSL24YV63&dchild=1&keywords=michael+gervais&qid=1602356031&s=books&sprefix=michael+gervais%2Caps%2C238&sr=1-1)
+- 20:57
+    - [[Readwise]] has made it possible to customize the Readwise to Roam Export. [Link](https://help.readwise.io/article/112-how-can-i-customize-the-roam-export) to help page
+    - Installed [[Shawn Murphy]]'s [[Attribute Tables]] filter. Now I can remove the row in the [[Habit-tracker]] corresponding to the template by filtering it out using ({not} Date). Summary of [[Shawn Murphy]]'s extension: 
+        - https://twitter.com/shawnpmurphy8/status/1316772996078395392?s=20

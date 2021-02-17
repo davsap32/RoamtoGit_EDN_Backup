@@ -1,0 +1,25 @@
+- **Author:** [[Josh Kaufman]]
+- **Source:** https://joshkaufman.net/permanent-portfolio/
+- **Tags:** #Articles #Getting Rich #Investing #Long Term Investing #Risk #Taxes #Income Taxes #Medley 195 #Article: Easy Investing
+- # 
+- Summary
+- Alloate your long term investments in:
+- 25% total stock market
+- 25% long term government bonds
+- 25% Gold
+- 25% Cash
+- Rebalance when you get to 30% of any one asset class
+- # 
+- Notes
+- “The key to success for everything in business, science and technology is never to follow the others." [[Masaru Ibuka]], co-founder of [[Sony]]
+- Since I’m self-employed, I manage my own long-term investment / retirement funds. **The account I use to do this is a SEP-IRA**, which stands for “Simplified Employee Pension Individual Retirement Account."
+- I always contribute the maximum I’m able to contribute to my SEP each tax year. Under US Tax rules as I write this, **I can contribute up to 20% of my income before my self-employment tax deduction, up to a maximum of $49,000.**
+- I use a [[Permanent Portfolio]] allocation for 100% of my long-term investment dollars. This allocation, which is unique in many ways, is described in [[Harry Browne]]’s [[Fail-Safe Investing]].
+- **Here’s the asset allocation**:
+- **25% Total Stock Market Index** - via the [[Vanguard]] Total Stock Market ETF (Ticker: VTI)
+- **25% Long-Term Government Bonds** - via the iShares Barclays 20+ Year US Treasury Bond ETF (Ticker: TLT)
+- **25% Gold** - via Central Gold-Trust, which holds gold bullion (Ticker: GTU)
+- **25% Cash** - via the iShares **Lehman 1-3 Year US Treasury Bond ETF** (Ticker: SHY)
+- Instead of attempting to predict which asset classes will outperform, it holds **four negatively correlated basic asset types**, which counterbalance each other.
+- I don’t have to pay a wealth management advisor 2-3% of my assets every year to perform worse than the market. Instead, I pay an absurdly low fee to get better results.
+- The only actions required are: depositing money into the account, allocating the funds in the 25% chunks described above, and **rebalancing the portfolio to when any one of these assets make up 30-35% of the portfolio, restoring the initial 25% allocations.**

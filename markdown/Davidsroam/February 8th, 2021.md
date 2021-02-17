@@ -1,0 +1,29 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FXRn_R48o5-.jpeg?alt=media&token=348acb38-3be8-4079-a762-df265006a11a)
+- HT_Date:: 20210208
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: 78,4
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+        - car to KIA
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:15 
+        - information on coming VOST meetings
+    - 15:00
+        - planning for CRM mtg.
+    - 20:00
+        - Call Esther
+- 21:01
+    - I had a new battery installed in my ar [[KIA BBP137]]. 
+    - [[Kerstin]] fetched [[Leo]] and [[Ellen]] this afternoon. She made supper and [[Josefine]] and [[Alice]] joined us to eat. I tired quickly of the children's noise.
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}

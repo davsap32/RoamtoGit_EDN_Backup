@@ -1,0 +1,18 @@
+- Keywords:: #Books #Readit #Evergreens
+- Author:: [[Jake Knapp & John Zeratsky]]
+- Highlights:
+    - #[[E: The Busy Bandwagon is our culture of constant busyness—the overflowing inboxes, stuffed calendars, and endless to-do lists.]]  [[Make Time: How to Focus on What Matters Every Day]]#[[Productivity]] #[[Evergreens]]
+    - #[[E: Infinity Pools are apps and other sources of endlessly replenishing content, which drain your time.]] #[[Evergreens]] [[Make Time: How to Focus on What Matters Every Day]] #[[Productivity]] #[[Infinity Pools]]
+    - #[[E: Being more productive does not mean I am doing the most important work; it only means I am reacting to other people’s priorities faster.]] #[[Evergreens]][[Make Time: How to Focus on What Matters Every Day]] #[[Productivity]] #Meaning
+        - {{embed: ((T9cNVIVEF))}}
+    - #[[E: something magic happens when you start the day with one high-priority goal]] #[[Evergreens]] [[Make Time: How to Focus on What Matters Every Day]] #[[Productivity]]
+        - The first step is choosing a single highlight to prioritize in your day. Next, you’ll employ specific tactics to stay laser-focused on that highlight. Throughout the day, you’ll build energy so you can stay in control of your time and attention. Finally, you’ll reflect on the day with a few simple notes
+            - The first strategy is all about **urgency**: What’s the most pressing thing I have to do today?
+            - The second Highlight strategy is to think about **satisfaction**: At the end of the day, which Highlight will bring me the most satisfaction?
+            - The third strategy focuses on **joy**: When I reflect on today, what will bring me the most joy?
+        - choose a Highlight that takes sixty to ninety minutes.
+    - #[[E: the way you experience your days is not determined primarily by what happens to you. In fact, you create your own reality by choosing what you pay attention to.]] #[[Evergreens]] [[Make Time: How to Focus on What Matters Every Day]] #[[Productivity]]
+    - #[[E: My solution to the to-do-list problem is to separate the decision about what to do from the act of doing it. I call my approach the Might-Do List.]] [[Make Time: How to Focus on What Matters Every Day]] #[[Evergreens]] #[[Productivity]]
+    - #[[E: The antidote to exhaustion is not necessarily rest….The antidote to exhaustion is wholeheartedness]]. #Quotes #[[Evergreens]] #[[Productivity]] [[Make Time: How to Focus on What Matters Every Day]]
+        - Quote from BROTHER DAVID STEINDL-RAST
+        - Bored test subjects are better at creative problem solving than were their nonbored peers.

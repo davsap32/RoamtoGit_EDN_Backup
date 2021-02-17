@@ -1,0 +1,7 @@
+- [Movement 20xx](https://portal.vahvafitness.com/)
+- [Effortless output in Roam](https://learn.nateliason.com/) by [[Nat Eliason]]
+- [Galaxy Brain](https://learn.cortexfutura.com/) by [[Cortex Futura]]
+- [Foundation training](https://stream.foundationtraining.com/)
+- [[Still Life Photography]] with [[Joel Grimes]] [Link](https://www.joelgrimes.com/library)
+- [[Photoshop]] with [[Udemy]], [Link](https://www.udemy.com/)
+- [Lightroom editing workflow](https://www.michaelshainblum.com/library) by [[Michael Shainblum]]

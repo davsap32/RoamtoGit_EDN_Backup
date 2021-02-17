@@ -1,0 +1,50 @@
+- Workflow for processing highlights imported to [[Roam Research]] from [[Readwise]]:
+    - [[Readwise]] imports texts under the page name < title (highlights)>
+    - Process the imported texts under the page name assigned by [[Readwise]]. Once this is done, rename the page by removing the text " (highlights)" from the page name. [[Roam Research]] will then ask if the page should be merged with the already existing page with the page name <title>. Answer yes.
+    - Delete the #Inbox tag from the page.
+- [Link to readwise - roam config](https://el2.convertkit-mail2.com/c/lmuk8o09k7umhqk5pqf6/9qhzhnh27r7qx3u9/aHR0cHM6Ly9yZWFkd2lzZS5pby9tYWdpY2FsdHJhc2hwYW5kYQ==)
+- On [[September 5th, 2020]] at 2:56 PM Readwise synced 5 highlights from 2 books.
+    - This was your first sync with #Readwise! 🎉
+    - From now on, new books/highlights will sync automatically with a link to your daily notes for the day it synced.
+    - You can [tweak your syncing settings (and filter/add more books to sync) here](https://readwise.io/export/roam/preferences), read more about [how the Roam integration works here](https://help.readwise.io/roam), and as always feel free to reach out to us at hello@readwise.io with any questions
+- On [[September 5th, 2020]] at 3:27 PM Readwise synced 8 highlights from 1 book.
+- On [[September 5th, 2020]] at 7:22 PM Readwise synced 4 highlights from 4 books.
+- On [[September 6th, 2020]] at 8:32 AM Readwise synced 5 highlights from 3 books.
+- On [[September 6th, 2020]] at 9:17 PM Readwise synced 5 highlights from 2 books.
+- On [[September 7th, 2020]] at 9:19 AM Readwise synced 2 highlights from 1 book.
+- On [[September 8th, 2020]] at 1:37 AM Readwise synced 48 highlights from 2 books.
+- On [[September 8th, 2020]] at 8:32 AM Readwise synced 3 highlights from 1 book.
+- On [[September 8th, 2020]] at 10:42 AM Readwise synced 1 highlight from 1 book.
+- On [[September 11th, 2020]] at 11:17 AM Readwise synced 9 highlights from 5 books.
+- On [[September 15th, 2020]] at 3:37 PM Readwise synced 62 highlights from 1 book.
+- On [[September 16th, 2020]] at 8:43 AM Readwise synced 10 highlights from 1 book.
+- On [[September 18th, 2020]] at 3:55 PM Readwise synced 103 highlights from 2 books.
+- On [[September 22nd, 2020]] at 6:25 AM Readwise synced 88 highlights from 4 books.
+- On [[September 22nd, 2020]] at 8:25 AM Readwise synced 4 highlights from 1 book.
+- On [[September 22nd, 2020]] at 10:58 AM Readwise synced 35 highlights from 1 book.
+- On [[September 24th, 2020]] at 10:34 AM Readwise synced 2 highlights from 2 books.
+- On [[September 26th, 2020]] at 8:58 PM Readwise synced 4 highlights from 1 book.
+- On [[September 29th, 2020]] at 8:25 AM Readwise synced 69 highlights from 2 books.
+- On [[October 3rd, 2020]] at 2:24 PM Readwise synced 30 highlights from 3 books.
+- On [[October 4th, 2020]] at 2:16 PM Readwise synced 26 highlights from 3 books.
+- On [[October 6th, 2020]] at 4:39 PM Readwise synced 1 highlight from 1 book.
+- On [[October 6th, 2020]] at 4:56 PM Readwise synced 270 highlights from 2 books.
+- On [[October 10th, 2020]] at 10:21 PM Readwise synced 211 highlights from 10 books.
+- On [[October 13th, 2020]] at 8:02 PM Readwise synced 81 highlights from 4 books.
+- On [[October 15th, 2020]] at 8:02 PM Readwise synced 28 highlights from 2 books.
+- On [[October 17th, 2020]] at 10:17 AM Readwise synced 47 highlights from 2 books.
+- On [[October 20th, 2020]] at 2:23 PM Readwise synced 56 highlights from 2 books.
+- On [[October 20th, 2020]] at 7:43 PM Readwise synced 102 highlights from 1 book.
+- On [[October 24th, 2020]] at 9:34 AM Readwise synced 19 highlights from 1 book.
+- On [[October 26th, 2020]] at 3:10 PM Readwise synced 13 highlights from 1 book.
+- On [[November 10th, 2020]] at 9:48 PM Readwise synced 33 highlights from 5 books.
+- On [[November 11th, 2020]] at 8:33 AM Readwise synced 1 highlight from 1 book.
+- On [[November 24th, 2020]] at 12:20 PM Readwise synced 42 highlights from 7 books.
+- On [[December 8th, 2020]] at 4:31 PM Readwise synced 24 highlights from 4 books.
+- On [[December 8th, 2020]] at 4:35 PM Readwise synced 2 highlights from 1 book.
+- On [[December 27th, 2020]] at 7:47 PM Readwise synced 76 highlights from 15 books.
+- On [[December 28th, 2020]] at 2:27 PM Readwise synced 4 highlights from 2 books.
+- On [[December 28th, 2020]] at 8:01 PM Readwise synced 6 highlights from 1 book.
+- On [[December 28th, 2020]] at 8:04 PM Readwise synced 4 highlights from 1 book.
+- On [[January 6th, 2021]] at 10:58 AM Readwise synced 5 highlights from 4 books.
+- On [[January 30th, 2021]] at 5:59 PM Readwise synced 27 highlights from 4 books.

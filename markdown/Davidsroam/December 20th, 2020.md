@@ -1,0 +1,31 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F_j3uugIAB-.png?alt=media&token=7a419318-c78e-4035-ade9-a2c107046fe6)
+- HT_Date:: 20201220
+- HT_WHM:: no 
+- HT_Meditation:: No
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: 3 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 08:45
+    - Not entirely healthy - leg pain, painful and frequent urination, "under the weather". #Illness
+    - I seem to have a short attention span for reading. Two ways forward: #Books
+        - Pomodoro - read for a given set time no matter what.
+        - Look for books that interest me more.
+- 14:42
+    - Went [[bathing]] before lunch. Mild weather and no wind, less cloud cover so quite bright. Very pleasant.
+    - [[Kerstin]] has scrubbed the floor of the shower/toilet. I have dusted the top shelves of the bookcases in the lounge and raked up leaves in the garden. #[[Sort and Tidy]]
+- 15:52
+    - Looked up papers from my treatment for [[BPH]], which was in autumn 2005, using a method called TUNA. At "Urologi och Inkontinenskliniken". It feels as it it is time to see a doctor about BPH and possibly urinary tract infection. #Illness
+- 21:08
+    - Participated in a Zoom meeting with my school comrades from [[Allan Wilson High School]]. [[Roy Rosser]], [[Dave Crossley]], [[Brendan Remenyi]], [[Graham Wood]], [[Colin Attwell]]. Enjoyed it. It lasted about an hour , which was quite enough.

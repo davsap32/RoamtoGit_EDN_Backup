@@ -1,0 +1,1 @@
+- [**Metadata basics and actions in [[Lightroom Laptop]]lassic**](https://helpx.adobe.com/lightroom-classic/help/metadata-basics-actions.html)

@@ -1,0 +1,41 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FcRp4MBB5V5.png?alt=media&token=3cdc8c7a-1220-4616-8a68-1b5758692b9f)
+- Highlight:
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - WHM
+    - 10:00
+        - go bsthing
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+        - take boxes to returpunkten
+    - 20:00
+        - Call Esther
+    - Todos:
+        - {{{[[DONE]]}}}} investigate clipping of highlights in Ipad Books. Does the [[Onyx]] do the same? [[September 5th, 2020]].  
+        - {{{[[DONE]]}}}} check out books on [[Ikigai]] and [[Declutter]] [[September 5th, 2020]]
+-  08:38
+    - Started reading [[The Book of Not]] yesterday afternoon. The book begins in the context of the Rhodesian civil war. Excellent writing. #Books
+    - Also started reading [[History of Western Philosophy]] by [[Bertrand Russell]]. This will be a wonderful book. I am reading the introduction and am amazed by the author's sweeping view and brilliant analysis. I hope that I am up tp the challenge of reading it through. #Books
+    - While reading and highlighting [[History of Western Philosophy]], I discovered that the Books app on Ipad caps the length of highlights. This is undocumented and I cannot find any discussion of it on the Internet. I will check if the [[Onyx]] does the same. #[[Digital Garden]]
+    - I have tried to save a [[Twitter]] thread on [[Readwise]], so far I have not been able to do so. [[Nat Eliason]] and many more are recommending [[Readwise]] as a tool to manage notes and highlights for import to [[Roam Research]]. So far I have not understood why. I should look more closely at it.    #[[Digital Garden]]
+    - I have installed the [[KyBook 3]] reading app on my [[Ipad]]. It seems to offer the functionality I am looking for. No clipping of highlight length, also ability to transfer books to the app via wifi.
+    - After looking at the [[KyBook 3]] app, I purchased a pro upgrade for 59 SEK. There is also a subsription option, I don't know if there is any functional difference between the subscribed version and the pro version.  #Books
+    - Reflecting again on the book [[One Blade of Grass]]. Note from yesterday: #Philosophy #Reflections
+        - "Interesting that the author insists on the necessity of lineage, tradition and training to realise No-self, whearas others who claim the same insight say that these things make no difference - that there is no path or journey, you cannot get to where you already are. However that may be, I liked his story and his way of telling it. He does not try to hide his vulnerability or claim special status due to his insights. I sent a copy to [[Kenneth]], suspect he might find it worth reading."
+        - The author differentiates between "glimpses" [[Kensho]] and complete, irreversible dissolution of the illusion of self. [[Kensho]] can arise spontaneously, and it passes. He sees it as necessary to have a teacher to push past all the sticking points in order to reach **Daigo**   [*](((3VJohoE0v)))
+            - (=daigo tettei 大悟-徹底)   "great realization or enlightenment." Moreover, "traditionally, daigo is final, absolute enlightenment, contrasted to experiences of glimpsing enlightenment, shōgo" or kenshō. 
+        - [[Robert Salzman]] sees the idea of performing a practice to attain enlightement at some later date as being laughably stupid. 
+        - Maybe the process can be seen as a deprogramming from the illusion of the self. Deprogramming most often requires external support.
+        - In any case, there being no doer and no decider (no agent), the question is moot. Some people are drawn to join communities, some not. Some have [[Kensho]] experiences, some do not.
+    - 15:41
+        - I filled the car with boxes and other stuff to be thrown away and took it all to returpunkten.
+        - I configured [[Readwise]] integration with [[Roam Research]] and tested it - it worked fine. I now have a page [[Readwise]] on which I can find all imports. #[[Digital Garden]]
+        - The concrete which [[Valy]] poured out by the flagstones has already hardened. We wanted to tidy the edges and perhaps brush the surface, but we left it too late.
+        - I tested [[Readwise]] OCR from a book page. Impressive. #[[Digital Garden]]
+    - 19:01
+        - I do not seem to be able to email highlights from the [[KyBook 3]] reading app to [[Readwise]]. Nor have I succeeded in saving twitter threads to [[Readwise]]. I have written to them about both issues.
+- 

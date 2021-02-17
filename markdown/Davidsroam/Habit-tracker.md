@@ -1,0 +1,7 @@
+- First column filter string (Breevy and ios abbreviation defined x ooa) : **{s} 1 week ago**.
+- To avoid typing lag when entering the Breevy abbreviation, add a back tick before the abbreviation string and a second one afterward to activate the filter.
+- {{attr-table:[[HT_PT]]}}
+    - {s} 1 week ago
+- [[October 9th, 2020]]
+    - new experiment with [[Habit-tracker]] in [[Roam Research]]
+- [[August 5th, 2020]] I do my habit tracking in [[Notion]] at the moment. [Link ](https://www.notion.so/8f02495b9af748d6a0989aea1512a579?v=68500f1cc4d24c79ab77a3ee9ed5c1ae)

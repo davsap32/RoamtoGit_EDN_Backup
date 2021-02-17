@@ -1,0 +1,30 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FYxj13dGJII.png?alt=media&token=984a9bbe-73ff-4fb3-b0bf-9bd20995b05c)
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - {{[[DONE]]}} whm
+    - 10:00
+        - core team planning meeting
+    - 11:00
+    - 12:00
+    - 13:00
+        - {{[[DONE]]}} go [[HT_Bathing]]
+    - 14:00
+    - 20:00
+        - Call Esther
+        - 
+- 15:02
+    - Went #bathing , 17 C in the air and 11 C in the water. Sunny. A joy. [[HT_Bathing]] regularly, I have begun to feel quite comfortable in the cold water. Stayed in for 3 minutes this time.
+    - While making cabbage sallad and washing dishes, I listened to two audio tracks on [[Bookmobile]] which I had saved from [[youtube]]:
+        - {{[[youtube]]: https://youtu.be/Ycp7V7WGmsc}}
+        - There was a panel of forecasters, most of them saw a Trump victory as unlikely, though one of them had the opposite opinion.
+        - {{[[youtube]]: https://youtu.be/dEioUvE52To}}
+        - The CEO of [[Evernote]] talked about the reengineering of the product to a common platform for PC, Mac, Android, IOS. Also, organising around functionality rather than technology. He expects that the company will now be able to deliver innovation at a much faster pace during 2020-2021.
+        - 
+    - Phoned [[Com Hem]] to find out find out how to stop machine voice overlay on TV in connection with tv-text. Got cut off after a half hour in a telephone queue, tried again and got through after another half hour. It's a known problem, they are working on it and will deliver a solution soon, maybe today. It may be necessary to restart the Tivo in order to download the update.
+- 19:40
+    - Subscribed to [[Readwise]] for one year.
+- 
+- 
+- 

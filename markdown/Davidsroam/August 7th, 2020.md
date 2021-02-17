@@ -1,0 +1,7 @@
+- 08:54
+    - Watching on [[youtube]] a masterclass with Barenboim on Beethoven. thinking about the book [[Peak_ Secrets from the New Science of Expertise]] and how important the teacher is. [Link](https://www.youtube.com/watch?v=CwebNT9AMiA) 
+    - #[[Personal Finance]] Found an article by [[Josh Kaufman]] on [[Permanent Portfolio]] investing. [Link](https://joshkaufman.net/permanent-portfolio/)
+- 15:11
+    -   Sitting on the deck at [[Marianne]]s cottage in [[Simonstorp]]. Warm and pleasant weather. Reading [[The Elephant in the Brain]]. Did a little [[Touch Typing]] training earlier, my pace is improving above 20 wpm, on the way to 30 wpm. The keys that I get wrong most often are p, o and I.
+    - [[Kerstin]] has informed [[Samuel]] that both she and I have eye infections, so we will delay having the children to stay over the weekend, perhaps until next weekend.
+    - Listened some more to the podcast with [[Masha Gessen]]. A discussion about the norms of politics and how to relate to the fact that Donald Trump flounts them with apparent impunity. One theme of the conversation is that his approach was refreshing to some and therefore successful, but that he is not skillful enough to change his strategy now that it no longer works, in a time of Covid and economic recession. Trump has shown that USA is not immune to being governed by an authoritarian. The real danger would be if a more skillful authoritarian were to assume power.

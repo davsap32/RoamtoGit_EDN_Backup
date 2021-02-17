@@ -1,0 +1,32 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fal6GqqQu-H.png?alt=media&token=db447d3d-dd0b-408a-b19d-0d3f521f775f)
+- HT_Date:: 20210204
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+        - Service agreement actions review coll & gov.
+    - 11:00 
+        - CRM-onboarding
+    - 12:00
+    - 13:00
+        - Third party agreements contd
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 08:49
+    - Booked for new battery for [[KIA BBP137]] on [[February 8th, 2021]] at 11:00. I checked when the car is due for service - April of this year. I should book for service in march. [[March 22nd, 2021]]
+    - Press conference om vaccination for [[Covid]] today - phase 2 now includes people from 65 years and upwards.
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}
+        - It feels that the exercises I am doing are helping, very little of the previous discomfort remains. I stretch my back often during the day, which probably contributes to the improvement.
+- 19:20
+    - Listened to a #Podcast with [[Paul Jay]] ([[Theanalysis.news]]), [[Rana Foroohar]] and [[Mark Blyth]] about the need for and possible effects of stimulus for the USA economy. Three very bright people.
+    - Started listening to a #Podcast with [[Sam Harris]] ([[Making Sense]])and [[Jack Goldstone]] titled "Inequality and revolution, about the conditions under which revolutions occur. Very good.

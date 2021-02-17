@@ -1,0 +1,37 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FWM24PT2bBy.jpeg?alt=media&token=cbaa855b-e11b-4cc8-8da1-97d4f07c5195)
+- 07:59
+    - Book to check out: [[Sammetsdiktaturen]] by [[Anna-Lena Lauren]]
+    - During the last two months, I have not maintained many of the routines I have tracked in my [[Habit-tracker]]:
+        - I have not been winter bathing because to the severe cold weather
+        - I have experienced [[lower back pain]] and [[Sciatica]] in spite of exercising regularly using the [[Drew Baye]] [[Kratos]] protocoll. I have therefore changed from HIT every fourth day to twice daily training, focusing on exercises for my back. This has helped but I am not completely rid of my lower back problems and will therefore continue with the back exercises, perhaps adding [[Kratos]] sessions further on.
+        - I did my [[WHM]] breathing and meditation sitting on the floor with crossed legs and suspect that sitting in this way may have contributed to my back problems (through pressure on nerves in my hip), I have therefore stopped sitting for [[WHM]], rather i have done this lying down on some occasions, but for some reason far from regularly.
+        - Given the above, I do not have much use of the [[Habit-tracker]] is have been using so far. I'm going to stop using it and instead record individual routines as I perform them. For example:
+            - #HT_Back_ex
+            - This will enable me to find the days on which I have performed a given routine, which is really all I need.
+- 08:57
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}
+    - I should plan ahead for the likely outcome that my contract with [[SHB]] ends in June this year at the latest. #Work #[[Business Future]]. Choices to consider:
+        - Stop working to earn money. Instead, spend time on #Travel and personal projects such as #Photography, #[[Sort and Tidy]] #[[Digital Garden]].
+            - Freeze #Riscom
+            - Liquidate #Riscom
+        - Do something else with #Riscom, rather than IT consultancy
+            - writing, blogging
+        - Continue with IT consultancy, for other customers.
+            - My feeling at the moment is that I have done enough within this area, the idea of accepting new assignments (including an extension of my present assignment with [[SHB]]) is not very attractive.
+        - Actions:
+            - {{[[TODO]]}} read up on rules for freezing or liquidating a share company.
+            - {{[[TODO]]}} consider purchases which should be made before #Riscom no longer has regular income.
+                - mesh wifi
+                - bluetooth loudpeaker of type Sonos move
+                - apple watch
+                - computer speakers
+        - The most likely outcome, as far as I can judge right now is that I take time after the end of my contract with [[SHB]] to
+            - Spend time on personal projects.
+            - Think through next steps:
+                - Use contacts to find and follow up leads and prospects for coming assignments.
+                - Learn more about writing-based income streams.
+- 15:35
+    - Went walking at [[Marmorbruket]] with [[Kerstin]]. There were hundreds of people on the ice, mostly on skates. Very pleasant
+    - [[Kerstin]] just spoke with [[Samuel]], he is at the airport, has not checked in yet.

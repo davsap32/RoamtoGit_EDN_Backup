@@ -1,0 +1,40 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F5DaJgevuLq.png?alt=media&token=104d5eec-3c19-4749-b08b-dfd2509b01a7)
+- Highlight:
+- {{table}}
+    - Schedule
+        - task
+    - 08:47
+        - journey to stockholm
+    - 10:00
+    - 11:00
+    - 12:00
+    - 13:00
+        - core team meeting in räntabiliteten tor 14 c7
+    - 16:30
+        - journey home
+    - 20:00
+        - Call Esther
+- 09:10
+    - Sitting on the train to stm, listening to a #Podcast with [[Max Tegmark]] and [[Lex Fridman]]. [[Max Tegmark]] points out that goal-oriented analysis is much more rewarding than risk-oriented analysis. He talks about [[AGI]] (Artificial General Intelligence)as something that might save us from many potential catastrophes threatening life on earth. Also as an enabler for space exploration. #Reflections. #Inbox
+    - Todos:
+        - {{[[DONE]]}} purchase matress to [[Furusundsgatan 14]]. https://jysk.se/sovrum/baddmadrasser/gold/baddmadrass-160x200-gold-t65-vit-bla
+        - {{[[DONE]]}} acquire the book ”think like a monk”
+- 12:23
+    - Sitting at [[Torsgatan]] in Stm, waiting for my meeting at 13:00. Also waiting for my [[SHB]] pc to upgrade. I have more or less decided to buy a matress to [[Furusundsgatan 14]]. When we were last there, I checked on the size of the bed. I made a note of it, I am pretty certain it was 200 * 160. I’d like to see the note, but I can’t find it. I have so many places to write notes: 
+        - IOS notes
+        - Onenote
+        - Evernote
+        - Simplenote
+        - Drafts
+        - Roam
+    - I need to decide where I am going to save quick notes. Hypothesis is [[Simplenote]] . From there to [[Roam Research]].
+- 20:42
+    - Returned from Stm. I went out for a beer with [[Erika]] and [[Peter]] after our meeting at [[Torsgatan]] - it was nice meeting them in person again after  having met via video for six months.  We went to [[Pressklubben]] on Vasagatan, seems to be a nice place. [[Erika]] says they have very good food.
+    - I updated Win 10 on my [[SHB]] computer, which is something that had to be done in the bank's network.
+    - I have had good use of my [[Airpod Pros]] on the journey - they are small to carry, comfortable and functionally excellent. 
+    - I spoke with [[Samuel]] on the phone, he is a home feeling ill. My impression is that he is stressing too much and needs to slow down, which I said to him. I got the impression that he realised I was right.
+    - I stopped by at [[Samuel]] on the way home to pick up an office chair that [[Josefine]] had saved for me from her work, which no longer needed it. The one I have been using squeeks loudly when I move, which is not popular in video meetings.
+    - I watched a video by [[Dalton Mabery]] in which he shows how he takes notes from articles on Internet sites. He mentioned an app called [[Eloquent]] which allows for highlighting while browsing the web. I have installed it and tried it - it seems to fit well in my own workflow. The article he used for his demonstration was from the site [Farnam Street](https://fs.blog/) which seems to be very interesting within the area of learning  and knowledge management. I have subscribed to their newsletter. They have published a series of books titles [[The Great Mental Models]] which seem interesting.
+        - {{[[youtube]]: https://youtu.be/GpHXmCeDAes}}
+- 
+-  

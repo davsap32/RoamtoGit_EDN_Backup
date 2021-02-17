@@ -1,0 +1,6 @@
+- Author:: [[Medium]]
+- URL:: https://medium.com/better-humans/i-found-my-passion-using-a-tracking-method-inspired-by-jim-collins-c6098143a1c6
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[September 22nd, 2020]]
+    - Jim: So I said to myself, “Can I just simply count the number of creative hours I get every day and then hold myself to an account?” So at the end of every single day, I open a spreadsheet and that spreadsheet has three cells on a line; that’s for the day. The first thing is just a simple accounting of what happened that day. Where did my time go? What did I do? etc… You can listen to the interview yourself (it’s worth it), but in a nutshell, Jim tracked the following parameters of his daily life in an Excel spreadsheet: What he did (listing out in chronological order, what happened to him during the day, noting the highlights, important conversations, etc.) How many hours of creative work he’d had (Jim strived to had a minimum a 1,000 creative hours per any 12-month period) Day quality — from -2 to +2, where -2 is ‘awful’ and +2 is ‘great’ (This can be later used in sorting the days to make conclusions) What started out as a tool for self-discipline (in order to hit the 1,000 creative hours needed) turned into an instrument to figuring out what makes Jim happy. 

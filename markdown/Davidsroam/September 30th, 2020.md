@@ -1,0 +1,39 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fb3n1Uca6AT.png?alt=media&token=b7e76447-20cc-4237-a0d4-0a12cf45fde3)
+- HT_Date:: 20200930
+- HT_WHM:: no
+- HT_Meditation:: No
+- HT_PT:: no
+- HT_Bathing:: no
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 08:00
+        - whm
+    - 09:00
+        - go bathing
+    - 10:00
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+    - 20:00
+        - Call Esther
+-  08:17
+    - I took a trial subscrption to the [[Castro]] [[Podcast]] app, in order to test the sideload function for [[youtube]] videos. After some fiddling, I got it to work. (The problem was that I signed up for the subscription on my Ipad and had to delete and reinstall the app on my Iphone to get it to accept sideloads there). This will be useful for listening to [[youtube]] videos in which the audio track is sufficient.
+    - [[Kerstin]] has gone to pick up [[Amanda]] and take her to the hospital to investigate her ovarian cysts.
+- 10:47
+    - Went #bathing - 13 C in the air, 11 deg in the water, sunny and calm. A pleasure. Stayed in the water for 3:30 minutes.
+    - Read an article on [[Medium]] by [[Bryan Collins]] about [[Journaling]]. To get started, he recommends choosing a topic, setting a timer for 20 minutes and then writing without editing. After the 20 minutes, read and edit the text. He also suggests using the following prompts:
+        - What’s on my mind?
+        - How should I have reacted in hindsight?
+        - How are things different now?
+        - What would I say to a younger version of myself?
+        - What am I grateful for?
+        - What do I value?
+        - Who helped me?
+    - 17:57
+        - [[David Crossley]] sent a email with a book recommendation: [[Running Dogs & Rose's Children: An African memoir]] #Books
+- 20:29
+    - Spent some time reading [[Twilight of Democracy]], which I think is well worth reading

@@ -1,0 +1,7 @@
+- Author:: [[Anne-Laure Le Cunff]]
+- URL:: https://nesslabs.com/mindful-productivity-2
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[September 11th, 2020]]
+    - a pure focus on productivity can—ironically—prove counterproductive. As Albert Camus once said, “a society based on production is only productive, not creative.” 
+    - 98% of young children get the highest possible score on the standardised creativity test. Only 2% of adults get that score. 

@@ -1,0 +1,6 @@
+- Keywords:: #Books #Paused
+- Author:: [[Mortimer J. Adler, Charles Van Doren]]
+- Recommended by:: [[Cortex Futura]]
+- Comments:
+- Suggested reading list: (https://en.wikipedia.org/wiki/How_to_Read_a_Book#Reading_list_(1972_edition)) 
+- Highlights:

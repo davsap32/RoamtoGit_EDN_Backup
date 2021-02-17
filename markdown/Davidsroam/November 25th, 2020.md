@@ -1,0 +1,22 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FuTMtbezIpc.png?alt=media&token=5eeeb5f2-4437-45c6-a69f-ba024cd19e35)
+- HT_Date:: 20201125
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no 
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:30
+        - core team mtg
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 08:28
+    - Lay awake for most of last night - perhaps because I had been working quite intensely yesterday.

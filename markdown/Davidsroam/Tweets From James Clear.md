@@ -1,0 +1,12 @@
+- Author:: [[James Clear]]
+- URL:: https://twitter.com/JamesClear
+- Recommended By::
+- Tags:: #Tweets #Inbox
+- #Quotes
+    - “Trade expectation for appreciation, and the world changes instantly.”
+—Amish saying 
+- #[[E: The trajectory of your life bends in the direction of your habits]]. #Evergreens [[James Clear]] #Philosophy #Psychology
+- My writing approach:
+    - I rarely have good ideas. To overcome this limitation, I think about one topic (e.g. habits) for an unreasonable amount of time.
+    - Then, after lots of reading and research, I revise, revise, revise until only the best stuff remains.
+    - It’s slow, but it works! 

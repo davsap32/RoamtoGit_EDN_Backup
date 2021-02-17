@@ -1,0 +1,28 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FFKmLXZnXEd.png?alt=media&token=69bd620b-9ef8-417e-bff6-9f7b516fa5f4)
+- HT_Date:: 20201230
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 09:28
+    - We went to [[Samuel]] and family yesterday evening to congratulate [[Josefine]] on her birthday (37, I think). Leo became hysterical when we were about to leave, he didn't want us to go. [[Samuel]] will leave on Monday to travel to [[Cape Town]]. He arrives late in the evening, after Covid Curfew. His colleague Henry will pick him up at the airport, this is allowed for someone arriving on a flight.
+    - I have a doctor's appointment at [[Åby Vårdcentral]] for [[January 15th, 2021]], 09:45. Before that, I have to fill in forms showing how much I urinate and for how long, as well as how much I drink and when. #Illness
+    - Still feeling the effects of [[Sciatica]]. #Illness
+    - [[Alice]] and [[Leo]] are with us today, [[Kerstin]] wants to teach them to use the sewing machine. [[Kerstin]] will drive them home later today.
+    - [[Amanda]] has booked time for a covid test this evening. [[Kerstin]] will take her there.
+- 19:09
+    - [[Kerstin]] has driven the children home and taken [[Amanda]]to her covid test.
+    - Finished reading [[Luster]] - a very good book.  #Books

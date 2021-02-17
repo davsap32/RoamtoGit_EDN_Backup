@@ -1,0 +1,6 @@
+- Author:: [[@JoelChan86 on Twitter]]
+- URL:: https://twitter.com/JoelChan86
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 27th, 2020]]
+    - Loving the new CSS for block references in @RoamResearch  - previously couldn't see markdown blockrefs in a block reference, but now I can. This adds more layers of usable context to my notes - an unexpected Christmas gift that substantially improves my synthesis workflow! https://t.co/55N2xGGeFB 

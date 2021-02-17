@@ -1,0 +1,32 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FHR7C0SP07-.png?alt=media&token=04557363-652d-4e2c-990d-23f3eb059656)
+- HT_Date:: 20201014
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: yes
+- HT_Bathing:: 8 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: 80,6
+- {{table}}
+    - Schedule
+        - task
+    - 08:30
+        - Core team mtg
+    - 10:00
+        - core team planning
+    - 11:00
+        - whm
+    - 12:00
+    - 13:00
+    - 14:00
+        - PT
+    - 15:00
+        - Bathing
+    - 18:22 - 19:38
+        - journey to stm
+    - 20:00
+        - Call Esther
+-  08:23
+    - [[Joan Tollifson]] wrote glowingly on Facebook about a new book by [[Steve Hagen]] titled [[The Grand Delusion: What We Know But Don't Believe]] #Inbox
+- 18:52
+    - Sitting on the train to Stockholm. Forgot my earbuds. Reading [[Still Writing: The Perils and Pleasures of a Creative Life]].
+    - [[Samuel]] called. Their bank loan has been granted, builders are already working on completing the upstairs bathroom and installing radiators in the new section of the house. He has booked to travel to [[Cape Town]] on [[November 2nd, 2020]], flying with KLM from Linköping.

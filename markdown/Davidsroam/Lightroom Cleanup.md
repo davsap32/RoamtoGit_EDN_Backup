@@ -1,0 +1,16 @@
+- Keywords:: #Projects #Photography 
+- #[[Goals]]:
+    - **Images which are not rated to be rated or removed**. Many images seem to have lost their rating (perhaps because the sidecar xmp file has become separated from the image), I can use the [[SmugMug]] galleries to compare and identify images which I had previously rated.
+    - **Missing images to be found and added.** One way of knowing that images are missing is that they are present in the [[SmugMug]] galleries but missing in the pictures folders. I can look for images in the various backup catalogs:
+        - On the [[Seagate Backup Plus Drive]]
+        - On the optical media bakup which I took in April 2019
+    - **Adjustments **to be made as necessary to the images.
+- [[Project Todos]]
+    - {{[[TODO]]}} Convert images in [[Lightroom Desktop]] catalog to DNG  #[[Lightroom Cleanup]]
+    - {{{[[DONE]]}}}} sync [[Lightroom Desktop]] with folders on [[Seagate Backup Plus Drive]]  [[September 5th, 2020]] #[[Lightroom Cleanup]]
+    - {{[[DONE]]}} import Hults Bruk images from [[Seagate Bac]] to [[Lightroom Desktop]] #[[Lightroom Cleanup]]
+    - {{[[TODO]]}} Backup [[Lightroom Desktop]] catalog. #[[Lightroom Cleanup]]
+    - {{[[TODO]]}} Identify [[Lightroom]] catalogs with missing metadata.
+    - {{[[TODO]]}} Edit photos with missing metadata, using corresponding photos in [[SmugMug]] galleries for guidance.
+    - {{[[TODO]]}} manual sync of smugmug galleries with [[Lightroom]] folders #[[Lightroom Cleanup]]
+- 

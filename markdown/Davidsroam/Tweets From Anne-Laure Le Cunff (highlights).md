@@ -1,0 +1,6 @@
+- Author:: [[@anthilemoon on Twitter]]
+- URL:: https://twitter.com/anthilemoon
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 27th, 2020]]
+    - The areas we'll explore tomorrow in our year in review @ness_labs workshop - if you always struggle to sit down & actually go through your annual review, come and join us for one hour of self-reflection 💙 https://t.co/XR9E7sNATy 

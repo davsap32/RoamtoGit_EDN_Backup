@@ -1,0 +1,3 @@
+- Keywords:: #Books #ToRead 
+- Author:: [[Craig Rowland and Mike Lawson]]
+- **Book length ( from Audible):** 11:42

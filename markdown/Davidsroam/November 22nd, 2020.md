@@ -1,0 +1,23 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F5QdfaBlbkl.png?alt=media&token=2c0b6287-b519-4bdf-bc39-3e1ef843e6ca)
+- HT_Date:: 20201122 
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: yes
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: 80,0
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 10:03
+    - Feeling better today. did breathing and PT, feels nearly back to normal. Probably best to wait a day or two before resuming winter [[bathing]]. #Illness
+- 18:33
+    - Went on an outing with [[Amanda]] to [[Djurön]]. Took some [pictures](https://www.davidsapire.com/Unlisted-galleries/Events/20201122-Djur%C3%B6n/n-7KbpDw/):
+    - Samuel sent contact info for [[Daniel Froste]], who is prepared to help me with wifi-connected thermostats for the electric radiators in the house. I called him - no answer. Will try tomorrow during working hours. #[[Home Tech]]

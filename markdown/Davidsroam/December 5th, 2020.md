@@ -1,0 +1,27 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F5BADPYGPzl.png?alt=media&token=b9989b3d-5e95-498e-9c22-3974257b1c7d)
+- HT_Date:: 20201205
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: 1,5 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 10:25
+    - We have eaten breakfast at [[Rimforsa Strand]] and walked by the lake in the mist. Took some [pictures](https://www.davidsapire.com/Unlisted-galleries/Events/n-bpRWxq/20201204-20201205-Rimforsa-Strand/).
+- 18:33
+    - Listening to a #Podcast with [[Michael Moore]] and [[Thomas Frank]]. Saying that the only way to achieve change in USA is through a mass movement.  #Politics
+    - Still reading [[Men Who Hate Women]]. quite frightening to understand the systematic war being waged on women's rights. Not only on the fringe (where it has no boundaries) but also in politics. #Books #Politics
+- 20:44
+    - Purchased "70+ [[Roam Research]] Keyboard Shortcuts for WINDOWS (2021)" from https://gumroad.com/bjosephburch. Receipt:
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FjFgB6hi3kg.jpg?alt=media&token=f86a2906-6d32-43d0-b973-3bb8fbbb5a85)

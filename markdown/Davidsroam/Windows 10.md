@@ -1,0 +1,1 @@
+- The easiest way to call up [[Snip & Sketch]] is with the keyboard shortcut Windows key + Shift + S  [[Windows 10]] #[[Home Tech]]

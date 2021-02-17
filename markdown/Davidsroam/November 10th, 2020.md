@@ -1,0 +1,34 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F-28XzZ5Tcn.png?alt=media&token=6f96a5c1-39a4-42fc-98a4-8cb0c8ce7b65)
+- HT_Date:: 20201110
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 5 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: 80.2
+- {{table}}
+    - Schedule
+        - task
+    - 08:00
+        - whm
+    - 09:00
+        - core team planning
+    - 10:15
+        - bathing
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+    - 16:00
+        - CHAPS actions mtg
+    - 20:00
+        - Call Esther
+- 10:40
+    - Reading [[Året med 13 månader]]. Fascinated by how the author uses her diary. She takes care to write very well, e g  describing details, in spite of it being a private document. Also, she is quite open in describing her own feelings #Books
+-  15:45
+    - [[Kerstin]] out shopping. Went bathing, there were two women bathing today who I occasionally meet by the lake. After bathing, they light up cigarettes. 
+- 17:56
+    - Listening to a #Podcast with [[Coleman Hughes]] and [[Megyn Kelly]]. Two very intelligent people. About American politics
+    - I saw that [[Robert Salzman]] will have a zoom conversation on [[December 5th, 2020]] with [[Shiv Sengupta]] about his book titled [[Advaitaholics Anonymous]]. I would like to read the book. #Books #Philosophy
+        - #quotes from the book:
+            - Rather than reaching for an elevated perspective on life, the most sensible thing you can do is remain open to life as it comes. Rather than trying to get an advantage, enjoy the freedom to view life as it is. Rather than trying to get the inside track on this whole reality deal, staying open to life as it happens allows for a person to occupy multiple angles on reality. It gives you the freedom to view life from different viewpoints. By remaining ‘open’ to life, I mean by not fixating on one particular experience. Because the moment we fixate, awareness narrows its attention down into a tunnel vision that focuses on that experience at the expense of everything else happeningaround us. Hyper-focusing on that inside track, we lose sight of the whole road.

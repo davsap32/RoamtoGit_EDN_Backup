@@ -1,0 +1,22 @@
+- Keywords:: #Areas
+- ToDos
+    - {{[[TODO]]}} Write will and testament for both [[Kerstin]] and myself. #[[Personal]]
+    - {{[[TODO]]}} Review crisis preparedness #[[Personal]]
+    - {{[[TODO]]}} Get asthma medicine at [[Pharmacy]]. **Due 20210205**. [[February 1st, 2021]] #scheduled [[duedate]] #[[Personal]]
+- {{{[[DONE]]}}}} 1Password invoice to Riscom. [Link](https://my.1password.com/billing/invoices) [[July 27th, 2020]] #scheduled
+- {{{[[DONE]]}}}} Clean area outside garage
+- {{{[[DONE]]}}}} Purchase [USB-C -> USB 3.0 adapter](https://www.kjell.com/se/produkter/mobilt/kablar-adaptrar/usb-c-kablar/micro-usb-till-usb-c-06-m-p61348) for external harddrive.
+- {{{[[DONE]]}}}} Make a list of all subscriptions
+- {{{[[DONE]]}}}} Cancel Viasat subscription. **due 20201001** (contract period ends 20201101) [[August 17th, 2020]] #scheduled [[duedate]]
+- {{{[[DONE]]}}}} Try doing a weekly review as described by [[Tiago Forte]].
+- {{{[[DONE]]}}}} sl receipt -> riscom [[August 14th, 2020]] #scheduled
+- {{{[[DONE]]}}}} send [[Tara Westover]] book to [[Esther]] [[August 14th, 2020]] #scheduled
+- {{{[[DONE]]}}}} Oneeconomy invoice [[August 5th, 2020]] #scheduled
+- {{{[[DONE]]}}}} Acquire the book [[The Permanent Portfolio]] #Books
+- {{{[[DONE]]}}}} prepare #[[Digital Garden]] for joining the [[Ness Labs]] [[Digital Gardeners]] telegram group- [Link](https://nesslabs.com/digital-gardeners)
+- {{{[[DONE]]}}}} Acquire the book ‘the elephant in the brain’ [[August 4th, 2020]] #scheduled
+- {{{[[DONE]]}}}} acquire the book [[Steal Like an Artist]] [[August 4th, 2020]] #scheduled
+- {{{[[DONE]]}}}} Find books/podcasts about [[Andrew Huberman]]'s work
+- {{{[[DONE]]}}}} Book roadworthy test for the Kia due **2020-10-31** [[September 1st, 2020]] #scheduled
+- {{{[[DONE]]}}}} Repayment from Albatross  for [[Journey to France]]#Waiting
+- {{{[[DONE]]}}}} Roam Research invoice -> RIscom [[August 14th, 2020]] #scheduled

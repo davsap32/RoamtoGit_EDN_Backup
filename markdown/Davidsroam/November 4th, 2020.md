@@ -1,0 +1,33 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F3kX6tWdGBH.png?alt=media&token=7601baa2-bf9c-4e0e-b4bd-d59e5964f961)
+- HT_Date:: 20201104
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: yes
+- HT_Bathing:: 5 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - whm
+    - 10:00
+        - PT
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+        - bathing
+    - 16:30
+        - Chaps action no.8,9,23 Network monitoring
+    - 20:00
+        - Call Esther
+-  09:15
+    - Lay awake part of last night - perhaps because of the ongoing election in USA. Results undecisive at this stage. Trump has called for a halt to counting. Will there be violence.
+    - Read more of [[Who They Was]] yesterday evening - a very good novel (or autobiography?).
+- 21:42
+    - I fetched [[Leo]] and [[Alice]], they came home and had dinner with us. [[Josefine]] and [[Ellen]] arrived a bit later and ate here as well. 
+    - Things seem to be going OK for [[Samuel]] in [[Cape Town]], although customs are messing him around with his computers.
+-  
+-  
+-  

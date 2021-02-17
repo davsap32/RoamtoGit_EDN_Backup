@@ -1,0 +1,6 @@
+- Author:: [[Timothy Snyder]]
+- Recommended By::
+- Tags:: #Books #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[January 30th, 2021]]
+    - # Lesson 1. Health care is a human right.
+        - The downward spiral from pain to desperation and from pride to resentment is something that politicians like Mr. Trump understand and accelerate. They want people staggered by suffering, and so they oppose health care. Pain is their politics; their propaganda is a death trap. 

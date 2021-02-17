@@ -1,0 +1,9 @@
+- {{[[TODO]]}} Consider purchasing a document safe #Someday/Maybe #[[Home Improvement]]
+- {{[[TODO]]}} Consider purchasing a humidifier #Someday/Maybe #[[Home Improvement]]
+- {{[[TODO]]}} Eye exercises #Someday/Maybe #Health
+- {{[[TODO]]}} 24- hour fast #Someday/Maybe #Health
+- {{[[TODO]]}} Get quote for cleaning service from Amiva (recommended staff: Alina) #Someday/Maybe #[[Sort and Tidy]]
+- {{[[TODO]]}} Build photo booth #Someday/Maybe #Photography
+- {{[[TODO]]}} Purchase mesh wifi #Someday/Maybe #[[Home Improvement]]
+- {{[[TODO]]}} Consider rejoining Drew Baye's HIT group #Someday/Maybe #Health #HT_PT
+- {{[[TODO]]}} Consider subscribing to [Medium](https://medium.com/) #Someday/Maybe #[[Digital Garden]]

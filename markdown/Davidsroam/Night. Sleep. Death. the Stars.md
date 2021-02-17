@@ -1,0 +1,7 @@
+- [[Books]]
+    - Author:: [[Joyce Carol Oates]]
+    - Recommended by::
+    - How much I liked it:
+        - {{[[slider]]}}
+    - How much I have read so far:
+        - {{[[slider]]}}

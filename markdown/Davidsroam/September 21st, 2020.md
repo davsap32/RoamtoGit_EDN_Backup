@@ -1,0 +1,11 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FxI9YS-_Xif.png?alt=media&token=3658c6dc-7123-424e-9011-4b776a6d3ba7)
+- {{table}}
+    - Schedule
+        - task
+    - 10:00
+        - journey to Örebro
+    - 20:00
+        - Call Esther
+-  20:37 #Travel
+    - Today we left home at about 10:30 am, drove to Örebro where we ate lunch at Svampen. Drove on from there to Nora, where we looked at an exhibition of embroidery at the library. Back to Örebro, where we checked in at Hjalmar hotel. This evening we ate at Makeriet - good food. Tomorrow we expect to meet up with [[Per Engström]] in the afternoon.
+    - Spoke with [[Samuel]] earlier. He has received a valiation of his house at 6 million Sek. So he intends to borrow on the house and pay someone to do the remaining work.

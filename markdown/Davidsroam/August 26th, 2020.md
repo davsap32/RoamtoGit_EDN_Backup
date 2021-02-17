@@ -1,0 +1,28 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F2tx-7OhUtU.png?alt=media&token=e4c75a20-5104-4a9c-934e-90b218302348)
+- {{table}}
+    - Schedule
+    - 08:30
+        - Core team meeting
+    - 09:00
+        - {{{[[DONE]]}}}} PT 
+        - {{{[[DONE]]}}}} WHM breathing & meditation
+    - 10:00
+        - meeting on SLA levels
+    - 11:00
+        - steerco
+    - 12:00
+        - service review meeting
+    - 13:30
+        - telephone meeting with Judith
+    - 15:00
+        - {{{[[DONE]]}}}} go [[HT_Bathing]]
+        - {{{[[DONE]]}}}} journal
+    - 17:00 
+        - dinner with [[Annika]] and [[Anders]]
+-  07:09
+    - Interested in the [[Cortex Futura]] course titled "Galaxy Brain". [Link](https://learn.cortexfutura.com/p/galaxy-brain) #[[Digital Garden]]
+    - Restricting social media gives me more extra time for reading than I expected. It is actually a very good idea.
+    - Interested in joining the [[Ness Labs]] [[Digital Gardeners]] telegram group- [Link](https://nesslabs.com/digital-gardeners)
+    - Making a schedule for the coming day seems to be a very useful practice.
+    - Reflecting on the book [[Resilient: How to Grow an Unshakable Core of Calm, Strength, and Happiness]]. Describing practices to introduce positive thought patterns to balance negative thought patterns. These practices need to be learned and trained. Would it not be more practical to train at spending more time in the space between thoughts? #Books #Philosophy
+    - I enrolled in [[Cortex Futura]] [[Galaxy Brain]] course. [Link](https://learn.cortexfutura.com/courses/enrolled/1068048) #[[Digital Garden]]

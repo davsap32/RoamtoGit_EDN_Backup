@@ -1,0 +1,4 @@
+- To listen to:
+    - Phoebe Bridges, Punisher
+    - Bob Dylan, Rough and rowdy ways
+    - Andrew Bird

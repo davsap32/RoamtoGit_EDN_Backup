@@ -1,0 +1,16 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FP-8Z3okUYs.jpeg?alt=media&token=c3981a79-f2c3-4100-a1b4-0677ebbb5a3a)
+- 14:42
+    - [[Samuel]], [[Leo]] and [[Ellen]] stayed overnight. [[Samuel]] and I went shopping for food and beer this morning, he made lunch and now they have gone #bathing at the public beach in [[Simonstorp]]. I stayed at home, being tired of [[Ellen]]s continuous noise. 
+    - The question of what happens next with [[Samuel]], [[Josefine]] and the children is still open. [[Samuel]] is not optimistic about finding a viable way of living together with [[Josefine]]. They have a therapy session booked on [[August 19th, 2020]], hopefully they can get guidance there to decide what is the best way forward. They will have to work out how they are going to live until [[August 19th, 2020]] and then afterward in the short and long term, assuming they arrive at some kind of decision then, which is by no means certain. [[Samuel]] absolutely does not want to stay in the same house as [[Josefine]] at the moment.
+    - [[Samuel]] is grateful to stay here as a refuge, he is welcome from my perspective though I do find it a strain to be surrounded by the children for a long period.  I am longing to resume my quiet life.
+- 20:37
+    - [[Samuel]] has been in contact with [[Josefine]] and decided to meet her this evening. The children are watching TV, we will put them to bed soon. 
+- 21:13
+    - #Quotes from [[Ramses Oudt]] on [[Twitter]]:  [[Roam Research]]
+        - Block reference vs. block embed in @RoamResearch:
+            - Block reference—a window to a block, preventing you from touching it.
+            - Block embed—a portal to a block, allowing you to change it.
+- 22:12
+    - Spoke to [[Kenneth]] and to [[Esther]]. Ken has had a hard time at work and is releifed to have a break. He is in Colorado with [[Nadia]]. In South Africa, the lockdown has been reduced to stage 2, which allows for more freedom of movement. [[Esther]] will talk to [[Ernest]] tomorrow to check that he is still ok with staying at [[7 Finchley]]. Otherwise she will ask [[Daudi]] to stay in quarantine at [[7 Finchley]] and then resume his duties and stay there.
+    - {{{[[DONE]]}}}} Both [[Kenneth]] and [[Esther]] want me to send the book [[Nervous Conditions]] to them. [[August 16th, 2020]] #scheduled
+    - 

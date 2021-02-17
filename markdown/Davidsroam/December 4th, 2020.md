@@ -1,0 +1,30 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FbrQH1Rv3QH.png?alt=media&token=8c605f97-4e76-4181-baf2-eff8709d6279)
+- HT_Date:: 20201204
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: yes
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: yes
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:30
+        - whm
+    - 09:30
+        - pt
+    - 10:00 
+    - 11:00 
+    - 12:30
+        - leave for Rimforsa Strand
+    - 13:00
+    - 14:45
+        - Sauna at Rimforsa strand
+    - 20:00
+        - Call Esther
+- 09:58
+    - Saved present cards for [[Göta Lejon]] (after cancellation of Edith Piaf performance) #Tickets
+- 17:20
+    - [[Kerstin]] and I are at [[Rimforsa Strand]]. We booked their sauna by the lake earlier this afternoon, it was very pleasant. I bathed several times. We will have dinner here this evening, stay over and have breakfast here tomorrow morning.
+    - 

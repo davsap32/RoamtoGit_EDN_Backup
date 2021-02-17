@@ -1,0 +1,13 @@
+- 14:49
+    - Spent some time this morning cleaning the flat, continuing yesterday’s work. Then to Centralen to store our cases in a locker and on to Nationalmuseet, where we ate lunch and had about an hour to look at the exhibits - not very much time considering the size of the exhibits. We lost time due to missing the bus we wanted to take - we were waiting at the bus stop, the bus we wanted was waiting behind another bus so we didn’t see it, it drove away without us.
+    - [[Kerstin]] would rather have eaten at Grand Hotel, which was on our way, but I wanted a simpler lunch, so we ended up eating at the National Museum. [[Kerstin]] was not happy with her food. This happens quite often when we are out travelling together, we have different expectations and wishes concerning where we should eat. 
+    - Now we are on our bus toward home.
+    - We ate dinner yesterday with [[Helene]] and [[Johan]] at [[Downtown Camper Hotel]], in their bar on the 9th floor. I probably won’t see them again before they come back to Sweden in December.
+    - Reading [[Nervous Conditions]]. Enjoying
+- 19:25
+    - Home, nice trip, good to be home.
+    - After having indicated interest for the Mymind webclipper service, I have now received an invitation to join. At the moment I’m using Getpocket (for Youtube videos) and Instapaper (for everything else). Mymind does what these services do, but adds AI-driven tagging. Is it worth it? The cost is 5-10 USD per month. I will use my trial subscription which allows 99 ”cards” to get a feeling for what it can do. There is an Iphone app but not an Ipad app.
+    - [[August Bradley]] has recommended a [[Podcast]] app called [[Airr]] which allows for saving extracts from podcasts, both as sound and (through an AI based transcription) text. Worth checking out, I think. [Link](https://youtu.be/t5Xql2C3a3s) to [[August Bradley]]s [[Video]] about the app.
+    - I have watched a [[Video]] by [[Roam Hacker]] describing the recent [[Roam Research]] update for handling block embeds and references. [Link](https://youtu.be/CbbDCZkv3X8). I should defenitely put some effort in to learning more about this and working with it practically.
+    - {{{[[DONE]]}}}} In his [[Video]], [[Roam Hacker]] shows some ”algorithm of thought” templates, at around 7,10 minutes in to the [[Video]]. Try to extract the template text and consider if this may be useful. [[August 14th, 2020]] #scheduled
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fut7zFQWgOC.png?alt=media&token=3eb7fc60-780d-44bf-b2ec-e852a0919631)

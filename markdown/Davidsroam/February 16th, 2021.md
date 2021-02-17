@@ -1,0 +1,27 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F8925SD4j0J.png?alt=media&token=32cccbe8-767c-4552-95a3-7b29a80478e0)
+- [[roam/templates]] Daily agenda
+    - [[Daily agenda]]
+        - {{[[kanban]]}}
+            - All day
+            - 08:00
+            - 09:00
+            - 10:00
+            - 11:00
+            - 12:00
+            - 13:00
+            - 14:00
+            - 15:00
+            - [[Need to plan]]
+- 08:59
+    - Called [[Åby Vårdcentral]] to book an appointment to check the yellow patch under my eye. The nurse I spoke to made a note about it and will send it to [[Sara Seaton]] - who will possibly book an appointment with me or not. There was some talk of combining this with a checkup of my asthma situation, which has not been done. I was less than satisfied with the conversation, which seemed to be focused on not giving me access to the doctor if that could be avoided.
+    - On [[Twitter]], found a [link](https://github.com/abhayprasanna/abhayprasanna.github.io/tree/master/kanban%20agenda) to an agenda template which seems to be worth trying. [[Roam Research]]
+    - Sent an email to the Norrköping Drottninggatan branch of [[SHB]], asking to move to that branch from Gärdet.
+    - Called to congratulate [[Lizzie]] on her 95th birthday.
+- 16:05
+    - On [[Twitter]], found roam highlighter google chrome extension. [Link](https://github.com/GitMurf/roam-highlighter#roam-highlighter)
+- 19:10
+    - The Gentlemans Agreement recommended book ([[Esther]]).
+- 19:47
+    - [[Kenneth]] called - they have very cold weather in Houston, -10C and lower. There are power cuts all over town. Ken moved to a friends house where there was power, but the power was cut there as well.
+        - [[Kenneth]] recommended that I do some standard blood tests, before getting an operation, he believes that there may be a connection between [[BPH]], bladder stones and a yellow discoloration under my eye. I will ask [[Urologist Bengt Folkestad]] about this when I see him on Monday.

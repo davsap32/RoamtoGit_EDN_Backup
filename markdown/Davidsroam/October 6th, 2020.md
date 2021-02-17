@@ -1,0 +1,32 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FmsJGZ-kjBQ.png?alt=media&token=f4735a3c-6f1d-44d9-a13d-5b1e7231522a)
+- {{table}}
+    - Schedule
+        - task
+    - 08:30
+        - core team meeting
+    - 09:00
+        - whm
+    - 10:00
+        - PT
+    - 11:00
+        - planning mtg with UK
+    - 12:00
+    - 14:30
+        - discussion on exec mtg presentation
+    - 15:00
+        - go bathing
+    - 20:00
+        - Call Esther
+-  08:29
+    - Our neighbours have put in a new roof and are now having [[Solar Panels]] installed by a company called **Svensk Takenergi**. [Link](https://www.svensktakenergi.se/)
+    - 
+- 10:03
+    - We had [[Carl-Otto]] and [[Cecilia]] to dinner yesterday evening. I still find the dinner format of spending time with people dissatisfying.
+    - Thinking about what I want from my #Photography. I think that it has to do with making a visual diary. As with journaling, I want my photographs to be insightful and creative. 
+- 16:29
+    - [[Kerstin]] wil be in Gothenburg on a course with [[Susanne]] [[October 22nd, 2020]] [[October 23rd, 2020]] [[October 24th, 2020]] [[October 25th, 2020]]
+    - Finished reading [[The 80/20 Principle: The Secret to Achieving More with Less]]. Lots of useful advice, all based on the principle of doing less of whatever is not rewarding and more of what is rewarding.  Could be of use for work with my [[Business Future]] project. #Books
+    - Rained all day so far, have not been able to go [[bathing]].
+    - [[Cato Minor]] has published some useful guides on Javascript and CSS for [[Roam Research]] on [[Medium]].
+- 20:30
+    - The rain stopped just before it got dark, so I got to go [[bathing]] after all. 11 C in the air, 11 C in the water, immersed for 3:30 minutes.

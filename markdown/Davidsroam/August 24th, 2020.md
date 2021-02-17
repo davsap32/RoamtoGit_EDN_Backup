@@ -1,0 +1,24 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FhmtgzhZtWC.png?alt=media&token=441e2d6b-bb4c-4903-a93f-9cdf230073bf)
+- Plan for the day:
+    - 11:00
+    - 12:00
+    - 13:00
+-  
+- {{{[[DONE]]}}}}  Answer [[Nick Milodragovich]]s email
+- 18:39
+    - I worked a few hours today, with ISDM core team and in a meeting with ITDP.
+    - Went #bathing this morning, as always very pleasant. 
+    - Listened to a #Podcast with [[Lex Fridman]] and [[Gary Kasparov]]. They talked about computers beeting humans at chess. Kasparov feels that computers will never "solve" chess, the computations are too difficult. But computers make fewer mistakes than humans, which is why they can win. 
+    - Started reading [[Make Time: How to Focus on What Matters Every Day]], which is more of the same given other books I have read recently. This book also emphasises the importance of scheduling the day, rather than trying to check items off a to do list. The authors suggest scheduling a [[Highlight]] task each day, duration 60-90 minutes. Chosen from a perspective of urgency, joy or satisfaction. To be decided the day before or early in the day itself. #Books #[[Productivity]] 
+        - Two #Quotes
+            - The Busy Bandwagon is our culture of constant busyness—the overflowing inboxes, stuffed calendars, and endless to-do lists. 
+            - The second force competing for your time is what we call the [[Infinity Pools]]. [[Infinity Pools]] are apps and other sources of endlessly replenishing content.
+    - [[Amanda]] is here, she and [[Kerstin]] have been picking berries in the forest. She mentions that there is some loose talk of possibly getting a job at [[Angry Creative]]
+    - In my email reply to  [[Nick Milodragovich]] I described my PKM project as follows:
+        - "I am on a journey of exploration, the territory to be explored includes the following:"
+            - "**[[Creativity]]**: Producing original work"
+            - "**[[Productivity]]**: Getting things done"
+            - "**Knowledge**: Finding useful information that can be trusted and making use of it."
+            - "**[[Philosophy]]**: The search for meaning."
+        - This seems to be a fruitful approach. The points are covered in my [[Areas]] and [[Projects]], perhaps I should consider rearranging so that the above areas are at the highest level and other areas are sorted in under them. The above four areas do not cover everything I need to work with, as there are more mundane tasks that need to be taken care of. 
+- {{{[[DONE]]}}}} download [[Jan Guillou]]s books (history of the 19th centiry)

@@ -1,0 +1,12 @@
+- {{{[[DONE]]}}}} Tupp report, ITC time report and ITC invoice [[August 1st, 2020]] #scheduled
+- {{{[[DONE]]}}}}  SHB financial crime training **due 20200831** [[August 30th, 2020]] #scheduled [[duedate]]
+- {{[[DONE]]}} SHB cyber security training **due 20201030** [[September 30th, 2020]] #scheduled [[duedate]] #Work
+- {{{[[DONE]]}}}} Tag ISDM issues in Jira for steering committee agenda
+- {{{[[DONE]]}}}} add waiting status to JIRA kanban [[August 25th, 2020]] #scheduled
+- {{{[[DONE]]}}}} write instruction for ISDM JIRA [[August 25th, 2020]] #scheduled
+- "{{[[DONE]]}} GDPR training **due 20201130** [[November 15th, 2020]] #scheduled [[duedate]] #Work. #Livelist" #Livelist
+- {{{[[DONE]]}}}} tupp report **Due 20200831** [[August 31st, 2020]] #scheduled #duedate
+- {{{[[DONE]]}}}} ITC invoice and time report **Due 20200831** [[August 31st, 2020]] #duedate #scheduled
+- {{{[[DONE]]}}}} minutes of service review meeting
+- {{[[DONE]]}} SHB physical security training **due 20201030** [[September 30th, 2020]] #scheduled [[duedate]] #Work
+- {{[[TODO]]}} prepare material for discussion about method/responsibility for answering CHAPS questions. #Work

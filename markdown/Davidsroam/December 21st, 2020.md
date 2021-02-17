@@ -1,0 +1,28 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F_FhyGE8Gml.png?alt=media&token=ad71f509-008f-4565-80fa-a1b8644b7a56)
+- HT_Date:: 20201221
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: yes
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: 4 min 2C
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+        - planning for 2021 (Clare)
+    - 11:00 
+    - 12:00
+        - Monthly service review mtg
+    - 13:30
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 09:39
+    - Today I did my [[WHM]] breathing and my [[meditation]] lying down, as I suspect that the leg pain I am experiencing is due to pressure on the sciatic nerve from sitting cross-legged on the floor. It worked fine - no reason to think that this is a less beneficial way of doing it. In fact, my retention times on exhale in the breathing were longer - from about 1:10 while sitting to 1:30 while lying down.
+    - I also did my [[PT]], in spite of my leg pain - it didn't seem to be a problem.
+- 10:38
+    - I set up an account at [[Toggle]] - it seems to be a simple tool for logging time usage, I'd like to try it.
+- 19:52
+    - Listened to a #Podcast on the [[Econ Talk]] channel with [[Nassim Nicholas Taleb]] about the pandemic. According to Nassim, pandemics have fat-tailed distributions, at the start of a pandemic we cannot know if it will be mild or kill millions. All pandemics that kill more than 1000 people should be seen as potentially highly dangerous, and rules for separation, masking, quarantine etc should be enforced rigorously after the first 1000 deaths. Nassim thinks that doctors do not know how to handle pandemics because they are not competent statisticians. I found the interview interesting, but I did not like the podcast host [[Russ Roberts]] because he was more interested in voicing his own opinions than listening to Nassim.

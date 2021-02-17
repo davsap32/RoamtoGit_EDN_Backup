@@ -1,0 +1,32 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FVlPotlY6fj.png?alt=media&token=ecee8000-8b6b-4bef-b0c7-fe0eead692f4)
+- {{table}}
+    - Schedule
+        - task
+    - 08:30
+        - core team meeting
+    - 09:00
+        - {{[[DONE]]}} whm
+    - 10:00
+        - presentation of SLM assignment
+    - 11:00
+        - {{{[[DONE]]}}}} go [[HT_Bathing]]
+    - 12:00
+    - 13:00
+        - core team planning
+    - 14:30
+        - {{[[DONE]]}} finish vacuuming
+    - 15:00
+        - {{[[DONE]]}} wash more windows
+    - 20:00
+        - Call Esther
+- Reminders:
+    - {{{[[DONE]]}}}} hang battery container on garbage container.
+    - {{{[[DONE]]}}}} take out paper for recycle
+    - {{{[[DONE]]}}}} cancel [[Kindle unlimited]]
+    -  
+- 17:04
+    - I spent some time in meetings today. Also a couple of hours arranging to be able to use one of my monitors in portrait mode. I wasted a lot of time trying to improve the replacement I had made for a missing plastic block belonging to the monitor bracket. In the end, I found the missing plastic block under the waste basket  - after having looked for it for about an hour (not the first time I have looked for it). Anyway, after having taken apart the Samsung monitor in order to be able to remove the base (!) I managed to mount the monitor on the bracket and it is now possible to rotate it. #[[Home Tech]]. 
+    - Having spent quite a lot of time fiddling with the monitor and some work meetings, I missed my WHM, which I have otherwise managed to to quite regularly. I didn't do my chores either (clean windows & vacuum), will have to do them later in the week.
+    - I found that I could get visible highlights on  my [[Onyx]] [[Kindle]] app by unchecking the box labelled "Whiten apps background" (found in the settings menu behind the button on the lower right corner of the page ) #[[Home Tech]]
+- 20:05
+    - [[Amanda]] seems to have enjoyed the last meeting of her course in handwork and gardening. She was there over the weekend and came back yesterday. Hopefully, she will start work during this week.

@@ -1,0 +1,36 @@
+- 
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F-p-izeHlwP.png?alt=media&token=5edd79df-4b38-42f7-803a-9f496ae125c0)
+- Highlight:
+- {{table}}
+    - Schedule
+        - task
+    - 08.30
+        - core team
+    - 10:00
+        - tandläkare
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+        - {{{[[DONE]]}}}}  pt
+    - 20:00
+        - Call Esther
+- Todos:
+    - {{{[[DONE]]}}}}  remove earth from in front of porch #[[Sort and Tidy]]
+    - {{{[[DONE]]}}}} book JIRA planning meeting [[September 7th, 2020]]
+    - {{{[[DONE]]}}}} prepare for JIRA demo on monday 7/9. [[September 7th, 2020]]
+    - {{[[TODO]]}} watch [[The Undoing]] on HBO #Video
+    - {{{[[DONE]]}}}} send the book ”Stoner” to [[Esther]] [[September 6th, 2020]] 
+- 14:56
+    - Finished reading [[One Blade of Grass]]. #Books
+        - Interesting that the author insists on the necessity of lineage, tradition and training to realise No-self, whearas others who claim the same insight say that these things make no difference - that there is no path or journey, you cannot get to where you already are. However that may be, I liked his story and his way of telling it. He does not try to hide his vulnerability or claim special status due to his insights. I sent a copy to [[Kenneth]], suspect he might find it worth reading.
+    - Made apple sauce together with [[Kerstin]].
+    - I had a dentist’s appointment this morning, he replaced a filling that had come loose. I think that Folktandvården Sparven is a very good clinic.
+    - Started learning a bit about queries. Here is an example (note that relative dates only work on daily notes pages)
+- 17:14
+    - Went #bathing , sunny and warm in the air. A pleasure. 15 C in the water. [[Kerstin]] picked lingonberries in the forest at the same time.
+    - [[Valy]] arrived late this afternoon, after the sun had come out. He thought it was warm enough to finish painting the bedroom window, which he did. Now he is laying concrete between the flagstones and the driveway. He seems to be keen to finish working here before the weekend.
+- 20:01
+    - Spoke with [[Esther]]. They are due to have another power cut now. Such misery, on top of the pandemic.
+- 22:25
+    - Watched the [[Netflix]] film [[I’m thinking of ending things]] which the critics had thought was something special. Not for me. #Films

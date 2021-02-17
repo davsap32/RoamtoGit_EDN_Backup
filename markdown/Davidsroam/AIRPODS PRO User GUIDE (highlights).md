@@ -1,0 +1,5 @@
+- Author:: [[Digital Insight]]
+- Recommended By::
+- Tags:: #Books #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[September 11th, 2020]]
+    - How to connect AirPods to a PC Open0the Bluetooth settings on your PC > Press and hold the button the back of your AirPods0case > Tap on the AirPods when they appear as an available device. They 

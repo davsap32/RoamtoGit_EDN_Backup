@@ -1,0 +1,19 @@
+- 10:41
+    - Have just sent in my time report and invoice for  July - only 11 hours. I have some work to do this week with establishing a tracker in Jira. I tend to procrastinate with work for SHB, I find the work less than satisfying, as do my colleagues. The reason is that management at group level does not match the intentions and priorities that UK expects and demands. Our little group are hostages, expected to deliver what UK needs, with halfhearted backing in the group organisation.
+    - It is about time for me to begin formulating an offering for my #[[Business Future]]. 
+    - #[[Touch Typing]] I have continued to train at #[[Touch Typing]] , now I am using a service called [Typingclub](Typingclub.com), which is more insistent on achieving good accuracy and speed for each drill before moving on to the next. This fits my needs at the moment, because my accuracy is a bit wobbly and I need to sacrifice speed if I want to get the text right. I need lots of practice.
+    - #Books Still reading and enjoying [[The Motion of the Body Through Space]]. Quite satirical and very sharp.
+    - Generally, my projects are not moving forward. Not a problem, my pace is up to me. However, I need to review them and consider starting or restarting activities. Part of my [[Weekly Review]].
+    - I have searched for and found a well- explained methodology for [[Progressive summarization]]. [[Tiago Forte]]s [article](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes) 
+- 19:01
+    - [[Kerstin]] and I drove to [[Simonstorp]] after lunch, we were there for a couple of hours before it turned cloudy. I took some [photos](https://www.davidsapire.com/Unlisted-galleries/Events/n-bpRWxq/20200802-Simonstorp/) there which I thought turned out quite well.
+    - I created a [table ](https://www.notion.so/Subscriptions-ba665f33f53c40a0ba9d8407a83fea7d)in [[Notion]] for all of our subscriptions, to get an overview. I did this in [[Notion]] because there is no simple way to do it in [[Roam Research]]. Tables in [[Roam Research]] are extremely rudimentary.
+    - [[To Purchase]] (perhaps):
+        - [[Calibre Companion]] for Ipad ($9.99/year) #Booklists
+        - [[Calibre Companion]] for android (59 SEK) #Booklists
+        - [[Instapaper]]subscription ($29.99/year) #[[Digital Garden]]
+    - [[Kerstin]] has just returned from picking blueberries in the forest. This is a very good year for blueberries, she was able to fill a bucket in a short time.
+- 21:17
+    - Listening to music by **Oliver "Tuku" Mtukudzi**, loving it.
+- 22:44
+    - #[[Business Future]] https://twitter.com/theresiatanzil/status/1289928702302679042?s=21

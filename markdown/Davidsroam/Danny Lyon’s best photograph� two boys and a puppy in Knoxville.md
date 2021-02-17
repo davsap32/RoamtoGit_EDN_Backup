@@ -1,0 +1,7 @@
+- Source: [[The Guardian]]
+- Author:: [[Danny Lyon]]
+- Keywords:: #Photography
+- Highlights:
+    - “People used to ask me why I was attracted to the outskirts of a society. But what was I supposed to photograph in suburbia? I find it stunningly boring. When I was growing up, it was all businessmen in drab flannel suits and fedoras who cared only about making money.”
+    - “What has always interested me is emotion, and the first thing that happens when you ascend to the business class is you conceal your emotions. I’ve been reading Max Weber, the German sociologist. He captures extremely well how people who are “on the inside” of a society function. The first generation of business people accumulate wealth, but the people who come after them just become like automatons, repeating the same processes for ever. I find something hateful about that world.”
+    - “Painters can change and rework their creations, but a good photograph is something you find. You seek out a vision.

@@ -1,0 +1,28 @@
+- HT_Date:: 20201018
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: yes
+- HT_Bathing:: 6 C 3 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 08:00
+        - whm
+    - 09:00
+        - pt
+    - 10:00
+        - bathing
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+        - fetch wood
+    - 20:00
+        - Call Esther
+-  12:53
+    - Started reading [[Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body]].
+-  18:17
+    - Went picking mushrooms with [[Kerstin]] in the forest above Hults Bruk. We found some mushrooms, but the large discoveries are still eluding us.
+    - Put the rest of the summer furniture in storage, fetched wood to the house, emptied some of [[Kerstin]]’s planting pots for the winter.

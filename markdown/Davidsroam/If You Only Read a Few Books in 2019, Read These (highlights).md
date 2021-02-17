@@ -1,0 +1,9 @@
+- Author:: [[Ryan Holiday]]
+- URL:: https://medium.com/p/4533f41fe1d4
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[September 22nd, 2020]]
+    - ‘Essentialism’ by Greg McKeown 
+    - ‘Tyrant: Shakespeare on Politics’ by Stephen Greenblatt 
+    - ‘The Greatest Empire: A Life of Seneca’ by Emily Wilson 
+    - ‘Montaigne’ by Stefan Zweig and ‘How to Live’ by Sarah Bakewell 

@@ -1,0 +1,39 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FWSCu891Dwd.png?alt=media&token=115bd9b5-7b85-4c60-9cd3-ba2da9d3631a)
+- HT_Date:: 20210203
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: 78,8
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:30
+        - core team mtg
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+        - CRM service descr
+    - 14:15
+        - third party agreements
+    - 20:00
+        - Call Esther
+- 07:51
+    - Roadside assistance for [[KIA BBP137]] is with [[Falck]]
+        - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F-OOeQafcGN.pdf?alt=media&token=837f9990-5eb6-4ed7-9108-397e8b315632}}
+- 12:34
+    - Spoke with [[Esther]] yesterday evening about acquiring an ECG monitor, which she feels she needs as she has not had her yearly checkup with her cardiologist, being unwilling to risk infection. [[Esther]] will ask her cardiologist what monitors she can recommend. It might be possible to get hold of an Apple watch series 5 in the shops to send with [[Samuel]]. Waiting for the Cardiologist's answer.
+    - We also spoke about the problem with electric fuses tripping. An electrician has looked at the fuse box and cut a wire that seemed to be connected to a faulty device. When he did so, the pool motor no longer started. [[Esther]] now believes that the connection to the pool motor, which turns on at around 09:15 daily, is behind the tripping of the fuse. She has asked the electrician to come back and check out the pool motor.
+    - Yesterday evening, I checked a number of book reviews and decided that the next book I will read will be [[Transcendent Kingdom]].
+- 14:12
+    - Now that [[South Africa]] has lightened its restrictions, [[Samuel]] has booked to leave for [[Cape Town]] on [[February 7th, 2021]]
+- 18:54
+    - [[Kerstin]] fetched [[Leo]] from school, he has been here this afternoon and for supper. Working on a sewing project under [[Kerstin]]’s guidance.
+- 20:10
+    - Just back from driving [[Leo]] home. I couldn’t start my car, I need to call the workshop tomorrow to book time to put in a new battery. #[[Home Tech]] [[KIA BBP137]].
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}

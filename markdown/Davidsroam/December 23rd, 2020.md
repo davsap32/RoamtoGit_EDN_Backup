@@ -1,0 +1,22 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FHVEl1Ff88D.png?alt=media&token=140530a9-3b36-4eba-abd2-a8785fea457d)
+- HT_Date:: 20201223
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: 3 min
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:29
+        - [[Helene]] and [[Johan]]arrive at the station 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 09:12
+    - Still being kept awake by my [[Sciatica]]. I went for massage in December 2017 because of back pain, the therapist gave me some exercises to straighten my pelvis, which i did for some time but later stopped. I need to resume doing these and keep up with them. #Illness

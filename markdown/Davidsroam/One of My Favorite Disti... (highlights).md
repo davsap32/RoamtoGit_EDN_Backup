@@ -1,0 +1,7 @@
+- Author:: [[@rjnestor on Twitter]]
+- URL:: https://twitter.com/rjnestor/status/1302783598634971137
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[September 7th, 2020]]
+    - One of my favorite distinctions on @RoamResearch is choosing between **query** and **mentions**. I use **query** if it's hard-coded—e.g., items I'm pulling into my #[[Inbox]]. I use **mentions** if I need to be able to filter results—e.g., narrowing down my reading list. 
+    - My [[Reading List]] doesn't need its OWN linked references, but instead the refs of [[unread]] or [[read again]]. I can use {{[[mentions]]: [[unread]]}}, then filter types (book, article, etc.) depending what I'm interested in reading. Extremely useful to gather pages together! 

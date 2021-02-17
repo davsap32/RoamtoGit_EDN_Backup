@@ -1,0 +1,35 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FhmtpO3xTFk.jpeg?alt=media&token=18581818-51da-4a20-861d-74798cd6cdbd)
+- HT_Date:: 20210201
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:30
+        - core team mtg
+    - 10:00 
+    - 11:00 
+        - chaps crm requirements
+    - 12:00
+    - 13:00
+        - vendor agreements
+    - 14:00
+        - vendor agreements 
+    - 20:00
+        - Call Esther
+- 09:14
+    - I got an answer from [[Erik Plachta]] to my request on [[Geneva]] chat for help in getting [[Roam Backup/Restore]] to [[GitHub]] to work again. [Link](https://github.com/ErikPlachta/RoamResearch-Backup-to-GIT-Template) to his [[GitHub]] template. I followed his instructions to create and configure a copy of his template - it has run successfully once so far.
+- 09:54
+    - This morning, [[Kerstin]] took [[Amanda]] and her rabbit to the vet to have it castrated. [[Amanda]] came home with Kerstin and will be here until it is time to fetch the rabbit later this afternoon.
+- 14:13
+    - [[Kerstin]] and [[Amanda]] fetched Amanda's rabbit and came home for lunch. [[Kerstin]] had an attack of nausea and vomiting during lunch. No obvious cause - she had not eaten since yesterday evening, so it can't be something she ate.
+- 16:28
+    - [[Kerstin]] has driven [[Amanda]] home with her rabbit.
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}

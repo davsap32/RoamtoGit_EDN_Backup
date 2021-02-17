@@ -1,0 +1,33 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FnQveRaDs_C.png?alt=media&token=eb054870-ee77-4d7c-81ef-bcf3e24507cf)
+- HT_Date:: 20201127
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no 
+- HT_Breaths_per_min:: 10
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 07:30
+        - whm
+    - 08:30
+        - core team mtg
+    - 09:00
+        - prepare planning mtg with UK 
+    - 10:00 
+    - 11:00 
+    - 12:30
+        - CHAPS requirements network asset mgmt
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 11:24
+    - Meeting in ISDM group today - as often happens, there were comunication issues and hurt feelings. #Work
+    - Checked my breathing frequency - 10 breaths per minute. Need to slow down. I should perhaps include breath frequency measurements in my habit tracker #Health
+- 12:21
+    - It is dificult to get an overview of my reading queue on my #Books page. Have therefore set up a kanban board with books to read, reading and paused. Seems to be a good solution.
+- 19:45
+    - Started reading [[Exercised: The Science of Physical Activity, Rest and Health]]. #Books

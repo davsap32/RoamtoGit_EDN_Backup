@@ -1,0 +1,12 @@
+- Author:: [[Mary Karr]]
+- Keywords:: #Books #ToRead
+- Author:: [[Mary Karr]]
+- Recommended By::
+- Tags:: #Books #Readwise
+- ### Highlights
+    - #Quotes
+        - Every one of us is shadowed by an illusory person: a false self. I wind my experiences around myself and cover myself with glory like bandages in order to make myself perceptible to myself and to the world, as if I were an invisible body that could only become visible when something visible covered its surface. But there is no substance under the things with which I am clothed, I am hollow, and my structure of pleasures and ambitions has no foundation. I am objectified in them. But they are all destined by their contingency to be destroyed. And when they are gone there will be nothing left but my own nakedness and emptiness and hollowness, to tell me I am my own mistake. [[Thomas Merton]], [[Seeds of Contemplation ]] #Philosophy [[The Art of Memoir]]
+    - #Quotes
+        - So finally I would write one true sentence, and then go on from there. It was easy then because there was always one true sentence that I knew or had seen or had heard someone say. If I started to write elaborately, or like someone introducing or presenting something, I found that I could cut the scrollwork or ornament out and throw it away and start with the first true simple declarative sentence I had written. [[Ernest Hemingway]], [[A Moveable Feast]] #[[Creative writing]] [[The Art of Memoir]]
+    - #Quotes
+        - Life is a field of corn. Literature is the shot glass it distills down into. [[Lorrie Moore]] #[[Creative writing]] [[The Art of Memoir]]

@@ -1,0 +1,30 @@
+- [[August 23rd, 2020]]
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FG3EbnJ4izZ.png?alt=media&token=2092c380-02bc-4642-b2ad-3f6c3570eada)
+- [[Plan for the day]]:
+    - 09:00
+        - {{{[[DONE]]}}}} whm breathing & meditation
+        - {{{[[DONE]]}}}} reflections on investment strategy and [[How to Set Up a Permanent Portfolio]] 
+    - 11:00
+        - ((W_6xoeAbP))
+    - 12:00
+    - 13:00
+        - {{{[[DONE]]}}}} go [[HT_Bathing]]
+    - 14:00
+        - {{{[[DONE]]}}}} notes for the book [[Barking Up the Wrong Tree]]
+    - 15:00
+        - {{{[[DONE]]}}}} test javascript text expander for [[Roam Research]]. Will it work on my [[Ipad]]?
+- 08:00
+    - "Have read some of the book [[How to Set Up a Permanent Portfolio]], I don’t need to read much more, rather find out how such a portfolio could be implemented in Sweden. I have been checking out some websites, it seems that this is more complicated here than in USA. I’ll write a bit more about this [[August 23rd, 2020]]. #[[Personal Finance]]"
+        - #[[Personal Finance]] There are a some Swedish sites which discuss investment strategies, amongst others [[Permanent Portfolio]]. [Link](https://rikatillsammans.se/kategori/rikatillsammansportfoljen/). Their suggested portfolios include a large number of different funds, but this should not in itself be a problem - their argument for this is that risks should be spread widely. The bloggers on the site recommend [[Nordnet]] for its wide selection and low costs. The next steps are quite simple:
+            - Decide how much of  [[Riscom]]s money to invest and how much of my own. 
+            - Set up a [[Nordnet]] account and make the investments. 
+        - Through [[Twitter]], I found and read yet another article critical of the obsession with #[[Productivity]], titled "[[We’re Wasting Time on Productivity]]"  [Link](https://quarterexistencecrisis.com/were-wasting-time-on-productivity/). Arguing that a preoccupation with #[[Productivity]] is in itself a form of [[procrastination]]. #Articles. The author is one of a large number of bloggers thinking aloud by publishing their musings on the Internet. I guess that many of them are hoping to monetize their sites in the long run, but the  publishing of their work may well be a stimulus to think through the texts once more. Some of them are seeking a dialog to help them in their musings, there is also probably an element of narcisism.  Public exposure as a goal feels strange to me. [[Blogging]]
+        - The idea of making a [[Plan for the day]] seems good. 
+        - Yesterday i took my crashed desktop PC to [[Alina systems]] and left it there. They will do a cost estimate for 675 SEK and then I can choose whether to let them repair the PC or not. If they replace the SSD, they will reinstall Windows. I have asked them to install an additional internal drive (4 TB) if they can repair the PC. They will contact me during the coming week. they asked me for my login pin code, which I gave them after some hesitation. #[[Desktop repair]]
+            - "I have had problems with my [[Seagate Backup Plus Drive]], when connected to my desktop and to my laptop. One of the problems is that if the drive is assigned a new letter, all the folders have to be resynched in [[Lightroom]]. I suspect that there are also intermittent hardware problems with the disk. I am going to check if [[Alina systems]] can repair the computer and add a large internal drive so that I no longer need to use an external drive. The alternative might be to purchase a new desktop. Until this is done, it will be difficult to make progress on my #[[Lightroom Cleanup]] and [[Storage and Backup]] #Projects #[[Desktop repair]]"
+        - Yesterday evening I read a few pages of the book [[Resilient: How to Grow an Unshakable Core of Calm, Strength, and Happiness]]. The author emphasises the importance of [[Self [[Compassion]]]], a concept which I recognise from the book [[Barking Up the Wrong Tree]]. #Books
+- 16:12
+    - [[Kerstin]] returned from [[Arboga]] a couple of hours ago. She accompanied me to [[Lillsjön]] to bathe. 20 C in the water.
+    - I installed [[Roam42]] javascript extension. Very nice. Impressive that people produce useful code and give it away for the pleasure of helping others.
+- 22:34
+    - This evening [[Kerstin]] and I made äppelmos. We have masses of apples in our tree and we do what we can to consume them.

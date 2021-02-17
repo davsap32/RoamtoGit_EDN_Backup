@@ -1,0 +1,30 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fg9RyWIkY6k.png?alt=media&token=9f6c2b19-3202-416e-9fce-9824fe1d359a)
+- HT_Date:: 20201216
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: yes
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 09:00
+        - whm
+    - 10:00 
+        - bathing
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+        - pt
+    - 20:00
+        - Call Esther
+- 10:13
+    - No planned meetings today - feels good. #Work
+    - Muscle pain in my left thigh. What can it be? It is several days since I did PT, so it is unlikely to be training pain, but I can't see what else it could be. It's a PT day today, I intend to train as usual but to pay attention to any increase in pain. #Illness
+    - [[Kerstin]] is back from [[Arboga]] - she enjoyed it.
+    - Next PT: [[December 20th, 2020]]
+- 18:40
+    - It occurs to me that my hip pain may be due to my daily sitting for breathing exercises and meditation. I could do the breathing exercises lying down and skip the meditation for a few days, to see if the hip pain diminishes. #Illness

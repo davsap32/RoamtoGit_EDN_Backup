@@ -1,0 +1,33 @@
+- HT_Date:: 20210113
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 09:00
+        - discussion on roles in service description
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+        - detailed plan for coll &  gov
+    - 20:00
+        - Call Esther
+- level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+    - {{[[slider]]}}
+- 07:55
+    - Spoke with [[Kenneth]] yesterday evening. He recommended the book [[Caste: The Origins of Our Discontents]] by [[Isabel Wilkerson]]
+- 13:55
+    - Went our to shovel snow again - our driveway is very slippery , I need to spread some gravel.
+    - Looking for ways to empty the freezer in the garage of water when we defrost it.
+    - Listening to a #Podcast with [[Michael Shermer]] and [[David Barash]]. About nuclear proliferation and the failure of nuclear deterrence. David Barash has written a book titled [[Threats: Intimidation and Its Discontents]] which I would like to read. #Books
+- 15:17
+    - Started reading [[Rising Out of Hatred]]. #Books
+- 19:13
+    - Spoke with [[Esther]], she informaed us that [[Samuel]] will postpone his journey to [[Cape Town]] until after the lockdown in [[South Africa]]. Great relief.

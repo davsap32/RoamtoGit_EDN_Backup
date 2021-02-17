@@ -1,0 +1,17 @@
+- Keywords:: #Projects #[[Creative writing]] 
+- #[[Goals]]:
+    - 30 wpm 99% accuracy
+- [[Resources]]:
+    - #[[Touch Typing]]
+- 
+- 
+- Training sites:
+    - https://www.typingclub.com/ **this is what I am using at the moment**
+    - https://typingtestnow.com/   **this seems to be good**
+    - https://agilefingers.com/  **very good** using this as well. There is a ”texts” section.
+    - https://10fastfingers.com/
+    -  https://www.keybr.com/
+    - https://www.typingstudy.com/sv-swedish-2/lesson/1
+- {{[[youtube]]: https://youtu.be/BE4VW-N7uGA}}
+- 
+- 

@@ -1,0 +1,32 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F8SCJU7OLRn.png?alt=media&token=3e9d9089-4647-45af-90cc-2afaabe74750)
+- HT_Date:: 20201128
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: 2 C 2 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 12:18
+    - [[Kerstin]] is still ill with cold symptoms. #Illness
+    - Went [[bathing]] for the first time since 19/11, I have waited to be rid of my cold symptoms before resuming winter [[bathing]]. 0,6 C in the air, 2 C in the water. I left the water after 2 minutes, having not bathed for a week, I didn’t want to push it too hard.
+- 19:50
+    - [[Kerstin]] feels quite unwell, runny nose and sore throat. Checked her temp : 36.9 C (normal is <= 37,4 according to the digital thermometer manual), oxygen saturation 97. #Illness
+    - I want to be able to connect to my NAS from my IPAD; something which I cannot do with my DLink NAS which has the old SMB 1 file sharing protocoll.  Time for a new NAS which I ordered this evening at Proshop with 2x 4 TB disks. #[[Home Tech]]
+    - Ordered an electric knife sharpener from Vassa Knivar [link](https://www.vassaknivar.se/). Christmas present to myself. #[[Home Tech]]
+    - Next PT on [[November 30th, 2020]]
+    - [[Esther]] tells us that [[Naomi Salkas]] who celebrated her birthday with her on [[November 19th, 2020]] has tested positive a couple of days ago for Covid. Unlikely though that she was infected when she was with [[Esther]] 9 days ago
+    - Spent some time today reading [[Exercised: The Science of Physical Activity, Rest and Health]]. Quite interesting about active lifestyle, which has been the case throughout the history, contra exercising, which is not in line with how evolution has taught us to behave (as a  species we are as active necessity or for recreation and when not active for those reasons we try to save energy). #Books #Health
+    - [[Kerstin]] has made a list of cleaning chores to be done by Christmas.
+- 21:59
+    - [[Kenneth]] called - it was pleasant talking  with him. He will be doing a zoom-retreat from home  on mindfulness.

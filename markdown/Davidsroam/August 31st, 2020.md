@@ -1,0 +1,52 @@
+- 
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fw5eOrYHn-s.png?alt=media&token=6926d2c6-bd89-4016-ace2-38c2d95052ec)
+- Highlight:
+- {{table}}
+    - Schedule
+        - task
+    - 10:00
+        - {{{[[DONE]]}}}} update skype cert
+    - 11:00
+        - {{{[[DONE]]}}}} go [[HT_Bathing]]
+    - 12:00
+    - 13:00
+    - 14:00
+        - {{{[[DONE]]}}}} Minutes for latest monthly service review meeting
+    - 15:00
+        - {{{[[DONE]]}}}} PT
+        - {{{[[DONE]]}}}} JIRA print example
+-  09:22
+    - [[Valy]] was here to discuss what we wanted him to do:
+        - Paint upstairs bedroom window.
+        - Replace floor and stairs of porch
+        - Adjust kitchen door so that it will be easier to lock
+        - Remove rust from steel pillars in front of  garage.
+        - Straighten asphalt edge toward garage
+        - Fill gap between flagstones and asphalt with concrete.
+    - Core team meeting: we decided to meet in person at Torsgatan on Thursday
+    - I had to ring SHB service desk for help to renew my Skype certificate, which would otherwise have expired tomorrow.
+    - 
+- 11:30
+    - Went #bathing . Sunny but chilly. 14 C in the water.
+    - Having established a format for [[Evergreens]] and used CSS to apply a style to the [[Evergreens]] tags, I need to consider  how to move forward in a number of areas:
+        - Add new material to my highights and notes, by reading and processing more books and articles
+        - It feels interesting to learn the [[WOOP]] practice. Do one or more exercises. Consider which wishes/goals to use.
+        - practice [[Syntopical Reading]] by posing questions and using my [[Evergreens]] to find answers. the idea is to combine ideas from different sources in answering the questions. First, read a bit more about [[Syntopical Reading]] in [[Mortimer J. Adler, Charles Van Doren]] [[How to Read a Book]]
+        - Do [[Inspectional Reading]] for the following books:
+            - [[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]]
+            - [[Rethinking Positive Thinking: Inside the New Science of Motivation]]
+    - I purchased [[Gabriele Oettingen]]s book [[Rethinking Positive Thinking: Inside the New Science of Motivation]] from Amazon.
+- 12:28
+    - Spoke for a while with [[Kenneth]] yesterday evening, our conversation was interrupted when [[Samuel]] and family arrived. It seems that [[Kenneth]] experiences some anxiety, not just due to the present situation but more generally. He thinks that this comes from [[Esther]] and that his anxiety has its source in beeing near her for so many years. If [[Kenneth]] says he is anxious then of course that is so, but I am hesitant to accept his explanation. He mentioned that he and [[Nadia]] daily drink a gin and tonic as well as a glass of wine. Not healthy in the long run.
+- 15:34
+    - I read through the book [[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]], highlighted, exported highlights, edited, imported to [[Roam Research]], tagged [[Evergreens]], all in about 2,5 hours. This feels like a productive process. #Reflections
+        - I have to reflect on the ideas in the book. they seem like good ideas and adress problems which I have experienced with task lists. Taken together, they would imply that I shoud manage tasks in a specific app such as [[TickTick]]. I am reluctant because I think there are synergies involved in having tasks integrated in my note-taking system (e.g. Tasks which turn up in Daily Notes). Perhaps the first step is to create a task template in [[Roam Research]] and see if I can include the information I need. This might imply that each task will be a page with its own attributes.
+- 20:11
+    - It has been a productive day - I have checked all the boxes in in the tasks I had intended for today., including the minutes of the service review meeting, which had weighed on me somewhat.
+    - [[Valy]] replaced the floor of the porch today, tomorrow he will replace the porch stairs and put up his scaffolding in order to paint the bedroom window. He is less stressed now than previously, having taken some holiday during the summer.
+    - Spoke with Esther, all is well with them. Daudi is keen to come and work for her, she thinks it is too early considering the risk of infection.
+    - Today I read a book using the Kindle app on the Ipad. It is much easier and quicker to mark highlights on the [[Ipad]] compared to the [[Onyx]]. I had no problem exporting the highlights to [[Evernote]] and from there to [[Roam Research]].
+    - I borrowed the book [[The P.R.I.M.E.R. Goal Setting Method: The Only Goal Achievement Guide You'll Ever Need!]] by [[Damon Zahariades]]. I’d like to read it ([[Inspectional Reading]])
+    - I see that [[Nat Eliason]] has added some more lessons to his [[Effortless output with Roam]] course - so it’s time to continue with that. I should also look at some of the remaining lessons in the [[Galaxy Brain]] course.
+- 22:00
+    - [[Roam Backup/Restore]]

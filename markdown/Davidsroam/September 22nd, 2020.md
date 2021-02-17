@@ -1,0 +1,14 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FrxThWqFtCC.png?alt=media&token=9d23a101-7a8a-4ea4-bbbf-8c2b3868e646)
+- {{table}}
+    - Schedule
+        - task
+    - 14:00
+    - 15:00
+        - Meet up with [[Per Engström]] at his home.
+    - 20:00
+        - Call Esther
+- 09:47 #Travel
+    - We are still at hotel Hjalmar, will check out soon and walk in [[Örebro]], eat lunch there. 
+    - Reading [[Deep Work]], about focus, concentration and how memorisation practice can train the brain’s ability. It strikes me that playing chess must be very good exercise of this kind.
+    - After lunch we drove to [[Linnea]]s shop [[Inolea]]. Håkan was there, Linnea was in hospital. She had been  operated to remove cysts from her ovaries, they had cut her utrethra by mistake. So she has has had to have a new operation and has to have a catheter until she is healed.
+-  

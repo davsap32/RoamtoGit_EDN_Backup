@@ -1,0 +1,21 @@
+- Keywords:: #Areas 
+- #[[Goals]]
+    - Initiate a photography project
+Why is this a goal? - Looking back at photos I have taken, I get great pleasure from having created some of this work. The goal is pleasure, there is no need for recognition or other rewards. A project will help me develop as a storyteller.
+- [[Activities]]
+    - Photograph of the day 
+    - Study the work of photographers
+- [[Challenges]]
+    - Introversion, shyness (and integrity considerations?) create a threshold in using people as subjects
+- Goals:: 
+    - Improve my [[Photography]] skills
+- ToDos:
+    - {{[[TODO]]}} Study [Udemy Photoshop course](https://www.udemy.com/home/my-courses/learning/) #Photography
+    - {{[[TODO]]}} Do some Wacom Tablet training #Photography
+    - {{[[TODO]]}} Review and update Smugmug pages #Photography
+    - {{[[TODO]]}} Store slides in archive boxes #Photography #[[Sort and Tidy]]
+    - {{[[TODO]]}} Clean camera sensors #Photography
+    - {{[[TODO]]}} Print new images to pinboard #Photography
+    - {{[[TODO]]}} change language for adobe [[Photoshop]] #Photography
+    - {{[[TODO]]}} Scan remaining slides #Photography 
+    - {{[[TODO]]}} video to smugmug #Photography

@@ -1,0 +1,25 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FHnShzf1MI7.png?alt=media&token=c4cd1143-700a-4f6a-a7d8-5b549a3b9201)
+- HT_Date:: 20201202
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: 2 C 3,5 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:00
+        - whm
+    - 09:30
+        - mtg with Vargdes Khndirian on CHAPS
+    - 10:00 
+        - bathing
+    - 11:00 
+    - 12:00
+    - 13:00
+        - fetch package & do shopping
+    - 14:00 
+    - 20:00
+        - Call Esther

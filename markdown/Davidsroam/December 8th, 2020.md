@@ -1,0 +1,35 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FFmypWMXXYh.jpeg?alt=media&token=ad40664f-acf1-4693-b412-9132cef3cd57)
+- HT_Date:: 20201208
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: yes
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:30
+        - core team mtg
+    - 09:00
+        - PT
+    - 10:00 
+    - 11:00 
+        - progress tracking mtg with uk
+    - 12:00
+    - 13:00
+        - bathing
+    - 14:30
+        - working session digital sd 1
+    - 20:00
+        - Call Esther
+- 02:04
+    - Memex from [[@visakanv on Twitter]]
+        - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FO934ZPG5Ph.pdf?alt=media&token=35eed303-3939-4e41-9e38-9b0e489519ea}}
+- 10:26
+    - [[Kerstin]] is on her way to [[Arboga]] to spend time with [[Lizzie]]. 
+    - Windy today - I have postponed thoughts of [[bathing]] until after lunch.
+    - Yesterday evening, I read a list of book recommendations from [[lithub.com]]. [Link](https://lithub.com/our-65-favorite-books-of-the-year/). I could find a number of the books, so my reading list has grown again. #Books
+- 20:29
+    - Watching a section of [[Annie Leibovitz]] masterclass on photography, about working with people. She recommends for aspiring photographers to start by photographing people they know well, who willl put up with them - close family, for example. She talks about her book [[A Photographer's Life: 1990-2005]] which contains photographs of her own famliy as well as well-known people. I would reall like to get hold of that book. #Books #Photography

@@ -1,0 +1,38 @@
+- Program guide
+    - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FK0D9k_C6HQ.pdf?alt=media&token=6412625d-8376-4551-8f53-97b1215030e9}}
+- "[Progressive Workout: Rotational Imbalances 1](https://stream.foundationtraining.com/programs/core-elements-part-2?cid=122802)". 
+    - Decompression breath
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FCO7zOJY6hS.png?alt=media&token=00f1d025-d953-40a7-8602-11335bdb16d4)
+    - 10 shoulder rotations
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FitaCBVaj7j.png?alt=media&token=3bdba448-8a73-47fa-b418-7c1e2442c6a5)
+    - Hip hugger
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fcyas-88fk5.png?alt=media&token=5144b53e-afb0-4d57-87e9-d090e96f6efd)
+    - Lunge decompression with three traces
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FZDI2B_v960.png?alt=media&token=47504cab-9ce7-4226-87ec-7c70ea414fec)
+    - Supine decompression
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F7v4tT1R6lS.png?alt=media&token=2fac18ae-27da-413d-91e8-c74b844d7330)
+    - Anchored bridge
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FQmFeLvMA5p.png?alt=media&token=218dde76-c25d-402d-8c1a-c7984d71c483)
+    - Leg trace
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FgKeALZZRXs.png?alt=media&token=8294899e-22d6-41a3-ae4e-444985eea9a6)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F70vTfg_X4C.png?alt=media&token=13860af0-09dc-49a9-bab3-1e0159ffdae4)
+    - Crossover stretch
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FEcXG2b1b6N.png?alt=media&token=93b29d4f-5673-4672-b4dc-09c73572caf4)
+    - Platter
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FLKz23X0Fb7.png?alt=media&token=537afc5f-e0d3-4745-b00e-fc76effc0ebd)
+    - Traces in lunge positiion
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FQwi6gfgbG-.png?alt=media&token=d6bcefdb-af04-4f35-b9a3-b36e4172dfed)
+    - Shoulder rotation & platter
+- Exercises:
+    - Standing decompression
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FoXxg1V1yqA.png?alt=media&token=f2acd480-e909-4864-8e5d-f18dc9ad31b9)
+    - Anchored back extension
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FFPYcYIi58D.png?alt=media&token=5bb8f649-a713-47d5-83e9-8c1788f9bd25)
+    - Prone decompression
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FO0BpQVPwVJ.png?alt=media&token=6031cfd6-9d15-4113-ae56-a70c811ee11c)
+    - Lunge Decompression
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FAlv5VMltE5.png?alt=media&token=5ec80bbc-314a-46e2-a508-fb85033ed552) 
+    - Supine Decompression
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F0oxXuk2dFi.png?alt=media&token=9e88e8b3-cdd8-417e-9322-46c96c989172)
+    - Anchored Bridge
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F8ffrnHdpDd.png?alt=media&token=22d69234-dc16-417c-913f-7e8fd6499e1d)

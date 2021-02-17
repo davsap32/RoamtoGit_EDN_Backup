@@ -1,0 +1,8 @@
+- Summary of [[Tiago Forte]]s method for [[Progressive summarization]]:
+    - Progressive Summarization works in “layers” of summarization. Layer 0 is the original, full-length source text.
+    - Layer 1 is the content that I initially bring into my note-taking program. I don’t have an explicit set of criteria on what to keep. I just capture anything that feels insightful, interesting, or useful.
+    - Layer 2 is the first round of true summarization, in which I bold only the best parts of the passages I’ve imported. Again, I have no explicit criteria. I look for [[Keywords]], key phrases, and key sentences that I feel represent the core or essence of the idea being discussed. I do this bolding layer at a later time, when I’m already reviewing this note anyway.
+    - For Layer 3, I switch to highlighting, so I can make out the smaller number of highlighted passages among all the bolded ones. This time, I’m looking for the “best of the best,” only highlighting something if it is truly unique or valuable. And again, I’m only adding this third layer when I’m already reviewing the note anyway.
+    - For Layer 4, I’m still summarizing, but going beyond highlighting the words of others, to recording my own. For a small number of notes that are the most insightful, I summarize layers 2 and 3 in an informal executive summary at the top of the note, restating the key points in my own words.
+    - And finally, for a tiny minority of sources, the ones that are so powerful and exciting I want them to become part of how I think and work __immediately__, I remix them. After pulling them apart and dissecting them from every angle in layers 1–4, I add my own personality and #[[Creativity]] and turn them into something else.
+- 

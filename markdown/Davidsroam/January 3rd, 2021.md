@@ -1,0 +1,31 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FkqfBdpkA_a.jpeg?alt=media&token=a25ab89a-2f2f-4ce1-b2fa-02faa0c90975)
+- HT_Date:: 20210103
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 20:00
+        - Call Esther
+- ## [[Foundation Training]]
+    - {{[[table]]}}
+        - Exercise
+            - Repetitions
+        - Standing Decompression
+            - x
+        - Anchored Back Extension
+            - x
+        - Prone Decompression
+            - x
+- 08:47
+    - Yesterday I listened to a #Podcast with [[Lex Fridman]] and [[Richards Dawkins]] (the author of [[The Selfish Gene]]). Richard Dawkins is a wise and reasonable person, a pleasure to listen to.
+- 13:16
+    - Started reading [[Wool Omnibus Edition]] by [[Hugh Howey]]. Enjoying.
+- 21:58
+    - [[Samuel]] has still not received his test results, so he cannot travel to [[Cape Town]] tomorrow. He has rebooked his trip to [[January 17th, 2021]]

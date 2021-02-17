@@ -1,0 +1,6 @@
+- Author:: [[@roamflow on Twitter]]
+- URL:: https://twitter.com/roamflow
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 27th, 2020]]
+    - Add custom tags as quick as a flash. ⚡️ #roamcult https://t.co/K152tsJIk7 

@@ -1,0 +1,27 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FOskshxnUJv.png?alt=media&token=3d5f4cac-15c0-4332-a988-a7214906aae5)
+- HT_Date:: 20201124
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no 
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 09:00
+        - Judith - discussion about risk with user identification
+    - 10:00 
+    - 11:00 
+        - Progress mtg with UK
+    - 12:00
+        - Service review mtg
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 19:57
+    - Many meetings today at #Work - feels more meaningful than previously, my contribution is clearer, att least to myself.
+    - Still not ready to resume winter bathing  - I am feeling better but not completely free from infection #Illness
+    - Not sure what to buy for [[Kerstin]] as a Christmas present - the ideas I had until now are not good enough. I have asked her to write a wishlist.
+    - Struggling a bit with [[On the Plain of Snakes]], about 2/3 of the way through I feel that I know enough about [[Paul Theroux]]’s trip to Mexico. 

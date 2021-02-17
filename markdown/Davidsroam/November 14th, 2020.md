@@ -1,0 +1,23 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FlmXE_xnyaN.png?alt=media&token=c84baab9-3b54-4c00-99ae-8a0de90400cc)
+- HT_Date:: 20201114
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 5 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 10:00
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+    - 20:00
+        - Call Esther
+-  16:25
+    - Went [[bathing]] - there were two groups of young people [[bathing]] at Lillsjön, which is unusual. Our neighbours [[Johan]] and [[Elin]] came past with their children - they were out walking.
+    - While preparing food, I listened to a #Podcast with [[Robert Salzman]] and [[Shiv Sengupta]] - an interesting and open conversation about existence itself. 
+    - I met [[Samuel]] at Norrköpings Plattsättning, where he bought a glass wall for his shower. Drove then to his house and helped him to carry it up to the new shower room on the second floor.
+-  

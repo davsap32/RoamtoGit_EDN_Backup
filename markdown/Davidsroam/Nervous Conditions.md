@@ -1,0 +1,4 @@
+- Keywords:: #Books #Readit
+- Author:: [[Tsitsi Dangarembga]]
+- Recommended by:: [[The Guardian]]
+- Comments: A perceptive description of a childhood in Rhodesia, where blacks and women were oppressed. I have ordered the next book in the series, [[The Book of Not]].

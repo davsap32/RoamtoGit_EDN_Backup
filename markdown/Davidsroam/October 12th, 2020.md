@@ -1,0 +1,35 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FabGUe3xwmC.gif?alt=media&token=00904154-1b93-448a-9039-fd6d1d95fc48)
+- HT_Date:: 20201012
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 5C  4 Min
+- HT_Back_ex:: no
+- {{table}}
+    - Schedule
+        - task
+    - 08:30
+        - core team meeting
+    - 09:00
+        - whm
+    - 10:00
+        - chaps attestation requirement concerning security tokens
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+        - review planning in Jira with Clare
+    - 15:00
+        - Bathing
+    - 20:00
+        - Call Esther
+-  13:33
+    - [[Kerstin]] has left for [[Arboga]], to be with her mother until tomorrow or Wednesday.
+- 13:56
+    - After picking mushrooms in the forest yesterday - [[Kerstin]] found a tick on her lower leg this morning  - in spite of having worn rubber boots and long trousers while in the forest. She also had pain in her foot, probably due to being unused to the rubber boots and walking a lot in them. I showed her how to use  a massage ball under her foot and recommended she did so often.
+    - I am going to do the journaling practice that [[Natalie Goldberg]] recommend in [[Writing Down the Bones]] - set the clock and then keep writing (hand moving on the page) until the time is up. I'm going to start doing this in [[Goodnotes]] on my [[Ipad]], partly because I can journal sitting in the sofa, I don't need to be in front of my PC. Also, partly because I want to avoid worsening the RSI in my finger.
+- 19:06
+    - Reading [[Writing Down the Bones]], finding it interesting. Considering establishing a writing practice, not the same thing as trying to become a writer.
+- 21:53
+    - Finished reading [[Writing Down the Bones]].
+    - [[Samuel]] sent a drone picture of the road to his house and his driveway, where they now have laid tarmac. Looks good.

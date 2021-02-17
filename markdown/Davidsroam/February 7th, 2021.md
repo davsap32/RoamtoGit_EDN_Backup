@@ -1,0 +1,31 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F4MGV4cLdzT.png?alt=media&token=b53d8632-fe08-474c-83e4-279f7970d35b)
+- HT_Date:: 20210207
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 11:19
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}
+    - [[Kerstin]] has left to fetch [[Amanda]] who will be here for lunch. We will go to [[Samuel]] for tea this afternooon, he is leaving tomorrow for [[Cape Town]].
+    - Yesterday evening we watched a film on [[Netflix]]: [[Malcolm & Marie]]. Quite intense, more like a play than a film. The actor who played Malcolm overplayed his role.
+- 14:16
+    - Started reading [[Hitler Ascent 1889-1939]] by [[Volker Ullrich]] - finding it interesting
+- 18:44
+    - We had tea with [[Samuel]] and family, went for a walk in the new area being prepared for houses. As often happens, [[Leo]] needed very little to trigger sulkiness and sadness.
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}

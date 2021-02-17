@@ -1,0 +1,12 @@
+- Keywords:: #Projects
+- Project formulation:
+    - I am on a journey of exploration, the territory to be explored includes the following:
+        - [[Creativity]]: Producing original work
+        - [[Productivity]]: Getting things done
+        - [[Personal Knowledge Management]]: Finding useful information that can be trusted and making use of it.
+        - [[Philosophy]]: The search for meaning.
+    - The four areas are dependant on each other.
+    - This exploration cannot be pursued without writing things down. On the other hand, I am wary of oversystematizing the work of writing. The risk is that the system becomes an end in itself. Fluidity is an important goal, the ability to rearrange, combine and recombine, synthesise information and ideas. As far as possible, I want to avoid rigidity in information structures.
+    - This is not really a project, as I don't see an end to it. The journey is the goal.
+    - I am doing this work on my own, using books, blogs, articles, videos, podcasts  etc as input. Conversations with others may be helpful, this remains to be seen.
+    - Nat suggests that we tweet about our projects. I choose not to do that. I need time for this work, which means restricted use of or abstinence from social media.

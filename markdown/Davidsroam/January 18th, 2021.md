@@ -1,0 +1,28 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F6JLAYpHQNz.png?alt=media&token=1ff322b3-72a4-455e-95b2-edd852df7ab9)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FmW6dI8DKiu.jpg?alt=media&token=97a7522d-e6f7-4be8-aa72-468b6ceb9983)
+- HT_Date:: 20210118
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:30
+        - Core team mtg
+    - 10:00 
+    - 11:00 
+    - 12:00
+        - review coll & gov schedule.
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 15:44
+    - Started reading [[Caste: The Origins of Our Discontents]] - examining the ideas of caste and race (race being arbitrary but caste being a limiting factor for peoples' possibilities) #Books
+- 19:03
+    - We spoke with the family yesterday evening about travelling together to Gran Canaria to celebrate [[Kerstin]]’s birthday. Everyone was very keen. Today we were prepared to male bookings, but for some reason the price for [[Samuel]]’s family was double compared to what we saw yesterday. We may have too look for alternatives. I have also suggested that we pay 30 kkr for Samuel and family, they pay the rest. Samuel will look at alternatives. #Travel

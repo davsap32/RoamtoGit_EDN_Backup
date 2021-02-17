@@ -1,0 +1,9 @@
+- Author:: [[@shawnpmurphy8 on Twitter]]
+- URL:: https://twitter.com/shawnpmurphy8/status/1314877901297262593
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[October 10th, 2020]]
+    - @RoamResearch @Conaw @roamhacker Without further ado... Filtering Attribute tables (you need @dvargas92495  sorting extension as well). Added {and} {or} {not} {blank} operators! Please download code from Github Gist and add to roam/js. https://t.co/mFWiujQH6f https://t.co/PQ3ZLMXiYb 
+        - **Note**: Thread
+    - #roamcult you need to install @dvargas92495 sorting attribute tables extension first: https://t.co/hrdyKzfMpl 
+    - Here's the direct link to the GIF since twitter stinks with its restriction on size: https://t.co/I0rw2dZUxg 

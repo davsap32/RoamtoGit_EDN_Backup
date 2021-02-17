@@ -1,0 +1,4 @@
+- Highlights:
+    - https://www.nateliason.com/blog/passive-income
+    - “What I’ve realized from the last five years of chasing both passive income and entrepreneurship is that building a real business is much, much more satisfying.”
+    - [[Nat Eliason]] describes several possible sources of [[Passive income]], none of which seem too appealing at this time. 

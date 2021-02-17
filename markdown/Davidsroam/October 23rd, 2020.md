@@ -1,0 +1,35 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fa3REuPKTGz.png?alt=media&token=3e71609d-5d0b-4da2-bae7-0ae681f88b83)
+- HT_Date:: 20201023
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: yes
+- HT_Bathing:: 6 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - whm
+    - 10:00
+        - service description review
+    - 11:00
+        - PT
+    - 12:00
+    - 13:00
+    - 14:00
+        - bathing
+    - 20:00
+        - Call Esther
+-  11:39
+    - Skipped a meeting that i was invited to as "voluntary" - review of a new service description template proposal. I have participated in a number of such reviews as templates have been discussed, we never seem to be able to decide what the service description should include, in spite of spending many hours discussing this or that heading. We need to discuss a deeper problem first, which is why upper management at group level is disengaged from the issue of service delivery.
+    - While preparing lunch, listened to an episode of "The Upgraded Brain" #Podcast with [[Rui Zhi Dong]] and [[Pamela Slim]] about her book [[Body of Work]], about achieving expertise and marketing one's services. I'd like to read the book. #Books
+    - Started litening to an episode of the Science Salon #Podcast with [[Michael Shermer]] and [[Gad Saad]] about Saad's book [[The Parasitic Mind]], about how ideas can become parasitical. I'd like to read the book #Books
+-  13:17
+    - New mattresses at [[Furusundsgatan 14]]:
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FTYrf3wcL0D.JPG?alt=media&token=7680a749-ebcd-4d19-8c6c-8ea5af60b587)
+- 15:40
+    - Started reading [[The Zen Master's Dance]] by [[Jundo Cohen]] as usual, a mixture of conjecture and tradition with useful insight. About the teaching of the Zen master Dogen.
+- 17:09
+    - Went walking, looking for mushrooms. Found nearly nothing.
+    - Finished reading [[The Zen Master's Dance]], skimmed through most of it. I thought that the treatment of the concept of time was complicated and obscure. I’ll perhaps come back to it when I have more patience.

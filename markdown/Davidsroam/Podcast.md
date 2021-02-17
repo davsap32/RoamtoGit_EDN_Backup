@@ -1,0 +1,3 @@
+- {{{[[DONE]]}}}}  [[August 5th, 2020]] Listen to [this podcast](https://www.ordinarymind.com/talks/394-what-is-buddha-a-sh-t-stick?fbclid=IwAR2L7qPtZi4hV9JLkZ2VuQdcWHJZNRkUTvhM3eg9QdRvjIbfyiyNwDBeWWA), recommended by [[Joan Tollifson]]. Title: **Not dismissing ordinary life** #Podcast
+- 
+- 

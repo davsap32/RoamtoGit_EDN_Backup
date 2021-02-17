@@ -1,0 +1,7 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F9EScexvXfr.png?alt=media&token=984dc7ad-69d2-47d5-98f9-09f28b307467)
+- 19:13
+    - Today we ate lunch with [[Amanda]] at [[Löfstad Slott]]. Warm and sunny, good food. Amanda drove to and from [[Löfstad Slott]].
+    - [[Robert]]s mother is arranging a party for her 70th birthday. She has left a message for [[Kerstin]] to contact her and probably wants to invite her to the party. It seems that [[Robert]] has not yet informed his parents that he and [[Amanda]] are no longer a couple. [[Amanda]] has now asked [[Robert]] to please inform his parents - otherwise we would have to, which would be strange.
+    - Finished reading [[The Elephant in the Brain]], uploaded my highlights to [[Roam Research]]. Also, extracted #[[Evergreens]] for [[Peak_ Secrets from the New Science of Expertise]] and [[Atomic Habits: Tiny Changes, Remarkable Results]]. Looking forward to reviewing my #[[Evergreens]] after making new ones for a couple more #Books. [[Digital Garden]].
+    - Spoke with [[Esther]]. She had spoken with [[Daudi]], he is stuck in a small room with three small children, it cannot be pleasant. [[Ernest]] seems to be holding out OK, after five months without leaving the property.
+    - [[Kerstin ]]and I both have eye infections. [[Esther]] reminded us that we have to launder towels and pillowcases to avoid reinfection. 

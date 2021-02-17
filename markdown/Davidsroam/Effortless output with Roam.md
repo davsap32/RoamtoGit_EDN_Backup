@@ -1,0 +1,2 @@
+- [Link to the course forum](https://effortless-output-with-roam.circle.so/c/introductions).
+- [Link to the course itself](https://learn.fortelabs.co/courses/enrolled)

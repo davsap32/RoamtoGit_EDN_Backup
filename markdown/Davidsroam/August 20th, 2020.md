@@ -1,0 +1,13 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fc44w9t_E4h.png?alt=media&token=038f154b-b06c-463a-b293-4415e9c14037)
+- 09:13
+    - Yesterday evening I read a [[Twitter]] thread entitled "What's the best online course you've ever taken?" [Link](https://twitter.com/eriktorenberg/status/1296140199538302976?s=20). There were lots of interesting answers. Amongst other suggestions, a design course was mentioned. [Link](https://www.interaction-design.org/). This made me curious about the area of design, which is important but about which I know very little. I found a list of recommended books on the subject: [Link](https://www.instapaper.com/read/1334846629). I have acquired some of these and would like to read them. There are already about 30 #Books on my #ToRead list, and now I have seven more I would like to add. What to do?
+    - Another idea for my [[Capstone Project]] for the [[Effortless output with Roam]] course: Develop an offering for [[Riscom]] after [[SHB]] #[[Business Future]]
+    - [[Tiago Forte]] has made a number of free #Video available from his ongoing [[Building a Second Brain]] course. Probably worth watching.
+- 18:50
+    - Spent the afternoon with [[Agneta]] and [[Staffan]] at Bokafallet, where we ate lunch and walked down to the lake near their house to bathe. 
+- 20:31
+    - Spoke briefly with [[Esther]], they were about to have a power cut so she phoned while they still had power. Both [[Samuel]] and [[Josefine]] messaged her separately to say that they had had a therapy session yesterday and that they felt it was constructive and helpful.
+    - Read an article today by [[Anne-Laure Le Cunff]] entitled "[[From [[Productivity]] porn to mindful [[Productivity]]]]". [Link](https://nesslabs.com/[[Productivity]]-porn). Her thesis is that many people have unrealistic expectations for [[Productivity]] methodologies, which are often sold in a "one size fits all" format and are therefore not helpful. Studying and implementing such methodologies can in itself become a method of procrastination, where planning and reading give us the illusion of [[Productivity]]. #Articles
+- 21:34
+    - I have been struggling to find a way to store [[Roam Research]] templates in [[Breevy]]. When using the [[Breevy]] abbreviations in [[Roam Research]], the line breaks were not included. The way around this was to change the output method from "Key press simulation" to "Clipboard" in the Options/Cool Stuff menu.
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FdPyDtFEHNU.png?alt=media&token=c516ee3c-0711-41ea-bdd3-0224506696af)

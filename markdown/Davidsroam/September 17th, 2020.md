@@ -1,0 +1,34 @@
+- 
+-  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FYgUJ0NMqVm.png?alt=media&token=e446e9cc-4b6a-4f2f-8733-667e236e8be9)
+- Reminders:
+    - {{[[DONE]]}} send book [[The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness]] to [[Samuel]].
+- 
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - {{[[DONE]]}} whm
+    - 10:00
+        - {{[[DONE]]}} go [[HT_Bathing]]
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+        - meeting concerning ISDM organisation
+    - 17:00
+        - Take care of grandchildren  
+    - 20:00
+        - Call Esther
+- 08:12
+    - #Quotes from [[Joan Tollifson]] on [[Facebook]]
+        - What the greatest Zen master or Advaita sage realized and embodied is not other than this inconceivable present happening that is ever-changing and always complete. Liberation is… not the freedom to do whatever we want or to become who we think we should be or to make everyone else the way we want them to be. It is rather the freedom to simply be what we are.
+        - That, I discover again and again, is the biggest relief, that there is nowhere to go and nothing to become.
+        - There is simply this present happening, the boundless unicity that includes absolutely everything and that holds on to nothing. Sometimes it seems that we can recognize or allow this simplicity of being, and sometimes it seems that we can’t. In times of stress, old habits tend to return and take over. We jump back onto our imaginary treadmill of suffering. The dream of separation and lack seems believable. We chase the carrot. It happens. But all of this is the movement of life, vanishing instant by instant into thin air. It’s not personal. And in the end, in waking up or in deep sleep or at the moment of death, we see that nothing has ever really happened.
+        - The mind loves to create idealized pictures of How Life Should Be and How I Should Be, and reality has a wonderful way of defeating all our ideas…
+        - Flowers open and close. The sky clears and then clouds up again. Some places have more stormy weather and more cloudy days than other places. This is the nature of life… There is no end and no beginning to this infinite Self-realization, and sometimes it hurts like hell.
+        - --Joan Tollifson, from Nothing to Grasp
+- 12:15
+    - Read an article on [[Medium]] by [[Yamina Pressler]]  on monitoring how much time is spent on individual work tasks. She recommends an app called [[Be Focused]] for this. It divides the working day into half-hour periods and allows for registration of what has been done in each period.
+    - 
+- 20:43
+    - We have taken care of [[Alice]], [[Leo]] and [[Ellen]] this evening, [[Samuel]] and [[Josefine]] have gone to a wine-tasting at [[Angry Creative]]. We have been at their house, where we gave the children dinner and have now put them to bed.

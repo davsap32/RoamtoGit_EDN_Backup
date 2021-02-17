@@ -1,0 +1,21 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F16ZhMN-dFZ.png?alt=media&token=8785d728-640f-4e56-a031-4e969ccfd722)
+- HT_Date:: 20201224
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: 1,5 min 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 09:51
+    - [[Helene]] and [[Johan]] still here. Enjoying.

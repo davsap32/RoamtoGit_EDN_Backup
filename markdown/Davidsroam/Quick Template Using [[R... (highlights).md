@@ -1,0 +1,9 @@
+- Author:: [[@RobertHaisfield on Twitter]]
+- URL:: https://twitter.com/RobertHaisfield/status/1350199749970784258
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[January 30th, 2021]]
+    - Quick template using [[roam/templates]] for meeting notes. The query under action items pulls todos indented under the notes block, so you can tag bullets as TODOs, maintain their original context, & view them in one place. Type ;; to find & execute it @RoamResearch #roamcult https://t.co/lPe7dqtL4X 
+        - **Note**: Thread
+    - Just for clarity sake - this will only work in roam/templates. It will not work with smart blocks. This is because for each time you execute the template, it will create a new block and block ref for that specific meeting, whereas smartblocks copy/paste. https://t.co/CHFedMOB0s 
+    - I was wrong. You can do it with Smartblocks. You can do it natively and quite easily with templates though. https://t.co/1SWy3Hf9zn 

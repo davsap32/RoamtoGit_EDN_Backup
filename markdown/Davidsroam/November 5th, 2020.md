@@ -1,0 +1,54 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FRXNO4uFR8w.png?alt=media&token=30302139-ffbc-4b66-90ca-176b2c09fe05)
+- HT_Date:: 20201105
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 5 C 4 min windy
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 08:30
+        - core team mtg
+    - 09:00
+        - bathing
+    - 10:00
+    - 11:00
+    - 12:30-13:15
+        - chaps actions, Mark & Ray
+    - 13:00
+    - 14:00
+    - 20:00
+        - Call Esther
+- 07:53
+    - #Poem by [[e e cummings]] 
+        - ## I Carry Your Heart With Me (I Carry It In)
+        - Song by Ana Cervantes and E. E. Cummings
+            - I carry your heart with me(i carry it in
+            - My heart)i am never without it(anywhere
+            - I go you go, my dear; and whatever is done
+            - By only me is your doing, my darling)
+            - I fear
+            - No fate(for you are my fate, my sweet)i want
+            - No world(for beautiful you are my world, my true)
+            - And it's you are whatever a moon has always meant
+            - And whatever a sun will always sing is you
+            - Here is the deepest secret nobody knows
+            - (Here is the root of the root and the bud of the bud
+            - And the sky of the sky of a tree called life; which grows
+            - Higher than soul can hope or mind can hide)
+            - And this is the wonder that's keeping the stars apart
+            - I carry your heart(i carry it in my heart)
+-  15:05
+    - Listening to a recording of a talk with [[Wayne Liqourman]]. He talks about the illusion of authorship as the source of unnecessary suffering. Also the "Flip Flop" of seeking (open awareness/ contracted awareness) Very clear and to the point. #Podcast #Philosophy
+    - [[Kerstin]] has driven to see her mother. She gave [[Amanda]] a lift to Katrineholm, [[Amanda]] will continue from there to Åsbro to visit with [[Lukas]].
+    - Went [[bathing]]. quite windy. The wind creates movement in the water, which makes it feel colder.
+- 16:16
+    - Completed and sent off bookkeeping materials for October to [[Lena Lindqvist]] at [[OneEconomy]]. #Work
+    - Ordered Vitamin Code Raw Zink from clearlife.se [[Repeat Purchase]]
+    - Received the swivel arm laptop/ipad mount which I ordered from Amazon. Put it together - it seems to work as expected. #[[Home Tech]]
+- 17:43
+    - Finished reading [[Who They Was]]. Beginning to read [[Very Important People]].
+- 19:05
+    - [[Esther]] called to say how thrilled she was with the presents we had sent her, a calendar we had made with pictures of the family, some more prints of [[Samuel]] and family, mittens to [[Joe]], a necklace from [[Amanda]] which she herself had made. [[Esther]] mentioned that [[Samuel]] had found out that customs had cleared his computers, but that the computers need to be opened in front of the customs officials. He will do this tomorrow.

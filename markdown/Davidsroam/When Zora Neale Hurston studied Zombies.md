@@ -1,0 +1,9 @@
+- Author:: [[Charles King]]
+- Link:: https://zora.medium.com/when-zora-met-zombie-dbcf0fb45d11
+- Keywords:: #Articles #Readit
+- ## Highlights
+    - #[[E: Gods always behave like the people who make them]] #Philosophy #Evergreens [[When Zora Neale Hurston studied Zombies]]
+        - If you were beholden to the whims of fate, torn from one place and plopped down, dazed, into another, tossed this way and that for reasons that seemed incomprehensible, then your gods behaved in the same way — capriciously, with their darker and lighter personas struggling for dominance and, from time to time, requiring feeding and appeasement.
+    - #[[E: Magic is essentially the practice of setting a pattern for a desired event]]. #Philosophy #Evergreens [[When Zora Neale Hurston studied Zombies]]
+        - If you want your son to grow up strong, you give him a name that signals strength. If you want to kill an enemy, you stuff a piece of his clothing down a dead snake’s throat. Magical thinking was as close to a human universal as you could imagine, and it existed in modern societies, too. Gambling, the stock market, even the concept of private property all depend to a degree on magical belief systems. They are ways of summoning the unlikely and the unseen in order to control the tangible world. They differ only in how we join the natural plane to the supernatural one, which in turn depends on history and local conditions.
+    - #[[E: Religions survive not because people love the faith of their fathers but because they help us navigate the world as we find it]]. #Philosophy #Evergreens [[When Zora Neale Hurston studied Zombies]]

@@ -1,0 +1,34 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FnBXHg4ybaT.png?alt=media&token=0f16322e-7aa2-4cc8-8495-c297068cba21)
+- HT_Date:: 20201211
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:30
+        - core team mtg
+    - 09:00
+        - whm
+    - 10:00 
+        - bathing
+    - 11:00 
+    - 12:00
+        - lessons learned in implementing the service method
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 11:49
+    - Listening to a #Podcast on [[180 Nutrition - The Health Sessions]] with [[Stig Severinsen]] about how breath can be used to control one's state. He says that everyone can hold their breath for two minutes without special training. #Health
+    - Raining today - I will go [[bathing]] if there is a break in the rain.
+- 15:42
+    - No break in the rain - no [[bathing]]
+    - [[Kerstin]] fetched [[Amanda]], who was here for lunch. Amanda feels stressed and says that she is not coping with her tasks at work. [[Kerstin]] is of course very stressed as soon as Amanda is unhappy.
+- 16:56
+    - Finished reading [[Out of Mesopotamia]] -really enjoyed it. #Books
+    - Started reading [[A Memory Called Empire]], science fiction

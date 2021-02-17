@@ -1,0 +1,32 @@
+- reminders:
+    - {{[[DONE]]}} Ring Joe for his birthday.
+- {{table}}
+    - Schedule
+        - task
+    - 07:30
+        - {{[[DONE]]}} whm
+    - 08:30
+        - core team meeting
+    - 09:00
+        - core team planning
+    - 11:00
+        - {{[[DONE]]}} go [[HT_Bathing]]
+    - 12:00
+    - 13:00
+        - Monthly service review
+    - 14:30
+        - {{[[DONE]]}} PT
+    - 15:00
+        - {{[[DONE]]}} catch up on [[SHB]] email
+    - 16:00
+        - {{[[DONE]]}} chaps/jira
+    - 20:00
+        - Call Esther
+- 09:43
+    - When we went #bathing together at [[Katrinelund Sjökrog och Gästgiveri]], [[Per Engström]] mentioned a Danish exponent of the same type of training as taught by [[Wim Hof]]. His name is  [[Stig Severinsen]]. Per sent a link to an introductory viideo:
+        - {{[[youtube]]: https://youtu.be/zlUjUHxetjk}}
+        - I have download a free pdf provided by [[Stig Severinsen]].
+- 15:39
+    - I get messages on my [[Ipad]] that my [[Icloud]] storage is full. This is because I have been downloading books from [[Calibre]] to the Ipad. It seems that it is not possible to change the dowload location to other cloud services than [[Icloud]]. It doesn't really matter, I only need to store books locally on the Ipad long enough to copy them to my reader apps. Rather than paying for more [[Icloud]] storage, I have changed the download destination to the downloads folder on the [[Ipad]] and emptied the downloads folder on [[Icloud]].
+    - Went #bathing - 17 C in the air and 11 C in the water. Today I did not feel the discomfort of the cold in the water as I usually do. I stayed in the water for 2:30 minutes.
+-  

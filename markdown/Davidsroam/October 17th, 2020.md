@@ -1,0 +1,31 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FgVWs2PPbHS.png?alt=media&token=9710dc48-f347-4c8b-a637-c16744878def)
+- HT_Date:: 20201017
+- HT_WHM:: no
+- HT_Meditation:: No
+- HT_PT:: no
+- HT_Bathing:: 7 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 10:00
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+    - 20:00
+        - Call Esther
+    -  
+- 10:17
+    - I will take care of the grandchildren for a time while [[Kerstin]] fetches [[Amanda]] to bring her home for lunch and [[Samuel]] and [[Josefine]] are looking at stuff for their upstair bathroom.
+    - Processing highlights for [[Writing Down the Bones]].
+- 15:04
+    - [[Samuel]] and [[Josefine]] fetched their children a short while ago, they had been out purchasing stuff to their bathroom.
+    - I have been looking at alternatives for wall heaters, [[Samuel]]'s friend [[Henrik]] had recommended the [[Adax]] brand. These can be purchased at Elgiganten, I think I should get a 1200 heater. [Link](https://www.elgiganten.se/product/hem-och-hushall/varmepump-element-och-uppvarmning/element-vagg/NP12WIFI/adax-neo-panelelement-wifi-h-12-vit)
+        - The elements we have at the moment use 220V. The radiator in my study is 140 x 60 cm
+        - I will have to put in wall outlets for the elements, the ones we have at the moment are fed by cables without outlets.
+        - An alternative to purchasing a new element is to purchase a "Smart wall plug" with an inbuilt thermostat and wifi. As far I I can understand, this would not be an inferior alternative to replacing the element itself. [Link](https://www.clasohlson.com/se/Plug-in-termostat-Mill-WiFi-socket/p/36-7782?gclid=CjwKCAjwrKr8BRB_EiwA7eFapraIAjGcPRkq2-iDmobpSUYuwwZMchePTbefZT7avYcVdb3pu8gAJBoC8KkQAvD_BwE) to clasohlson. [Link](https://www.komplett.se/product/951172/hem-hushaall/smarta-hem/smart-varme-kraft-och-inomhusklimat/smart-stromhantering/mill-wifi-socket?gclid=CjwKCAjwrKr8BRB_EiwA7eFapsLArj051pPWPKUfhsSbW7Inyui_GM1Aqr5LCzetC0tuZW0MRE6TgxoCisEQAvD_BwE&gclsrc=aw.ds) to Komplett, if I want to purchase this via [[Riscom]]
+    - [[Kerstin]] has returned after shopping with [[Amanda]] and driving her home.
+- 18:41
+    - Listening to a #Podcast with [[Tim Ferris]] and [[Naval Ravikant]]. Ravikant talks about his principles for acquiring wealth. Interesting.

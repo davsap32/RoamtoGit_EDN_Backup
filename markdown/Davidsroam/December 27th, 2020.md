@@ -1,0 +1,31 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FQkgsFiJqnO.png?alt=media&token=19610466-e066-4416-be7e-ae024580d5b9)
+- HT_Date:: 20201227
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: yes
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: 79,4
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+-  11:27
+    - Still enjoying reading [[Tokyo Underworld]] - describing the corruption which was endemic in Japanese society during the rebuilding of the country after the second world war. #Books
+    - Went out for a short walk with [[Kerstin]] today - decided not to go #bathing, as it was very windy.
+    - Made a tasty ceviche of salmon.
+- 16:22
+    - Sent our old musli recipe to [[Ruth]], who had asked for it.
+- 21:12
+    - Finished reading [[Tokyo Underworld]]- enjoyed it.
+- 21:36
+    - Checking out new functionality for roam templates: (using ;;). [Link to video description](https://www.loom.com/share/9553be500a904724b0f0a7652fa707bc) [[Roam Research]]
+        - I have created a page titled roam/templates and added a **daily plan** template, which should mean that I can use the template in [[Roam Research]] going forward, rather than in [[Breevy]]. So I can use the template on my [[Ipad]] as well as my PC. 
+        - There is a problem with this: for the habit tracker attribute table to work as intended, the habit tracker keywords may not be indented - they must be on the same level as the daily page title. This can work if I add the day's date as the top level title for the daliy plan.

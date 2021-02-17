@@ -1,0 +1,26 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fs7dkmkawG_.png?alt=media&token=384bc700-1e91-4c02-b1ff-f14ae5ababe2)
+- HT_Date:: 20210210
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 09:23
+    - I had to urinate many times last night - I am going to reduce my intake of acidy foods and beverages and see if that helps. No oranges or apple cider vinager for a week. [[BPH]] #Illness
+- 16:27
+    - [[Kerstin]] and I took photos of her mittens in the garden. [[Amanda]] will use the images to set up an [[Etsy]] site for Kerstin to sell her handwork.
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}

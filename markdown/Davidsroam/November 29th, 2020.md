@@ -1,0 +1,23 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FbCbrzxBhZF.png?alt=media&token=d406cf96-b347-4b04-8afe-92e87cc7c8c9)
+- HT_Date:: 20201129
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: 2 C 2,5 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 10:51
+    - Listening to a #Podcast with [[Tim Ferris]] and [[Richard Koch]]. Richard talks about ”star businesses” which have the potential to dominate their market segment.
+    - [[Kerstin]] still unwell. 36.8 C She has enough energy to sprt and tidy, which is a good sign. #Illness 
+    - Reading [[Breath: The New Science of a Lost Art]]. The author is trying to convince the reader of the power of the breath, I am already convinced so I don’t think there is much to be gained by my reading it. #Books #Health

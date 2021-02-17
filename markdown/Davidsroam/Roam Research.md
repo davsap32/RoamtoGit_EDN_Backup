@@ -1,0 +1,60 @@
+- [video demo of new template functionality](https://www.loom.com/share/fc8b3706af5e40d88814ed0195200595)
+- [CSS code for zettelkasten tags](https://roamresearch.com/#/app/Help/page/6OJN-doBr) (Fleeting notes, literature notes, reference notes, permanent notes)
+- [Attribute table sorting js script](https://roamjs.com/docs/extensions/attr-tables)
+- [Attribute table filter js script](https://github.com/GitMurf/roam-javascript#installation)
+- [Roam help database](https://roamresearch.com/#/app/help/page/dxTi-iUs2)
+- [Block reference and block embed](https://www.roamtips.com/home/what-is-block-roam-research) (Roam tips)
+- [Roam templates](https://www.loom.com/share/9553be500a904724b0f0a7652fa707bc) 
+- Readwise instruction
+    - {{[[youtube]]: https://youtu.be/Vgi9MsofedI}}
+- Deep jump navigation using [[Roam42]]. 
+    - {{[[youtube]]: https://youtu.be/tb_6HdAhZwo}}
+- [Cato Minor's CSS lessons](https://medium.com/@catominor3/css-for-roam-3-lesson-eef0aa29b9dc) (a little more advanced)
+- [Maggie Delano's CSS snippets](https://www.maggiedelano.com/2020/09/05/roamcsssnippets.html) 
+- [Queries in roam](https://roamhacks.com/how-to-query-roam/)
+- [Roam keyboard shortcuts](https://roamresearch.com/#/app/roam-tricks/page/JvCkIiXDk)
+- Roam tools: format text for copy/paste to/from [[Roam Research]]. [Link](https://roam-tools.ryanguill.com/?)
+- {{[[youtube]]: https://youtu.be/uWXm85VFOQs}}
+- {{[[youtube]]: https://youtu.be/LJZBGJOzhUY}}
+- 
+- {{[[youtube]]: https://youtu.be/_fiWkFlEyPE}}
+- {{[[youtube]]: https://youtu.be/UzKOi0LHxQU}}
+- [[Roam Toolkit]] walkthrough
+    - {{[[youtube]]: https://youtu.be/llP-3AqFGL8}}
+- Morning pages with [[Nat Eliason]]:
+    - {{[[youtube]]: https://youtu.be/oA1faXVOx5Y}}
+- Javascript based text expander for [[Roam Research]]
+    - {{[[youtube]]: https://youtu.be/aJEqN98j2W4}}
+- {{[[youtube]]: https://youtu.be/JvoSiVolPko}}
+- [Roam article colllection on flipboard](https://flipboard.com/@miciver/roam-research-91in7gf5z?from=share&utm_source=flipboard&utm_medium=curator_share&fbclid=IwAR1gT0wDqQI3W5DNETtE1kNJA5_Da7M5iILL_8uZ-8Peqks9w1IlddWO7Hc)
+- [Backup of roam database tp github](https://medium.com/@quinten_62777/a-step-by-step-guide-to-backing-up-your-roam-research-database-356107fe82ee)
+- **Habit Tracker**
+    - [How to build a habit tracker in Roam](https://www.reddit.com/r/RoamResearch/comments/ej2pid/how_to_build_a_habit_tracker_in_roam/)
+- **Recurring tasks**
+    - https://youtu.be/_qY2jELCRW0
+    - https://youtu.be/JggEetmfjXk
+- **Roam courses**
+- https://learn.nateliason.com/
+- [Anonym.s on task managment in roam](https://youtu.be/HBoR53i27tI)
+- [Anonym.s full roam course playlist](https://www.youtube.com/playlist?list=PLwXSqDdn_CpE934BjXMgmzHnlwXMy41TC)
+- **Beginners guide**
+https://nesslabs.com/roam-research-beginner-guide
+- https://www.roamtips.com/
+- https://www.roambrain.com/
+- [**Roam+ bookmarklet**](https://nesslabs.com/roam-research-bookmarklet)
+- https://forum.nateliason.com/
+- https://forum.roamresearch.com/
+- {{[[youtube]]: https://youtu.be/wqYl7T4Xagg }}
+- {{[[youtube]]: https://youtu.be/bjfPm_iglNY}}
+- {{[[youtube]]: https://youtu.be/t4AD320OG60}}
+- [[Notion]]{{[[youtube]]: https://youtu.be/JeUPihMsCnE}}. 
+- {{[[youtube]]: https://youtu.be/V5KAoTEOBUE}}
+- 
+- {{[[youtube]]: https://youtu.be/Sunvq3NmFnc}}
+- {{[[youtube]]: https://youtu.be/ljyo_WAJevQ}}
+- {{[[youtube]]: https://youtu.be/6VHcSw8l0GQ}}
+- {{[[youtube]]: https://youtu.be/YcNW-eidDJk}}
+- {{[[youtube]]: https://youtu.be/zd6mWJ99DL4}}
+- {{[[youtube]]: https://youtu.be/siV_iHcfU5U}}
+- **This video about making notes on articles is very good**
+{{[[youtube]]: https://youtu.be/zUPLJMnYw_M}}

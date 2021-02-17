@@ -1,0 +1,68 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FFts9wXOrzV.png?alt=media&token=bbe2b320-1aad-46b3-879d-2a96df2bf75c)
+- Reminders
+    - Consider purchasing Logitech bluetooth audio adapter.
+- {{table}}
+    - Schedule
+        - task
+    - 08:30
+        - core team meeting
+    - 09:00
+        - {{{[[DONE]]}}}} whm
+    - 10:00
+        - services agreement steerco
+    - 11:00
+        - weekly planning meeting with UK
+    - 12:00
+    - 13:00
+    - 14:00
+        - {{{[[DONE]]}}}} go [[HT_Bathing]]
+    - 15:30
+        - roaman journals panel discussion
+    - 16:30
+        - {{[[DONE]]}} vacuum
+    - 20:00
+        - Call Esther
+- 08:24
+- 09:56
+    - Facebook post from [[Robert Salzman]]:
+        - Q: You don't support Rupert Spira and Mooji. But you support Joan Tollifson. On the other hand, Joan Tollifson supports both Rupert and Mooji as she can be seen sharing their stuff on her Facebook page. What the hell is going on ? 
+        - A: Simple. Joan Tollifson and Robert Saltzman are different people. Joan likes what she likes and Robert likes what he likes. No one chooses what to like or dislike. All that arises preconceptually and then we call the conscious readout of that preconceptual awareness "myself."
+        - Although I do not agree with all her views, I like what Joan has to say. Even more than the content, I like Joan's commitment to raw honesty--a rare quality which is a message in and of itself.
+        - Joan knows Rupert personally. I don't. Perhaps I would like what Rupert says more if I liked him personally after meeting him in the flesh. I do like Rupert's gentleness, but I dislike his preaching from on high (he knows and you don't), and even more, I am put off by his misuse of logic. He's not good with logic and should swear off it or read up on logical fallacies. His current presentation is, in my view, confusing and hypnotic.
+        - Philosophical idealism is a point of view, not "Truth," as I see it. Rupert seems to lack intellectual modesty in this regard. My comments about him are not personal, but aimed at the philosophical aspect.
+        - Mooji is a different deal entirely. If you have ever allowed someone to kiss your feet (and it's even worse if you held the foot out to have it kissed), I don't want to hear a word you have to say about anything.
+        - I don't swing the Bhakti way, but I understand that some people do, and that's OK by me. But in my world, devotion is best addressed to the gods and goddesses, the universe, or whatever impersonal symbol one likes. Projecting it upon a human animal, is a different matter. Then, the deeply engrained top dog/underdog psychosexual dynamic comes into play.
+        - A love affair is one thing. But imagining that a human--any human--actually stands in for "God" is, from my perspective, sad. It's a weak-minded misunderstanding of our situation as human primate animals and a dangerous game with deleterious consequences. But that's my view. Your mileage may vary.
+    - Reading the book [[The Tools]]. About visualisation exercises, for eexample creating in oneself feelings arising from what one fears most, in order to face them. Or imagining a desired outcome in order to create the motivation to overcome obstacles [[WOOP]]. Until now, I have worked with the ability to pay attention to the space between thoughts. I have not seriously considered using techniques of this kind. At the moment I feel that it would be interesting to learn to use methods of this kind. #Philosophy
+- 12:56
+    - I set up a new [[Gmail]] address for [[Riscom]]. Riscomab@gmail.com. This in order to be able to have a company account with vendors. 
+    - I set up a new business account with [[Webhallen]] with username riscomab.
+    - The bluetooth connection between my [[Airpod Pros]] and my [[SHB]] PC does not work well with Skype. I have to fiddle with the configuration to get it to work atall and when it does work the sound quality is poor (see note below). So I have ordered a Logitech Bluetooth Audio Connector from [[Webhallen]], hope that it helps me use my [[Airpod Pros]] for Skype meetings. #Riscom
+        - Note on Apple [[Airpod Pros]] sync to [[windows]]:
+            - Hello, i finally fixed the issue which i didn't find elsewhere, about the Apple Airpods not working properly on Windows 10 and Skype for Business/Lync.
+            - Since i applied the fix below it never happened again! Hence, i'll post it here for everyone:
+            - 1-Remove any syncs from Windows of your Apple Airpods.
+            - 2-Start the Sync process from scratch (hold your Airpod's buttom and find the device on Windows).
+            - 3-Right click your sound tray icon, click Sound
+            - 4-Go to Playback tab
+            - 5-There you will have 2 devices after syncing your Airpods, let them like this:
+            - a)Headset AirPods Hands-Free - DISABLE IT
+            - b)Headphones Airpods Stereo - LET IT ENABLED AND SET AS DEFAULT
+            - 6-Go to Recording tab
+            - 7-There you will have the Headset AIrpods Hands-Free. DISABLE IT
+            - 8-In the end your AIrpods will only serve to listen to audio, but your microphones will not work and, instead, you need to use your pc's.
+            - I haven't come with a solution yet to make the Airpods Microphones work, but i will keep trying. I am pretty sure it to be a driver/bluetooth issue on WIndows, as i have zero issues while syncing with my Samsung Galaxy S8+ and it works flawlessly.
+- 15:49
+    - Listening to an episode of the [[Sources and Methods]] #Podcast with [[Sebastian Marshall]]. The podcast was generally about productive work. Sebastian's definition of effectiveness is  reliably making happen the things you want to make happen or  getting done what you want to get done. Sebastian talked about the following questions for his weekly review: #[[Productivity]]
+        - Whats really going on?
+        - What do I do about it?
+        - What matters?
+    - Asked about book recommendations Sebastian mentioned [[Musashi]] by [[Eiji Yoshikawa]] which Ihave read. Also [[The Goal]] by [[Eliyahu Goldratt]], about continuous improvement within manufacturing industry. The podcast host mentioned the book [[The Phoenix Project]] by [[Gene Kim]], [[Kevin Behr]] et al which is also about continuous improvement, within the software industry. #Books
+- 16:01
+    - Watching a Zoom panel on the subject of journaling with [[Tracy Winchell]], [[Ramses Oudt]], [[Brandon Toner]] and [[Matt Brockwell]]. No new impulses in this discussion which would lead to my changing my approach to journaling.
+- 21:17
+    - [[Kerstin]] went with [[Marianne]] to [[Simonstorp]] where they bathed in the sauna and in the lake. they came back together and ate dinner here, are now watching Idol on TV. I have spent some time in my [[Digital Garden]], processing my highlights from the book [[The Tools]].
+- 
+- 
+- 
+-  

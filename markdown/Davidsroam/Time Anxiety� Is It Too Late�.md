@@ -1,0 +1,4 @@
+- Author::[[Anne-Laure Le Cunff]]
+- Tags:: #Articles #Inbox #Readwise
+- Highlights:
+    - Define what “time well spent” means to you: sit down, and think about what really makes you happy and [gets you in the flow](https://nesslabs.com/flow), without overthinking about how feasible the final outcome would be. Just think of your output and how it makes you feel to work on producing it. For example, don’t think about happy it would make you to publish a book. Ask yourself if you really enjoy writing. Don’t think about how proud you would be to run a marathon. Question whether you like running. Create a short list of activities you really enjoy and that bring value to yourself or to the world.

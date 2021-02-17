@@ -1,0 +1,8 @@
+- Movie recommendation, "The Wall Of Mexico" (2019) [[Robert Salzman]]
+- The midnight sky recommended by [[Samuel]]
+- An officer and a spy recommended by [[Helene]]
+- Aniara recommended by [[Helene]]
+- Raised by Wolves recommended by Samuel
+- Just Mercy recommended by [[Kenneth]]
+- Ethos series on [[Netflix]]
+- The wave

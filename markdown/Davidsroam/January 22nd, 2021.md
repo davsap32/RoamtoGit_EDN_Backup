@@ -1,0 +1,30 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FzY_GUzNQoF.png?alt=media&token=693720b9-76e7-47aa-95a3-87aa9f99c9a5)
+- HT_Date:: 20210122
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: 78,2
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:30
+        - core team mtg
+    - 10:00 
+    - 11:00 
+    - 12:00
+        - Service review mtg
+    - 13:30
+    - 14:00 
+        - service descr CRM
+    - 20:00
+        - Call Esther
+- 10:26
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}
+    - Finshed reading [[Caste: The Origins of Our Discontents]]. #Books
+- 19:34
+    - Listened to a #Podcast with [[Sam Harris]] and [[Stanley McChrystal]] about the storming of the Capitol and violent extremism. Much wise analysis.

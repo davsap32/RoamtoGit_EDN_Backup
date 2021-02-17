@@ -1,0 +1,29 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FFMbDrD8VSl.png?alt=media&token=bde043e4-80b7-4872-8316-bf2e8f7e12a3)
+- HT_Date:: 20210125
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: 78,8
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 11:01
+    - Started reading [[A Burning]].
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}
+    - No meetings today - feels good that after the weekend with the children, my time is my own.
+- 17:18
+    - I sent a new reminder to [[SHB]], asking for assistance in closing my custody account. The woman who is my contact person for this seems to be slow in responding, so I sent my reminder to the group inbox at the Gärdet branch office.
+- 20:58
+    - Finished reading [[A Burning]] - enjoyed it. #Books

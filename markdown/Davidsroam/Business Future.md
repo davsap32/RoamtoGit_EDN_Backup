@@ -1,0 +1,19 @@
+-  [[Keywords]] :: #Projects
+- #[[Goals]]
+    - For the time at which my Handelsbanken assignment ends, develop an offering which is aligned with my interests and for which there may be a market interest. Possible ways forward:
+        - "Second Brain" - Notion, Roam - the kind of service offered by [[August Bradley]]
+        - IT consultancy, as an analyst with experience of
+            - Compliance
+            - Risk control
+            - IT development and maintenance
+        - [[Passive income]]
+- [[Activities]]
+    - Work on my own "Second Brain" system
+    - In the process become proficient at using the Notion and Roam platforms.
+    - Look into [[Tiago Forte]]s ideas concerning the [[Full Stack Freelancer]] 
+    - {{[[DONE]]}} Develop an offering #[[Business Future]] #Riscom
+    - Learn something about [[Passive income]].
+        - Take a look at [[Nat Eliason]]s description of how to go about earning [[Passive income]]. [Link](https://www.nateliason.com/blog/passive-income). Also, his descrition of his experiences. [Link](https://www.nateliason.com/blog/one-year) #Inbox
+- ## Todos:
+- {{[[TODO]]}} Develop an offering #[[Business Future]] #Riscom
+- 

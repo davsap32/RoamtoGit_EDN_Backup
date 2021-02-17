@@ -1,0 +1,25 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F20YA9HymKK.png?alt=media&token=9f7e7ead-4449-43db-99a0-45e2ae60811d)
+- 13:59
+    - Thinking about the [[Pandemic Zen]] podcast with [[Paul Gerstein]].  Attending a sensation, not what it is but **that it is**. **That it is** being the ground of all experience. Sensation can be experienced as if it were in the body, but all sensation is within **that it is**. **That it is** has no locality and no attributes. #[[Philosophy]] #Inbox
+    - I have booked a journey with [[Kerstin]] tomorrow, returning on Thursday. Itinerary: 
+        - Thielska Gallery tomorrow.
+        - Hallwylska museum and National museum on Wednesday
+        - Sven Harrys museum on Thursday
+    - First group meeting today after the summer with [[Erika]], [[Judith]] and [[Peter]]. Tomorrow I will present a suggested workflow based on JIRA.
+- 15:49
+    - [[Books]] [[Digital Garden]] I have spent some time "digesting" two books:
+        - [[Atomic Habits: Tiny Changes, Remarkable Results]]
+        - [[The Elephant in the Brain]]
+        - My method is as follows:
+            - Go through the highlights made for each book, identify statements that I feel will make good #[[Evergreens]]. Mark these in bold and with the #[[Evergreens]] tag.
+            - Sort text which will help to explain each of the #[[Evergreens]], indented under each note. Avoid repetition and unnecessary content.
+            - Use the filter to remove all the #[[Evergreens]] and the text associated with each note.
+            - Delete the remaining text.
+            - Remove the filter to restore the #[[Evergreens]]
+- 16:18
+    - #[[Photography]] [[Articles]] Read an interesting article by [[Danny Lyon]] in [[The Guardian]] on his best photo. [Link ](https://www.theguardian.com/artanddesign/2020/aug/06/danny-lyon-best-photograph-two-boys-and-a-puppy-in-knoxville-tennessee) #Inbox
+    - [[Kerstin]] feels that [[Amanda]] needs some time with her, she has taken [[Amanda]] #bathing and will bring her home to dinner.
+    - "Digested" two more #Books : [[Art and Fear. Observations on the Perils (and Rewards) of Artmaking]] and [[Peak_ Secrets from the New Science of Expertise]]. Now I can begin examining possibilities of recombining #[[Evergreens]]. #[[Digital Garden]]
+    - I have rearranged my [[Weekly Review]] template, so that the actions are not [[TODO]]s , rather actions are a checklist. For each action I can enter the date performed as an indent under the action.
+    - Today, I am quite pleased with having spent some time working on my [[Roam Research]] database, more specfically I have made some progress with my #[[Digital Garden]]
+    - Still an issue with inflammation in the ring finger of my right hand. Will have to wait to do more [[Touch Typing]] training.

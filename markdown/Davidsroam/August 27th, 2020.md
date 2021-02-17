@@ -1,0 +1,36 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FNVW4dDYvp-.png?alt=media&token=beab064b-4a9c-4e77-8868-3b2b38f29047)
+- {{table}}
+    - schedule
+    - 08:30
+        - Core team meeting
+    - 09:00
+        - {{{[[DONE]]}}}} whm breathing & meditation.
+    - 10:00
+        - {{{[[DONE]]}}}}   SHB financial crime training
+    - 11:00
+    - 12:00
+    - 13:00
+        - {{{[[DONE]]}}}} go [[HT_Bathing]]
+    - 14:00
+        - {{{[[DONE]]}}}} practice [[Inspectional Reading]] using the book [[How to Read a Book]]
+- Reminders
+    - {{{[[DONE]]}}}}  check for book [[How to read books]]
+    - {{{[[DONE]]}}}} sla levels task -> Jira
+    - {{{[[DONE]]}}}} date as label in Jira
+- 08:24
+    - Started listening to a #Podcast yesterday with [[Sam Harris]] and [[Siddhartha Mukherjee]] about USA response to the Covid-19 pandemic. Mukherjee feels that asyptomatic infection is an important factor in spreading the illness - something that the Swedish public health authority has been unwilling to recognize. He also thinks that the use of face masks is important in reducing the rate of infection.
+    - [[Annika]] and [[Anders]] came to dinner yesterday evening. Quite pleasant, but about halfway through I began longing to get on with my new [[Galaxy Brain]] course.
+    - Considering restructuring my TODO Vault so that I have a long list with everything in the same list, tagged to be able to sort into [[Projects]] [[Areas]] etc. [[Live List]] will be the short list with tasks to be worked with in the near future. Tasks from the [[Live List]] to be added to the daily schedule.
+- 10:08
+    - I had training pain during last night, which has not happened for a long time. It seems that I trained harder than usual during [[HT_PT]] yesterday.
+- 16:51
+    - I have been sittining on the sundeck for a couple of hours, enjoying the sun and reading [[How to Read a Book]]. I intended  to practice [[Inspectional Reading]] and I am reading rather quickly, but I am spending some time highlighting and reading some passages a little more carefully. #Books
+    - It requires some effort to lock the kitchen door. It is too difficult for [[Kerstin]]. I tried to grind down the metal plate that the bolt fits into, it didn't help. I have concluded that the hinges have fallen out of line, so that the door now leans downward somewhat. I'm going to ask [[Valy]] to help me realign the hinges. 
+    - [[Samuel]] called to ask my opinion about employing [[Amanda]] at [[Angry Creative]]. One of their administrators has had some kind of crisis and cannot work, [[Samuel]] feels that [[Amanda]] would be a good fit for those duties but was concerned about how it would look if he employed his own sister. My advice was that  [[Samuel]] could see to it that [[Amanda]] and her potential new boss at [[Angry Creative]] meet, but the decision to employ or not should be up to that person, [[Samuel]] should make it clear that he does not intend to influence that decision. He was satisfied with my answer and it seems that [[Amanda]] has a good chance to be employed at [[Angry Creative]], which would be a great relief to her and to myself and [[Kerstin]].
+- 18:51
+    - I paid for a one-year subscription for [[Evernote]], in order to be able to have the app on all of my devices. I also put in reminders for renewal dates for all of my subscriptions in the subscription database in [[Notion]]
+    - [[Amanda]] called to tell us that she would start work at [[Angry Creative]]. She will have an interview on Tuesday [[September 1st, 2020]],  [[Samuel]] has told her that this is a formality. She is of course very happy to leave [[Arbetsfabriken]], where she has been very unhappy.
+    - Finished reading [[Resilient: How to Grow an Unshakable Core of Calm, Strength, and Happiness]]. I have imported my highlights and have now to create #[[Evergreens]].
+-  22:12
+    - Read about and installed an app [[Otter]] for voice transcription. Seems to work well.
+    - It seems that the javascript in [[Roam42]] does not work as well in [[Safari]] as in [[Chrome]]. I should stick to [[Chrome]].

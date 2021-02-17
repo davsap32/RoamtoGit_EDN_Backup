@@ -1,0 +1,23 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FisoRTtPsOz.png?alt=media&token=80c7baa4-bf22-4aef-9d74-12cd31a748e4)
+- ![](https://mail.google.com/mail/u/0?ui=2&ik=c57a38a47d&attid=0.1&permmsgid=msg-f:1679559058708612612&th=174efe10b19dc604&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ_bB3kgylOg71Ol7qKMOBl9j9QcKNZhL_kBxEGQXPyw0hznKnvbS24KgCmEsuzKfUaMhTSbwWjCTfp8jymiKaIyBNMYBHdcEwY-xzVh-rYr89ncYYgZnBq1BW4&disp=emb)
+- {{table}}
+    - Schedule
+        - task
+    - 08:00
+        - whm
+    - 09:00
+        - bathing
+    - 10:00
+    - 11:00
+    - 12:00
+    - 13:30
+        - core team planning
+    - 15:00
+    - 20:00
+        - Call Esther
+-  08:49
+    - I made a shopping list in [[Evernote]] yesterday and used it while shopping. As the list was open on my [[Ipad]] while I was  updating it on my [[Iphone]], Evernote messed up the synchronisation. My conclusion is that [[Evernote]] cannot reliably be used in this way. I tried the same thing in [[Simplenote]], the synch goes in both directions and starts on its own rather quickly.  So I'll use [[Simplenote]] for this purpose. #[[Home Tech]]
+- 13:31
+    - Reading [[The 80/20 Principle: The Secret to Achieving More with Less]]. The author's argument is quite convincing, that there is always potential to do less of low value activities and more of high value activities. Outside of a business context the assessment of value will have to be subjective, i. e. experienced value. It might be an interesting exercise to list activities and experienced value on say a three level scale.  I have been thinking through how I use my time for some years, so the results of the exercise should not surprise me. Although you can never be sure. One thing that the author says which I find especially interesting is that time is not in practice a limited resource due the fact that most of our time is spent on low value activities. This feels quite counterintuitive for me. I have to see what the experienced value exercise gives. #Books #Productivity
+- 16:18
+    - [[Carl-Otto]] and [[Cecilia]] will come to dinner this evening. We have been tidying and preparing food.

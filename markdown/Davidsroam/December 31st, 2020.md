@@ -1,0 +1,22 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F6nWc6CnXXg.png?alt=media&token=d1630d6e-02a6-47d0-b0b7-dd923ceb9c49)
+- HT_Date:: 20201231
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+        - [[Carl-Otto]] and [[Cecilia]] here for lunch
+    - 14:00 
+    - 20:00
+        - Call Esther
+    - 17:16
+- We ate lunch outside by our fireplace with [[Carl-Otto]] and [[Cecilia]]. Went for a walk. It started raining, so we drank our alcohol-free sparkling drink on our porch, under the roof. I became quite cold sitting out there, looked forward to them leaving, which they did eventually
+- Still feeling the effects of [[Sciatica]], I am doing exercises to relieve it several times a day. #Illness

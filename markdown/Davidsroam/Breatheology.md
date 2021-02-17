@@ -1,0 +1,3 @@
+- Author:: [[Stig Severinsen]]
+- Recommended By:: 
+- Keywords:: #Books #ToRead

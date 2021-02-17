@@ -1,0 +1,3 @@
+- Keywords:: #Books #ToRead
+- Author:: [[Derek Sivers]]
+- Recommended by:: [[Ali Abdaal]]

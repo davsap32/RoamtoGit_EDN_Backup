@@ -1,0 +1,27 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FyRMoXs6cSx.jpeg?alt=media&token=bc5a4975-10b3-45d7-be33-f6fc9597e150)
+- HT_Date:: 20210124
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 09:22
+    - [[Lizzie]] received her first dose of [[Covid]] vaccine on [[January 21st, 2021]]
+- 19:58
+    - [[Samuel]] and family left after lunch today - [[Kerstin]] and I agreed that it had been a bit much to have the children here for so long.
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}
+- The medicines I am taking for [[BPH]] have affected my erectile function. According to my research, erectile function is restored for most men over time. #Illness

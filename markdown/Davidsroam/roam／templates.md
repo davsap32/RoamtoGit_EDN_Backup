@@ -1,0 +1,23 @@
+- **Daily schedule**
+    - {{table}} 
+        - Schedule 
+            - task
+        - 10:00 
+        - 11:00 
+        - 12:00
+        - 13:00
+        - 14:00 
+        - 20:00
+            - Call Esther
+- Habit tracker
+    - HT_Date:: xxxxxx
+    - HT_WHM:: no 
+    - HT_Meditation:: No 
+    - HT_PT:: no
+    - HT_Breaths_per_min:: xx 
+    - HT_Bathing:: no 
+    - HT_Back_ex:: no
+    - HT_Weight:: xx
+- Sciatica
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}

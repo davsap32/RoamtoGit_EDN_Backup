@@ -1,0 +1,8 @@
+- Author:: [[@CatoMinor3 on Twitter]]
+- URL:: https://twitter.com/CatoMinor3/status/1337370652819533826
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 27th, 2020]]
+    - Doing more progress. Now collapsable rows with the help of checkboxes :). #roamcult #roam @roamhacker @beauhaan @Jeanvaljean689 https://t.co/oSW03KoZEy 
+        - **Note**: Thread
+    - I think this starts to look quite reasonable :). https://t.co/MWXCtjB75c 

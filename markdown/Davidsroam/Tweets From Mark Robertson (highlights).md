@@ -1,0 +1,6 @@
+- Author:: [[@calhistorian on Twitter]]
+- URL:: https://twitter.com/calhistorian
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[October 10th, 2020]]
+    - Here is the shortcut: https://t.co/iGk7ijTIiQ 

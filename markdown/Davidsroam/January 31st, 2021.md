@@ -1,0 +1,31 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F0iAMC3xfLQ.png?alt=media&token=9592f9e0-39cd-4f6c-ad2f-fe0e073524e3)
+- HT_Date:: 20210131
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 09:57
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}
+    - Trying to fix [[Roam Backup/Restore]] to [[GitHub]]. I checked the main.yml code in my [[GitHub]] repository - it matches that referred to at [[Roamstack]]. I have posted on the [[Roamstack]] [[Geneva]] chatroom asking for advice.
+- 13:39
+    - Booked at [[Villa Fridhem]] for dinner and overnight stay on [[February 26th, 2021]].
+- 19:01
+    - [Ray Bradbury[]] on writing
+        - {{[[video]]: https://youtu.be/_W-r7ABrMYU}}
+- 20:01
+    - Spoke with [[Esther]]. The fuse for the plugs in the house trips unexplainably. She has had an electrician look at it, he says that the house needs to be rewired. She is waiting for a quote from him, and may ask for a quote from another electrician to compare.

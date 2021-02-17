@@ -1,0 +1,30 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FKOUj0vn5MZ.jpeg?alt=media&token=a31b7755-36f6-41c7-a02b-492be960352d)
+- HT_Date:: 20210130
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+        - lunch with [[Carl-Otto]] and [[Cecilia]]
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 10:28
+    - -10 C this morning. I charged the car battery overnight, but cold not start the car this morning. I tried starting it with cables from [[Kerstin]]’s car, that worked. Drove to Åby to fetch my package and do some shopping, also to charge the battery.
+- 15:45
+    - We have recently returned from eating lunch with [[Carl-Otto]] and [[Cecilia]], in their garage. We had clothed ourselves warmly, but after a couple of hours my feet felt quite cold.
+- 23:17
+    - It seems that I have recovered from issues with erectile dysfunction which were due to medicines for [[BPH]]. Great relief. #Illness
+- 23:21
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}

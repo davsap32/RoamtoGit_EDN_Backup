@@ -1,0 +1,30 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FFCKf1LOa0-.png?alt=media&token=b30a8e5f-2639-4cb9-b9ab-e029f9673480)
+- HT_Date:: 20201213
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 09:00
+        - whm
+    - 10:00 
+        - bathing
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 
+- Next PT: [[December 16th, 2020]]
+- 12:21
+    - I did factory resets on my [[Dlink DIR-815]] and [[ASUS RT-AC51U]] routers, assigned new admin passwords and set them as access points. set the same SSID for all routers (HOME54 & HOME54_5G), including the main router [[CBN-GW7557CE]]. (192.168.0.1). Manually set the IP adress of the Dlink router to 192.168.0.200. Updated the firmware of the ASUS router. I should consider replacing the Dlink router with a new router, as the latest firmware update is from 2013. #[[Home Tech]]
+- 15:12
+    - Continuing to read [[A Memory Called Empire]] - enjoying it.
+- 21:59
+    - Registred for a course at joelgrimes.com in [[Still Life Photography]]. #Photography [[Joel Grimes]]

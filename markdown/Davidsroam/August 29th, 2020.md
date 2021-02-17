@@ -1,0 +1,30 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F13Grp86ZrZ.png?alt=media&token=b5448acc-afef-4120-bb4c-64f86c247cb1)
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - WHM breathing and meditation
+    - 11:00
+        - {{{[[DONE]]}}}} tidy and dust desk
+    - 12:00
+    - 13:00
+        - go [[HT_Bathing]]
+    - 14:00
+        - tidy workbench
+-  08:06
+    - According to [[Lukas Kawerau]] ([[Galaxy Brain]] course instructor), important **Concepts**,  **Propositions **and **Questions **should be pages in [[Roam Research]]. So #[[Evergreens]] should be pages. #[[Roam Research]] #[[Digital Garden]]
+    - Watching the course lesson "Coherent and Atomic - Writing Reusable Thoughts", I learned to link to blocks so that the block text is not seen until thr mouse pointer hovers over the link. Ctrl-k gives [](), then add extra double parentheses between the curved parentheses. Example: [link](((KkTw7Eoms))). #[[Roam Research]] #[[Digital Garden]]
+-  15:38
+    - Completed changing all the #[[Evergreens]] to page links. Did some further rearrangement at the same time, also shortened some of the proposition texts, which [[Lukas Kawerau]] thinks should be max 250 characters. #[[Roam Research]] #[[Digital Garden]]
+    - I have spent some time tidying, as [[Susanne]] and [[Lennart]] are due to eat dinner with us and probably stay overnight.
+- 17:01
+    - I installed [[Maggie Appleton]]s [[Leyendecker]] CSS theme from the [Roamcult Themes page](https://roamresearch.com/#/app/help/page/fJRcVITNY). Now I can set styles freely in my Roam pages. #[[Roam Research]] #[[Digital Garden]]
+    - I have added tags to all the page links to #Evergreens pages. There were about 150 of them and I couldn't find a method to do "Find and Replace" on them all at the same time, so I had to do it manually. Now that these links are tags, I can use the CSS selector "data-tag" to find them  by selecting tags beginning with "E:" and then setting style as follows:
+        - span.rm-page-ref[data-tag^="E:"] {
+            - background: #99DD4A !important;
+            - color: #fff !important;
+            - padding: 3px 7px;
+            - line-height: 2em;
+            - font-weight: 500;
+        - }
+        - So now I can mark all the #Evergreens links with their own style. I can do the same with project and area pages if I choose to prefix their names with **P:** and **A:**

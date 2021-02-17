@@ -1,0 +1,7 @@
+- Keywords:: #Areas
+- #[[Goals]]
+    - No goals as such. Find inspiration where I can. Lighten the feeling of being separate, which is the main source of anxiety and frustration.
+- Activities
+    - Follow inspiring thinkers, [[Robert Salzman]] [[Joan Tollifson]] [[Darryl Bailey]]
+- [Nonduality podcast with John Astin](https://open.spotify.com/episode/6YgIj8QRYU5vQfc40FmDPz?si=_l37G7u2RiSIYsrdJYyXcQ)
+- 

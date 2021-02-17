@@ -1,0 +1,56 @@
+- 
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fu3SDnrsiaa.png?alt=media&token=7c0b531c-e434-4d24-8024-848b98d067f3)
+- Reminders
+    - {{{[[DONE]]}}}} acquire the book ”the art of statistics” by Spiegelhalter
+    - {{{[[DONE]]}}}} pay webhallen invoice
+    - {{{[[DONE]]}}}} mail esther
+    - 
+- {{table}}
+    - Schedule
+        - task
+    - 08:30
+        - core team meeeting
+    - 09:00
+        - {{{[[DONE]]}}}} whm
+    - 10:00
+        - {{{[[DONE]]}}}} PT
+    - 11:00
+        - {{{[[DONE]]}}}} go [[HT_Bathing]]
+    - 12:00
+    - 13:00
+    - 14:00
+    - 20:00
+        - Call Esther
+- 01:27
+    - dreamt of being eaten by crocodiles. #Dreams
+- 06:19
+    - dreamt of having to save [[Kerstin]] and [[Amanda]] from a bus that has driven off the road into water and was full of water. By picking up the bus and pouring out the water. #Dreams
+- 13:30
+    - I received the [[Logitech Bluetooth Audio Adapter]] that I had ordered with the intention of using it to bridge between my  [[Airpod Pros]] and my [[SHB]] PC. I could not pair the [[Airpod Pros]] with the adapter and have written to Logitech to ask them how this should be done. I have received a ticket no: 4166367. Time expended: About an hour.
+- 14:58
+    - I went #bathing just as it started to rain. It wasn't raining much while I bathed, but by the time I got home it was raining  heavily. Still not very cold in the water - I didn't measure today but I guess about 14 C.
+    - I completed going through highlights for two books: [[Rapt]] (which I abandoned at about 20%) and [[The Tools]] (which gives me food for thought: this is perhaps a new practice to learn). So now I have lots of [[Evergreens]], the question is what is the next step. Alternatives: #Books [[Digital Garden]]
+        - Keep reading and adding more [[Evergreens]]. 
+            - I can review by booklist and choose something which awakens my curiosity. Adding [[Evergreens]] is not an end in itself.
+        - Decide on a topic for my own writing. Alternatives:
+            - **Habits and practices for myself going forward.** I don't think that there is much to write about on this subject. My habits and practices are in good shape, I just need to try the practices in [[The Tools]] and/or [[WOOP]]
+        - Continue to review my [[Digital Garden]], refining formulations and connecting [[Evergreens]]
+- 15:20
+    - [[Kerstin]] mentioned at lunch that she thought I was hostile towards [[Marianne]]. Not my intention, but I do not feel comfortable in her presence and obviously it shows. I tend to keep out of the way when she is here. The question is with what do I feel uncomfortable and can I get over it?
+        - With what do I feel uncomfortable?
+            - [[Marianne]] has a way of trying to tease or provoke me which I dislike
+            - [[Marianne]] has a way of conversing which hinders reflection in conversation. She is in a hurry to tell her stories and takes as much of the available airtime as she can get. 
+        - What's really going on?
+            - [[Marianne]] has low status in my eyes. She strikes me as shallow. But why can I not show her warmth anyway. What is stopping me? 
+            - This may be an example of a hangup which cannot be resolved through thinking. Perhaps I should try one of the practices in [[The Tools]].
+    - 20:18
+        - [[Marianne]] came to pick berries in the forest and stayed for dinner.
+        - [[Kerstin]] took [[Amanda]] to the hospital today for a gyneacological checkup, they found cysts on her ovaries, which is worrying for her. They have called her to a new checkup at the end of October? I spoke to [[Esther]] this evening and mentioned the cysts, [[Esther]] was not overly worried, she thinks that an oral contraceptive would hold the cysts in check. 
+        - [[Amanda]] had her first day of work at [[Angry Creative]] today, according to [[Kerstin]] she felt overwhelmed by all the new systems and routines she has to learn.
+        - I have started reading [[The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness]], it seems very good. I'd like [[Samuel]] to read it. #Books
+        - [[Roam42]] has added some new functionality (Deep Nav) which I can try out. The help for [[Roam42]] is available through Alt-Shift-H. 
+            - In Roam42, pull up the help menu and click on the settings button for Deep Nav. Enable it. Then ALT+G.
+        - 
+    - 
+- 
+-  

@@ -1,0 +1,11 @@
+- Keywords:: #Areas
+- ToDos:
+    - {{[[TODO]]}} Check if vole repellent needs new batteries #[[Home Tech]]
+    - {{[[TODO]]}} Cancel ComHem Play+ **due 20210605** [[May 31st, 2021]] #scheduled [[duedate]] #[[Home Tech]]
+    - {{[[TODO]]}} Cancel kerstins apple tv+ subscription **due 20210101** [[December 7th, 2020]] #scheduled [[duedate]] #[[Home Tech]]
+    - {{[[TODO]]}} Install ComHem antivirus on Kerstin’s laptop and in lounge #[[Home Tech]]
+    - {{[[TODO]]}} Book roadworthy test for the Toyota **due 2021-02-28** [[December 6th, 2020]] #scheduled #[[Home Tech]]
+    - {{[[TODO]]}} install dedrm in calibre #[[Home Tech]] #Waiting for new version
+    - {{[[TODO]]}} consider purchasing yubico key #[[Home Tech]]
+    - {{[[TODO]]}} replace lamp in lounge
+    - 

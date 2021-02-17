@@ -1,0 +1,33 @@
+- 
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FzeC0H9V8ns.png?alt=media&token=5a1f7469-7d2d-4fa7-a2e0-7e598f6a5d8f)
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - {{[[DONE]]}} whm
+    - 10:00
+        - {{[[DONE]]}} go [[HT_Bathing]]
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+        - {{[[DONE]]}} weekly review
+    - 20:00
+        - Call Esther
+-  08:13
+    - Read an article by [[JonathanBi]] describing his fractal summary method for digesting books. [[JonathanBi]] himself seems to be an interesting person to follow, and the article is worth digesting. #Inbox
+- 09:42
+    - There are two ways of understanding how awakening occurs. #Philosophy
+        - The first, expressed in the book [[One Blade of Grass]] is the metaphor of climbing a montain. Step by effortful step on a path (including wrong turns and backtracking), until the summit is "achieved". A teacher/guide is seen as being required to be able to stay on the path.
+        - The second, expressed by amongst others [[Robert Salzman]] and [[Darryl Bailey]] is about no longer believing stories such as that of the separate person ("agent"), identities etc. In this approach, mountain climbing is just another story. The dissolution of belief in stories either happens or it doesn't. There is nothing to achieve and no-one to achieve it. Only a continuously changing stream of impressions, thoughts, feelings etc. The only constant is that experience occurs.
+- 10:49
+    - Back from #bathing . There will be a bicycle race in the forest today, nice to have been down to the lake and back before it starts.
+    - Preparations are under way for Höstmilen, which will be on [[October 18th, 2020]]
+    - Took up reading [[The Book of Not]] again - wonderfully well written. #Books
+- 12:22
+    - It seems that [[Airplay]] cuts out between my [[Iphone]] and my [[Denon]] amplifier. I googled this problem - it can have to do with my wifi-router not using a modern wifi standard. I connected the [[Logitech Bluetooth Audio Adapter]] to the BD input of the [[Denon]] amplifier - it seems to work ok, though I still need to judge the sound quality. So this may be an alternative to [[Airplay]]. #[[Home Tech]]
+- 15:21
+    - Have been reading quite intensively for a couple of hours and have finished [[The Book of Not]]. Masterly writing. The story of a young woman in Rhodesia as it became Zimbabwe, her story intertwined with that of the war. #Books
+- 17:11
+    - [[Dan]] and [[Siv]] turned up at our doorstep this afternoon. They were on their way home and took the opportunity to say hi. Someone had driven into their sleeper van yesterday in the south of the country, they were going to drive to the workshop tomorrow and leave it there. I didn’t take the time to chat with them, I had just started to prepare Beef Bourgogne and wanted to give it enough time to cook before dinner, so I worked in the kitchen while [[Kerstin]] took care of them.
+    - While preparing food, I listened to the first part of a #Podcast with [[Rangam Chatterjee]] and [[James Nestor]] about breathing but also about diet and the importance of chewing. Seems very interesting. 

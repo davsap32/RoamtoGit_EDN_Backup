@@ -1,0 +1,69 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FL9uX6yHGAe.png?alt=media&token=67adf1bc-f9ed-47ce-aacc-d0cec8eb3a5e)
+- HT_Date:: 20201020
+- HT_WHM:: no
+- HT_Meditation:: No
+- HT_PT:: no
+- HT_Bathing:: 5 C 3:10 Min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 07:30
+        - whm
+    - 08:30-09:00
+        - core team meeting
+    - 10:00
+    - 11:00-12:00
+        - planning meeting with UK
+    - 12:00
+    - 13:00
+    - 14:00
+        - bathing
+    - 20:00
+        - Call Esther
+-  10:31
+    - Acquired the book [[On the Path to Enlightenment]] by [[Matthieu Ricard]], based on it being referenced in [[Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body]]. The first pages are built on the conviction of the fact of reincarnation. At least the idea that this human body is a rare opportunity for attaining enlightenment. I see no reason to believe any of that stuff. #Philosophy #Books
+    - Went [[bathing]] just before the rain set in. 5 C in the water, 2 C in the air. Immersed for 3:10 minutes. Invigorating.
+    - Discussion with [[Peter]], preparing material for the coming steerco. We worked well together, got a lot done in a half hour. #Work
+-  12:43
+    - Finished reading [[Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body]]. #Books #Philosophy
+    - [[Kerstin]] is in town eating lunch with [[Cecilia]]
+- 15:50
+    - Did some work documenting a JIRA issue which is part of the CHAPS remediation plan. #Work
+    - Started reading [[How to Decide]] by [[Annie Duke]].
+- 18:49
+    - Started and finished reading [[How to Decide]].
+- 21:35
+    - I have processed highlights for about 15 books. I have enjoyed both the reading and the processing. I have resonated with many of the propositions which have become #Evergreens, and I have expanded my toolkit for understanding and handling daily life. I have found out about a number of potentially useful practices, without actually implementing them. I have two books which I have recently finished reading for which I have not as yet processed the highlights. There is a long list of books waiting to be read. I need to consider next steps, if I continue as now for some time I will have thousands of #Evergreens but no idea of what to do with them. Not a problem as such, I have enjoyed the process of reading and analysing and will continue with these irrespective of what happens next, but I feel that there is a lot of unused potential.
+    - **Thoughts on establishing new practices** [[Practices]]
+        - The active practices I have at the moment are: [*](((uZ-P-fLfn)))
+            - WHM breathing [*](((Q3kDS8FrB)))
+            - Meditation [*](((DHxjpq5kz)))
+            - Cold [[bathing]] [*](((rHrFPNjfn)))
+            - Journaling [*](((xCKZQinSr)))
+            - Physical training. [*](((vC5ThHe63)))
+            - Intermittent fasting [*](((7XPKOL7kK)))
+            - Reading  [*](((U4wFmRA5C)))
+                - Including, for non-fiction, highlighting and processing highlights. [*](((UyEr6iG9-)))
+        - Possible new practices to cultivate: [*](((RIdMBn-cY)))
+            - Financial management [*](((u5OccrG9M)))
+                - I have money to invest privately and in Riscom [*](((bN_2HqBFP)))
+            - Visualisation techniques such as those described in [[WOOP]] and [[The Tools]] [*](((pguLd19D9)))
+            - Creative writing as described in [[Writing Down the Bones]] [*](((xsypMNK3A)))
+                - If I were to establish a writing practice, I could potentially have much use of my #Evergreens [*](((M49FjBinm)))
+                - A similar practice to [[Writing Down the Bones]] is what [[Jed McKenna]] called "Spiritual Autophagy" [*](((2huQYxNRo)))
+            - Implementing the principles described in [[Deep Work]], [[Make Time: How to Focus on What Matters Every Day]], [[Atomic Habits: Tiny Changes, Remarkable Results]] and [[Peak_ Secrets from the New Science of Expertise]]. I feel that I have already done this to some extent. [*](((hnpxaRBUt)))
+        - Practices which have previously been important to me and which have become inactive or much less active [*](((kFv78KfPN)))
+            - #Photography [*](((d_rS-NBE3)))
+                - I don’t feel that I am finished with photography, although I am quite sure that I do not want to do street photography. I don’t feel drawn to landscape photography either. [*](((hOqj97VzY)))
+                - I should look at other people’s pictures for a while, and see if I become inspired to choose a direction for the near future.  [*](((ifcz7iRfC)))
+                - Taking pictures of family is not going to give me enough practice to develop my skills. [*](((kaTXSJmOH)))
+                - I would like to document some group or activity as part of a photography project.  [*](((0cCXdOB78)))
+                    - Am I prepared to make the necessary investment in time and effort to do this? [*](((yUK_y4B1N)))
+                    - Other alternatives? [*](((t8cueKGGn)))
+            - Yoga  [*](((Rx7HLqbD_)))
+                - not high prio for me at this stage - PT is enough [*](((fvgX3w5Jr)))
+            - Aikido  [*](((_DXt6jn4X)))
+                - this was many years ago, I’m not going to go back to it [*](((65IWPzPdo)))
+        - New practices take time and effort to establish. I feel I'm doing quite well to regularly do the active practices that I have. I don't want to schedule my days beyond a reasonable level. [*](((MMRBvfTIm)))

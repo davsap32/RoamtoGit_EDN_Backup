@@ -1,0 +1,4 @@
+- Questions to [[Urologist Bengt Folkestad]]:
+    - What is the waiting time for the [[Transurethal Resection]]?
+    - After the [[Transurethal Resection]], can I stop taking [[Alfuzosin STADA]] and [[Finasteride Accord]]?
+    - Once it has been decided to operate, can I stop taking one or both medicines?

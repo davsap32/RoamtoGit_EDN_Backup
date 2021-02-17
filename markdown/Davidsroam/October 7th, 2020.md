@@ -1,0 +1,26 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FPEpu-ME1Xj.png?alt=media&token=06d8d365-1781-4efd-b24c-001e0d14f57d)
+- {{table}}
+    - Schedule
+        - task
+    - 08:00
+        - whm
+    - 09:00
+        - bathing
+    - 10:00
+    - 11:00
+        - steerco services agreement
+    - 12:00
+    - 13:00
+    - 14:00
+    - 20:00
+        - Call Esther
+-  10:56
+    - #bathing this morning, 10 deg in the air and the water. Immersed for 3:40 mins.
+    - Steerco services agreement mtg cancelled.
+    - Yesterday evening I started reading [[The Unfair Advantage]]. #Books
+- 16:02
+    - I received my [[AirFly Pro]] bluetooth adapter from Amazon UK. Tested with Skype on my [[SHB]]  PC, seems to work fine. Paired easily with my [[Airpod Pros]]. I'm not sure if I can use the [[Airpod Pros]] microphone at the same time as the headphones, I can test this. The main thing is that the headphones work well. I have a good microphone in the webcam. #[[Home Tech]]
+    - Started listening to a #Podcast with [[Rich Roll]] and [[Michael Gervais]]. Michael is a psychologist working with high performers within sports and business and has a lot to say about mindset 
+- 18:55
+    - [[Esther]] called, she wanted to discuss what is happening with [[Daudi]]. One of his brothers has died in Johannesburg and another brother is sick with Aids in Cape Town. [[Daudi]]'s father had requested that [[Daudi]] come home with his brothers and [[Daudi]] was looking for ways to do so. [[Esther]] was concerned that she would be expected to help with finances, she has already been paying [[Daudi]] for many months while he has been unable to work. We agreed that she should not extend herself further financially at this stage, also if [[Daudi]] leaves the country she should not pay him for the time he is away (her monthly payments to him should be seen as a retainer to be available to her). She asked if I would speak to [[Daudi]] to support her, I was of course willing to do so. I just got a message from her now saying that [[Daudi]] will travel to Johannesburg to bury his brother, he will only be away for a few days and then return to Cape Town, which is okay from her perspective.
+    - [[Samuel]] called, he had done about 15 interviews with job applicants in Cape Town. the best applicants were from Zimbabwe, he thought.  He plans to leave for Cape Town on [[November 2nd, 2020]] and return on the [[November 7th, 2020]]. He feels that he is working too hard at the moment.

@@ -1,0 +1,36 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fve3Tssbvrw.png?alt=media&token=74875bcd-2b65-4c49-a3d6-30c5ca0176b6)
+- HT_Date:: 20201027
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: yes
+- HT_Bathing:: 4 min
+- HT_Back_ex:: no
+- HT_Weight:: 80,6
+- {{table}}
+    - Schedule
+        - task
+    - 08:00
+        - WHM
+    - 09:00
+        - mtg with Mark Dransfield about CHAPS remediation status
+    - 10:00
+        - preparations for UK mtg
+    - 11:00
+        - SA update mtg with UK
+    - 12:00
+    - 13:00
+    - 14:00
+        - go bathing
+    - 15:00
+        - PT
+    - 20:00
+        - Call Esther
+-  11:41
+    - #Quotes from [[Steven King]]: #[[Creative writing]]
+        - “If you want to be a writer, you must do two things above all others: read a lot and write a lot. There’s no way around these two things that I’m aware of, no shortcut.”
+        - Read a good article on writing in [[Medium]]. Worth processing. [Link](https://www.instapaper.com/read/1355770134) #Inbox
+- 17:16
+    - [[Kerstin]] has been in town for a mamography screening. She had lunch with [[Amanda]], who she says seems to be feeling OK. [[Kerstin]] also changed the wheels on the Toyota to winter wheels. She left the summer wheels with [[Däckskiftarna]] for storage.
+    - I spoke with [[Erika]] about the CHAPS schedule in the Services Agreement. She mentioned that [[Tine]] inntended to contact me concerning an extension of my contract for an additional six months, through June next year.
+    - [[Samuel]] asked us if we could take care of the grandchildren on Friday evening [[October 30th, 2020]], he wants to take [[Josefine]] to dinner before leaving for Cape Town.
+-  

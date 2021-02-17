@@ -1,0 +1,6 @@
+- Keywords:: #Books #ToRead
+- Author:: [[Seth Godin]]
+- Recommended by:: [[Derek Sivers]]
+- Comments:
+- Notes:
+- Highlights:

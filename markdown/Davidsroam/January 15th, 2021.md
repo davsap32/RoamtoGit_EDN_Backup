@@ -1,0 +1,25 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FJUC08fMFVq.jpeg?alt=media&token=589f814a-0b03-4e57-ab3a-5c50c6612d64)
+- HT_Date:: 20210115
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: 78,6
+- {{table}} 
+    - Schedule 
+        - task
+    - 09:45
+        - Doctor's appointment
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 15:54
+    - Very cold weather. Took the opportunity to empty and defrost the freezer in the garage. [[Kerstin]] sorted the contents and put them back in the freezer when it was clean. #[[Sort and Tidy]]
+    - Doctor's appointment with [[Sara Seaton]]. She referred me to a urologist and took some tests, including PSA. She will call me during next week to discuss the results of the tests. She will likely recommend medicines to reduce swelling of the prostate - one that has a more rapid effect and another that takes time to have effect.  #Illness
+    - [[Kerstin]] fetched [[Leo]]after school and brought him home. He has been reading for us about Mumintrollet and drawing Mumintrollet characters. It is a pleasure to have him here.

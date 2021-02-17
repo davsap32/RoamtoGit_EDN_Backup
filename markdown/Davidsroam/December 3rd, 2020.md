@@ -1,0 +1,35 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F9IFBShq6sN.png?alt=media&token=2c2cebe2-0a74-4d6e-a408-5cbe9bb9e686)
+- HT_Date:: 20201203
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: 1,5 C 3,5 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:30
+        - core team mtg
+    - 10:00 
+        - payments & cards SD review
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 17:22
+    - Watched [[Roam office hours]] zoom mtg - very informative. some takeaways:  #Roamstack [[Roam Research]]
+        - ckeck out roam portal
+        - consider joining roamstack
+        - check out query builder
+        - david vargas - sort query results
+- 19:44
+    - I took out a one-year  subscription to [[Roamstack]]
+    - I installed the [[Roam Portal]] Chrome extension
+    - [[Victor Strugo]] has contacted me and asks for a reply with some info about what I have been geting up to for the past 55 years.
+    - I sent my reply to [[Erika]] in response to her question if I was willing to commit to working more hours per month for the bank, my answer was that I want to stick to my present contract at 50%
+- 21:05
+    - [[Kerstin]] and her siblings will have a Christmas dinner with [[Lizzie]] on [[December 15th, 2020]]

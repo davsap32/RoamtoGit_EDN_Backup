@@ -1,0 +1,40 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FzqDbVU-O9J.png?alt=media&token=5d2a9519-7452-4164-b12e-e1dd971c832d)
+- HT_Date:: 20201217
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:00
+        - whm
+    - 09:00
+        - ISDM/VOST
+    - 10:00 
+        - core team mtg
+    - 10:30
+        - planning tasks & steps with uk 
+    - 12:00
+    - 13:00
+        - bathing
+    - 15:00
+        - Digital SD review
+    - 20:00
+        - Call Esther
+- 08:45
+    - Still feeling hip pain - it disturbed my sleep last night, so I took an Ipren, which seemed to help. #Illness
+    - By trial and error, I found the css block that controls the appearance of the caption which is displayed when hovering over a bullet with the mouse. The text cannot be seen when the block is activated. [[Roam Research]]
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FB3tUh4O-wZ.png?alt=media&token=2215e010-f3cf-42b6-b82c-aab9d466b560)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FBAnCeYUapj.png?alt=media&token=557280de-0786-4fe8-adc0-69ef5ac836d0)
+        - I have deactivated the block and will see if this creates any problems.
+    - 14:33
+        - My wifi network is now working well, I use SSID HOME54 for 2.4 Ghz and SSID HOME54_5G for 5Ghz, the same on each of my three routers. My Ipad connects to the router with the best signal as I move around the house. I can check on this using the [[Network analyzer pro]] app, in which the information page displays the make (vendor) of the router I am connected to. The BSSID shown in [[Network analyzer pro]] corresponds to the MAC adress of the router. The 5 Ghz network performance is much better comapred to the 2.4 Ghz. #[[Home Tech]]
+        - [[Kerstin]]will fetch [[Leo]] and [[Alice]] and bring them here to work on their Christmas present projects. [[Josefine]]and [[Ellen]] will then come for supper.
+        - We have invited [[Carl-Otto]] and [[Cecilia]] to eat lunch with us on [[December 19th, 2020]]. We will eat outside by our fireplace in the forest.
+        - Started reading [[The Changing Mind]], finding it interesting. #Books
+    - 20:51
+        - [[Esther]] sent a photo of [[Kenneth]] getting his first Covid vaccination shot today.

@@ -1,0 +1,37 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F_qHyI_sXJh.png?alt=media&token=29f21de5-482e-492f-b81d-5afcdc02400a)
+- Todos:
+    - {{{[[DONE]]}}}} scan drawing of flat
+    - {{{[[DONE]]}}}} check out calendar for 3:30 pm on tuesday (roam stack webinar) [[September 12th, 2020]]
+- Highlight:
+- {{table}}
+    - Schedule
+        - task
+    - 08:00
+        - {{{[[DONE]]}}}} whm
+    - 09:30
+        - Roadworthy test
+    - 10:00
+        - {{{[[DONE]]}}}} purchase matresses at Jysk
+        - {{{[[DONE]]}}}} go [[HT_Bathing]]
+    - 11:00
+    - 12:00
+    - 13:00
+        - {{[[DONE]]}} slides for steerco
+    - 14:00
+    - 20:00
+        - Call Esther
+-  10:48
+    - My car passed its roadworthy test - "Like new" said the mechanic. 
+    - I picked up new matresses for the bed at [[Furusundsgatan 14]] - the bed is 160 cm wide, I bought 2 80 cm matresses. I'll take them to stm one at a time.
+    - It's Leo's birthday today. [[Kerstin]] will fetch him and bring him home this afternoon.
+    - I passed a school class walking up to [[Lillsjön]] on my way home - I'll go #bathing later today so as not to have them buzzing around me.
+    - I received a link from [[Anne-Laure Le Cunff]] to the #[[Digital Garden]] [[Telegram]] group. I have installed the [[Telegram]] app and logged in. I need to check the group out and , if I want to participate, to write a short introduction to my #[[Digital Garden]].
+- 13:06
+    - Intro to [[Anne-Laure Le Cunff]]'s [[Telegram]] group:
+        - Hi,
+        - Thanks for the invite to join. I joined recently and have scrolled through the messages in the group - it seems to be a rich collection of talent and ideas, at the same time a challenge to follow the different threads and find where it will be most rewarding to follow links and participate in the disussion.  
+        - A little about myself as a digital gardener. I am semi-retired, working part time as a consultant within the area of IT governance. My career as a coder is long in the past, although I still code small projects at hobby level. Working only part-time, I have the possibility of following my curiosity with in a number of areas. I need to find a way to fit together all the bits of information I am exposing myself to through all the different sources available to the modern explorer in the vast information landscape. My own digital garden is focused on the areas of Philosophy, Productivity, PKM and Creativity, which all feed back on each other . The garden feels rather private at the moment, mixing reflections of a personal nature with more general conclusions. At this stage, it is important for me not to have expectations or goals concerning what the garden will produce. I am planting what I learn and will see what grows there. 
+        - Here is a quote I like from Bertrand Russell:
+            - When I wish to write a book on some subject, I must first soak myself in detail, until all the separate parts of the subject-matter are familiar; then, some day, if I am fortunate, I perceive the whole, with all its parts duly interrelated. After that, I only have to write down what I have seen. The nearest analogy is first walking all over a mountain in a mist, until every path and ridge and valley is separately familiar, and then, from a distance, seeing the mountain whole and clear in bright sunshine. 
+- 15:18
+    - [[Leo]] and [[Alice]] are here, it is [[Leo]]s birthday so we are treating him to juice and cake. [[Leo]] and I have made a collage, which he loves to do. We look for pictures on Google and he chooses what to include in the collage. He is interested in morbid pictures, I do my best to steer him in other directions, not always successfully.

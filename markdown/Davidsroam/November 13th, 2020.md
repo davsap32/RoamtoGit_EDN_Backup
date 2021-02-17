@@ -1,0 +1,39 @@
+- 
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FDFBlKFvKer.png?alt=media&token=546b7e76-6ad0-4477-b5b7-01778c527f2c)
+- HT_Date:: 20201113
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 5 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: 80.2
+- {{table}}
+    - Schedule
+        - task
+    - 07:30
+        - whm
+    - 08:30
+        - core team mtg
+    - 09:00
+        - bathing
+    - 11:00
+        - group level engagement for Infosec service descr with Peter Thompson
+    - 12:00
+    - 13:00
+    - 14:00
+    - 20:00
+        - Call Esther
+-  15:33
+    - #Philosophy Present understanding:
+        - There is no agent or author of my thoughts/feelings/inclinations/actions. These come and go in a constant changing stream governed by their own laws and circumstances.
+        - The feeling of authorship arises from thinking. Keep attention on the space between thoughts in order not to reinforce the illusion of authorship.
+        - The question of consciousness emergent from the physical universe or the other way round is not answerable. Therefore, there is no reason to speculate in answering it.
+- 17:16
+    - [[Roam Research]] Installed [[Viktor Tabori]]'s javascript extension for Mobile long tap plugin. The extensions now installed are:
+        - Roam42. [Link](https://roamresearch.com/#/app/roamhacker/page/UeoxCm8rm)
+        - Display day of week below date on a daily notes page
+        - [[Shawn Murphy]]'s filtering script for attribute tables. This installs [[David Vargas]] sorting script for attribute tables. [Link](https://gist.github.com/GitMurf/aece9f105628640cb79925d1310449ec)
+        -  [[Viktor Tabori]]'s javascript extension for Mobile long tap plugin. [Link](https://gist.github.com/thesved/48cab2307cf0598fcc5cd37643d36cb4)
+- 20:31
+    - Ordered Forearm Forklift straps from Amazon.com for delivery to [[Helene]]. She should get them on [[November 19th, 2020]]. She will take them with her to Sweden.
+-  next PT on [[November 16th, 2020]]

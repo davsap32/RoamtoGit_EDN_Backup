@@ -1,0 +1,30 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FLTczdp5X5T.png?alt=media&token=46a2e97c-13f1-4028-85dd-1660379a64f5)
+- HT_Date:: 20201130
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: yes
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: 2,5 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:00
+        - Chaps attestation internal meeting AB
+    - 08:30 
+        - whm
+    - 09:30 
+        - bathing
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+        - Services Agreement planning 2021 with UK
+    - 20:00
+        - Call Esther
+- 16:02
+    - #Quotes
+        - From an email from [[Jed McKenna]]
+            - You can leave anything you want or stay with anything you choose, nothing will get in your way except your attachments

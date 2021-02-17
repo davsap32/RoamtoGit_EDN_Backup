@@ -1,0 +1,26 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FOpqjy8Pl9X.png?alt=media&token=dd235df8-2566-4e6c-8a17-bbd2d583f17b)
+- [[Daily agenda]]
+    - {{[[kanban]]}}
+        - All day
+        - 08:30
+            - core team mtg
+        - 09:00
+            - review of SLA enquiry
+        - 10:00
+            - mtg on service SLA
+        - 11:00
+        - 12:00
+        - 13:00
+        - 14:00
+        - 15:00
+        - [[Need to plan]]
+- 09:11
+    - I received a call from [[Åby Vårdcentral]] after my call to them yesterday about discoloration under my eye. They asked me to send a picture of the discoloration and also to come in and leave a blood sample any day between 8-11 am, fasting. The nurse said that [[Sara Seaton]] suspects it may be [[Xanthelasma]] and that I should have my blood fats checked.
+- DAC
+    - https://youtu.be/zgRLCAbrr2c
+- Obersalzburg movies 1937
+    - https://youtu.be/5HVX4je4cBI
+    - [https://catalog.archives.gov/id/43461](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGRycGhzdm9MUndXMS03MWtpZFB2SHk1M2F0Z3xBQ3Jtc0tsd09oS1lnVHQ4NzZOTWdvM3hITTY3bVRiZGJ3eHJaYnY5WVFkVW9YTE9yVlFoNUhIY1NfWlpETUJnRmw5UHJQM3hsX09ieVQ0cHF3MmlyVm0yZWVOc3ZYWjhDZE9Gdng0RlRwNkEwRVBVY2ZzMmtyNA&q=https%3A%2F%2Fcatalog.archives.gov%2Fid%2F43461)
+- Zondo commission
+    - https://youtu.be/YNizwUGPX4A

@@ -1,0 +1,28 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FfsZTGupzoX.png?alt=media&token=152f2e81-ca4d-4476-a1ac-de1d5eb4fd56)
+- HT_Date:: 20210205
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: 78,6
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:30
+        - core team mtg
+    - 10:00 
+    - 11:00 
+        - sub contractors list - discussion with UK
+    - 11:45
+        - crm onboarding with Andrew.
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 10:14
+    - Listening to a #Podcast with [[Sam Harris]] and [[Zeynep Tufekci]] - she is a sociologist with a lot to say about the pandemic response. She is very critical of the lack of clear messaging about masks early in the pandemic.
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}

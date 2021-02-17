@@ -1,0 +1,5 @@
+- Author:: [[George RR Martin]]
+- URL::
+- Keywords:: #Articles #Inbox #[[Creative writing]]
+- Highlights:
+    - __I've always said there are – to oversimplify it – two kinds of writers. There are architects and gardeners. The architects do blueprints before they drive the first nail, they design the entire house, where the pipes are running, and how many rooms there are going to be, how high the roof will be. But the gardeners just dig a hole and plant the seed and see what comes up. I think all writers are partly architects and partly gardeners, but they tend to one side or another, and I am definitely more of a gardener. In my Hollywood years when everything does work on outlines, I had to put on my architect's clothes and pretend to be an architect. But my natural inclinations, the way I work, is to give my characters the head and to follow them.__

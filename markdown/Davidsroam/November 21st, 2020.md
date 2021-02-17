@@ -1,0 +1,33 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FfqqEfmdVL3.png?alt=media&token=d5325c16-1808-4ea2-bfd6-abf6e4b49e21)
+- HT_Date:: 20201121
+- HT_WHM:: no
+- HT_Meditation:: No
+- HT_PT:: no
+- HT_Bathing:: no
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 10:00
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+    - 20:00
+        - Call Esther
+- 10:27
+    - Still suffering from symptoms of a mild cold. No better and no worse compared to yesterday. No bathing, PT or WHM breathing today. #Illness
+    - When I use the **dpl** abbreviation to create my schedule in my Daily Notes pages, [[Roam Research]] cannot always absorb the simulated keypresses, there are buffering errors and the schedule comes out wrong. I have created a new abreviation, **dpl2** in [[Breevy]] which works better. I have configured [[Breevy]] to paste the replacement text rather than simulating keypresses.
+- 12:18
+    - [[Kerstin]] is also staying at home today, due to symptoms of a cold. She would otherwise have spent time helping [[Alice]] to tidy her room.
+    - Reading [[On the Plain of Snakes]] - well written and enjoyable. #Books. Now and then I am drawn to check on CNN on my [[Ipad]], to see if there are amy new developments in USA politics. Why bother? What is the itch that needs scratching?
+- 14:34
+    - Not much else to do today but read, with a fire going and Brahms playing on the stereo. Enjoying.
+- 18:59
+    - Watching a film on TV about still life art. Occurs to me that it would be interesting to experiment more with still life in #Photography
+        - {{[[youtube]]: https://youtu.be/_KEHdjCz460}}
+    - Watching a documentary about the musician [[Toots]]. Reggae, Jamaica.
+- 20:53
+    - Sent [[On the Plain of Snakes]] to [[Esther]], I think she will enjoy it. Also, an [article ](https://www.joe.ie/life-style/new-study-reveals-surprising-details-couples-meet-675301)about how couples meet:
+    - This evening, I made a tasty Chili Con Carne. Recipe: https://svensktkott.se/recept/chili-con-carne-med-helt-ktt/ #Recipes

@@ -1,0 +1,4 @@
+- Author:: [[Andrew Hunt & David Thomas]]
+- Reading Status:: #Paused
+- Recommended By::  [[Cal Newport]]
+- Keywords:: #Books 

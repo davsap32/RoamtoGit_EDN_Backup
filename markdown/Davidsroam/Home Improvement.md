@@ -1,0 +1,24 @@
+- Keywords:: #Areas
+- Todos:
+    - {{[[TODO]]}} Replace electric radiators alternatively install smart plugs #[[Home Improvement]]
+        - Kerstins room in the cellar 
+        - Kerstins room on the ground floor
+        - Davids workroom
+        - Lounge 3 elements
+        - Upstairs bedroom 
+            - Total: 7 elements
+        - [recommended brand](https://www.elgiganten.se/brand/se-element-vagg/Adax?&scid=SEM5026398522&utm_source=google_search&utm_medium=SEM&utm_campaign=iactivate&utm_content=sda&gclid=EAIaIQobChMItuDuo8-57AIVzgJ7Ch0HkAe9EAAYASAAEgLMU_D_BwE&gclsrc=aw.ds) for element
+        - [Wifi plug with sensor](https://www.bauhaus.se/uttag-mill-wifi-med-sensor) 
+        - size of radiator in cellar: 140 x 60 cm.
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FTi90hE1L2Y.jpg?alt=media&token=e0a5a104-c92f-4e15-b4b9-12b1541177b3)
+    - {{[[DONE]]}} Replace wooden steps in front of house #[[Home Improvement]]
+    - {{[[DONE]]}} Paint bedroom window #[[Home Improvement]]
+    - {{[[TODO]]}} Repair stone wall outside cellar window #[[Home Improvement]]
+    - {{[[DONE]]}} Asphalt on driveway outside Kerstins's ateljé #[[Home Improvement]]
+    - {{[[TODO]]}} Repair and paint porch roof #[[Home Improvement]]
+    - {{[[TODO]]}} paint wall by staircase #[[Home Improvement]]
+    - {{[[TODO]]}} Put fertiliser on lawn #[[Home Improvement]]
+    - {{[[TODO]]}} Purchase a cutlery holder for dishwashing #[[Home Improvement]]
+    - {{[[TODO]]}} fix kitchen door #[[Home Improvement]]
+    - {{[[TODO]]}} level front steps #[[Home Improvement]]
+    - {{[[TODO]]}} paint concrete by flagstones outside [[Kerstin]]'s ateljé

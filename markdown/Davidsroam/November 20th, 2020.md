@@ -1,0 +1,31 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fcc3KqMQvgQ.png?alt=media&token=f72284a7-da18-4493-992f-7683e200b8d8)
+- HT_Date:: 20201120
+- HT_WHM:: no
+- HT_Meditation:: No
+- HT_PT:: no
+- HT_Bathing:: no
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 08:00
+        - whm
+    - 09:00
+        - mtg on digital service
+    - 10:00
+        - pt
+    - 10:30
+        - service descriptions contd with Peter
+    - 11:00
+    - 12:00
+    - 13:00
+        - new approach to service descr with Peter, Andy and Rowan
+    - 14:00
+        - mtg carl johan
+    - 20:00
+        - Call Esther
+-  08:40
+    - Listening to a #Podcast [[Tim Ferris]]and [[Mary Karr]], she has written a book [[The Art of Memoir]] which I would like to read.
+    - I feel that I am starting an infection, rough throat and runny nose. Probably a good idea to skip bathing and perhaps PT today. #Illness
+-  

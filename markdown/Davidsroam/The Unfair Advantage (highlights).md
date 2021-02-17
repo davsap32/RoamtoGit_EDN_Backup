@@ -1,0 +1,414 @@
+- Author:: [[Ali Ash]]
+- Recommended By::
+- Tags:: #Books #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[October 10th, 2020]]
+    - most startups fail not because they can’t build a product, but because they can’t get enough customers and/or users. 
+        - **Tags**: #[[pink]]
+    - Part of being ‘wired’ for something, or having a talent for something, can be thought of to include the inclination to take part in it, and to practise it and become obsessed with it. 
+        - **Tags**: #[[pink]]
+    - statistical anomalies of mega-success are made: with a very large endowment of luck, and hard work ‒ and usually the hard work is something that comes easily to them because of their natural talent for it, as well as their passion and obsession with it, which means that they’re happy to put in the hours. 
+        - **Tags**: #[[pink]]
+    - in any field, ultra-successful people (including the much-heralded startup founders) achieve their success through a combination of ability, unique opportunities and the type of random advantages that come from being born into a particular family and culture that supports their talents. 
+        - **Tags**: #[[pink]]
+    - As you embark on your startup journey, or any project that you undertake, ask yourself why you’re doing what you’re doing, and why you have set yourself such a goal. 
+        - **Tags**: #[[pink]]
+    - ‘why’ is particularly important in terms of how you define success for yourself. 
+        - **Tags**: #[[pink]]
+    - ‘Big 5’ personality traits:   Openness ‒ how open you are to new experiences, and how imaginative you are   Conscientiousness ‒ how organised, self-disciplined and goal-oriented you are   Extraversion ‒ how much you enjoy spending your time around other people   Agreeableness ‒ how friendly, compassionate and cooperative you are   Neuroticism ‒ how prone you are to worry, anxiety or stress 
+        - **Tags**: #[[pink]]
+    - The trait that’s probably the most unsuited to entrepreneurship is high neuroticism. 
+        - **Tags**: #[[pink]]
+    - It’s important as an entrepreneur to be curious, to have ideas and to be unafraid to experience new things. 
+        - **Tags**: #[[pink]]
+    - Focusing on what you’re grateful for in life can make you feel happier, less stressed and more focused, all without having to change your external circumstances at all. 
+        - **Tags**: #[[pink]]
+    - people with a fixed mindset believe they are born naturally gifted at doing some things, but incapable of others. This black-and-white way of thinking often obstructs their development. Failure is a disaster to a person with fixed mindset. When it happens, they will bury their heads in the sand or blame others. The opposite of this fixed mindset is a growth mindset. This is when a person believes that all of life is fluid. Yes, you can be bad at something, but it is only because you have not taken the time or attention to get better at it. The growth mindset is perfectly encapsulated in one word: ‘yet’. ‘I can’t write code … yet.’ ‘I can’t write a business plan … yet.’ ‘I can’t find a co-founder … yet.’ This three-letter word opens up a whole realm of possibilities. 
+        - **Tags**: #[[pink]]
+    - A reality-growth mindset is the ability to accept the hard limits of the way things are (like the physical laws of the universe) and also to believe that anything is possible (the metaphysical way of looking at the universe). It acknowledges that there are limitations, but that those limitations are more malleable than some people may think. 
+        - **Tags**: #[[pink]]
+    - You have to have these two opposing viewpoints in your mind without feeling the need to fully reconcile them, and then deploy the right perspective when needed. Again, think of them as mental tools in your toolbox. 
+        - **Tags**: #[[pink]]
+    - Lean too far towards the unfairness of life, and you become a victim. Lean too far into the ‘fully-in-control master and architect of your future’ side, and you become disillusioned when your millionaire status doesn’t appear after a couple of years of hustle. 
+        - **Tags**: #[[pink]]
+    - Vision is the ability to see plainly what will exist. It’s not magic; it’s imagination and goal-setting. 
+        - **Tags**: #[[pink]]
+    - When you have vision, you can see the future you wish to create. 
+        - **Tags**: #[[pink]]
+    - In a word: no. Certainly an experienced entrepreneur, investor, founder or early startup employee can take steps to mitigate risk, but the danger can never be truly eliminated. One reason for this is that when you answer the call of entrepreneurship, you probably intend to step into an area where nobody has been before. You will break things. When things break, you will probably see your business in a whole new way. It’s all about having faith in your ability to come up with solutions. 
+        - **Tags**: #[[pink]]
+    - Rejections, pitfalls and obstacles will consistently get in your way. Without perseverance, your startup won’t make it out alive. 
+        - **Tags**: #[[pink]]
+    - You need thick skin. You need to be able to handle criticism, both the constructive and destructive types of criticism. You have to be able to bounce back even when you’re down. Even when you fail. You have to be able to take responsibility, because when you’re a founder there is no one that you can blame. 
+        - **Tags**: #[[pink]]
+    - we all have three forms of capital: economic capital (money), social capital (our network of friends and allies) and cultural capital, which is essentially everything else that can get you respect or prestige (for example, knowledge, qualifications, titles, occupation, how you talk, your accent, how you dress, your body language, your tastes and hobbies, etc.). 
+        - **Tags**: #[[pink]]
+    - real leverage in entrepreneurship largely comes from the things that IQ doesn’t test, such as social and emotional intelligence, creativity and self-awareness. After all, business isn’t an exam. It’s a process. Business success is almost always about relationships and adding value to other people, and assembling and working in a team. 
+        - **Tags**: #[[pink]]
+    - believing you can get smarter actually makes you smarter. 
+        - **Tags**: #[[pink]]
+    - Emotional intelligence is so vital because business is between people, and as people we are very affected by emotion, more so than logic. If you can read, understand and affect people’s emotions positively, you can influence and persuade them. That’s how you attract co-founders, mentors, investors and employees to join you in your startup. That’s how you negotiate a pay rise. That’s how you connect with customers. Emotional intelligence is key. 
+        - **Tags**: #[[pink]]
+    - Creativity is largely about training your mind to connect things you learn in one domain to situations that seem completely unrelated. This is known as intersectional or interdisciplinary thinking. 
+        - **Tags**: #[[pink]]
+    - One way to improve creativity is to increase your interdisciplinary knowledge: learn from areas and fields of knowledge, and other industries, that are completely different to what you already know. You will learn a lot and develop mental models that are more diverse and that will allow you to think more laterally. 
+        - **Tags**: #[[pink]]
+    - Business in the past was more about incremental improvements, cost savings and efficiency economies in factories. But the future is more about looking at how something is done now, and doing something completely new and innovative. 
+        - **Tags**: #[[pink]]
+    - Intelligence is useful. Being smart, reading lots, spending time observing and meeting people, transferring your understanding of one discipline to give you the edge in another–all these things will help you advance your startup, and possibly give you the drive to start it in the first place. But, for your idea to work, you also need some kind of unique Insight. By insight we mean being able to see below the surface of things and to understand elements of a situation that others might not. You might have insight into a particular market, because of your own background, or have insight into an upcoming trend because you’ve been researching similar products for a while and can see where it’s going. 
+        - **Tags**: #[[pink]]
+    - Having an insight means finding a need. Finding a gap in the market. Seeing an inconvenience that can be solved. Figuring out the inadequacies or inefficiencies of existing products and services on the market. In other words, finding a real problem to solve. 
+        - **Tags**: #[[pink]]
+    - The key is to spend more time on the problem than on your solution to that problem. Understanding the problem you’re solving inside and out is the powerful insight. This is what investors are after. 
+        - **Tags**: #[[pink]]
+    - it can be quite a good idea to get a job within an industry. Only by gaining that level of insight from working can you get really valuable insights about pain points and inefficiencies which can be solved through a better product or process. 
+        - **Tags**: #[[pink]]
+    - deep insight based purely on your own experience (when scratching an itch for yourself) can be misleading, as you may be one of only a handful of people with this exact issue. So, without validating your idea, you may spend a lot of time and money solving something that isn’t a problem for most people, and therefore has very little potential as a startup idea. It’s why it’s so important to get out and work for your insight. 
+        - **Tags**: #[[pink]]
+    - ‘The two most important requirements for major success are: first, being in the right place at the right time, and second, doing something about it.’ Ray Kroc, pioneer of McDonald’s 
+        - **Tags**: #[[pink]]
+    - Being too early or the first to market is bad because you have to educate your potential users and customers about the benefits. Educating the market is a very costly marketing exercise, which makes it very challenging. 
+        - **Tags**: #[[pink]]
+    - Too late, on the other hand, is the case of a startup that’s entering a market already too full with competitors ‒ a market that has seen explosive growth in the past. This means you’re entering an industry which had a lot of promise and success stories, but where much of its growth has already peaked. 
+        - **Tags**: #[[pink]]
+    - your thoughts create the luck in your life. If you think you are a lucky person, then you are more likely to experience good fortune. If you think you are an unlucky person, chances are you will experience more ill fortune. So, in this way, you can actually create more luck. 
+        - **Tags**: #[[pink]]
+    - Do more things. Meet more people. Go to more events. Blog about your startup. Produce things and publish them. Get feedback. Put more stuff out into the world. This is a very powerful way of increasing your luck, because it’s like trying to roll a double six on a pair of dice, and you can roll as many times as you like. Obviously, you’d just keep rolling the dice until you got a double six. That’s increasing your chances, because nobody is counting your number of attempts in life. 
+        - **Tags**: #[[pink]]
+    - When you go to university, particularly one that’s prestigious and difficult to get into, you will meet others who have also managed to gain entry into that university. The selection process that everyone goes through means that you get a highly curated set of fellow students, who are smart and driven. This is a great source of potential co-founders and business partners. 
+        - **Tags**: #[[pink]]
+    - If you go to an elite university, it is a large status booster, and gives you immediate credibility–it’s shorthand for ‘I’m smart, diligent and talented.’ So a top-tier university is by far the most powerful here. 
+        - **Tags**: #[[pink]]
+    - Expertise is simple. It is a self-taught process where, for the most part, you learn by doing. Begin by learning enough theory to get you started, but know that ultimately most of the real learning comes when you apply that theory and get feedback from the real world as to how it’s working. That is how you truly become an expert in something. 
+        - **Tags**: #[[pink]]
+    - Expertise often means being very good at something quite specific (no one is an ‘expert in general’) and so that means following your own interests. 
+        - **Tags**: #[[pink]]
+    - an expert in a given domain is ‘somebody who obtains results that are vastly superior to those obtained by the majority of the population’. 
+        - **Tags**: #[[pink]]
+    - Education can give you the theory and deep knowledge, but the drive to use what you’ve learned in real-world practical scenarios and being consistent in your learning is vital to becoming a real expert. Not just somebody who knows how to answer questions about a subject but has also done it themselves. 
+        - **Tags**: #[[pink]]
+    - status is your perceived ability to add value. Value can be in the form of wisdom, entertainment, spreading good emotions, solving problems for people, achieving something difficult, being cool, trendy, aspirational, attractive or interesting. That’s why it’s more complicated and expansive than just whether you’re ‘upper class’, ‘white’ or ‘male’–we all have a certain status in different situations. As entrepreneurs or aspiring entrepreneurs, to some extent or another, our ‘why’ or motivation for starting is usually tied to increasing our status. Not always the most mentally healthy of motivations, but the reality is that most of us strive for success to achieve some kind of significance, to feel important. 
+        - **Tags**: #[[pink]]
+    - Prominent sociologist Pierre Bourdieu explained status as being comprised of three different types of capital: economic, cultural and social. Economic capital is covered in Chapter 7 (Money) and is simply the concrete and tangible form of wealth in the sense of money, assets and property. Cultural capital is linked to your social class (or even your subculture), which is reflected in your accent, credentials, set of tastes, hobbies and pastimes, manner of speech, manner of dress, posture, possessions, etc. 
+        - **Tags**: #[[pink]]
+    - Social capital, the third form of status, is your network, your relationships, your connections. We include this in Status because who you know is part of your status (which is why people often like to name-drop a high-status person in conversation–a celebrity, for example–to increase their own status by association). Your network is the people you’re connected with in some way and who therefore could open doors for you to opportunities, give you valuable insights and information, and act as allies and potential collaborators. The way to increase your connections ‒ your network ‒ is through adding value, finding commonalities and being social. Your network is who would return your call, reply to your email or take a coffee meeting with you. 
+        - **Tags**: #[[pink]]
+    - Your Inner Status is an extremely powerful way to increase your Outer Status. It is your self-esteem. Your confidence. Self-esteem is just a fancy way of saying ‘liking yourself’. And whether or not you’re confident or have high self-esteem always shines through to other people. They pick up on it, consciously and unconsciously, through your body language, voice tonality and other subtle clues in your behaviour. That’s how inner status increases your outer status. 
+        - **Tags**: #[[pink]]
+    - you need a balance of self-belief and realism. You need to know the limits of possibility for yourself in the short term. We overestimate what we can achieve in a month, and dramatically underestimate what we can achieve in a decade. Be sure to love yourself for where you’re at in life at this moment. 
+        - **Tags**: #[[pink]]
+    - Lifestyle startups (or lifestyle businesses) are so called because they are designed to sustain a certain lifestyle. That could be a certain income, a certain work schedule, or it could be that there’s a constraint placed on their growth ‒ whether by the founders’ design or by the local or niche nature of their market. Lifestyle startups usually don’t need external investors. 
+        - **Tags**: #[[pink]]
+    - Hyper-growth startups are businesses which usually have more of a focus on technology, whether that be in the product itself or in the distribution. For example, Microsoft became so successful and its founder Bill Gates so rich because software is so inherently scalable. Once it’s built, it can be distributed at incredibly low cost. The same can be said for intellectual property such as a film, a book or photography, which can be distributed digitally. 
+        - **Tags**: #[[pink]]
+    - execution is the real differentiator between an idea that remains an idea and an idea that goes on to become a successful startup. 
+        - **Tags**: #[[pink]]
+    - ideas are overrated. Yes they’re important, but there are countless people all over the world having the same genius ideas at the same time, and the overall conversion rate from idea to successful startup is close to zero. 
+        - **Tags**: #[[pink]]
+    - Most startups are either a twist on an idea that already exists, or the implementation of the same idea but in a new market or industry. 
+        - **Tags**: #[[pink]]
+    - Intersectional thinking, which comes from an interdisciplinary approach, as we mentioned in the section on creative intelligence in Chapter 8, is where ideas come from. Great ideas come when you put a twist on existing things, consider a problem from another point of view, or take a solution from one industry and apply it to another, or from one geographic region to another. 
+        - **Tags**: #[[pink]]
+    - One approach which can be very valuable when trying to brainstorm a startup idea is to picture a person for whom you would like to solve a problem. Sometimes it’s a problem that they don’t know they have because they’re so used to having to deal with it, or avoid having to deal with it, that they just see it as an unchangeable fact of life. 
+        - **Tags**: #[[pink]]
+    - keep your attention highly attuned to whenever somebody mentions something they find annoying, a problem they can’t solve or a situation they’re struggling with. Also, don’t forget to stay attuned to whatever pain or inconvenience you’re experiencing yourself, and how you can solve that! 
+        - **Tags**: #[[pink]]
+    - Startup success isn’t just about choosing the right idea; it’s about choosing the right idea for you. 
+        - **Tags**: #[[pink]]
+    - It is exponentially more difficult to succeed in your startup as a solo founder. In fact, we’d strongly discourage you from attempting a startup all by yourself. Most human endeavours, business included, are achieved in teams. 
+        - **Tags**: #[[pink]]
+    - For a lifestyle startup, being a solo founder is definitely more doable simply due to the slower growth rate. It’s more manageable. However, you don’t get off completely scot-free. You’re probably going to have moments where you are racked with crises of confidence, stressed by the risk of losing big clients and struggling with the simple uncertainty and risk of entrepreneurship. 
+        - **Tags**: #[[pink]]
+    - In a startup founding team, what you need is a creator, a communicator and (often) a technician. 
+        - **Tags**: #[[pink]]
+    - The creator is the visionary who wants to see their product being loved and used by users and customers, and who is focused on ‘making a ding in the universe’, 
+        - **Tags**: #[[pink]]
+    - The communicator is the commercial co-founder who can sell and market, communicate with customers and prospective customers, and feed this back to the team. 
+        - **Tags**: #[[pink]]
+    - And finally the technician is the one who builds the technical side and makes sure it works, whether that be software, an app, a website, a life-saving drug or the formulation for a lipstick or foundation. So it could be an engineer, a chemist, a biologist, or a technician of any kind. 
+        - **Tags**: #[[pink]]
+    - There are two ingredients needed to develop your network: 1.  An authentic desire to add value to people you meet 2.  Increasing your Status so that people perceive more value from you 
+        - **Tags**: #[[pink]]
+    - spreading positive emotions, even if it’s simply a warm smile, costs you nothing, and pays you dividends. 
+        - **Tags**: #[[pink]]
+    - You can add more value to your network by proactively reaching out to people periodically, and not just when you want something from them. 
+        - **Tags**: #[[pink]]
+    - If you’re blessed with money to invest, then spending it on expert guidance can save you years and years of trial and error. Strong experts and people with genuine know-how are usually practitioners, and their time is incredibly valuable. 
+        - **Tags**: #[[pink]]
+    - The mistake most of us make is that we envision that our solution is going to be loved. We fall in love with our own idea. This is very dangerous. Beware of falling in love with your idea before you have any feedback from prospective customers/users. 
+        - **Tags**: #[[pink]]
+- Author:: [[Ali Ash]]
+- Recommended By::
+- Tags:: #Books #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[October 10th, 2020]]
+    - most startups fail not because they can’t build a product, but because they can’t get enough customers and/or users. 
+        - **Tags**: #[[pink]]
+    - Part of being ‘wired’ for something, or having a talent for something, can be thought of to include the inclination to take part in it, and to practise it and become obsessed with it. 
+        - **Tags**: #[[pink]]
+    - statistical anomalies of mega-success are made: with a very large endowment of luck, and hard work ‒ and usually the hard work is something that comes easily to them because of their natural talent for it, as well as their passion and obsession with it, which means that they’re happy to put in the hours. 
+        - **Tags**: #[[pink]]
+    - in any field, ultra-successful people (including the much-heralded startup founders) achieve their success through a combination of ability, unique opportunities and the type of random advantages that come from being born into a particular family and culture that supports their talents. 
+        - **Tags**: #[[pink]]
+    - As you embark on your startup journey, or any project that you undertake, ask yourself why you’re doing what you’re doing, and why you have set yourself such a goal. 
+        - **Tags**: #[[pink]]
+    - ‘why’ is particularly important in terms of how you define success for yourself. 
+        - **Tags**: #[[pink]]
+    - ‘Big 5’ personality traits:   Openness ‒ how open you are to new experiences, and how imaginative you are   Conscientiousness ‒ how organised, self-disciplined and goal-oriented you are   Extraversion ‒ how much you enjoy spending your time around other people   Agreeableness ‒ how friendly, compassionate and cooperative you are   Neuroticism ‒ how prone you are to worry, anxiety or stress 
+        - **Tags**: #[[pink]]
+    - The trait that’s probably the most unsuited to entrepreneurship is high neuroticism. 
+        - **Tags**: #[[pink]]
+    - It’s important as an entrepreneur to be curious, to have ideas and to be unafraid to experience new things. 
+        - **Tags**: #[[pink]]
+    - Focusing on what you’re grateful for in life can make you feel happier, less stressed and more focused, all without having to change your external circumstances at all. 
+        - **Tags**: #[[pink]]
+    - people with a fixed mindset believe they are born naturally gifted at doing some things, but incapable of others. This black-and-white way of thinking often obstructs their development. Failure is a disaster to a person with fixed mindset. When it happens, they will bury their heads in the sand or blame others. The opposite of this fixed mindset is a growth mindset. This is when a person believes that all of life is fluid. Yes, you can be bad at something, but it is only because you have not taken the time or attention to get better at it. The growth mindset is perfectly encapsulated in one word: ‘yet’. ‘I can’t write code … yet.’ ‘I can’t write a business plan … yet.’ ‘I can’t find a co-founder … yet.’ This three-letter word opens up a whole realm of possibilities. 
+        - **Tags**: #[[pink]]
+    - A reality-growth mindset is the ability to accept the hard limits of the way things are (like the physical laws of the universe) and also to believe that anything is possible (the metaphysical way of looking at the universe). It acknowledges that there are limitations, but that those limitations are more malleable than some people may think. 
+        - **Tags**: #[[pink]]
+    - You have to have these two opposing viewpoints in your mind without feeling the need to fully reconcile them, and then deploy the right perspective when needed. Again, think of them as mental tools in your toolbox. 
+        - **Tags**: #[[pink]]
+    - Lean too far towards the unfairness of life, and you become a victim. Lean too far into the ‘fully-in-control master and architect of your future’ side, and you become disillusioned when your millionaire status doesn’t appear after a couple of years of hustle. 
+        - **Tags**: #[[pink]]
+    - Vision is the ability to see plainly what will exist. It’s not magic; it’s imagination and goal-setting. 
+        - **Tags**: #[[pink]]
+    - When you have vision, you can see the future you wish to create. 
+        - **Tags**: #[[pink]]
+    - In a word: no. Certainly an experienced entrepreneur, investor, founder or early startup employee can take steps to mitigate risk, but the danger can never be truly eliminated. One reason for this is that when you answer the call of entrepreneurship, you probably intend to step into an area where nobody has been before. You will break things. When things break, you will probably see your business in a whole new way. It’s all about having faith in your ability to come up with solutions. 
+        - **Tags**: #[[pink]]
+    - Rejections, pitfalls and obstacles will consistently get in your way. Without perseverance, your startup won’t make it out alive. 
+        - **Tags**: #[[pink]]
+    - You need thick skin. You need to be able to handle criticism, both the constructive and destructive types of criticism. You have to be able to bounce back even when you’re down. Even when you fail. You have to be able to take responsibility, because when you’re a founder there is no one that you can blame. 
+        - **Tags**: #[[pink]]
+    - we all have three forms of capital: economic capital (money), social capital (our network of friends and allies) and cultural capital, which is essentially everything else that can get you respect or prestige (for example, knowledge, qualifications, titles, occupation, how you talk, your accent, how you dress, your body language, your tastes and hobbies, etc.). 
+        - **Tags**: #[[pink]]
+    - real leverage in entrepreneurship largely comes from the things that IQ doesn’t test, such as social and emotional intelligence, creativity and self-awareness. After all, business isn’t an exam. It’s a process. Business success is almost always about relationships and adding value to other people, and assembling and working in a team. 
+        - **Tags**: #[[pink]]
+    - believing you can get smarter actually makes you smarter. 
+        - **Tags**: #[[pink]]
+    - Emotional intelligence is so vital because business is between people, and as people we are very affected by emotion, more so than logic. If you can read, understand and affect people’s emotions positively, you can influence and persuade them. That’s how you attract co-founders, mentors, investors and employees to join you in your startup. That’s how you negotiate a pay rise. That’s how you connect with customers. Emotional intelligence is key. 
+        - **Tags**: #[[pink]]
+    - Creativity is largely about training your mind to connect things you learn in one domain to situations that seem completely unrelated. This is known as intersectional or interdisciplinary thinking. 
+        - **Tags**: #[[pink]]
+    - One way to improve creativity is to increase your interdisciplinary knowledge: learn from areas and fields of knowledge, and other industries, that are completely different to what you already know. You will learn a lot and develop mental models that are more diverse and that will allow you to think more laterally. 
+        - **Tags**: #[[pink]]
+    - Business in the past was more about incremental improvements, cost savings and efficiency economies in factories. But the future is more about looking at how something is done now, and doing something completely new and innovative. 
+        - **Tags**: #[[pink]]
+    - Intelligence is useful. Being smart, reading lots, spending time observing and meeting people, transferring your understanding of one discipline to give you the edge in another–all these things will help you advance your startup, and possibly give you the drive to start it in the first place. But, for your idea to work, you also need some kind of unique Insight. By insight we mean being able to see below the surface of things and to understand elements of a situation that others might not. You might have insight into a particular market, because of your own background, or have insight into an upcoming trend because you’ve been researching similar products for a while and can see where it’s going. 
+        - **Tags**: #[[pink]]
+    - Having an insight means finding a need. Finding a gap in the market. Seeing an inconvenience that can be solved. Figuring out the inadequacies or inefficiencies of existing products and services on the market. In other words, finding a real problem to solve. 
+        - **Tags**: #[[pink]]
+    - The key is to spend more time on the problem than on your solution to that problem. Understanding the problem you’re solving inside and out is the powerful insight. This is what investors are after. 
+        - **Tags**: #[[pink]]
+    - it can be quite a good idea to get a job within an industry. Only by gaining that level of insight from working can you get really valuable insights about pain points and inefficiencies which can be solved through a better product or process. 
+        - **Tags**: #[[pink]]
+    - deep insight based purely on your own experience (when scratching an itch for yourself) can be misleading, as you may be one of only a handful of people with this exact issue. So, without validating your idea, you may spend a lot of time and money solving something that isn’t a problem for most people, and therefore has very little potential as a startup idea. It’s why it’s so important to get out and work for your insight. 
+        - **Tags**: #[[pink]]
+    - ‘The two most important requirements for major success are: first, being in the right place at the right time, and second, doing something about it.’ Ray Kroc, pioneer of McDonald’s 
+        - **Tags**: #[[pink]]
+    - Being too early or the first to market is bad because you have to educate your potential users and customers about the benefits. Educating the market is a very costly marketing exercise, which makes it very challenging. 
+        - **Tags**: #[[pink]]
+    - Too late, on the other hand, is the case of a startup that’s entering a market already too full with competitors ‒ a market that has seen explosive growth in the past. This means you’re entering an industry which had a lot of promise and success stories, but where much of its growth has already peaked. 
+        - **Tags**: #[[pink]]
+    - your thoughts create the luck in your life. If you think you are a lucky person, then you are more likely to experience good fortune. If you think you are an unlucky person, chances are you will experience more ill fortune. So, in this way, you can actually create more luck. 
+        - **Tags**: #[[pink]]
+    - Do more things. Meet more people. Go to more events. Blog about your startup. Produce things and publish them. Get feedback. Put more stuff out into the world. This is a very powerful way of increasing your luck, because it’s like trying to roll a double six on a pair of dice, and you can roll as many times as you like. Obviously, you’d just keep rolling the dice until you got a double six. That’s increasing your chances, because nobody is counting your number of attempts in life. 
+        - **Tags**: #[[pink]]
+    - When you go to university, particularly one that’s prestigious and difficult to get into, you will meet others who have also managed to gain entry into that university. The selection process that everyone goes through means that you get a highly curated set of fellow students, who are smart and driven. This is a great source of potential co-founders and business partners. 
+        - **Tags**: #[[pink]]
+    - If you go to an elite university, it is a large status booster, and gives you immediate credibility–it’s shorthand for ‘I’m smart, diligent and talented.’ So a top-tier university is by far the most powerful here. 
+        - **Tags**: #[[pink]]
+    - Expertise is simple. It is a self-taught process where, for the most part, you learn by doing. Begin by learning enough theory to get you started, but know that ultimately most of the real learning comes when you apply that theory and get feedback from the real world as to how it’s working. That is how you truly become an expert in something. 
+        - **Tags**: #[[pink]]
+    - Expertise often means being very good at something quite specific (no one is an ‘expert in general’) and so that means following your own interests. 
+        - **Tags**: #[[pink]]
+    - an expert in a given domain is ‘somebody who obtains results that are vastly superior to those obtained by the majority of the population’. 
+        - **Tags**: #[[pink]]
+    - Education can give you the theory and deep knowledge, but the drive to use what you’ve learned in real-world practical scenarios and being consistent in your learning is vital to becoming a real expert. Not just somebody who knows how to answer questions about a subject but has also done it themselves. 
+        - **Tags**: #[[pink]]
+    - status is your perceived ability to add value. Value can be in the form of wisdom, entertainment, spreading good emotions, solving problems for people, achieving something difficult, being cool, trendy, aspirational, attractive or interesting. That’s why it’s more complicated and expansive than just whether you’re ‘upper class’, ‘white’ or ‘male’–we all have a certain status in different situations. As entrepreneurs or aspiring entrepreneurs, to some extent or another, our ‘why’ or motivation for starting is usually tied to increasing our status. Not always the most mentally healthy of motivations, but the reality is that most of us strive for success to achieve some kind of significance, to feel important. 
+        - **Tags**: #[[pink]]
+    - Prominent sociologist Pierre Bourdieu explained status as being comprised of three different types of capital: economic, cultural and social. Economic capital is covered in Chapter 7 (Money) and is simply the concrete and tangible form of wealth in the sense of money, assets and property. Cultural capital is linked to your social class (or even your subculture), which is reflected in your accent, credentials, set of tastes, hobbies and pastimes, manner of speech, manner of dress, posture, possessions, etc. 
+        - **Tags**: #[[pink]]
+    - Social capital, the third form of status, is your network, your relationships, your connections. We include this in Status because who you know is part of your status (which is why people often like to name-drop a high-status person in conversation–a celebrity, for example–to increase their own status by association). Your network is the people you’re connected with in some way and who therefore could open doors for you to opportunities, give you valuable insights and information, and act as allies and potential collaborators. The way to increase your connections ‒ your network ‒ is through adding value, finding commonalities and being social. Your network is who would return your call, reply to your email or take a coffee meeting with you. 
+        - **Tags**: #[[pink]]
+    - Your Inner Status is an extremely powerful way to increase your Outer Status. It is your self-esteem. Your confidence. Self-esteem is just a fancy way of saying ‘liking yourself’. And whether or not you’re confident or have high self-esteem always shines through to other people. They pick up on it, consciously and unconsciously, through your body language, voice tonality and other subtle clues in your behaviour. That’s how inner status increases your outer status. 
+        - **Tags**: #[[pink]]
+    - you need a balance of self-belief and realism. You need to know the limits of possibility for yourself in the short term. We overestimate what we can achieve in a month, and dramatically underestimate what we can achieve in a decade. Be sure to love yourself for where you’re at in life at this moment. 
+        - **Tags**: #[[pink]]
+    - Lifestyle startups (or lifestyle businesses) are so called because they are designed to sustain a certain lifestyle. That could be a certain income, a certain work schedule, or it could be that there’s a constraint placed on their growth ‒ whether by the founders’ design or by the local or niche nature of their market. Lifestyle startups usually don’t need external investors. 
+        - **Tags**: #[[pink]]
+    - Hyper-growth startups are businesses which usually have more of a focus on technology, whether that be in the product itself or in the distribution. For example, Microsoft became so successful and its founder Bill Gates so rich because software is so inherently scalable. Once it’s built, it can be distributed at incredibly low cost. The same can be said for intellectual property such as a film, a book or photography, which can be distributed digitally. 
+        - **Tags**: #[[pink]]
+    - execution is the real differentiator between an idea that remains an idea and an idea that goes on to become a successful startup. 
+        - **Tags**: #[[pink]]
+    - ideas are overrated. Yes they’re important, but there are countless people all over the world having the same genius ideas at the same time, and the overall conversion rate from idea to successful startup is close to zero. 
+        - **Tags**: #[[pink]]
+    - Most startups are either a twist on an idea that already exists, or the implementation of the same idea but in a new market or industry. 
+        - **Tags**: #[[pink]]
+    - Intersectional thinking, which comes from an interdisciplinary approach, as we mentioned in the section on creative intelligence in Chapter 8, is where ideas come from. Great ideas come when you put a twist on existing things, consider a problem from another point of view, or take a solution from one industry and apply it to another, or from one geographic region to another. 
+        - **Tags**: #[[pink]]
+    - One approach which can be very valuable when trying to brainstorm a startup idea is to picture a person for whom you would like to solve a problem. Sometimes it’s a problem that they don’t know they have because they’re so used to having to deal with it, or avoid having to deal with it, that they just see it as an unchangeable fact of life. 
+        - **Tags**: #[[pink]]
+    - keep your attention highly attuned to whenever somebody mentions something they find annoying, a problem they can’t solve or a situation they’re struggling with. Also, don’t forget to stay attuned to whatever pain or inconvenience you’re experiencing yourself, and how you can solve that! 
+        - **Tags**: #[[pink]]
+    - Startup success isn’t just about choosing the right idea; it’s about choosing the right idea for you. 
+        - **Tags**: #[[pink]]
+    - It is exponentially more difficult to succeed in your startup as a solo founder. In fact, we’d strongly discourage you from attempting a startup all by yourself. Most human endeavours, business included, are achieved in teams. 
+        - **Tags**: #[[pink]]
+    - For a lifestyle startup, being a solo founder is definitely more doable simply due to the slower growth rate. It’s more manageable. However, you don’t get off completely scot-free. You’re probably going to have moments where you are racked with crises of confidence, stressed by the risk of losing big clients and struggling with the simple uncertainty and risk of entrepreneurship. 
+        - **Tags**: #[[pink]]
+    - In a startup founding team, what you need is a creator, a communicator and (often) a technician. 
+        - **Tags**: #[[pink]]
+    - The creator is the visionary who wants to see their product being loved and used by users and customers, and who is focused on ‘making a ding in the universe’, 
+        - **Tags**: #[[pink]]
+    - The communicator is the commercial co-founder who can sell and market, communicate with customers and prospective customers, and feed this back to the team. 
+        - **Tags**: #[[pink]]
+    - And finally the technician is the one who builds the technical side and makes sure it works, whether that be software, an app, a website, a life-saving drug or the formulation for a lipstick or foundation. So it could be an engineer, a chemist, a biologist, or a technician of any kind. 
+        - **Tags**: #[[pink]]
+    - There are two ingredients needed to develop your network: 1.  An authentic desire to add value to people you meet 2.  Increasing your Status so that people perceive more value from you 
+        - **Tags**: #[[pink]]
+    - spreading positive emotions, even if it’s simply a warm smile, costs you nothing, and pays you dividends. 
+        - **Tags**: #[[pink]]
+    - You can add more value to your network by proactively reaching out to people periodically, and not just when you want something from them. 
+        - **Tags**: #[[pink]]
+    - If you’re blessed with money to invest, then spending it on expert guidance can save you years and years of trial and error. Strong experts and people with genuine know-how are usually practitioners, and their time is incredibly valuable. 
+        - **Tags**: #[[pink]]
+    - The mistake most of us make is that we envision that our solution is going to be loved. We fall in love with our own idea. This is very dangerous. Beware of falling in love with your idea before you have any feedback from prospective customers/users. 
+        - **Tags**: #[[pink]]
+- Author:: [[Ali Ash]]
+- Recommended By::
+- Tags:: #Books #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[October 10th, 2020]]
+    - most startups fail not because they can’t build a product, but because they can’t get enough customers and/or users. 
+        - **Tags**: #[[pink]]
+    - Part of being ‘wired’ for something, or having a talent for something, can be thought of to include the inclination to take part in it, and to practise it and become obsessed with it. 
+        - **Tags**: #[[pink]]
+    - statistical anomalies of mega-success are made: with a very large endowment of luck, and hard work ‒ and usually the hard work is something that comes easily to them because of their natural talent for it, as well as their passion and obsession with it, which means that they’re happy to put in the hours. 
+        - **Tags**: #[[pink]]
+    - in any field, ultra-successful people (including the much-heralded startup founders) achieve their success through a combination of ability, unique opportunities and the type of random advantages that come from being born into a particular family and culture that supports their talents. 
+        - **Tags**: #[[pink]]
+    - As you embark on your startup journey, or any project that you undertake, ask yourself why you’re doing what you’re doing, and why you have set yourself such a goal. 
+        - **Tags**: #[[pink]]
+    - ‘why’ is particularly important in terms of how you define success for yourself. 
+        - **Tags**: #[[pink]]
+    - ‘Big 5’ personality traits:   Openness ‒ how open you are to new experiences, and how imaginative you are   Conscientiousness ‒ how organised, self-disciplined and goal-oriented you are   Extraversion ‒ how much you enjoy spending your time around other people   Agreeableness ‒ how friendly, compassionate and cooperative you are   Neuroticism ‒ how prone you are to worry, anxiety or stress 
+        - **Tags**: #[[pink]]
+    - The trait that’s probably the most unsuited to entrepreneurship is high neuroticism. 
+        - **Tags**: #[[pink]]
+    - It’s important as an entrepreneur to be curious, to have ideas and to be unafraid to experience new things. 
+        - **Tags**: #[[pink]]
+    - Focusing on what you’re grateful for in life can make you feel happier, less stressed and more focused, all without having to change your external circumstances at all. 
+        - **Tags**: #[[pink]]
+    - people with a fixed mindset believe they are born naturally gifted at doing some things, but incapable of others. This black-and-white way of thinking often obstructs their development. Failure is a disaster to a person with fixed mindset. When it happens, they will bury their heads in the sand or blame others. The opposite of this fixed mindset is a growth mindset. This is when a person believes that all of life is fluid. Yes, you can be bad at something, but it is only because you have not taken the time or attention to get better at it. The growth mindset is perfectly encapsulated in one word: ‘yet’. ‘I can’t write code … yet.’ ‘I can’t write a business plan … yet.’ ‘I can’t find a co-founder … yet.’ This three-letter word opens up a whole realm of possibilities. 
+        - **Tags**: #[[pink]]
+    - A reality-growth mindset is the ability to accept the hard limits of the way things are (like the physical laws of the universe) and also to believe that anything is possible (the metaphysical way of looking at the universe). It acknowledges that there are limitations, but that those limitations are more malleable than some people may think. 
+        - **Tags**: #[[pink]]
+    - You have to have these two opposing viewpoints in your mind without feeling the need to fully reconcile them, and then deploy the right perspective when needed. Again, think of them as mental tools in your toolbox. 
+        - **Tags**: #[[pink]]
+    - Lean too far towards the unfairness of life, and you become a victim. Lean too far into the ‘fully-in-control master and architect of your future’ side, and you become disillusioned when your millionaire status doesn’t appear after a couple of years of hustle. 
+        - **Tags**: #[[pink]]
+    - Vision is the ability to see plainly what will exist. It’s not magic; it’s imagination and goal-setting. 
+        - **Tags**: #[[pink]]
+    - When you have vision, you can see the future you wish to create. 
+        - **Tags**: #[[pink]]
+    - In a word: no. Certainly an experienced entrepreneur, investor, founder or early startup employee can take steps to mitigate risk, but the danger can never be truly eliminated. One reason for this is that when you answer the call of entrepreneurship, you probably intend to step into an area where nobody has been before. You will break things. When things break, you will probably see your business in a whole new way. It’s all about having faith in your ability to come up with solutions. 
+        - **Tags**: #[[pink]]
+    - Rejections, pitfalls and obstacles will consistently get in your way. Without perseverance, your startup won’t make it out alive. 
+        - **Tags**: #[[pink]]
+    - You need thick skin. You need to be able to handle criticism, both the constructive and destructive types of criticism. You have to be able to bounce back even when you’re down. Even when you fail. You have to be able to take responsibility, because when you’re a founder there is no one that you can blame. 
+        - **Tags**: #[[pink]]
+    - we all have three forms of capital: economic capital (money), social capital (our network of friends and allies) and cultural capital, which is essentially everything else that can get you respect or prestige (for example, knowledge, qualifications, titles, occupation, how you talk, your accent, how you dress, your body language, your tastes and hobbies, etc.). 
+        - **Tags**: #[[pink]]
+    - real leverage in entrepreneurship largely comes from the things that IQ doesn’t test, such as social and emotional intelligence, creativity and self-awareness. After all, business isn’t an exam. It’s a process. Business success is almost always about relationships and adding value to other people, and assembling and working in a team. 
+        - **Tags**: #[[pink]]
+    - believing you can get smarter actually makes you smarter. 
+        - **Tags**: #[[pink]]
+    - Emotional intelligence is so vital because business is between people, and as people we are very affected by emotion, more so than logic. If you can read, understand and affect people’s emotions positively, you can influence and persuade them. That’s how you attract co-founders, mentors, investors and employees to join you in your startup. That’s how you negotiate a pay rise. That’s how you connect with customers. Emotional intelligence is key. 
+        - **Tags**: #[[pink]]
+    - Creativity is largely about training your mind to connect things you learn in one domain to situations that seem completely unrelated. This is known as intersectional or interdisciplinary thinking. 
+        - **Tags**: #[[pink]]
+    - One way to improve creativity is to increase your interdisciplinary knowledge: learn from areas and fields of knowledge, and other industries, that are completely different to what you already know. You will learn a lot and develop mental models that are more diverse and that will allow you to think more laterally. 
+        - **Tags**: #[[pink]]
+    - Business in the past was more about incremental improvements, cost savings and efficiency economies in factories. But the future is more about looking at how something is done now, and doing something completely new and innovative. 
+        - **Tags**: #[[pink]]
+    - Intelligence is useful. Being smart, reading lots, spending time observing and meeting people, transferring your understanding of one discipline to give you the edge in another–all these things will help you advance your startup, and possibly give you the drive to start it in the first place. But, for your idea to work, you also need some kind of unique Insight. By insight we mean being able to see below the surface of things and to understand elements of a situation that others might not. You might have insight into a particular market, because of your own background, or have insight into an upcoming trend because you’ve been researching similar products for a while and can see where it’s going. 
+        - **Tags**: #[[pink]]
+    - Having an insight means finding a need. Finding a gap in the market. Seeing an inconvenience that can be solved. Figuring out the inadequacies or inefficiencies of existing products and services on the market. In other words, finding a real problem to solve. 
+        - **Tags**: #[[pink]]
+    - The key is to spend more time on the problem than on your solution to that problem. Understanding the problem you’re solving inside and out is the powerful insight. This is what investors are after. 
+        - **Tags**: #[[pink]]
+    - it can be quite a good idea to get a job within an industry. Only by gaining that level of insight from working can you get really valuable insights about pain points and inefficiencies which can be solved through a better product or process. 
+        - **Tags**: #[[pink]]
+    - deep insight based purely on your own experience (when scratching an itch for yourself) can be misleading, as you may be one of only a handful of people with this exact issue. So, without validating your idea, you may spend a lot of time and money solving something that isn’t a problem for most people, and therefore has very little potential as a startup idea. It’s why it’s so important to get out and work for your insight. 
+        - **Tags**: #[[pink]]
+    - ‘The two most important requirements for major success are: first, being in the right place at the right time, and second, doing something about it.’ Ray Kroc, pioneer of McDonald’s 
+        - **Tags**: #[[pink]]
+    - Being too early or the first to market is bad because you have to educate your potential users and customers about the benefits. Educating the market is a very costly marketing exercise, which makes it very challenging. 
+        - **Tags**: #[[pink]]
+    - Too late, on the other hand, is the case of a startup that’s entering a market already too full with competitors ‒ a market that has seen explosive growth in the past. This means you’re entering an industry which had a lot of promise and success stories, but where much of its growth has already peaked. 
+        - **Tags**: #[[pink]]
+    - your thoughts create the luck in your life. If you think you are a lucky person, then you are more likely to experience good fortune. If you think you are an unlucky person, chances are you will experience more ill fortune. So, in this way, you can actually create more luck. 
+        - **Tags**: #[[pink]]
+    - Do more things. Meet more people. Go to more events. Blog about your startup. Produce things and publish them. Get feedback. Put more stuff out into the world. This is a very powerful way of increasing your luck, because it’s like trying to roll a double six on a pair of dice, and you can roll as many times as you like. Obviously, you’d just keep rolling the dice until you got a double six. That’s increasing your chances, because nobody is counting your number of attempts in life. 
+        - **Tags**: #[[pink]]
+    - When you go to university, particularly one that’s prestigious and difficult to get into, you will meet others who have also managed to gain entry into that university. The selection process that everyone goes through means that you get a highly curated set of fellow students, who are smart and driven. This is a great source of potential co-founders and business partners. 
+        - **Tags**: #[[pink]]
+    - If you go to an elite university, it is a large status booster, and gives you immediate credibility–it’s shorthand for ‘I’m smart, diligent and talented.’ So a top-tier university is by far the most powerful here. 
+        - **Tags**: #[[pink]]
+    - Expertise is simple. It is a self-taught process where, for the most part, you learn by doing. Begin by learning enough theory to get you started, but know that ultimately most of the real learning comes when you apply that theory and get feedback from the real world as to how it’s working. That is how you truly become an expert in something. 
+        - **Tags**: #[[pink]]
+    - Expertise often means being very good at something quite specific (no one is an ‘expert in general’) and so that means following your own interests. 
+        - **Tags**: #[[pink]]
+    - an expert in a given domain is ‘somebody who obtains results that are vastly superior to those obtained by the majority of the population’. 
+        - **Tags**: #[[pink]]
+    - Education can give you the theory and deep knowledge, but the drive to use what you’ve learned in real-world practical scenarios and being consistent in your learning is vital to becoming a real expert. Not just somebody who knows how to answer questions about a subject but has also done it themselves. 
+        - **Tags**: #[[pink]]
+    - status is your perceived ability to add value. Value can be in the form of wisdom, entertainment, spreading good emotions, solving problems for people, achieving something difficult, being cool, trendy, aspirational, attractive or interesting. That’s why it’s more complicated and expansive than just whether you’re ‘upper class’, ‘white’ or ‘male’–we all have a certain status in different situations. As entrepreneurs or aspiring entrepreneurs, to some extent or another, our ‘why’ or motivation for starting is usually tied to increasing our status. Not always the most mentally healthy of motivations, but the reality is that most of us strive for success to achieve some kind of significance, to feel important. 
+        - **Tags**: #[[pink]]
+    - Prominent sociologist Pierre Bourdieu explained status as being comprised of three different types of capital: economic, cultural and social. Economic capital is covered in Chapter 7 (Money) and is simply the concrete and tangible form of wealth in the sense of money, assets and property. Cultural capital is linked to your social class (or even your subculture), which is reflected in your accent, credentials, set of tastes, hobbies and pastimes, manner of speech, manner of dress, posture, possessions, etc. 
+        - **Tags**: #[[pink]]
+    - Social capital, the third form of status, is your network, your relationships, your connections. We include this in Status because who you know is part of your status (which is why people often like to name-drop a high-status person in conversation–a celebrity, for example–to increase their own status by association). Your network is the people you’re connected with in some way and who therefore could open doors for you to opportunities, give you valuable insights and information, and act as allies and potential collaborators. The way to increase your connections ‒ your network ‒ is through adding value, finding commonalities and being social. Your network is who would return your call, reply to your email or take a coffee meeting with you. 
+        - **Tags**: #[[pink]]
+    - Your Inner Status is an extremely powerful way to increase your Outer Status. It is your self-esteem. Your confidence. Self-esteem is just a fancy way of saying ‘liking yourself’. And whether or not you’re confident or have high self-esteem always shines through to other people. They pick up on it, consciously and unconsciously, through your body language, voice tonality and other subtle clues in your behaviour. That’s how inner status increases your outer status. 
+        - **Tags**: #[[pink]]
+    - you need a balance of self-belief and realism. You need to know the limits of possibility for yourself in the short term. We overestimate what we can achieve in a month, and dramatically underestimate what we can achieve in a decade. Be sure to love yourself for where you’re at in life at this moment. 
+        - **Tags**: #[[pink]]
+    - Lifestyle startups (or lifestyle businesses) are so called because they are designed to sustain a certain lifestyle. That could be a certain income, a certain work schedule, or it could be that there’s a constraint placed on their growth ‒ whether by the founders’ design or by the local or niche nature of their market. Lifestyle startups usually don’t need external investors. 
+        - **Tags**: #[[pink]]
+    - Hyper-growth startups are businesses which usually have more of a focus on technology, whether that be in the product itself or in the distribution. For example, Microsoft became so successful and its founder Bill Gates so rich because software is so inherently scalable. Once it’s built, it can be distributed at incredibly low cost. The same can be said for intellectual property such as a film, a book or photography, which can be distributed digitally. 
+        - **Tags**: #[[pink]]
+    - execution is the real differentiator between an idea that remains an idea and an idea that goes on to become a successful startup. 
+        - **Tags**: #[[pink]]
+    - ideas are overrated. Yes they’re important, but there are countless people all over the world having the same genius ideas at the same time, and the overall conversion rate from idea to successful startup is close to zero. 
+        - **Tags**: #[[pink]]
+    - Most startups are either a twist on an idea that already exists, or the implementation of the same idea but in a new market or industry. 
+        - **Tags**: #[[pink]]
+    - Intersectional thinking, which comes from an interdisciplinary approach, as we mentioned in the section on creative intelligence in Chapter 8, is where ideas come from. Great ideas come when you put a twist on existing things, consider a problem from another point of view, or take a solution from one industry and apply it to another, or from one geographic region to another. 
+        - **Tags**: #[[pink]]
+    - One approach which can be very valuable when trying to brainstorm a startup idea is to picture a person for whom you would like to solve a problem. Sometimes it’s a problem that they don’t know they have because they’re so used to having to deal with it, or avoid having to deal with it, that they just see it as an unchangeable fact of life. 
+        - **Tags**: #[[pink]]
+    - keep your attention highly attuned to whenever somebody mentions something they find annoying, a problem they can’t solve or a situation they’re struggling with. Also, don’t forget to stay attuned to whatever pain or inconvenience you’re experiencing yourself, and how you can solve that! 
+        - **Tags**: #[[pink]]
+    - Startup success isn’t just about choosing the right idea; it’s about choosing the right idea for you. 
+        - **Tags**: #[[pink]]
+    - It is exponentially more difficult to succeed in your startup as a solo founder. In fact, we’d strongly discourage you from attempting a startup all by yourself. Most human endeavours, business included, are achieved in teams. 
+        - **Tags**: #[[pink]]
+    - For a lifestyle startup, being a solo founder is definitely more doable simply due to the slower growth rate. It’s more manageable. However, you don’t get off completely scot-free. You’re probably going to have moments where you are racked with crises of confidence, stressed by the risk of losing big clients and struggling with the simple uncertainty and risk of entrepreneurship. 
+        - **Tags**: #[[pink]]
+    - In a startup founding team, what you need is a creator, a communicator and (often) a technician. 
+        - **Tags**: #[[pink]]
+    - The creator is the visionary who wants to see their product being loved and used by users and customers, and who is focused on ‘making a ding in the universe’, 
+        - **Tags**: #[[pink]]
+    - The communicator is the commercial co-founder who can sell and market, communicate with customers and prospective customers, and feed this back to the team. 
+        - **Tags**: #[[pink]]
+    - And finally the technician is the one who builds the technical side and makes sure it works, whether that be software, an app, a website, a life-saving drug or the formulation for a lipstick or foundation. So it could be an engineer, a chemist, a biologist, or a technician of any kind. 
+        - **Tags**: #[[pink]]
+    - There are two ingredients needed to develop your network: 1.  An authentic desire to add value to people you meet 2.  Increasing your Status so that people perceive more value from you 
+        - **Tags**: #[[pink]]
+    - spreading positive emotions, even if it’s simply a warm smile, costs you nothing, and pays you dividends. 
+        - **Tags**: #[[pink]]
+    - You can add more value to your network by proactively reaching out to people periodically, and not just when you want something from them. 
+        - **Tags**: #[[pink]]
+    - If you’re blessed with money to invest, then spending it on expert guidance can save you years and years of trial and error. Strong experts and people with genuine know-how are usually practitioners, and their time is incredibly valuable. 
+        - **Tags**: #[[pink]]
+    - The mistake most of us make is that we envision that our solution is going to be loved. We fall in love with our own idea. This is very dangerous. Beware of falling in love with your idea before you have any feedback from prospective customers/users. 
+        - **Tags**: #[[pink]]

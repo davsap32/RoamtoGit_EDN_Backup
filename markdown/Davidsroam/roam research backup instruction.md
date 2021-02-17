@@ -1,0 +1,69 @@
+- Instruction:
+    - # A step-by-step guide to backing up your Roam Research database
+    - [![Quinten Lockefeer](https://miro.medium.com/fit/c/96/96/1*8g09uiCWD9Tb-KHcFweSDg.jpeg)](https://medium.com/@quinten_62777?source=post_page-----356107fe82ee----------------------)
+    - [Quinten Lockefeer](https://medium.com/@quinten_62777?source=post_page-----356107fe82ee----------------------)
+    - Follow
+    - [Jul 16](https://medium.com/@quinten_62777/a-step-by-step-guide-to-backing-up-your-roam-research-database-356107fe82ee?source=post_page-----356107fe82ee----------------------) · 5 min read
+    - [](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40quinten_62777%2Fa-step-by-step-guide-to-backing-up-your-roam-research-database-356107fe82ee&source=post_actions_header--------------------------bookmark_header-)
+    - A guide for the technical-but-not-github-literate among us.
+    - Recently I decided to start backing up my Roam Research database, since I realised that the amount of valuable writing in there warranted some form of backup plan, even though I have great confidence in the technical abilities of its founders.
+    - After some research I selected the solution created by MatthieuBizien (roam-to-git), which provides both local as well as cloud based options. As a bonus this will provide you with a clickable directory of all your Roam notes on your mobile. I went for the cloud based option. Since getting it up and running does require some basic knowledge of GitHub, I decided to share the install procedure I followed to make this work for me.
+    - # Step 1: Create a GitHub account
+    - If you do not already have a GitHub account, create it at [www.github.com](http://www.github.com/)
+    - # Step 2: Create a new repository for your Roam Research backup
+    - This will create a new repository to host the backup-data. We will create a private repository, so it cannot be accessed by the rest of the world.
+        - Click the ‘**Repositories’** menu item
+        - Click the green ‘**New’** button, this will open up the ‘Create a new repository’ screen
+        - In this screen fill out the **name** for your repository: “**notes**” (without the quotation marks)
+        - Optionally create a short **description**
+        - Be sure to select the **private** option for visibility.
+        - Now press the ‘**Create repository**’ button to finish the creation of your repository.
+    - # Step 3: Configure GitHub secrets
+    - This will configure the secret variables involved in accessing your Roam Research database, such as you **username**, **password** and the RR **graph** name you want to backup.
+        - If you continue this step right after Step 2, GitHub will already have opened up your **notes** repository. In the upper left corner you will see your GitHub username and ‘/ notes’ behind it. If you start this step later, use the menu structure to go to ‘**repositories**’ and then click your ‘**notes**’ repository.
+        - In a separate browser tab, open up the ‘environment variables’ file (https://github.com/MatthieuBizien/roam-to-git/blob/master/env.template) to check if the code still uses the **3 variables** used at the time of writing this piece:
+    - ROAMRESEARCH_USER="YOUR_EMAIL"
+    - ROAMRESEARCH_PASSWORD="YOUR_PASSWORD"
+    - ROAMRESEARCH_DATABASE="YOUR_DATABASE"NOTE: You can ignore the instructions that are in the .env file, since they are aimed at a different setup method.
+        - In your ‘notes’ repository, access the ‘**Settings**’ menu item and select ‘**Secrets**’
+        - For each of the 3 variables, create a ‘Secret’ by pressing the ‘**New secret**’ button on the right. Fill them with your username, password and Roam graph name (as shown in the upper left corner in Roam) without quotation marks. As an example, for your password it will show like:
+    - ![Image for post](https://miro.medium.com/max/60/1*MV5TDLjSstln4O_QR4bjYg.png?q=20)
+    - ![Image for post](https://miro.medium.com/max/1214/1*MV5TDLjSstln4O_QR4bjYg.png)
+    - Entering new Secrets in GitHub
+    - If all went well, you will have three ‘Secrets’ showing:
+    - ![Image for post](https://miro.medium.com/max/60/1*ZgSuaGNaDpKsuBS0o5SVug.png?q=20)
+    - ![Image for post](https://miro.medium.com/max/1442/1*ZgSuaGNaDpKsuBS0o5SVug.png)
+    - Secrets needed for roam-to-git
+    - # Step 4: Create a GitHub Action
+    - Now that we have the variables configured to access your Roam graph, it is time for the final step: making the function that runs the backup.
+        - In the Repository menu, click on the ‘**Actions**’ item and click the ‘**New** **workflow**’ button
+    - ![Image for post](https://miro.medium.com/max/60/1*Ivl5-5ahxENyq7Ws4j7sjw.png?q=20)
+    - ![Image for post](https://miro.medium.com/max/1544/1*Ivl5-5ahxENyq7Ws4j7sjw.png)
+    - Location of the ‘New workflow’ feature in GitHub
+        - Do not select a template, but click the ‘**set up a workflow yourself**’ option.
+        - You will now have a screen showing default content for a ‘main.yml’ piece of code.
+    - ![Image for post](https://miro.medium.com/max/60/1*4McCmQM73kSDHmkCiRaZtQ.png?q=20)
+    - ![Image for post](https://miro.medium.com/max/1628/1*4McCmQM73kSDHmkCiRaZtQ.png)
+        - Select the code in the editor there and **delete** it. We will replace it with the code from Matthieu’s project.
+        - In your other browser tab, open the readme for the roam-to-git project at
+        - https://github.com/MatthieuBizien/roam-to-git
+        - In the ‘Add GitHub Action’ explanation in there, you can find the location of the actual code **after the ‘curl’ command** in the code block. For me it was located at:
+        - https://raw.githubusercontent.com/MatthieuBizien/roam-to-git-demo/master/.github/workflows/main.yml
+        - If you open that location in your web browser, you will see the actual code.
+        - Copy that piece of code and then paste it in the code of your own workflow.
+        - You will now have the actual code in your workflow on GitHub:
+    - ![Image for post](https://miro.medium.com/max/60/1*D735ZMzoRPibolL9WsbM4Q.png?q=20)
+    - ![Image for post](https://miro.medium.com/max/1820/1*D735ZMzoRPibolL9WsbM4Q.png)
+        - On the right side of the screen, click the green ‘**Start commit**’ button and then click the ‘**Commit new file’** button.
+    - If all went well, the action will now run every hour to create a snapshot of your Roam graph. If you want to tinker with the interval, read up on the ‘cron’ function and change the ‘cron: “0 * * * *”’ part in the code.
+    - # Step 5: Verify and access the Roam backup
+    - If you access the ‘Actions’ menu in your GitHub repository, you will start seeing successful execution of the ‘Roam Research backup’ workflow:
+    - ![Image for post](https://miro.medium.com/max/60/1*lPWOqAt173HsJnKpiF7-8Q.png?q=20)
+    - ![Image for post](https://miro.medium.com/max/1858/1*lPWOqAt173HsJnKpiF7-8Q.png)
+    - If a backup fails for whatever reason, you will get an e-mail informing you. Most of the time this will have to do with a time-out on the Roam website, which is nothing to worry about. As long as regular backups are successful, you’re good.
+    - If you go to the main page for your repository, you will find a successful run has created 3 directories with the contents of your backup.
+    - ![Image for post](https://miro.medium.com/max/60/1*f0P0iTNpOxGN1Npjr6tT5w.png?q=20)
+    - ![Image for post](https://miro.medium.com/max/1820/1*f0P0iTNpOxGN1Npjr6tT5w.png)
+    - These directories are clickable and contain all your Roam content as supported by the backup mechanism.
+    - # Step 6: Enjoy peace of mind
+    - That’s it. I hope this guide has enabled you to successfully create an automatic cloud-based backup mechanism for your Roam graph. If you have run into trouble because steps were not clear enough, let me know, I’ll see how I can improve it!

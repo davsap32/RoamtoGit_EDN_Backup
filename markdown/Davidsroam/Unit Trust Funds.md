@@ -1,0 +1,13 @@
+- [[Unit Trust Funds]] for [[Leo]] [[Alice]] and [[Ellen]] #[[Personal Finance]]
+    - [[Leonel]]: Europafond index
+        - Invested total as of [[January 31st, 2021]] : 4500 kr
+        - date of birth: 20130911
+        - latest purchase 500 kr on [[January 31st, 2021]].
+    - [[Alice]]: Sverigefond index 
+        - Invested total as of [[January 31st, 2021]] : 8000 kr
+        - date of birth: 20100111
+        - latest purchase 500 kr [[January 31st, 2021]]
+    - [[Ellen]]: Handelsbanken Norden Index Criteria
+        - Invested total as of [[January 31st, 2021]] :  1500 kr
+        - Latest purchase 500 kr on [[January 31st, 2021]].
+        - date of birth: 20171127

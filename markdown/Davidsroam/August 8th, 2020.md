@@ -1,0 +1,23 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fyd2Jx4T_4h.png?alt=media&token=b88de5b9-346c-4328-a762-636b29aaf717)
+- 08:10
+    - I would like to read novels by [[Tsitsi Dangarembga]]. [[Nervous Conditions]] and [[This Mournable Body]]. #Books
+- 14:47
+    - Just returned from Lilla Älgsjön, where we bathed and ate lunch. Notes from there:
+        - Reading a non fiction book is like digging for gold. There is a lot of earth and some nuggets.
+        - Many popular nonfiction books summarize and reference lots of sources other than the author's own work. In this way, they make it possible to overview a large field of knowledge. However, the sources are chosen to support the author's thesis.
+        - I am  very ambitious in building up a roam-based knowledge system. I am going to read and highlight lots of books, from the highlights I will extract ideas in the form of evergreen notes and from these I will draw new conclusions. All leading where? Maybe I cannot know in advance where it might lead. Would I be more satisfied if I were less driven? Do I have a choice?
+        - One of the potential costs of this ambition is that I might spend less time reading non-fiction than I would like. The pursuit of knowledge should not be an end in itself, rather a pleasurable pastime.
+        - The method of knowledge building involves collecting bits and pieces of insight, not necessarily for their intrinsic value but for the potential of combining them into new insights. 
+    - Continued reading [[The Elephant in the Brain]].
+- 19:42
+    - Watched two [[Video]]s by [[Ali Abdaal]]:
+        - #Books [How to read more](https://youtu.be/8tKuviI68Ss). 
+            - Skim the text, stop reading when the book gets boring.
+        - #Books [Three important books](https://youtu.be/hv1gOEY3cs4):
+            - [[Anything You Want]]
+            - [[The 4-Hour Workweek , Escape the 9-5, Live Anywhere and Join the New Rich]]
+            - [[Show Your Work]]
+- 20:20
+- 21:13
+    - watching a [[Video]] about how to read more books. Link: https://youtu.be/lIW5jBrrsS0
+    - 

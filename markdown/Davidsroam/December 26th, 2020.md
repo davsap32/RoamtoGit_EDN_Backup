@@ -1,0 +1,25 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F16bFue6hNY.png?alt=media&token=fa9e9c0b-30be-4e7b-9f09-ade4f074b177)
+- HT_Date:: 20201226
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 09:17
+    - [[Samuel]] and family stayed overnight after our Christmas dinner. Pleasant evening, but I tired of it after a while and read my book.
+    - While eating a piece of toffee, my crown loosened from my tooth. I saved it and will take it to the dentist to be glued in place. #Illness
+    - Still feeling the effects of [[Sciatica]]. #Illness
+    - [[Samuel]] and family left earlier this afternoon, after lunch and a walk in the forest. Now peace has settled over our household after entertaining guests for three days straight.
+    - Finished reading [[The Changing Mind]]. Skimmed a lot of it. Started  reading [[Tokyo Underworld]], seems interesting.

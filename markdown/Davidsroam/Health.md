@@ -1,0 +1,14 @@
+- Keywords:: #Areas
+- #[[Goals]]:
+    - xxx
+- [[Activities]]
+    - [[Wim Hof]] breathing
+    - PT using 
+[[Drew Baye]]'s protocol
+    - Intermittent fasting using [[Jason Fung]]'s protocol.
+- ToDos:
+    - {{[[DONE]]}} Test oximeter #Health
+    - {{[[TODO]]}} Apply Aldera cream #Health
+    - {{[[TODO]]}} practice WOOP #Health
+    - {{[[TODO]]}} try out breathing exercises described in [[The Oxygen Advantage]] #Health
+    - {{[[TODO]]}}  check out [[Drew Baye]]’s updated books #Health

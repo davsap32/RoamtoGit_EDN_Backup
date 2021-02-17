@@ -1,0 +1,5 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FpFRoMsYGpq.png?alt=media&token=c76de172-78fe-4f8b-9863-993dda18c1fa)
+- 08:23
+    - Meeting with ISDM core team to look at issues in JIRA 9-10, then off to Stockholm with [[Kerstin]]. Backing up [[Lightroom Laptop]] and [[Calibre]] to take with me.
+- 20:41
+    - Travelled to Stockholm by bus, as the trains stop at Stockholms Södra due to work on the rails. Went together with [[Kerstin]] to Thielska galleriet, near Blockhusudden on Djurgården. We ate afterwards at Värdshuset Ulla Winbladh. Came back to the flat a short while ago.

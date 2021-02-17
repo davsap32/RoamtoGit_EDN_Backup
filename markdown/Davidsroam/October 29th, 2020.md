@@ -1,0 +1,31 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FCksm1KWnHm.png?alt=media&token=90b643f2-5efa-4c97-94bb-588b38be6143)
+- HT_Date:: 20201029
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 5 C 4:45 min
+- HT_Back_ex:: no
+- HT_Weight:: 80,4
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - whm
+    - 10:00
+    - 12:00
+    - 13:00
+    - 14:00
+    - 15:30
+        - Photograph [[Samuel]] & family at Bråvalla.
+    - 20:00
+        - Call Esther
+-  09:17
+    - [[Roam Research]] In his latest "Letters from a Roaman", [[Andy Henson]] mentioned a new export format which he recommends using for backup:
+        - The Roam team have added a third option to the export feature, **EDN**. It stands for Extensible Data Notation, and it enables a lossless backup of your Roam graph. **I highly recommend using this format when you take a backup now**. Using only Markdown or JSON means that you could lose some data if the worst happened and you wanted to recreate your Roam graph
+        - As yet, the [[Roam Research]] import menu does not include this option.
+-  12:21
+    - Seems to be a problem with broadband via [[Com Hem]]
+- 22:48
+    - Met up with [[Samuel]] and his family near Sörby Herrgård (Bråvalla) to take pictures of the family, [[Samuel]] wants to take prints with him to [[Cape Town]]. We made some nice pictures, I will print them for him.
+    - I worked together with [[Kerstin]] to make prints for a calendar that we will make for [[Esther]].
+    - I finished processing the highlights for [[Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body]]. Lots of useful insights in this book. #Philosophy #Books #[[Digital Garden]]

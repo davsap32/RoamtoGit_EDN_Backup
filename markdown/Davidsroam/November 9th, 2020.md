@@ -1,0 +1,40 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Ffeo-Y_rwey.png?alt=media&token=3b96c933-b071-433a-840c-97e47ac34ff0)
+- HT_Date:: 20201109
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 5 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 07:30
+        - whm
+    - 08:30-09:00
+        - Core Team Meeting
+    - 09:00
+        - bathing
+    - 10:00
+    - 11:00-11:30
+        - CHAPS Actions 8,9,23 MARK NICHOLAS
+    - 12:00-12:30
+        - JIRA - Action CLARE GRANSDEN
+    - 13:00
+    - 14:00
+        - write meeting minutes
+    - 20:00
+        - Call Esther
+- Work calendar
+    -  {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fp9p_gbJy-c.pdf?alt=media&token=443e3c8a-a6d5-4edd-91cf-2829e2bdf61b}}
+-  08:04
+    - Reply from [[Dagmar]] - nice to hear from them.
+    - Saw an interview with [[Åsa Linderborg]] on Babel yesterday evening, she talked about her book [[Året med 13 månader]]. It is based on a diary written by a newspaper culture editor at the time of the meeto movement, which is interesting. Also, I'm curious about how people write diaries. So I'd like to read the book #Books 
+- 09:30
+    - It seems that metadata including  develop settings and ratings is missing from a large number of lightroom photos. There are also duplicates for many photos. There is potentially a lot of work involved in recreating all of this. I can begin by comparing the contents of my lightroom catalogs with corresponding [[SmugMug]] galleries. This has to be done for thousands of photos. #[[Lightroom Cleanup]]
+- 10:33
+    - Thinking about Stoic philosophy - change the things you can change, accept the things you cannot change. Not deep enough, the important question is who is the "you" that can or cannot change something. #Philosophy
+- 15:15
+    - I had two meetings around lunchtime with a half hour between them. Asked [[Kerstin]] to organise so that I could come up and eat between my meetings - which she agreed to do and then forgot. I was pissed off when I came up after the first meeting to discover that nothing had been prepared.  Such is life.
+- 19:42
+    - Next PT on [[November 12th, 2020]]

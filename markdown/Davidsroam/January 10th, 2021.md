@@ -1,0 +1,28 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FY6PM7tAupt.png?alt=media&token=5d425b7c-d8b6-45f9-8970-46828a7e4ec6)
+- HT_Date:: 20210110
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: 77,6
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- Reminder doctor's appointment [[January 15th, 2021]] 09:45
+- 13:02
+    - Listened to a #Podcast with [[John Troy]] and [[Sabine NowHere]] about [[NonDuality]] which John Troy describes as being turned inside out.
+    - Started listening to a #Podcast with [[Connor White-Sullivan]] and [[Tyler Willis]] about what Connor wants to achoeve with [[Roam Research]].
+- 19:40
+    - [[Alice]] has her 11th birthday tomorrow. We were with [[Samuel]] and family for tea and to congratulate [[Alice]]. Pleasant.
+- 21:29
+    - This evening [[Kerstin]] took down the decorations from the [[Christmas Tree]], I cut the tree up and threw it out, leaving kilos of pine needles to be swept up
+    - Starting my measurements of drinking and urination volumes now, in preparation for doctor’s appointment on Friday. #Illness

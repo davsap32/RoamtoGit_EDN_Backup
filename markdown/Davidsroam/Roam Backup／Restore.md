@@ -1,0 +1,5 @@
+- Question to https://effortless-output-with-roam.circle.so/
+- I thought it would be just as well to check that I can backup my data from Roam and restore it if necessary. I exported all pages from my Roam graph in JSON and in Markdown and then created a new, empty graph in order to see what would happen if I imported to an empty graph from these backups.
+    -  I could not open the zip file from the Markdown backup atall ("Invalid zip file")
+    - I could import from the JSON backup file, but the result was by no means the same as what I had exported.
+- Can anyone advise me as to how to establish a backup routine that I can rely on to enable me to restore information if necessary?

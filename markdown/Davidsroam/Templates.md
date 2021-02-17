@@ -1,0 +1,111 @@
+- Subscriptions
+    - Name
+    - Cost mer month
+    - Paid by
+- ### Weekly review
+    - {{[[TODO]]}} Review inbox
+        - {{[[TODO]]}} [[Instapaper]]
+        - {{[[TODO]]}} [[Getpocket]]
+    - {{[[TODO]]}} Review TODO lists, add items to Live List as necessary.
+    - {{[[TODO]]}} Review Live List 
+    - {{[[TODO]]}} Review area goals and activities
+    - {{[[TODO]]}} Review projects goals and activities
+- ### Books
+    - Author::
+    - Recommended By:: 
+    - Keywords:: #Books #ToRead
+    - Reading status values: #ToRead, #Readit, #Abandoned, #Paused #Acquire
+- Articles
+    - Author::
+    - URL::
+    - Recommended By:: 
+    - Keywords:: #Articles
+    - Highlights:
+- Podcasts
+    - Host::
+    - URL::
+    - Recommended By:: 
+    - Keywords:: #Podcast
+- Videos
+    - Author:: 
+    - URL::
+    - Recommended By:: 
+    - Keywords:: #Video
+- Blog Posts
+    - Target Date::
+    - Keywords::
+    - Status::
+    - Google Doc::
+- Projects
+    - Completed Date::
+    - Status::
+    - Due Date::
+    - Related Goals::
+    - Success Criteria:: 
+    - Keywords:: #Projects
+- Goals
+    - Projects:: 
+    - Goal Status:: 
+    - Success Criteria:: 
+    - Completed Date::
+    - Keywords:: #Goals
+- People
+    - Phone Number::
+    - Email::
+    - Company:: 
+    - Role:: 
+    - Location::
+    - How We Met::
+    - Birthday::
+    - Keywords:: #People
+- Recipes
+    - Ingredients::
+    - Tools::
+    - URL:: 
+    - Keywords:: #Recipes
+- Keywords:: #Templates #PKM
+- Templates used by [[Roam Hacker]]:
+    - T: Algorithm: Difference Engine Template
+        - Difference Engine Template
+            - Current Situation::
+            - Future Situation:: 
+            - Differences::
+            - Most serious difference::
+    - T: Algorithm: Want, Impediment, Remedy Template
+        - Want, Impediment, Remedy Template
+            - impediment::
+                - remedy::
+            - impediment::
+                - remedy::
+            - action items:: (use block references)
+    - T: Algorithm: Simple Choice Algorithm Template
+        - Simple Choice Algorithm Template
+            - {{[[TODO]]}} [[Choice]]:
+                - Constraints::
+                - Options::
+                - Decision::
+- [[Morning pages]]. Source:  ([[Nat Eliason]])
+    - Questions
+        - Is anything bugging me?
+        - Is there anything I'm forgetting?
+        - What would I like to write about?
+        - How do I feel?
+    - Prompts
+        - I love it when
+        - I hate it when
+        - When I wake up 
+        - When I go to sleep
+        - If I could change one thing, it would be
+        - Next year I want to
+        - I miss
+- [[Galaxy Brain]] templates
+    - [[Inspectional Summary]] (Book)
+        - What is this book about?
+        - Does this book look at the topic through a single narrative or different facets?
+        - What sub-topics does the book cover?
+    - [[Inspectional Summary]] (Paper)
+        - What is this paper about?
+        - What is the research question?
+        - What is the finding?
+        - What type of study is this?
+        - Which literature is this building on?

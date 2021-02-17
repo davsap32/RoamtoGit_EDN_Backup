@@ -1,0 +1,31 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F2vynN-8xeM.jpeg?alt=media&token=49796a61-2702-48d8-85c9-d38fea324add)
+- HT_Date:: 20210119
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: 77,8
+- {{table}} 
+    - Schedule 
+        - task
+    - 09:00
+        - mtg with Kenneth Brinck
+    - 10:00 
+    - 11:00 
+        - Progress tracking mtg with UK
+    - 12:00
+    - 13:00
+    - 15:00 
+        - Review of Service method med Kenneth Brinck
+    - 20:00
+        - Call Esther
+- 20:49
+    - Booked our journey to [[Gran Canaria]], 16-23/6. Looking forward to it. #Journeys
+        - david.sapire@gmail.com booking number 11926562
+        - samuel.sapire@gmail.com booking number 11927210
+    - Dr. [[Sara Seaton]] called today. My tests are all ok, no infection, no blood or sugar in my urine, PSA normal (1,4 µg/L). She will still refer me to a urologist to check on my prostate. She issued presciptions for two medicines to reduce swelling of the prostate, I started taking them this evening. #Illness
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}

@@ -1,0 +1,36 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FSQGF8eP-Sy.png?alt=media&token=7b6747f9-4e91-4edd-b6b9-32b13886693c)
+- HT_Date:: 20201022
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: no
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 08:00 
+        - whm
+    - 09:00
+        - journey to Torsgatan
+    - 09:30
+        - core team prep for steerco (rhodos tor 14 D9)
+    - 10:00
+        - meeting with jens and Rowan about chaps req on security tokens as assets
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+        - core team sprint planning (tor 14 Bålsta C7)
+    - 16:14 
+        - journey home
+    - 20:00
+        - Call Esther
+-  13:13
+    - Sitting at [[Torsgatan]] after meetings this morning, core team planning meeting soon, afer that time to leave for Norrköping. I had a discussion with [[Peter]] this morning about his need to work together on approving Service Descriptions. He feels that this is too much of a burden to place on one individual - he needs someone who is involved inthe detailed work to consult with and to support him in discussions with service owners, SMEs, managers, colleagues in UK etc. I could help him based on my ability to understand the work to be done, but I value my time and am unwilling to put in the hours. I work about 30-40 hours per month for [[SHB]] and that is about as much work as I want to do for the bank. #Work
+- 20:19
+    - Back now from stm, have spoken to [[Esther]], done some shopping. [[Kerstin]] will be back from Gothenburg on Sunday.
+-  21:32
+    - #[[Creative writing]] #Podcast While travelling, listened to a lecture by [[Larry McEnerny]] from University of Chicago om effective writing - talking mostly about writing with an academic audience. His points:
+        - Writing is succesful only if it creates value for the reader.
+        - Value can be created for the reader by solving a problem that affects the reader.

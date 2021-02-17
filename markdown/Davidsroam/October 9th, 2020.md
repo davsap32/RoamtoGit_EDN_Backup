@@ -1,0 +1,75 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FhhlHQE81bK.png?alt=media&token=5a426aaa-0def-42ac-854d-c64cee738084)
+- HT_Date::  20201009
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: yes
+- HT_Back_ex:: no
+- {{table}}
+    - Schedule
+        - task
+    - 08:00
+        - whm
+    - 09:30
+        - core team planning
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+    - 20:00
+        - Call Esther
+-  11:51
+    - [[Kerstin]] and [[Samuel]] had planned to eat lunch together today, but he called at the last minute and cancelled due to pressure of work.
+    - [[Kerstin]] would like to see me being more supportive of [[Amanda]] after her abortion last week, but I don’t feel that I have anything to offer apart from challenging her to move forward, which would not be welcome.
+- 13:59
+    - [[bathing]]. 10,5 C in the water, 13 C in the air, sunny, windy. Stayed in the water for 3:45 mins
+    -  #[[Digital Garden]] #Inbox #Articles  Looked briefly through an article on [[Medium]] by [[Rebecca Williams]] about Zettelkasten notes. Worth looking more closely. [Link](https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6) She talks about: 
+        - 1. Fleeting notes. Criteria:
+            - 1. You want to remember the idea permanently.
+            - 2. You want to use the idea in your work (in a blog, book or something that will help you take a step forward in achieving a concrete goal).
+        - 2. Literature notes. Criteria:
+            - 1. Write it in your own words.
+            - 2. Write it in such away that if you read it 10 years later it would make complete sense by itself.
+            - 3. One idea per note. If you need to define a term for the idea/concept to make sense, create a term definition card and link to it from the concept note.
+            - 4. Include the complete reference for the source you got the idea from.
+            - 5. Include the relevant citation (lastName, year, pp.22).
+        - 3. Permanent notes
+            - Literature notes are written in the context of the source they were inspired by. Whereas permanent notes are written in the context of your own ideas and interests.
+            - Literature notes only have one connection, to the book they came from. While permanent notes can have many connections (to individual notes, as part of multiple topics etc).
+            - **How to connect permanent notes to other permanent notes**
+                - **Connect notes chronologically**
+                    - Connecting notes chronologically is where we provide a link to another note that can be combined with our current note in a way that still makes sense without needing to modify either of them. Some examples:
+                        - A term mentioned in a note which links to a term definition note.
+                        - An author mentioned in a note which links to an author biography note.
+                        - A note which directly contradicts findings in a note that contains a fact, study, opinion.
+                        - A note which adds something to the existing note.
+                        - A personal comment on the idea contained in another note.
+                - **Connect notes with a bridge note**
+                    - Connecting a note through a bridge is where you link two seemingly unrelated ideas together with a separate note that explains why you think they’re connected. This prevents you from looking at the notes years later having forgotten why you thought they were related.
+                - **Connect notes with a topic index**
+                    - A topic index is a note which contains a of links to ideas that are directly relevant to a specific topic, question or discussion etc. You create topic indexes once your notes have naturally formed into their own topic clusters (see next section).
+        - 4. Index notes
+            - An index note represents a cluster of related permanent notes. They are very similar to an individual article/chapter outline, and they are created from content that already exists. A really cool thing about index notes, is that you can end up writing an entire chapter or article just by linking related notes together.
+        - 5. Keyword notes
+            - Keyword notes are very similar to index notes in that they contain a list of links to relevant notes, except at a more general level than index notes. So, while an index note might represent a table of contents for a chapter or an outline for an article, a keyword note might represent a table of contents for a book or entry points to many different sub-topics within a broader area.
+    - [[Kerstin]] is making tomato chutney from her rich harvest of tomatoes
+    - [[Kerstin]] tells me that [[Amanda]] is suffering from excessive bleeding after her abortion. This might explain why she feels unable to work. [[Kerstin]] encouraged her to come with us picking mushrooms, but she didn't feel up to it.
+- 17:14
+    - Went out picking mushrooms with [[Kerstin]], we didn't find very much, but we had a good walk in the forest.
+    - #Philosophy #Quotes. From a Facebook post by [[Robert Salzman]]:
+        - If you and I are chatting, I experience my voice and your voice exactly the same. I hear them both as voices and my mind automatically makes sense of the sounds of those voices, translating the sounds into meaning. It does not seem to matter whose voice I am hearing, mine or yours.
+    - I installed [[David Vargas]] javascript plugin for sorting of attribute tables. [Link](https://roam.davidvargas.me/extensions/attr-tables/). I thought it might allow me to do my habit tracking in [[Roam Research]]. I realised that the plugin only allows for sorting of ascii strings, so I will need to indent the habit tracker attribute list under the day's date in the format YYYYMMDD. I have added the template to the dayplan template page.
+- 20:04
+    - Spoke with [[Esther]]. Now [[Ernest]] wants to go to [[Daudi]] to meet his brother who is sick with aids, becuase [[Ernest]] feels that the brother may soon die. [[Esther]] has decided to allow him to go with an Uber, meet with the brother outside and then come home and quarantine there for 10 days. Good decision, I think. It's a shame that she has to deal with these complications, but she does it very well.
+    - #Philosophy Continuing to listen to the #Podcast with [[Rich Roll]] and [[Michael Gervais]], who talks about:
+        - [[Vision]]
+            - Imagine what it will be like when your dreams are fulfilled, when your purpose is realised, when you are at your best.
+        - [[Purpose]]
+            - what matters most to you
+            - is bigger than you
+            - is future oriented.
+            - Purpose is the "why" of your vision
+        - [[Philosophy]]
+            - A personal philosophy is a word or phrase that consists of the guiding principles that influence your thoughts, words and actions.
+            - Your personal philosophy serves as a compass to align your thoughts, words, and actions. It expresses your basic beliefs and values.
+        - [Link](https://findingmastery.net/living-in-alignment-with-your-personal-philosophy/) to writings by [[Michael Gervais]].

@@ -1,0 +1,32 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fm_Z7PI6rFh.png?alt=media&token=aeb295a3-b0a1-424f-af49-3fc1abb4eb03)
+- Reminders
+    - {{[[DONE]]}} riscom hours - excel
+    - {{[[DONE]]}} change tags for psychology, productivity, personal to areas.
+    - {{[[DONE]]}} add a new area for history
+- {{table}}
+    - Schedule
+        - task
+    - 07:30
+        - whm
+    - 08:30
+        - core team meeting
+    - 10:00
+        - go [[HT_Bathing]]
+    - 12:00
+        - lunch with [[Amanda]]
+    - 13:00
+    - 14:00
+        - PT
+    - 20:00
+        - Call Esther
+- 09:01
+    - The inflammation in my fingers having lessened (though not completely gone), I have returned to [[Touch Typing]] training. At the moment I am using agilefingers.com and practicing with their "texts" section. [Link](https://agilefingers.com/sv/texter).  I have to be careful not to restart the inflammation. I really need to train - my typing accuracy is quite poor after having not trained for some weeks.
+    - I looked at [[Andy Henson]]'s email course no. 14, about css themes. He describes how to apply a  style for each tag, compared to my solution which is to have one style for projects, another for areas etc. Worth considering.  [[Evernote]] [link](https://www.evernote.com/l/AATiaQWSg-BC2pSCFIn_0_azYzCKe-oTOa0/) to the original email. #[[Digital Garden]]
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FKKmtHY1qCd.png?alt=media&token=a049c1cb-439f-4d6a-b189-5f9348cb719d)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FpKFMUOXJ49.png?alt=media&token=a7149ddd-b573-4148-9e90-d115f85137eb)
+- 16:15
+    - I made CSS styles for each of my tags within Projects and Areas.  I have listed the tags on the [[Styled tags]] page. #[[Digital Garden]]
+    - Ate lunch with [[Kerstin]] and [[Amanda]] at [[Il Cibo]] restaurant. Nice lunch. 
+    - Spoke to [[Esther]]. she is reading the book [[The Tools]] and finding it interesting. #Books 
+    - After finishing [[The Book of Not]] I have returned to [[The Lessons of History]]. Really very good. It is a great pleasure to have time to read these wonderful books. I find that highlighting interesting passages with a view to extracting #Evergreens increases my concentration and allows me to get more out of my reading. #Books
+-  

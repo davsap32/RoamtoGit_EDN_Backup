@@ -1,0 +1,31 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fy25yZK015P.png?alt=media&token=bd4221be-a2d7-43b5-ba2c-48f4291812df)
+- HT_Date:: 20201030
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 5 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 08:30
+        - core team mtg
+    - 09:00
+        - whm
+    - 10:00
+        - bathing
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+    - 15:00
+        - grandchildren here
+    - 20:00
+        - Call Esther
+- 15:45
+    - [[Kerstin]] is fetching the grandchildren, they will eat dinner with us and sleep over. 
+    - I have done the work I needed to do for [[SHB]]
+    - [[Kerstin]] has packaged our presents to [[Esther]], including a calendar we made for her which turned out nicely and some wool mittens that [[Kerstin]] made for [[Joe]].
+    - I am vacuuming, at the same time listening to a #Podcast with [[Robert Salzman]] and [[Tom Thompson]], who wrote the #Articles on [[Cathexis]]. Really very good. #Philosophy
+    - Started listening to a #Podcast with [[Lex Fridman]] and [[Ben Goertzel]] about Ben’s work in the field of AGI.

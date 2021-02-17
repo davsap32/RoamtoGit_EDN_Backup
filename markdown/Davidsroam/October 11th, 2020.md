@@ -1,0 +1,41 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FefcssNZ-1a.png?alt=media&token=99c6975d-baf3-4df0-9641-34c40dcc8804)
+- HT_Date:: 20201011
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 9C 4Min
+- HT_Back_ex:: no
+- HT_Weight:: 80,8
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - whm breathing
+    - 10:00
+        - bathing
+    - 11:00
+        - clean gutters
+        - spread earth on lawn
+        - store summer furniture
+    - 12:00
+    - 13:00
+    - 14:00
+        - outing with [[Amanda]]
+    - 20:00
+        - Call Esther
+-  08:19
+    - Watched a #Video with [[Sabine Hossenfelder]] on the topic of free will, which she means cannot exist because the processes in the brain are a mixture of deterministic and stochastic (quantum).  #Philosophy
+- 09:48
+    - Set up a [[query]] in [[Query Examples]] to list #Books for which I have produced #Evergreens. Requires that the #Books and #Evergreens tags are in the same block on the book page. 
+- 10:58
+    - Spent some time in the garden cleaning gutters, storing furniture, covering the grill. Listening at the same time to a #Podcast with [[Ali Abdaal]] and [[David Perell]]. Very interesting and relevant to me, about creativity and specifically writing on line. [[David Perell]] recommended the book [[Finite and Infinite Games]] by [[James Carse]] which is probably worth reading. #Books
+- 12:47
+    - Now I have purchased the book [[Finite and Infinite Games]] from Amazon and started reading it. #Books
+- 13:54
+    - We had planned to take [[Amanda]] with us picking mushrooms, but shenphone to say she was not up to it.
+    - I looked up the price of [[David Perell]]’s course ”Write of Passage” - it it 4000 USD for the standard course and 6000 USD for the premium course. Rather steep. Better to check out one of the masterclasses that I already have.
+- 17:21
+    - [[Kerstin]] and I drove towards Ågelsjöns north end and parked the car by the road on the way there. We walked in the forest looking for mushrooms and found some, but no large quantities. Our neighbour [[Elin]] found some funnel chanterelles in the forest, but was  not confident enough that the really were edible, so she came over and gave them to us.
+    - I think that [[David Perell]]’s advice that online writing is a way to meet people with similar interests as well as being one of the best forms for creative expression might fit well with me. I think that the price of his writing course is a bit steep, I have some books and video courses on creative writing, but I think that the craft of writing has to be learned by doing. So the first step for me is to decide what to write, I can develop the craft as I practice. Or perhaps, as [[Natalie Goldberg]] recommends, just to write, for set times daily.
+- 20:20
+    - Still battling with my [[Touch Typing]] accuracy, having difficulty reaching 100% in spite of practicing over and over again with the same text. I think that as my muscle memory has not been trained sufficiently yet, typing without error requires tremendous concentration.

@@ -1,0 +1,25 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FNaR7ZiLd9Z.png?alt=media&token=d2b0a29b-988c-48a2-bd5c-3b119d75ef4f)
+- HT_Date:: 202010104
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+        - working mtg digital service description
+    - 14:00 
+        - Swarup onboarding
+    - 20:00
+        - Call Esther
+- [[Foundation Training]]
+    - Lunge Decompression 
+    - Supine Decompression 
+    - Anchored Bridge 

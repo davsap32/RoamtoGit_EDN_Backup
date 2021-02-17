@@ -1,0 +1,56 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F2MASUhQWi0.png?alt=media&token=08018606-1587-4188-8887-37078985a304)
+- Highlight:
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - {{{[[DONE]]}}}} whm
+    - 10:00
+        - {{{[[DONE]]}}}} go [[HT_Bathing]]
+    - 11:00
+        - {{{[[DONE]]}}}}  prepare jira meeting
+    - 12:00
+    - 13:00
+    - 14:00
+        - meeting about jira
+    - 20:00
+        - Call Esther
+- Todos:
+    - {{[[TODO]]}} check out gcal-roam interface #[[Digital Garden]] 
+        - {{[[youtube]]: https://youtu.be/x4id7c5jtTk}}
+        - 
+    - {{{[[DONE]]}}}} shower
+    - ((xZx05YwOL))
+    - ((wgILE4zqY))
+    - ((z8xMYLPa5))
+    - {{[[TODO]]}} clean bidet drain #[[Sort and Tidy]]
+    - {{[[TODO]]}} check out difference between query and mention in [[Roam Research]] #[[Digital Garden]]
+        - https://twitter.com/rjnestor/status/1302783598634971137?s=20
+        - https://twitter.com/rjnestor/status/1302783600115560454?s=20
+    - {{[[DONE]]}} mow lawn behind cars [[September 8th, 2020]]
+    - {{{[[DONE]]}}}} pay folktandvården invoice
+    - 
+    - 
+- 09:09
+    - I sent a couple of books to my [[Kindle]] account on Amazon, to see if this will be an easier way of getting books into the [[Kindle]] app.
+    - I saw a recommendation of a book on [[Twitter]]. Looks interesting. Yet another book to my long list: [[The Lessons of History]]. #Books
+        - https://twitter.com/EricJorgenson/status/1302708961100038145?s=20
+        - 
+- 11:01
+    - Went #bathing - 13 C in the air and 14 C in the water. Sunny and calm. Great pleasure.
+    - [[Kerstin]] has left to visit her mother - she will be back tomorrow.
+    - Tweet from [[James Clear]]: #Philosophy
+        - https://twitter.com/jamesclear/status/1299369281256386561?s=21
+        - 
+    - #Quotes
+        - [[James Clear]]: 
+            - Success is largely the failures you avoid.
+            - Health is the injuries you don't sustain.
+            - Wealth is the purchases you don't make.
+            - Happiness is the objects you don't desire.
+            - Avoid the bad to protect the good.
+            - Peace of mind is the arguments you don't engage.
+- 20:01
+    - I fetched my desktop PC from [[Alina systems]] and brought it home. As always, there is much to do with a new (or newly reinstalled) computer, installing all the utilities I need. I am transferrring the [[Calibre]] database and [[Lightroom]] pictures folders to the new 4TB harddisk, this will take some time.
+    - Valy came to finish painting the steel pillar in front of the garage, leave our ladder here and fetch his scaffolding. He is done here for this time. He seems to enjoy working for us. 
+-  

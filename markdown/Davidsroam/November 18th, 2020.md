@@ -1,0 +1,31 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FC_fudJPnjn.png?alt=media&token=acc75baf-039c-4701-a710-bdc3b739d741)
+- HT_Date:: 20201118
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 07:30
+        - whm
+    - 08:30
+        - core team mtg
+    - 09:00
+        - bathing
+    - 10:00
+        - information ISD
+    - 11:00
+        - steerco services agreement
+    - 12:00
+    - 13:00-17:00
+        - work with CHAPS attestation text
+    - 20:00
+        - Call Esther
+- 08:23
+    - Work is making more demands on my time. I can't back down and refuse to engage, but it will be stressful if I take the attitude that this is something I would rather not do. Fear of failure is an issue - I have to see it when is occurs and let it pass. Due to lack of management engagement, it is an uphill battle to get anything done, this is as it is. If any blame is to fall on me, so be it. #Work
+    - 
+-  
+-  

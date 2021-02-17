@@ -1,0 +1,14 @@
+- # [[Drew Baye]] Kratos workout July 15, 2019
+    - Chin-up
+    - Pike Push-up
+    - Squat
+    - Compound Row
+    - Push-up
+    - Hip Raise
+    - Crunch (with ab mat)
+    - Heel Raise
+    - TSC dorsiflexion
+    - TSC Wrist Ext
+    - TSC Wrist Flx
+    - TSC Neck Ext
+    - TSC Neck Flx

@@ -1,0 +1,39 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F-kEPJn5zx4.png?alt=media&token=0923636e-7a09-4d6a-a127-416eedcdc9ae)
+- HT_Date:: 20201119
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 4 min 5 C
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 07:30
+        - whm
+    - 08:30
+        - core team mtg
+    - 09:00
+        - bathing
+    - 10:00
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+    - 20:00
+        - Call Esther
+-  10:38
+    - [[Esther]]'s 90th birthday today. [[Kenneth]] sent out the video greetings he had compiled for her - very nice.
+    - Very windy, I am dubious about [[bathing]] today.
+    - Announced at #Work yesterday, new unit to be established within CTO with responsibility for service delivery. Manager post to be advertised.
+    - ISDM Steerco meeting yesterday - I became impatient at the lack of clarity in decisions as to who would do what and when. Spoke my mind and received some pushback - such is life. #Work
+    - Finished reading [[Året med 13 månader]] . enjoyed, well written, personal and honest. Started reading [[On the Plain of Snakes]], seems good. #Books
+    - Tried out my [[Pulse Oximeter]] for the first time. Quite simple to use. My % SP O2 is 97. [[Kerstin]] has a reading of 98.
+-  15:17
+    - Went [[bathing]] - gusty, heavy wind. Waves in the water, not the most pleasant [[bathing]] experience. The first snow of the season fell while I was [[bathing]].
+- 17:12
+    - The Dlink [[NAS]] was not visible in [[Windows 10]] file explorer on my desktop computer. I fixed this by enabling suppport for the SMB1 file sharing protocol: #[[Home Tech]]
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FRXyFOZ9gqp.jpg?alt=media&token=66a8aab4-a1f1-4be7-b5ba-88aac79808c2)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FFIR1lfkcRj.jpg?alt=media&token=95b1fd6f-4c29-4fd5-bdb6-41b724aa8685)
+- 19:50
+    - Called [[Esther]]to congratulate her on her 90th birthday. She had a good birthday, it seems, with Aviva, [[Ivan]] and [[Rochelle]] for lunch. [[Joe]] overdosed on cake.

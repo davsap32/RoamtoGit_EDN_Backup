@@ -1,0 +1,64 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FVjaqrAG96f.jpeg?alt=media&token=27357c56-ebb5-45a7-a720-118a4ff64806)
+- HT_Date:: 20210101
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 09:23
+    - Watched a [[youtube]] [video](https://youtu.be/w47z_wz6XBA) with [[Ali Abdaal]] about his book recommendations:
+        - Top 10 Non-Fiction Books:
+            - [[A Million Miles in a Thousand Years]] by [[Donald Miller]]
+            - [[How to Think More About Sex]] by [[Alain de Botton]]
+            - [[The Righteous Mind]] by [[Jonathan Haidt]]
+            - [[The Psychology of Money]] by [[Morgan Housel]]
+            - [[Storyworthy]] by [[Matthew Dicks]]
+            - [[How To Take Smart Notes]] by [[Sonke Ahrens]]
+            - [[The Ride of a Lifetime]] by [[Bob Iger]]
+            - [[The Elephant in the Brain]] by [[Simler & Hanson]]
+            - [[War Doctor]] by [[David Nott]]
+            - [[Natives]] by [[Akala]]
+        - Top 5 Fiction Books / Series
+            - [[Wheel of Time]] by [[Robert Jordan]]
+            - [[Six of Crows]] by [[Leigh Bardugo]]
+            - [[Elantris]] by [[Brandon Sanderson]]
+            - [[Normal People]] by [[Sally Rooney]]
+            - [[The Original]] by [[Sanderson & Kowal]]
+- 10:58
+    - Still experiencing [[lower back pain]] and [[Sciatica]]. #Illness. Conclusions:
+        - Strength training as described by [[Drew Baye]] is not enough to keep my back healthy. I should do back exercises daily. I have a set of exercises and some add some [[Foundation Training]] exercises to these.
+        - [[Back Exercises]] #Health
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F0QyIn2s3g5.png?alt=media&token=ba516a0a-8325-4a7a-a74a-94564f8473ea)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fn1VK2A8U_l.png?alt=media&token=0477324d-f7c9-43ac-8dee-df24aad17ff3)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FrfJhv3Pz0X.png?alt=media&token=b4d5aae1-0a34-4a1e-8188-5c688aa270e3)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FW8ZKCdYz0Q.png?alt=media&token=b2dc2f24-95f7-494c-b4ad-ccdbd7edbf32)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FPBLltNingH.png?alt=media&token=9a28a2bb-29ae-4a84-a7a3-fcff2c917a81)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FV9NwuIpzU1.png?alt=media&token=ce3e6fa9-179f-4331-8a68-2e5c14be6700)
+            - ![Relieve Back Pain With Cat Cow Stretch | POPSUGAR Fitness](https://media1.popsugar-assets.com/files/thumbor/SqMNwY_nodFmtZJosADXsOelbOo/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/12/19/025/n/1922729/tmp_2uyv7S_1e80093dfafe2ea5_cat-and-cow.jpg)
+            - ![Knee Extension - Exercise How-to - Workout Trainer by Skimble](https://s3.amazonaws.com/prod.skimble/assets/750698/image_iphone.jpg)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FMpMFV9jy1f.png?alt=media&token=781f78d4-8c90-4bfb-9991-ca18f4f7a117)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F71Z_TjIH3A.png?alt=media&token=b8089820-86a6-489c-bbdf-84178a6457a7)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FYUy2z90GR2.png?alt=media&token=e85fb4f1-26e7-4796-b9ad-1b04d197077c)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FKTdDfwwQsV.jpeg?alt=media&token=f6b8809f-aeb0-4bf0-9bf6-2e33b12c2b74)
+            - {{[[youtube]]: https://youtu.be/YE1JJupJYy0}}
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fl6mrOYmmCr.jpeg?alt=media&token=c8d40857-4182-434c-805e-53499f4febaa)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FYM3x1RrGKa.png?alt=media&token=11e597b6-f6c1-4839-a3fe-46c084e33ead)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Ft18IzmHmGf.png?alt=media&token=c2b9d094-e2c3-4c8c-97b8-6170e988215f)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FsMCbSYLv8g.jpeg?alt=media&token=00119e7e-1c19-4d38-8ef8-18210eb06ce9)
+- 15:13
+    - Damp and grey weather. Went for a short walk with [[Kerstin]].
+    - [[Amanda]] informs us that she has tested positive for [[Covid]]. She was ill with fever  -[[December 18th, 2020]] - [[December 20th, 2020]]  . She joined me, [[Kerstin]], [[Johan]] and [[Helene]] on Christmas eve, and then again on the 25th with [[Samuel]] and family. She believes that she was no longer contagious when she was with us. [[Samuel]] has done a Covid test in preparation for his journey to [[Cape Town]], he is waiting for the results.
+    - [[Roam Research]] has updated the template function, so now it seems that I can use my daily plan template on the highest level of the page (i.e. no intendation for the habit tracker attributes)
+    - Testing a utility [[MP3 Merger]], part of [[MP3 Toolkit]], to merge many small audio files in an audio book to one audio file. The idea being that I can then play the audiobook on [[Castro]].

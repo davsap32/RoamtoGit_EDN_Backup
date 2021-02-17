@@ -1,0 +1,2 @@
+- [Foundation training progessive workout](https://stream.foundationtraining.com/programs/core-elements-part-2?cid=122802): Rotational Imbalances 1
+- {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FS8uJt6fcJ3.pdf?alt=media&token=ddd5831a-a231-4592-a844-7b38afb8ff66}}

@@ -1,0 +1,15 @@
+- Keywords:: #Technology #Projects
+- #[[Goals]]:
+    - Robust, reliable routines automated where possible and with reminders for manual steps.
+    - Duplication of material removed
+- [[Activities]]:
+    - Develop strategy for deletion of duplicated files.
+        - Start with a map of what is where.
+    - Develop routine description
+- [[Project Todos]]
+    - {{[[TODO]]}} Decide storage structure #[[Storage and Backup]]
+    - {{[[TODO]]}} Produce backup strategy #[[Storage and Backup]]
+    - {{{[[DONE]]}}}} Backup calibre
+    - {{[[TODO]]}} add wireless routers info to 1password #[[Storage and Backup]]
+- [[Resources]]:
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fv5HQFBBFo2.png?alt=media&token=09eafecd-33d3-41d4-a462-f10b19a4e843)

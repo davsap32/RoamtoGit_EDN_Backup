@@ -1,0 +1,6 @@
+- Author:: [[Jerry Brito]]
+- URL:: https://medium.com/p/2ea10b40ec71
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[September 22nd, 2020]]
+    - As I come across articles during the day, I try not to read them then and there, but instead save them for later using Instapaper. I then typically read them during the hour before I go to sleep. Saving everything this way has the added benefit of producing a searchable archive of everything I’ve read. Also, I don’t tend to do this, but Instapaper allows you to send your saved articles to your distraction-free Kindle. 

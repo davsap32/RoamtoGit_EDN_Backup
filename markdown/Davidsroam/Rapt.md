@@ -1,0 +1,18 @@
+- Author:: [[Winifred Gallagher]]
+- Reading Status:: #Abandoned
+- Recommended By:: 
+- Keywords:: #Books
+- Comments:
+    - This book is not worth reading. It's a rehash of other people's book without any new thinking.
+- Highlights: 
+    - #[[E: Paying attention to positive emotions literally expands your world, while focusing on negative feelings shrinks it]] #[[Psychology]] [[Rapt]] #Evergreens
+        - The best explanation for why bad feelings shrink your focus is that in a potentially ominous situation, homing in on and reacting to any trouble quickly is more important than taking your time to get the big picture. 
+        - The first step toward getting on with your work despite a financial setback or repairing a relationship after a nasty quarrel is to direct—perhaps yank—your attention away from fear or anger toward courage or forgiveness. Thanks to positive emotion’s expansive effect on attention, your immediate reward for that effort is not just a more comfortable, satisfying affective state, but also a bigger, better worldview. Where the long-term benefits are concerned, you’ve come closer to making a habit of the focused life. 
+    - #[[E: Bottom-up attention asks, “What’s the obvious thing to home in on here?” top-down attention asks, “What do you want to concentrate on?”]] #[[Psychology]] [[Rapt]] #Evergreens 
+        - Because this active, voluntary form of focusing takes effort, the harder you concentrate, the better you’ll attend, but the longer you persist, the likelier you’ll fade. 
+        - Bottom-up attention automatically keeps you in touch with what’s going on in the world, but this great benefit comes with a drawback, particularly for postindustrial folk who live in metropolitan areas and work at desks rather than on the savannah: lots of fruitless, unwelcome distractions. 
+        - Attention helps you to take charge of your experience in two different ways. The stimulus-driven bottom-up sort automatically attunes you to compelling events, and the deliberate top-down kind lets you direct your focus. 
+- 
+    - #[[E: The skillful management of attention is the sine qua non of the good life and the key to improving virtually every aspect of your experience, from mood to productivity to relationships.]]  #Evergreens #[[Psychology]] [[Rapt]] 
+        - The skillful management of attention is the first step toward any behavioral change and covers most self-improvement approaches like a vast umbrella. 
+        - Many extraordinary achievers are distinguished by their ability to pay rapt attention. 

@@ -1,0 +1,29 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FIjXsJxDk2T.png?alt=media&token=f90b8323-ec2f-4f10-8d70-0e27b8f7325e)
+- HT_Date:: 202010206
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 10:11
+    - I read an interview with [[Don DeLillo]] in [[Dagens Nyheter]] about his new book [[The Silence]] which made me curious to read the book. I have not read any boooks by him.
+    - [[Kerstin]] returned yesterday evening from visiting her mother.
+    - [[Samuel]]’s flight to [[Cape Town]]:
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FTMQzyllq_h.jpeg?alt=media&token=9ac8845e-9d8e-4f0c-8284-81fa9e9d6bf1)
+- 11:31
+    - Read [[The Silence]] by [[Don DeLillo]] - a short book, read it in about an hour. Worth reading.
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}

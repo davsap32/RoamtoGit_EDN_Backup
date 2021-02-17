@@ -1,0 +1,29 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FAKsZGt-6or.png?alt=media&token=90bc8806-9a8a-4c72-9a1c-956924e77369)
+- {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FtbqF5miS9t.pdf?alt=media&token=da13bddd-c40b-42df-8ea5-91cfd40d651a}}
+- HT_Date:: 20201116
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: yes
+- HT_Bathing:: 5C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 08:00
+        - whm
+    - 09:00-11:00
+        - service description review with Peter
+    - 11:00
+        - PT
+    - 12:00
+        - CHAPS actions with Mark Dransfield
+    - 13:00
+    - 14:00
+        - bathing
+    - 15:00
+        - CHAPS actions catch up with Mark Dransfield
+    - 20:00
+        - Call Esther
+-  
+-  

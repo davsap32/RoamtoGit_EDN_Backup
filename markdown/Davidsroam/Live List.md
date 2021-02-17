@@ -1,0 +1,316 @@
+- {{{[[DONE]]}}}} call meeting to demonstrate JIRA [[August 24th, 2020]] #scheduled
+- {{{[[DONE]]}}}} reply to [[Tracy Winchell]]. [Link](https://www.evernote.com/shard/s4/nl/325440/305c8756-28fb-424f-b996-d56a6961f276?title=Fwd:%20Welcome%20to%20the%20RoamCult%20Journals%20blog)
+- {{{[[DONE]]}}}} acquire The Little Book of Stoicism
+- {{{[[DONE]]}}}} TUPP -> SHB [[August 31st, 2020]]
+- {{{[[DONE]]}}}} ITC time report [[August 31st, 2020]]
+- {{{[[DONE]]}}}} ITC invoice [[August 31st, 2020]]
+- {{{[[DONE]]}}}} Bookkeeping materials -> Lena L [[September 3rd, 2020]] #Riscom
+- {{{[[DONE]]}}}} #Waiting invoice from Instapaper #Riscom
+- {{{[[DONE]]}}}} call Folktandvården to book an appointment [[September 2nd, 2020]]
+- {{{[[DONE]]}}}} Read through and send Minutes for latest monthly service review meeting [[September 1st, 2020]]
+- {{{[[DONE]]}}}} JIRA print example
+- {{{[[DONE]]}}}} amazon invoice to riscom [[September 1st, 2020]]
+- {{{[[DONE]]}}}} backup [[Roam Research]] [[September 1st, 2020]]
+- {{{[[DONE]]}}}} email about backup to support@roamresearch.com [[September 1st, 2020]]
+- {{{[[DONE]]}}}} #Riscom payments to  me [[September 3rd, 2020]] 
+    - june:  2911,67
+    - july: 2443,81
+    - august: 3281,92
+- {{{[[DONE]]}}}} take boxes etc to returpunkten [[September 5th, 2020]]
+- {{[[DONE]]}} pay [[Kerstin]]s tax #[[Personal Finance]] 
+- {{{[[DONE]]}}}} acquire the book ”the undefeated mind”
+- {{{[[DONE]]}}}} install smugmug plugin on lightroom on desktop pc #Photography
+- {{{[[DONE]]}}}} move edraw license to desktop
+- {{[[DONE]]}} review Ray's draft chaps attestation statement [[October 27th, 2020]]
+- {{[[DONE]]}} enquiry to SMEs concerning CHAPS issue no 33 #Work
+- {{[[DONE]]}} Book meeting with [[Mark Dransfield]] on [[November 3rd, 2020]] #Work
+- {{[[DONE]]}} Relay Erik Hilton's anwers to Mark Dransfield and Paul Fincham. #Work
+- {{[[DONE]]}} review draft text for CHAPS in SA
+- {{[[DONE]]}} notes from mtg on CHAPS reqs 8,9,23 #Work
+- {{[[DONE]]}} put wheels in [[Kerstin]]’s car.
+- {{[[DONE]]}} CHAPS issues as discussed with Mark Dransfield (8_9_23,33) #Work
+- {{[[DONE]]}} sign [[ITC]] contract #Work
+- {{[[DONE]]}} oneeconomy invoice #Work
+- {{[[DONE]]}} remind torgny and mathias about asset mgmt documentation #Work
+- {{[[DONE]]}} tupp report to #SHB
+- {{[[DONE]]}} time report to [[ITC]]
+- {{[[DONE]]}} write to [[Dagmar]]
+- {{[[DONE]]}} invoice to #ITC
+- ```javascript
+{{[[query]]: {and: [[Livelist]] [[TODO]]  {not: [[query]]}  }}}```
+- {{[[DONE]]}} print [[Samuel]]'s pictures
+- {{[[DONE]]}} bookkeeping materials to [[OneEconomy]] #Work
+- {{[[DONE]]}} update x-t3 firmware
+- {{[[DONE]]}} audioboook Mary L. Trump PhD - Too Much and Never Enough for [[Kerstin]]
+- {{[[DONE]]}} request engagemangsbesked from [[SHB]]. #Work #Waiting #Livelist
+- {{[[DONE]]}} minutes of service review mtg of [[November 3rd, 2020]] #Work #Livelist
+- {{[[DONE]]}} answer Matthias Lögdberg #Livelist
+- {{[[DONE]]}} answer Rowan Barnard #Livelist
+- {{[[DONE]]}} move ownership of CHAPS folder #Work
+- {{[[DONE]]}} new draft of CHAPS text to services agreement #Work
+- {{[[DONE]]}} payments from Riscom to me
+- {{[[DONE]]}} connect to DLINK NAS #[[Home Tech]]
+- {{[[DONE]]}} book meeting with johnny sellbrand and others concerning asset mgmt #Work
+- {{[[DONE]]}} call Daniel Froste about elements & thermostats
+- {{[[DONE]]}} make list of radiators and thermostats #[[Home Tech]]
+- {{[[DONE]]}} block shb calendar for 4/12 #Work
+- {{[[DONE]]}} book by chris dancy #Books
+- {{[[DONE]]}} GDPR training **due 20201130** [[November 15th, 2020]] #scheduled [[duedate]] #Work. #Livelist
+- {{[[DONE]]}} question to Judith about her issues for the service review meeting minutes #Work
+- {{[[DONE]]}} TUPP report for nov to SHB #Work
+- {{[[DONE]]}} mail about chaps/cdu #Work
+- {{[[DONE]]}} fetch package at raed livs
+- {{[[DONE]]}} ucsone invoice #Work
+- {{[[DONE]]}} answer victor strugo
+- {{[[DONE]]}} save göta lejon tickets
+- {{[[DONE]]}} save roamstack invoice
+- {{[[DONE]]}} #Podcast with [[Michael Moore]] and [[Thomas Frank]] to [[Castro]]
+- {{[[DONE]]}} out of office #Work
+- {{[[DONE]]}} ask Torgny for CPS template #Work
+- {{[[DONE]]}} gumroad receipt to riscom #Work
+- {{[[DONE]]}} roam backup #Work
+- {{[[DONE]]}} discard packaging from garage #[[Sort and Tidy]]
+- {{[[DONE]]}} put grommets on NAS disk
+- {{[[DONE]]}} collage for xmas cards 
+- {{[[DONE]]}} comsider purchasing joel grimes course in still life photo
+- {{[[DONE]]}} order replacement cartridges for samsung printer #[[Home Tech]]
+- {{[[DONE]]}} tighten handle on toilet door
+- {{[[DONE]]}} package christmas presents
+- {{[[DONE]]}} inkclub invoice
+- {{[[DONE]]}} fetch inkclub package at myway
+- {{[[DONE]]}} purchase ink for Esther
+- {{[[DONE]]}} print out and sign financial statements and return to OneEconomy #Riscom
+- {{[[DONE]]}} acquire The Concise Human Body Book
+- {{[[DONE]]}} freeze lax
+- {{[[DONE]]}} cancel apple tv
+- {{[[DONE]]}} book dentist's appointment
+- {{[[DONE]]}} write minutes after monthly service review mtg #Work
+- {{[[DONE]]}} thaw meat from freezer for new year’s lunch
+- {{[[DONE]]}} process highlights from [[Sönke Ahrens]] book #[[Digital Garden]]
+- {{[[DONE]]}} book doctor's appointment #Waiting
+- {{[[DONE]]}} [[SHB]] training on sustainability due [[December 31st, 2020]] #Work#Livelist
+- {{[[DONE]]}} [[SHB]] training on fire security due [[December 31st, 2020]] #Work
+- {{[[DONE]]}} pay dividends from [[Riscom]] 171 875 SEK
+- {{[[DONE]]}}  pay expenses from #Riscom
+    - utlägg ds nov 2361,00 SEK
+- {{[[DONE]]}} itc time report
+- {{[[DONE]]}} itc invoice
+- {{[[DONE]]}} shb tupp
+- {{[[DONE]]}} update picture of the day catalog #Photography
+- {{[[DONE]]}} bookkeeping materials to Sami Homsi #Work
+- {{[[DONE]]}} book CHAPS mtg with Mike Dyson #Work
+- {{[[DONE]]}} planning principles text #Work
+- {{[[DONE]]}} spread gravel on driveway
+- {{[[DONE]]}} parkster faktura
+- {{[[DONE]]}} email to erik hilton #Work
+- {{[[DONE]]}} mail to Ving connecting bookings
+    - david.sapire@gmail.com booking number 11926562
+    - samuel.sapire@gmail.com 11927210
+- {{[[DONE]]}} books to Esther
+- {{[[DONE]]}} vacuum study #[[Sort and Tidy]]
+- {{[[DONE]]}} clean inverter #[[Sort and Tidy]]
+- {{[[DONE]]}} book skaldjurslyx att villa fridhem 26/2
+- {{[[DONE]]}} clean drain in [[Kerstin]]s washbasin #[[Sort and Tidy]]
+- {{[[DONE]]}} remind [[Samuel]] about travel insurance
+- {{[[DONE]]}} actions in JIRA for third party vendors list including SLA information
+- {{[[DONE]]}} check vägassistans for KIA
+- {{[[DONE]]}} book to [[Kenneth]]
+- {{[[DONE]]}} get the book [[Digerdöden]]
+- {{[[DONE]]}} question to Mark Dransfield #Work
+- {{[[DONE]]}} crm service description #Work
+- {{[[DONE]]}} lightroom backup 2020 complete #Lightroom
+- {{[[DONE]]}} excel questionnaire for SLA info #Work
+- {{[[TODO]]}} purchase Governo Rosso wine
+- {{[[TODO]]}}  book doctor's appointment for discoloration under right eye. #Waiting
+- {{[[TODO]]}} consider purchases for #Riscom 
+- {{[[TODO]]}} lee townson missing item #Work
+- {{[[TODO]]}} take stuff to returpunkten #[[Sort and Tidy]]
+- {{[[DONE]]}} consider what to do with my habit tracker 
+- {{[[TODO]]}} JIRA tracking for CHAPS #Work
+- {{[[DONE]]}} JIRA tracking for CRM service description #Work
+- {{[[DONE]]}} path to compost
+- {{[[TODO]]}} change to [backup routine with EDN backup](https://github.com/everruler12/roam2github) to [[Roam Backup/Restore]]
+- {{[[DONE]]}} vägassistans number to [[Kerstin]]
+- {{[[DONE]]}} try to fix [[Roam Backup/Restore]] #Waiting
+- {{[[DONE]]}} [[SHB]] Tupp, [[ITC]] time report & invoice [[January 31st, 2021]]
+- {{[[DONE]]}} bookkeeping materials to OneEconomy. #Riscom
+- {{[[DONE]]}} fetch package at myway
+- {{[[DONE]]}} unit trust for grandchildrens birthdays
+- {{[[DONE]]}} book time at the workshop for a new battery
+- {{[[TODO]]}} sell Swedbank shares
+- {{[[DONE]]}} clean fireplace #[[Sort and Tidy]]
+- {{[[DONE]]}} reply to [[Cecilia]] about lunch
+- {{[[DONE]]}} clean behind stove #[[Sort and Tidy]]
+- {{[[DONE]]}} Riscom december expenses #Riscom
+- {{[[TODO]]}} Chaps questions from Erika #Work
+- {{[[DONE]]}} dishwash air filters over stove #[[Sort and Tidy]]
+- {{[[DONE]]}} pay deposit to ving [[January 25th, 2021]] #Travel
+- {{[[DONE]]}} service review meeting minutes #Work
+- {{[[DONE]]}} check for messages from [[SHB]]
+- {{[[DONE]]}} link questions #Work
+- {{[[DONE]]}} fetch gravel
+- {{[[DONE]]}} change battery in Yale hub in hallway.
+- {{[[DONE]]}} prepare paperwork for doctor’s appointment.
+- {{[[DONE]]}} defrost freezer in garage
+- {{[[DONE]]}} chaps question 284 #Work
+- {{[[DONE]]}} return signed papers to [[Sami Homsi]]
+- {{[[TODO]]}} purchase apple cider vinegar
+- {{[[DONE]]}} vacuum upper floor #[[Sort and Tidy]]
+- {{[[TODO]]}} practice [[Foundation Training]] activity "[Progressive Workout: Rotational Imbalances 1](https://stream.foundationtraining.com/programs/core-elements-part-2?cid=122802)". 
+- {{[[DONE]]}}  Throw remains of christmas tree in the forest.
+- {{[[TODO]]}} print photos for 2021  calendar 
+- {{[[DONE]]}} pay qliro invoice
+- {{[[DONE]]}} take in summer furniture from fireplace
+- {{[[DONE]]}} find books recommended by [[Ali Abdaal]]
+- {{[[DONE]]}} consider purchasing windvd upgrades:
+    - https://mail.google.com/mail/u/0/#inbox/FMfcgxwKjxJgxffZKgHlbGhtMNktQqCT
+- {{[[DONE]]}} acquire the book Devore J. Modern Mathematical Statistics with App. 2ed 2018 #Books
+- {{[[TODO]]}} close common custody account with [[Samuel]] #Waiting
+    - number of account to be closed:  592 767 752
+- {{[[DONE]]}} set up prel tax payments to tax authority #Riscom
+    - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FVP1GVvxyVa.pdf?alt=media&token=b8ef7b85-03b8-4f3f-a2d9-5b7efe24b1e7}}
+- {{[[DONE]]}} sign financial statements at bolagsverket #Riscom
+- {{[[DONE]]}} fetch flutikason prescription at the pharmacy
+- {{[[DONE]]}} check if Telia router works better than Dlink router #[[Home Tech]]
+- {{[[DONE]]}} fill windscreen washer in cars #[[Home Tech]]
+- {{[[DONE]]}} read and confirm financial statements #Riscom
+- {{[[DONE]]}} service method lessons learned draft summary #Work
+- {{[[DONE]]}} request help with hidden caption in roam #Waiting
+- {{[[DONE]]}} register wifi & router  passwords in 1password. Make sure that ip adress is set correctly
+    - asus
+    - dlink
+- {{[[DONE]]}} backup calibre
+- {{[[DONE]]}} black ink cartridge to Samsung printer
+- {{[[DONE]]}} notes from lessons learned mtg #Work
+- {{[[TODO]]}} check out css theme in [brnpblc](https://roamresearch.com/#/app/brnpblc/page/0S_rGEKNE) roam database [[Roam Research]]
+- {{[[TODO]]}} pay tax to Skatteverket #Riscom
+- {{[[DONE]]}} inform Rowan on status concerning CPS #Work
+- {{[[DONE]]}} Invoice and time report for november to ITC #Work
+- {{[[DONE]]}} bookkeeping materials to Lena L #Work
+- {{[[DONE]]}} minutes of service review mtg #Work
+- {{[[DONE]]}} update booklist #Books
+- {{[[DONE]]}} replace lamps by kitchen window #[[Home Tech]]
+- {{[[DONE]]}} consider purchasing a new NAS #[[Home Tech]]
+- {{[[DONE]]}} consider purchasing Chef's Choice CC320 knife sharpener. #[[Home Tech]]
+- {{[[TODO]]}} weekly review #[[Digital Garden]]#[[Repeat tasks]] #Livelist
+- {{[[DONE]]}} planning principles for mtg with UK #Work
+- {{[[DONE]]}} acquire books rational optimist and photoshop classroom in a book
+- {{[[DONE]]}} comments on Judith's text on identification risk. #Work
+- {{[[DONE]]}} put timer on decoration lights on balcony
+- {{[[DONE]]}} Update CHAPS attestation schedule, write cover letter #Work
+- {{[[DONE]]}} reflections concerning Infosec service #Work
+- {{[[DONE]]}} vacuum #Livelist #[[Sort and Tidy]]
+- {{[[DONE]]}} Christmas present for [[Kerstin]]
+- {{[[TODO]]}} arrange storage for softbox #[[Sort and Tidy]] 
+- {{[[DONE]]}}  Include dates in service review mtg tracker #Work
+- {{[[TODO]]}} put out rodent poison
+- {{[[DONE]]}} measure breath frequency
+- {{[[DONE]]}} book roadworthy test for Toyota #Livelist
+- {{[[TODO]]}} choose bitcoin books to read. #Livelist
+- {{[[DONE]]}} user identity - escalation to ORK #Work #Livelist
+- {{[[DONE]]}} add users from Clare’s list to ISDM project [[November 10th, 2020]]
+- {{[[DONE]]}} purchase HEPA filter for vacuum cleaner.[[November 10th, 2020]]
+- {{[[DONE]]}} make video for [[Esther]]’s birthday. #Livelist
+- {{[[DONE]]}} rake up leaves and ash from lawn #[[Sort and Tidy]] #Livelist
+- {{[[DONE]]}} consider purchasing [[Steve Maxwell]]'s [home workout video](https://www.maxwellsc.video/bb-home-order-form) #Livelist
+- {{[[DONE]]}} check out edn import to [[Roam Research]]
+- {{[[DONE]]}} purchase ink cartridges for Canon Pixma Pro-100S
+- {{[[DONE]]}} print family picture for [[Esther]]
+- {{[[DONE]]}} mail to Mark Dransfield about reporting to SA follow up mtgs
+- {{[[DONE]]}} book return train journey for thursday evening #Work
+- {{[[DONE]]}} sj invoice
+- {{{[[DONE]]}}}} register picture of the day for 20200908 (soy sauce)
+- {{{[[DONE]]}}}} Buy tazink lozenges #Shopping
+- {{{[[DONE]]}}}}  Presentation for steerco #Work [[September 11th, 2020]]
+- {{[[DONE]]}} clean roof gutters #[[Sort and Tidy]]
+- {{[[DONE]]}} book core team planning meetings #Work [[September 24th, 2020]]
+- {{[[DONE]]}} subsribe to [[Readwise]] [[September 28th, 2020]] #[[Digital Garden]]
+- {{[[DONE]]}} follow up question of chaps asset mgmt for security tokens [[September 24th, 2020]] #Work
+- {{[[DONE]]}} replace toner cartridge  in printer [[September 24th, 2020]]  #[[Home Tech]]
+- {{[[DONE]]}} process highlights from [[Deep Work]]. #[[Digital Garden]]
+- {{[[DONE]]}} take a look at the book [[Your Money or Your Life]]
+- {{[[DONE]]}} Chaps tasks to Jira #Work
+- {{[[DONE]]}} find out how to stop voice overlay on TV in connection with tv-text.  #[[Home Tech]]
+- {{[[DONE]]}} find out how to store downloaded files in other locations than [[Icloud]] on [[IOS]] [[Safari]] #[[Home Tech]]
+- {{[[DONE]]}} write minutes of service review meeting. #Work
+- {{[[DONE]]}} consider participating in [[Robert Haisfield]]s [webinar](https://www.eventbrite.com/e/path-to-power-user-leveraging-queries-in-roam-research-tickets-122643675535) on [[October 3rd, 2020]] #[[Digital Garden]]
+    - Time conversion:
+        - Mountain Time, MT    lör den 3 okt 2020 at 10:00 MDT     
+        - Stockholm, Sweden    lör den 3 okt 2020 at 18:00 CEST    
+- {{[[DONE]]}} consider purchasing [[Castro]] plus subscription #Podcast #[[Home Tech]]
+- {{[[DONE]]}} book on mental models to onyx
+- {{[[DONE]]}} time report to ITC [[October 1st, 2020]] #Work
+- {{[[DONE]]}} invoice to ITC [[October 1st, 2020]] #Work
+- {{[[DONE]]}} TUPP report to [[SHB]] [[October 1st, 2020]] #Work
+- {{[[DONE]]}} bookkeeping to [[Lena Lindqvist]] [[October 2nd, 2020]] #Work
+- {{[[DONE]]}} create amazon business account #[[Home Tech]]
+- {{[[DONE]]}} consider purchasing airfly bluetooth adapter #[[Home Tech]]
+- {{[[DONE]]}} restart desktop
+- {{[[DONE]]}} test save to roam shortcut #[[Digital Garden]]
+- {{[[DONE]]}} review and send assignment description #Work
+- {{[[DONE]]}} send info requested by Logitech
+- {{[[DONE]]}} oneeconomy invoice #Work
+- {{[[DONE]]}} fetch wine at systembolaget
+- {{[[DONE]]}} commect [[Readwise]] to [[Roam Research]]
+- {{[[DONE]]}} acquire the film ”pawn sacrifice” #Films
+- {{[[DONE]]}} consider purchasing laptop arm.  #[[Home Tech]]
+    - {{[[youtube]]: https://www.youtube.com/watch?v=__K4V8pFhf4}}
+- {{[[DONE]]}} book planning mtg for friday #Work
+- {{[[DONE]]}}  update and send assignment description #Work
+- {{[[DONE]]}} prepare planning mtg friday 9/10. #Work
+- {{[[DONE]]}} send draft escalation stats to Erika and Clare [[October 7th, 2020]]
+- {{[[DONE]]}} process highlights from [[The 80/20 Principle: The Secret to Achieving More with Less]] #[[Digital Garden]]
+- {{[[DONE]]}} fetch masks from pharmacy. #Health
+- {{[[DONE]]}} search in JIRA for blocking issues
+- {{[[DONE]]}} book mtg with jens landin, mathias and erika about CHAPS
+- {{[[DONE]]}} put lock for flat at [[Furusundsgatan 14]] in service position before [[October 26th, 2020]]
+- {{[[DONE]]}} [[Robert Salzman]] quote
+- {{[[DONE]]}} check out ali abdaal interview with david perell
+- {{[[DONE]]}} store summer furniture
+- {{[[DONE]]}} rebook train to wednesday evening
+- {{[[DONE]]}} take backups to stm
+- {{[[DONE]]}} find wd passport harddrive
+- {{[[DONE]]}} send chutney to [[Esther]]
+- {{[[DONE]]}} make calendar for [[Esther]]
+- {{[[DONE]]}} consider subscribing to curiosity stream. https://curiositystream.com/ali
+- {{[[DONE]]}} glue kitchen counter by stove with silicon #[[Home Improvement]]
+- {{[[DONE]]}} vacuum hallway #[[Sort and Tidy]]
+- {{[[DONE]]}} update attribute table script code. 
+    - https://twitter.com/shawnpmurphy8/status/1316770461624090625?s=21
+- {{[[DONE]]}} check out david perell on medium
+- {{[[DONE]]}} check out pdf on knowledge structures.
+- {{[[DONE]]}} parkster faktura
+- {{[[DONE]]}} fetch wood
+- {{[[DONE]]}} process highlights for [["What the...": A Conversation about Living]]
+- {{[[DONE]]}} empty recycle paper 
+- {{[[DONE]]}} rope handle for matress
+- {{[[DONE]]}} mow lawn #[[Sort and Tidy]]
+- {{[[DONE]]}} process highlights from [[Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body]] #Books #Philosophy
+- {{[[DONE]]}}  consider participating in fotomaraton on [[November 7th, 2020]]. Register by [[November 2nd, 2020]].
+- {{[[DONE]]}} call Carl Magnus Peurell about firewood
+    - 0730874670
+- {{[[DONE]]}} parkster receipt
+- {{[[DONE]]}} inkclub invoice
+- {{[[DONE]]}} send [[Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body]] book to [[Kenneth]]
+- {{[[DONE]]}} consider subscribing to avxlive.icu
+- {{[[DONE]]}} check out updates in roam help database 
+    - https://roamresearch.com/#/app/help/page/dxTi-iUs2
+- {{[[DONE]]}}  vacuum #[[Sort and Tidy]]
+- {{[[DONE]]}} stats for CHAPS issues  - report [[October 27th, 2020]] to SA mtg
+- {{[[DONE]]}} check out Naval Ravikants book on how to get rich
+- {{[[DONE]]}} acquire the book On the Path to Enlightenment: Heart Advice From the Great Tibetan Masters by Matthieu Ricard #Philosophy
+- {{[[DONE]]}} invoice express vpn
+- {{[[DONE]]}} update assignment description (Peter's comment)
+- {{[[DONE]]}} scan shb card invoice
+- {{[[DONE]]}} process notes from [[Twilight of Democracy]]
+- {{[[DONE]]}} change roam password (remember to do the same at github)
+- {{{[[DONE]]}}}} consider buying an apple watch #[[Home Tech]]
+- {{{[[DONE]]}}}} backup [[Calibre]] #Books
+- {{[[DONE]]}} check out the book [[This Life]] by [[Martin Hägglund]] #Books #Philosophy
+- {{[[DONE]]}} find original winter[[HT_Bathing]] video from 20181222
+- {{{[[DONE]]}}}} prepare a self- introduction for [[Ness Labs]] digital garden group on Telegram (see link in twitter)
+- {{{[[DONE]]}}}} Import images from [[Lightroom Laptop]] to [[Lightroom Desktop]]  #[[Lightroom Cleanup]]. 
+    - Last date in [[Lightroom Desktop]] is 20200713, so everthing after that should be backed up from [[Lightroom Laptop]] and imported to [[Lightroom Desktop]].
+- {{{[[DONE]]}}}} purchase Ipod pro #[[Home Tech]]
+- {{[[DONE]]}} clean oven #[[Sort and Tidy]]
+- {{[[TODO]]}} Change to Norrköping branch office #[[Personal Finance]] #Waiting

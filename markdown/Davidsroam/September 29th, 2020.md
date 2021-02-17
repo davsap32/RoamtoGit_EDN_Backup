@@ -1,0 +1,39 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FrfhYqc-eKx.png?alt=media&token=85077d4b-f2f0-42a9-b6e6-d4bbc60a6212)
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - whm
+    - 10:00
+        - go [[HT_Bathing]]
+    - 11:00
+        - UK planning meeting
+    - 12:00
+    - 13:30
+        - Oral Hygienist
+    - 14:00
+    - 20:00
+        - Call Esther
+-  08:11
+    - Finished reading [[The Lessons of History]]. 
+    - Read a few pages of [[This Life]], put it aside. I didn't find the author's arguments convincing. Maybe another time.
+    - Read a few pages of [[The Pragmatic Programmer: Your Journey to Mastery]], put it aside. Itäs for people working as programmers, which I am not at the moment.
+    - Read a few pages of [[Happy Together]]. There seems to be a problem with the [[Calibre]] conversion from Epub to Mobi. The Epub version is allright, but the Mobi version lacks the first part of the opening sentence in each chapter. I'll read a bit in the Epub version and see if I want to read on. #Books
+    - Started reading [[The Big Picture]]. Seems interesting. #Books
+    - Watched part of the film [[The Two Popes]] together with [[Kerstin]] yesterday evening - very well acted by Anthony Hopkins and Jonathan Pryce. [[Films]]
+    - Having resumed [[Touch Typing]] training, I became curious as to whether it is possible to import texts to the [[Typesy]] app. After some searching, I discovered that this can indeed be done, under Play/Standard Activities/Typing Lesson. The choice of text to used for practice is via a link at the top right of the window:
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FGHE8pMp05V.png?alt=media&token=cee3e264-df20-40ec-b51d-62a7b6bd9a4e)
+        - There are large numbers of texts to practice with and it is possible to import texts to add to the list.
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F9xTxZYhp41.png?alt=media&token=ec25ae21-74ea-4dfa-ae79-a39e65cdcc19)
+        - 
+- 15:40
+    - I had an appointment with the oral hygienist, he scraped off some plaque. He thought I was brushing my teeth too hard, they showed some signs of damage. He recommended using only three fingers to hold the toothbrush (he must mean two fingers and a thumb).
+    - Went #bathing - the sun came out while I was on the way down to [[Lillsjön]]. I was in 3:10 minutes without discomfort.
+    - [[Kerstin]] had lunch with a friend in town, she is visiting [[Amanda]] and will come home later.
+- 16:53
+    - Completed processing highlights from [[The Lessons of History]].
+- 21:13
+    - Read a few more pages of [[Happy Together]] after which I put it aside, I found the style gushing and longwinded. #Books
+    - Instead, started reading [[Twilight of Democracy]], which seems interesting. #Books
+- 
+- 

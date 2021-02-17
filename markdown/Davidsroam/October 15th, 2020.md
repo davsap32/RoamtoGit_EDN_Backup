@@ -1,0 +1,32 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FHTnm2rkUHd.png?alt=media&token=714fd207-dc15-457c-8d44-8aa2f8f28a09)
+- HT_Date:: 20201015
+- HT_WHM:: no
+- HT_Meditation:: No
+- HT_PT:: no
+- HT_Bathing:: 8 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - Travel to Torsgatan
+    - 10:00
+        - core team planning (Fernie Tor 14 D8)
+    - 11:30
+        - lunch
+    - 12:30
+        - core team planning (Venezia Tor 14 C10)
+    - 14:00
+    - 15:21 - 16:37
+        - journey to nkp
+    - 20:00
+        - Call Esther
+-  09:47
+    - In Stockholm today, waiting at the moment for my first meeting at [[Torsgatan]]. I took one of the new matresses I had bought to [[Furusundsgatan 14]], slept on it last night - a big improvement, it makes the bed mich more comfortable. 
+    - As I left [[Furusundsgatan 14]] this morning, I was careful to put the lock in service position, to allow technicians to come into the flat to check ventilation valves.
+- 14:50
+    - Sitting on the train on the way home after meetings in Stockholm today. Challenging to establish planning routines in a situation in which we lack management support for our activities. We have planned a new IRL meeting next week.
+- 19:57
+    - Went [[bathing]] after coming home, a nice way to shake off the journey.
+    - While travelling, finished reading [[Still Writing: The Perils and Pleasures of a Creative Life]]. Now i have quiute a lot of highlighted material to process.

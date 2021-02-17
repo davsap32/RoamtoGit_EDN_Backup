@@ -1,0 +1,28 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F-3CJ79IJEq.png?alt=media&token=fa7b4fe2-192f-445c-8110-b069bf836b7a)
+- 09:07
+    - I am going to try scheduling tasks as recommended by [[Dalton Mabery]] and [[Eric Barker]]. In other words, I am going to decide a from-time and to-time during the day which I will spend on a chosen task - not necessarily with the intention of finishing it. I have checked out an app [[TickTick]] which seems to have a nice GUI for the purpose, but I will try to do this in [[Roam Research]], see if that will be good enough. There is much to be won by doing as much as possible within the [[Roam Research]] environment. I will begin by creating a template in [[Breevy]] for the hours of the working day.
+    - I have had problems with my [[Seagate Backup Plus Drive]], when connected to my desktop and to my laptop. One of the problems is that if the drive is assigned a new letter, all the folders have to be resynched in [[Lightroom]]. I suspect that there are also intermittent hardware problems with the disk. I am going to check if [[Alina systems]] can repair the computer and add a large internal drive so that I no longer need to use an external drive. The alternative might be to purchase a new desktop. Until this is done, it will be difficult to make progress on my #[[Lightroom Cleanup]] and [[Storage and Backup]] #Projects #[[Desktop repair]]
+- [[Plan for the day]]
+    - 10:00
+        - {{{[[DONE]]}}}} take desktop to Alina
+        - {{{[[DONE]]}}}} shop for food
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+        - {{{[[DONE]]}}}} vacuum house
+        - {{{[[DONE]]}}}} clean kitchen
+        - {{{[[DONE]]}}}} go [[HT_Bathing]]
+        - {{{[[DONE]]}}}} lock garage
+        - {{{[[DONE]]}}}} fasten screws in doors to kitchen & bathroom
+        - {{{[[DONE]]}}}} hang washing
+        - {{{[[DONE]]}}}} fold sheets in guest room
+        - {{{[[DONE]]}}}} PT
+    - 15:00
+    - 16:00
+    - 17:00
+        - {{{[[DONE]]}}}} talk to [[Esther]]
+- 21:38
+    - Spoke to [[Esther]], bad connection, short conversation. [[Ivan]] and [[Rochelle]] had been there for tea, which [[Esther]] had enjoyed.
+    - [[Kenneth]] sent a message recommending the book [[Resilient: How to Grow an Unshakable Core of Calm, Strength, and Happiness]]. I am looking at it now, unsure if this is the book I want to read next. Probably not, is my feeling at the moment. It is quite similar to the books I have read recently, [[Barking Up the Wrong Tree]], [[Atomic Habits: Tiny Changes, Remarkable Results]] and [[Peak_ Secrets from the New Science of Expertise]]. #Books
+    - Have read some of the book [[How to Set Up a Permanent Portfolio]], I don’t need to read much more, rather find out how such a portfolio could be implemented in Sweden. I have been checking out some websites, it seems that this is more complicated here than in USA. I’ll write a bit more about this [[August 23rd, 2020]]. #[[Personal Finance]]

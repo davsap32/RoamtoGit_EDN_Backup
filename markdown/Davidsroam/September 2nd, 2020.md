@@ -1,0 +1,59 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FCP9MylDRFb.png?alt=media&token=0d50962d-b5ce-47d8-a690-2e1f3a3f6171)
+- Highlight: Restructure projects, goals and todos.
+- {{table}}
+    - Schedule
+        - task
+    - 08:30
+        - roam restructure
+    - 09:00
+        - {{{[[DONE]]}}}} WHM breathing & meditation
+    - 10:00
+        - {{{[[DONE]]}}}} go [[HT_Bathing]]
+    - 11:00
+    - 12:00
+    - 13:00
+        - {{[[DONE]]}} coursework [[Effortless output with Roam]] and [[Galaxy Brain]]
+    - 14:00
+        - Meeting on JIRA with UK
+    - 20:00
+        - {{[[DONE]]}} Call Esther 
+-  Digital garden structure
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fnn90hhX_sk.png?alt=media&token=94f9d921-1d55-4887-9da9-e4e386be6857)
+    - I have replaced [[Maggie Appleton]]'s CSS with [[Nat Eliason]]'s. Maggie had styled tags for many attributes that I don't have any use for, so her CSS was unnecessarily complicated.
+    - [[Nat Eliason]]'s custom tags:
+        - #Inbox
+        - #Waiting
+        - #Podcast
+        - #Goals
+        - #Articles
+        - #Video
+        - #Recipes
+        - #Ideas
+        - #People
+        - #Books
+        - #Projects
+        - #Tweets
+    - Additional custom tags:
+        - #Evergreens
+        - #Areas
+    - Other status tags used by [[Nat Eliason]]  which I will use:
+        - #Active
+        - #Archived
+        - #Completed
+- 12:21
+    - Planned meeting in Stockholm tomorrow will be by Video instead, so I won't travel to Stockholm tomorrow.
+    - I have made some progress with restructuring #Areas, #Projects and todos. I have updated the mindmap as I did this (file at C:\Users\davsa\Dropbox\edraw mindmaster\todo attributes.emmx):
+        - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F1u9oJCfbtm.pdf?alt=media&token=bc2e6ed1-f30e-4cb6-96e3-8821bfd895b8}}
+- 14:41
+    -  UK meeting on JIRA postponed. 
+    - Went #bathing . Sunny - pleasant. [[Kerstin]] came with. 16 C in the air and 15 C in the water.
+    - It was useful to draw my database structure as a [[Mindmap]]. I had some trouble activating [[Mindmaster]] which is the app I use for this purpose. I chatted with Edraw Support, who helped me. It turns out that I need to log in to the app for it to be activated. If I open a file before logging in then I have to close it and reopen it after logging in.
+    - [[Marianne]] has asked [[Valy]] to help her with her roof tile which needs replacing. I think he may go there this evening.
+    - I have continued to follow [[Nat Eliason]]'s course [[Effortless output with Roam]], finding it very useful. I have copied his [[CSS theme]] as well as his [[Templates]]. I am looking forward to watching the lessons on synthesis.
+    - 16:21
+        - Watching the #Inbox lesson of [[Effortless output with Roam]]. [[Nat Eliason]] uses the #Inbox tag in much the same way as I us #Inbox. 
+            - {{{[[DONE]]}}}} consider consolidating these two tags. #[[Digital Garden]]
+- 19:23
+    - While washing dishes, I listened to the [[Mark and Carrie]] #Podcast of 20200821. The main theme of the podcast is that the main part of corporations income is from assets - with customers subscribing to existing services. There is very little incentive to innovate. Apple is at present valued to about 10% of the US economy, corresponding to a market expectation of future profits from Apple’s subscription services. Customers have little use for new functions in their telephones. #Podcast #Inbox
+- 20:11
+    - Started reading [[The Socrates Express]] - not worth reading. It tries to be entertaining by being superficial. Not for me. The only useful part of the book is the bibliography. In it, I find the book [[The Heart of Philosophy]] by [[Jacob Needleman]]. I would much like to read a general introduction to philosophy, probably this book would be a good one.  #Books

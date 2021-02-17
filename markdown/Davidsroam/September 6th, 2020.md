@@ -1,0 +1,47 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FNzuWi4p1Tu.png?alt=media&token=ebb85a63-9c4b-4312-9c7a-c48c07c591fa)
+- Highlight:
+- {{table}}
+    - Schedule
+        - task
+    - 10:00
+        - {{{[[DONE]]}}}} whm
+    - 11:00
+    - 13:00
+    - 14:00
+        - {{{[[DONE]]}}}} go [[HT_Bathing]]
+    - 15:00
+        - {{{[[DONE]]}}}} vacuum
+    - 20:00
+        - Call Esther
+- 
+- Todos:
+    - {{{[[DONE]]}}}} check out spaced repetition in Roam
+    - {{{[[DONE]]}}}} test using kindle reader app with mobi books. export highlights to Readwise.
+    - {{{[[DONE]]}}}} vacuum
+    - {{{[[DONE]]}}}} test of delta function[*](((qEkFnRpno)))
+    - {{{[[DONE]]}}}} rebook sj to Thursday
+    - {{{[[DONE]]}}}} apple invoice to riscom [[September 7th, 2020]]
+    - 
+- 09:22
+    - I have mailed to [[Readwise]] snaphots of my [[Twitter]] DM requesting a thread from [[Readwise]] as well as the tweets that actually turned  up, which was not the entire thread. Waiting for their answer.
+    - I have downloaded a few books to [[Kindle]] app on both [[Ipad]] and [[Onyx]]. Tested exporting highlights from the [[Kindle]] app to [[Readwise]], it worked without problems. I have to decide:
+        - Whether to move to [[Kindle]] as my main reading app, in order to make it easier to synch highlights to [[Roam Research]]. One advantage would be that highlights and reading position would be synched between [[Ipad]] and [[Onyx]]. Books are saved under "My content/Docs" on Amazon, not sure if this is an advantage or a disadvantage. Kindle highlights from own documents are sent to the address add@readwise.io.
+        - Whether to continue trying to find a format that works for exporting from other apps to [[Readwise]], for example the [[Onyx]] book reader, [[KyBook 3]] on the [[Ipad]].
+        - Whether to purchase a [[Readwise]] subsription or not.
+    - I checked out the new delta function in [[Roam Research]]. The delta appears in the menu shown when you right click on a bullet point. It allows for spaced repetition, i.e. the block will reoccur at given intervals on the daily page. The only information available so far on how to use this is on Twitter:
+        - https://twitter.com/Jeanvaljean689/status/1302255939769098241?s=20
+        - https://twitter.com/learning20201/status/1302235339323404289?s=20
+        - https://twitter.com/learning20201/status/1302229455176253440?s=20
+        - test of SRS /delta [*](((CLkAyZJHB)))
+    - 
+- 10:38
+    - [[William]] called to ask if he could borrow my car to take his stuff to Stockholm. [[Marianne]]'s car does not have a towbar. My answer was no. 
+    - [[Kerstin]] has left to pick up [[Amanda]] and go with her to the [[Simonstorp]] garage flea market. They reckon on being back for lunch.
+- 16:14
+    - While vacuuming, listening to a #Podcast with [[Sean Carroll]] and [[Russ Shafer]] on the reality of morality, about moral constructivism [*](((12PF5Z_nc))) contra moral realism [*](((F6R63Wgn2))). I found the conversation to be quite interesting, although a little longer than what was required to vacuum the house. [[Sean Carroll]] mentioned his book [[The Big Picture]] which seems interesting. Yet another item on the long booklist. #Books #Philosophy
+        - **Moral constructivism** is a metaethical view about the nature of **moral** truth and **moral** facts (and properties), so called because the intuitive idea behind the view is that such truths and facts are human constructs rather than objects of discovery.
+        - **Moral realism** (also **ethical realism** or **moral Platonism**)[[1]](https://en.wikipedia.org/wiki/Moral_realism#cite_note-1) is the position that [ethical](https://en.wikipedia.org/wiki/Ethical) [sentences](https://en.wikipedia.org/wiki/Sentence_(linguistics)) express [propositions](https://en.wikipedia.org/wiki/Proposition) that refer to objective features of the world (that is, features independent of subjective opinion), some of which may be true to the extent that they report those features accurately
+        - 
+    - Continuing to read [[History of Western Philosophy]], which has long dry stretches interspersed with brilliant insights. I am reading this in parallel with [[The Book of Not]].
+    - Received an answer from [[Readwise]] concerning saving Twitter feeds. It works as designed - they save the original feed, but not the entire conversation.
+    - I will use the [[Kindle]] app for reading for now. Saving of highlights to [[Readwise]] works really well.

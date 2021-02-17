@@ -1,0 +1,28 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FjK3EQ9jqWb.png?alt=media&token=60364f6f-c165-4990-aab7-8a5264c523b5)
+- HT_Date:: 20201126
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: yes
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: 80,6
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:00
+        - whm
+    - 09:00 
+        - pt
+    - 11:00 
+    - 12:00
+    - 13:00
+        - SD review with Peter
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 10:32
+    - Spent some time speaking to [[Judith]] at #Work, she wanted advice about a retirement offer contra seeking a new management position. It feels good that my colleagues at the bank value my advice.
+    - Yesterday evening, watched a documentary with [[Louis Theroux]] on large jails in Miami. The inmates have not been sentenced, but many of them are in the jail system for years awaiting trial. In some jails, there are twenty or more inmates in a call, there is nothing to protect the inmates from each other and violence is endemic. A very brutal world.
+- 20:23
+    - [[Kerstin]] has a cold. this may mean that we cannot celebrate [[Ellen]]'s birthday this weekend. #Illness
+    - Tested my typing on [[Typesy]] - after a long break - not good. 

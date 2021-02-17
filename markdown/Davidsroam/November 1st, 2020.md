@@ -1,0 +1,26 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FvK1GYjTlnl.png?alt=media&token=acb20d71-2981-43e1-a9bd-8bda0a290357)
+- HT_Date:: 20201101
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 5 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: 80,2
+- {{table}}
+    - Schedule
+        - task
+    - 10:00
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+    - 20:00
+        - Call Esther
+-  10:36
+    - New (for me) site with eboks: [dlfeb.com](https://dlfeb.com/)
+    - [[Roam Research]] issued a new update yesterday which broke scrolling on the Ipad, they issued a new update this morning which fixed it. The dialogue between developers and users on [[Twitter]] is impressive - the [[Roam Research]] team is very responsive.
+- 12:18
+    - Reading a Sunday Chronicle in DN by [[Björn Wiman]] about the state of the nation in USA. He mentions two books which seem interestind - [[Surviving Autocracy]] by [[Masha Gessen]] and [[What were we thinking]] by [[Carlos Lozada]]. #Books
+- 21:40
+    - [[Amanda]], [[Samuel]] amd fam were here for dinner - a noisy business, I got quite tired of it. [[Samuel]] will leave for [[Cape Town]] early tomorrow morning.
+-  

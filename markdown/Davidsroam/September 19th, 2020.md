@@ -1,0 +1,54 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FCnWZyQnxav.png?alt=media&token=b8da6589-799b-4b9b-b71b-a481f6477b12)
+- Reminders:
+    - "{{[[DONE]]}} book core team planning meetings #Work [[September 24th, 2020]]"
+    - 
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - {{[[DONE]]}} whm
+    - 10:00
+        - "{{[[DONE]]}} Cut back creeper outside toilet #[[Sort and Tidy]]"
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+        - {{[[DONE]]}} go [[HT_Bathing]]
+    - 20:00
+        - Call Esther
+    - 
+- 06:39
+    - [[Facebook]] post from [[Robert Salzman]]: #Philosophy
+        - Doug Benner: We always have a sense of self. This persists even while we understand the impermanence and (therefore) interconnectedness of everything. This sense of self always exerts sort of a gravitational pull on our perceptions. This is one of the influences of which we may not even be aware, as you mention in your concluding sentence. So, isn’t it true that we can never be completely certain of our own understanding and therefore opinions because the understanding itself is undergoing a process of continuous review? Since awakening (as I think you define it in your books) never ends, we never have the firm ground of certainty on which to land, do we?
+        - Robert Saltzman: That's how I see it, Doug. That recognition of a lack of certainty is what I call freefall. Our perceptions--each and every one of them--depend on context and cannot be said to stand on their own apart from context so as to constitute "Truth."
+        - As my friend, Barry Magid put this in a discussion of the ideas of Georg Wilhelm Friedrich Hegel, "Any attempt to remove that cognitive/conceptual context and perceive sensation or reality 'directly' is ultimately impossible or incoherent. Yet how pervasive is the fantasy or metaphor (what Nietzsche called 'immaculate perception') of direct perception --particularly in contexts like Zen or other meditative practices. 
+        - "Perhaps such experiences need to be seen precisely as byproducts of those practices and contexts and not as actually drawing back the curtain of appearances to give us glimpses of naked Reality."
+        - If one understands this--understands Hegel's critique--one will see instantly that reifying so-called "Oneness," just because one claims to have had a so-called "direct experience" of it--or even worse, that some guru did and now you believe him or her--is a bit rich. More than a bit, actually. It's a form of cognitive blindness.
+        - I know I am swimming against the tide here, but I find the naive belief in Oneness or nonduality a cul-de-sac. The idea of one unitary consciousness that is the source and cause of everything we see and know is a theory, not a fact, and there is evidence to the contrary, although this is denied or ignored routinely by "spiritual people."
+        - Due to the confirmation bias, once someone takes Advaita as "Truth," and claims to have "realized" it, then one might be stuck in that posture for a long, long, long, long time. 
+        - So it is not just that awakening never ends in the sense that one's understanding is constantly under revision--although that is important to admit lest one be stuck in a morass of one's own beliefs--but that all we can ever really know is our own conscious perceptions, feelings, and thoughts, which are not a good basis for coming to conclusions about what the Universe or "reality" is "really" like.
+        - This is a matter of intellectual modesty which, unfortunately, seems lacking among spiritual people in general and particularly among self-identified nondualists.
+        - Yes, I do not believe that the only thing that exists is consciousness, which is philosophical idealism. I use that technical term to encourage people who are interested in these matters to look into it. If one has an open mind, it is easy to find out that many bright people have looked into these matters deeply—not just Ramana Maharshi or Adi Shankara—and that the Vedic view taught by the Indian gurus and their Western imitators is not a set of facts about “reality,” although it claims to be, but a traditional religious philosophy that goes back to the Upanishads 2500 years ago. There are other points of view that may be more valid. In my view, there are.  
+        - As opposed to philosophical idealism, I find philosophical naturalism more persuasive. Naturalism holds that the mind and spiritual values have emerged over vast spans of time since the big bang from material things—the realm of physics and chemistry—and that there is nothing supernatural except conceptually. I find this more persuasive because as science marches on, the evidence for it grows.
+        - In this view, awareness or consciousness is an emergent property that arises from a combination of elements of sufficient complexity that could be biological as in a human brain, but don’t necessarily have to be. The concept of emergence is important in understanding the naturalistic point of view and requires more than a few words of explanation, so if someone reading this is not familiar with that term, please look it up.
+        - I understand that many people just want to feel better, deal with anxieties about life and death, or a seeking to find spiritual meaning in a life that can feel pointless or chaotic, and so they glom onto beliefs uncritically in hopes of attaining “salvation” of some kind. If that is where someone is, fine, but if that’s the impetus, there is no hope at all of being clear on these questions. 
+        - We humans have no access to “Truth” in the sense of knowing about “reality.” What we see, think, and feel as “the world,” including “myself,” are representations of sensory data that are interpreted on the fly and converted into sight, sound, tactile sensations, etcetera. A creature with a different nervous system---a bat, for example—perceives a very different world using echolocation, not eyesight. 
+        - As I set forth earlier, to claim that one can become aware of “reality” through “direct experience” is a vain hope, as I see it. Even our thoughts are representations because they are expressed in languages which have biases built into them. We learned those languages before the age of reason, and never fully shake that inculcation of biases. To take one example, the subject/object sentence structure implies a doer which (or who) is separate from what is done, and causes what is done to occur. Even if one tries to get beyond all that conditioning, and relies upon seemingly deeper thoughts than ordinary, and upon intuitions, visions, etcetera, one has no compellingly good reason for trusting all that.
+        - So the illusion is not in what we see, but what we make of what we see. What we see has evolved, as I understand this, along with the evolution of the body, so what we see is not so much “real,” as adaptive and useful. For example, if the vibrations emanating from the surface of a spherical object appear to me as a round, ripe, red apple and I am moved to approach it, pick it, and eat it, that will promote survival. If I associate pleasure with the sweetness of that apple, but disgust with the smell a rotten egg, that will promote survival. So one way of understanding what we see, feel, and otherwise experience is that we perceive what evolution has conditioned us to perceive. We really don’t know what is “out there” or “in here” either. We know what our human primate body/minds in general have evolved to perceive, modified in each of us by the way we were brought up and all subsequent experiences. 
+        - The genius of the Buddha was his understanding that “myself” is not non-existent as the Advaita people keep trying to make themselves believe, but that it lacks any fixed and permanent essence because it is made up of largely unrelated parts—the five skandhas:
+        - 1. Form, meaning the body. 
+        - 2. Feelings 
+        - 3. Perceptions 
+        - 4. Mental formations (thoughts) and
+        - 5. Consciousness (awareness)
+        - The error in Hindu metaphysics, as I see it, lies in claiming as fact either that consciousness (awareness) is all that exists, or that the apparent material world depends upon consciousness for their existence. Nobody knows that. The Advaita Vedanta fad that began in the early 1990s and seems to be losing steam (thank god) is all about embracing that metaphysics as “Truth,” and regarding its gurus as “realized beings.” That view is one version of what I call the hypnotic trance.
+- 10:53
+    - Reflecting on [[Robert Salzman]]s post on [[Facebook]]: #Philosophy
+        - As everything we know comes from our own experience, we cannot know what our experience consists of. We can only know what we see from within it. He finds the view that consciousness is an emergent function of the physical universe to be more persuasive than the other way round. Although he admits that we cannot know.
+        - [[Jed McKenna]] attempts in [[Jed McKenna's Theory of Everything: The Enlightened Perspective]] to prove logically that the apparent physical universe is an emergent function of consciousness. He uses the concepts [[U-Rex]] and [[C-Rex]].
+        - Neither [[Robert Salzman]] nor [[Jed McKenna]] see the individual as having agency - everything is too interconnected for that to be the case.
+- 16:59
+    - Started reading the book [[Deep Work]], finding it very insightful. At about 26%. The process of discovery through reading and digestion through working with book highlights in my [[Digital Garden]] feels very rewarding. It is a luxury to have  time to do this. #Books #[[Psychology]] #[[Productivity]]
+    - In [[Deep Work]] there is a reference to the book [[The Pragmatic Programmer: Your Journey to Mastery]] which seems interesting.
+- 
+-  

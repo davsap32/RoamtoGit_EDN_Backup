@@ -1,0 +1,24 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FYSFYyTZmHf.png?alt=media&token=67bb7697-bfae-414d-a8a0-a2ff8b28ee05)
+- HT_Date:: 20210109
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 17:03
+    - [[Lightroom]] editing workflow by [[Michael Shainblum]]: [video](https://www.michaelshainblum.com/products/lightroom-editing-workflow/categories/3790616/posts/12691378)
+- 19:27
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}

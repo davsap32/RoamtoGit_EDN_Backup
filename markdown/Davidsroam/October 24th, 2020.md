@@ -1,0 +1,37 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FzOE1UGW0ki.png?alt=media&token=261c13b4-5e1f-48b8-9c85-0d89b65ccae5)
+- HT_Date:: 20201024
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 5C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: 80,8
+- {{table}}
+    - Schedule
+        - task
+    - 10:00
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+    - 20:00
+        - Call Esther
+-  09:29
+    - Stuff to do today and tomorrow
+        - Outing to Djurön
+        - Vacuum
+        - mow lawn
+        - make soup
+        - process highlights
+        - [[R.J.Nestor]] video on content creation
+- 10:56
+    - Went [[bathing]], met [[Hans]] and [[Louise]] Rasmussen by [[Lillsjön]].
+- 19:27
+    - Finished reading [[The Zen Master's Dance]]. Need to process highlights. #Books #Philosophy
+    - Read [[Wim Hof Method : Activate Your Full Human Potential]] by [[Wim Hof]]. Skimmed most of it. Lots of hyperbole. Found nothing worth highlighting. #Health #Books
+    - Continued reading [[Stormbird]], I feel lukewarm about this book. It's an adventure book with some basis in history, I'm in the balance as to whether to abandon it. #Books
+    - Mowed the lawn and vacuumed the bedroom floor, I will vacuum the rest of the house tomorrow. #[[Sort and Tidy]]
+    - While vacuuming and mowing, listened to a program in the Spectator TV series about the American election. The subject of the American election is an infinity pool of its own. 
+    - Listened also to a talk by [[Ajahn Sona]] titled "Twenty years a monk", which I enjoyed. The insight which eventually led to him becoming a monk was that the person you think you are is just a story. #Philosophy
+- 21:38
+    - Started reading [[The Stoic Guide to a Happy Life]] #Philosophy

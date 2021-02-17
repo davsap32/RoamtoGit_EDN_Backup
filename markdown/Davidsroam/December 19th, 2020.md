@@ -1,0 +1,30 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FgmmeAm6ciu.png?alt=media&token=9d75c5da-c9f7-4583-adde-c5f024ad02db)
+- HT_Date:: 20201219
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 09:16
+    - Read an [article](https://www.theguardian.com/environment/2020/dec/18/wood-burners-triple-harmful-indoor-air-pollution-study-finds?CMP=Share_iOSApp_Other) titled  "Wood burners triple harmful indoor air pollution, study finds". The article warns for the health risks involved in using wood burners, which release harmful particles into the indoor air when the burner doors are opened.
+    - Changed the color of links in my [[Roam Research]] pages by adding a new block to my   [[CSS theme]]
+    - Still experiencing pain in my left thigh, knee and shin, not so much now in my hip. #Illness
+- 14:38
+    - [[Carl-Otto]] and [[Cecilia]] ate lunch with us. [Pictures](https://www.davidsapire.com/Unlisted-galleries/Events/n-bpRWxq/20201219-Lunch-with-Carl-Otto-and-Cecilia/)
+- 21:30
+    - I am testing my old Telia router [[Telia Media Access TG799vac]]. It is connected to the internet, model details as follows:
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FJqoh8A3Z1k.jpeg?alt=media&token=978a40fc-445d-4864-80d5-2ed999a450bf)
+        - There seems to be no way to manually initiate firmware update, I'm going to leave it connected for a day or two and check to see if the firmware updates.
+        - My idea is to use the Telia router instead of the DLINK router, if the Telia router performance is better, and/or if the firmware is of a later date.

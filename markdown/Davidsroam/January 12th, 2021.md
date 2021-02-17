@@ -1,0 +1,30 @@
+- HT_Date:: 20210112
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: 77.8
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:30
+        - core team mtg
+    - 09:00
+        - presentation IT-stöd IBMi tjänsteleverans
+    - 10:00 
+    - 11:00 
+        - progress tracking mtg with UK
+    - 12:00
+        - CHAPS assessment status
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+    - {{[[slider]]}}
+- 08:01
+    - Shovelled many hundreds of kg of snow from our driveway yesterday.
+- 17:40
+    - [[Kerstin]] has left to visit [[Lizzie]] until tomorrow.

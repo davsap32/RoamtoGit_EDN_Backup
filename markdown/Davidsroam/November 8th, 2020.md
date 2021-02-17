@@ -1,0 +1,29 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F5doFS89WMk.png?alt=media&token=b168b465-4463-47b3-8977-1aa160d89af4)
+- HT_Date:: 20201108
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: yes
+- HT_Bathing:: 5 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 10:00
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+    - 20:00
+        - Call Esther
+-  09:07
+    - Considering my reluctance to engage in work tasks, in the perspective of [[Wayne Liqourman]]'s talks about the illusion of authorship: The source of reluctance is the perceived risk of failure in performing the tasks, due to unclear mandate. The strategy of refusing to perform the tasks until the mandate is clear will reduce my usefullness to the bank - I am useful to them because I make the best of the situation and proceed. If I operate from a prospective of not having authorship, then I can participate in events without feeling the weight of beng responsible for the outcome. #Philosophy #Work
+    - I don't have any books by [[Wayne Liqourman]], he does however refer often to his teacher [[Ramesh Balsekar]]. I have some books by Ramesh and should check them out. #Books #Philosophy
+- 12:23
+    - Enrolled in a course at [[Coursera]] entitled ”Learning how to learn”
+- 16:09
+    - Purchased and downloaded [[Steve Maxwell]]'s video course in home bodybuilding. #Health
+- 21:14
+    - Fetched [[Samuel]] at the airport, good to see him back and know that his journey went well. Customs have still not released the computers he sent with DHL, he hopes that his colleague Henry in [[Cape Town]] will be able to do that tomorrow.
+    - Listened to a #Podcast with [[David Kadavy]] who has written a book entitled [[Mind Management, Not Time Management]], his idea is that the creative process involves many different states of mind and that it is important to match the state of mind to the work to be done. I would like to read the book. #Books #Creativity
+-  

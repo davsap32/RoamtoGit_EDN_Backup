@@ -1,0 +1,39 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FyG3vWTW58X.png?alt=media&token=6825a47d-42d6-416f-87c9-206616ebe4b2)
+- HT_Date:: 20201214
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: 1 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: 81,2
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:00
+        - whm
+    - 09:00
+        - review of lessons learned
+    - 10:00 
+        - financial statements with One Economy
+    - 11:00 
+    - 12:00
+        - CHAPS attestation commitments
+    - 13:00
+        - bathing
+    - 14:00 
+    - 15:00
+        - Digital ToC
+    - 20:00
+        - Call Esther
+- 07:33
+    - Watched part of a "Free" webinar with [[Joel Grimes]] yesterday evening - on how to succeed as a photographer. Nothing more than advertisement for his courses. Offputting.
+- 08:25
+    - I should make a list of [[Online Courses]] to which I have subscribed.
+    - [[Amanda]] is unable to complete her tasks at work - she feels that the instructions she receives are not clear and that her requests for help are ignored. She is afraid of losing her job and is quite desperate.
+- 10:25
+    - Reviewed financial statements for #Riscom for year ending October 31st with [[Sami Homsi]] and [[Ulrika Stendahl]] at UCS OneEconomy. Same disposition and more or less same result as last year. The meeting took only about 15 minutes. Sami will send the material to me for review, and then to Bolagsverket when I confirm that I have reviewed it.
+- 16:00
+    - [[Samuel]] called to discuss the situation with [[Amanda]] at [[Angry Creative]]. During the conversation, I percieved that [[Kerstin]] tried to censor what I was saying through facial expressions and gestures, upon which I left the room. She later apologised.
+- 20:01
+    - Finished reading [[A Memory Called Empire]], enjoyed it. There is a second book in the series, to be released in March 2021. I would like to read it when it comes.  #Books

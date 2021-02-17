@@ -1,0 +1,8 @@
+- flat keys
+- airpods
+- airfly bluetooth adapter
+- shb-pc
+- ipad + charger + cable 
+- iphone + charger +cable
+- sl card
+- shb keycard

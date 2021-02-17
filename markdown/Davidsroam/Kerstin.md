@@ -1,0 +1,5 @@
+- Ideas  for presents:
+    - [Chef's choice CC-320 knife sharpener](https://www.tretti.se/hushall/koksredskap/knivforvaring-tillbehor/product/chefschoice-cc320-white/?gclid=CjwKCAjw0_T4BRBlEiwAwoEiARLYG3eKR4dnZR4VLu48NpZpoRBRvbuarebi8DzIaXO8jU-OrFppIBoC31oQAvD_BwE)
+    - [Wireless airbuds ](https://www.urbanista.com/se/stockholm?gclid=CjwKCAjw0_T4BRBlEiwAwoEiAbuspz4NHbOQZfwjmm7zrOus8ZTE_INEbdCz9oTxdiMqBqlMpZb8GhoCG4gQAvD_BwE)
+    - Zeinas green kitchen cookbook
+    - Portable radio 

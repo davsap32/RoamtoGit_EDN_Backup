@@ -1,0 +1,26 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fit5T2123Cp.png?alt=media&token=a90cbbe9-58b3-4ad8-8c25-1c25b087feb5)
+- HT_Date:: 20201115
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 10:00
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+    - 20:00
+        - Call Esther
+-  10:11
+    - Just completed writing the minutes of the service review meeting of 3/11. This has been hanging around around my neck since the meeting - unecessarily - once I had started it was easily done. #Work
+- 14:57
+    - We drove to town and met [[Amanda]] there - we walked in town with her, she has a cold, so we didn't want to sit in the car with her, otherwise we might have gone out for lunch together and for a walk at Djurön. I had my camera and tripod with me, so we recorded a video greeting for [[Esther]]'s birthday which I trimmed in [[Photoshop]] and uploaded to the video greetings site that [[Kenneth]] wants to use. [Link](https://app.vidhug.com/). Video:
+        - https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FnXnsnS9F8c.mp4?alt=media&token=ace799b0-1c30-4b37-bc8e-324099ca1a03
+- 20:18
+    - Went [[bathing]] this morning, it started raining but I didn't want to turn back.
+-  

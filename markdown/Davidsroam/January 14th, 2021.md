@@ -1,0 +1,24 @@
+- HT_Date:: 20210114
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: 78,2
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:30
+        - core team mtg
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+        - walk through of service method with CMS intended service owner.
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 20:07
+    - [[Kerstin]] came in this morning to congratulate me on my birthday. This evening we ate at Restaurant [[Arv]], good food, very pleasant.
+    - [[Samuel]] called to wish me on my birthday, he mentioned that he had postponed his trip to [[Cape Town]] until after the lockdown is lightened in [[South Africa]]. A few hours later, he called to say that flights from SA via a number of countries including the Netherlands had been restricted further, so he is relieved not to be travelling.

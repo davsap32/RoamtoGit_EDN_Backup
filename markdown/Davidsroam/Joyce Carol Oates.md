@@ -1,0 +1,2 @@
+- [[July 12th, 2020]] Paused book: **Night. Sleep. Death. the Stars**
+- 

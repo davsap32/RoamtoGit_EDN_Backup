@@ -1,0 +1,6 @@
+- Author:: [[goodereader.com]]
+- URL:: https://goodereader.com/blog/electronic-readers/e-readers-are-great-for-eye-health
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[September 24th, 2020]]
+    - In a small study in 2013, the researchers looked into visual fatigue as a result of prolonged reading on three mediums. Participants in the study took part in prolonged reading sessions on LCD eReaders, E-ink eReaders and traditional paper books. Results suggested that reading the LCD eReader (Kindle Fire HD) triggers higher visual fatigue than the E-ink (Kindle Paperwhite) and paper books. 

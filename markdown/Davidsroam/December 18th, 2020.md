@@ -1,0 +1,28 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F45Sd2HXGdY.png?alt=media&token=a1d2a0ff-be9d-42ac-adf8-9ecb7e9f9970)
+- HT_Date:: 20201218
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 09:00
+        - Digital SD - plan next steps with Peter.
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 18:32
+    - Skipped whm due to hip pain, the cause of which i suspect is too much sitting with crossed legs. My hip feels better today, the second day of not doing whm. #Illness
+    - Did not feel up to cold [[bathing]] today, tomorrow [[Cecilia]] and [[Carl-Otto]]will come to lunch, Cecilia is interested in [[bathing]] then somhopefully I will bathe with her tomorrow.
+    - Watched an interesting video about not consuming more content than you can process. Spend 80% pf your time processing content and 20% consuming it.
+        - {{[[youtube]]: https://www.youtube.com/watch?v=VAsxtxFYGbQ}}
+- 20:17
+    - Listened to a #Podcast on the [[RoamFM]] channel with [[Stian Håklev]] about pedagogy, collaborative learning and Open Science. Very interesting.

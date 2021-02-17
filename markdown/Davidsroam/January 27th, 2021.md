@@ -1,0 +1,32 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FBGYStRWpxr.png?alt=media&token=ac8ba1de-7201-4b89-9476-11406d36cded)
+- HT_Date:: 20210127
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: 78,6
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 13:47
+    - I have received an appointment to see a urologist on [[February 15th, 2021]] at 10 am #BPH #Illness
+        - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FIEbqd341xU.pdf?alt=media&token=8b144fb1-7b8f-4416-acad-0930582f8199}}
+- 15:34
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}
+- 16:42
+    - 20:45
+        - Watched a #Video on #youtube titled [[Minimalist Photography]]. Lots of inspiration for my own work. [Link](https://youtu.be/cD0umiEO-0c) #Photography
+        - [[Kerstin]] fetched [[Alice]] this afternoon and took her home to us. She ate dinner with us and Kerstin has just come back from driving her home. A pleasure to have her here.
+    - 21:15
+        - #Video about [[Roam Research]] queries with [[Connor White-Sullivan]]: https://www.loom.com/share/c09c30c2ffb7400f88a3a88866b8dc81

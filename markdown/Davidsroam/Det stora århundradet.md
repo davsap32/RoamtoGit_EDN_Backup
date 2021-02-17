@@ -1,0 +1,16 @@
+- Keywords:: #Books #ToRead
+- Author:: [[Jan Guillou]]
+- Recommended by::
+- Book titles:
+    - [Brobyggarna](https://www.minabibliotek.se/work/brobyggarna?id=e24c62d8-7f7e-c794-843a-62663af07aa6)
+    - [Dandy](https://www.minabibliotek.se/work/dandy?id=2bfcbde6-b462-ea36-8810-16586bbb2008)
+    - [Mellan rött och svart](https://www.minabibliotek.se/work/mellan-r%C3%B6tt-och-svart?id=0e29533e-fe1f-047c-1392-e8111b3771dc)
+    - [Att inte vilja se](https://www.minabibliotek.se/work/att-inte-vilja-se?id=2266cc6a-5174-399e-51c0-ce9675b7bbe7)
+    - [Blå stjärnan](https://www.minabibliotek.se/work/bl%C3%A5-stj%C3%A4rnan?id=8ada9b28-6711-cf72-f0dc-9f35b85e2b5f)
+    - [Äkta amerikanska jeans](https://www.minabibliotek.se/work/%C3%A4kta-amerikanska-jeans?id=8997b37f-55c0-5814-ecde-bb69b568ee87)
+    - [1968](https://www.minabibliotek.se/work/1968?id=428c763b-ce0a-87c4-f98a-c72bc22d0e4e)
+    - [De som dödar drömmar sover aldrig﻿](https://www.minabibliotek.se/work/de-som-d%C3%B6dar-dr%C3%B6mmar-sover-aldrig?id=bbca39b0-b3d6-139d-ec40-cfb8881a58bb)
+    - [Den andra dödssynden﻿](https://www.minabibliotek.se/work/den-andra-d%C3%B6dssynden?id=fc940bd1-60ef-08d7-8038-09372b7a1218)
+    - [Slutet på historien](https://www.minabibliotek.se/work/slutet-p%C3%A5-historien?id=cc560886-bf1f-d3a2-437b-b098fdd6305a) (still to be acquired)
+- Notes:
+- Highlights:

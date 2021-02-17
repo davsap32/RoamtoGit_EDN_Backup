@@ -1,0 +1,33 @@
+- Keywords:: #Books #Readit #Evergreens
+- Author:: [[David Bayles & Ted Orland]]
+- Recommended by::
+- Comments; Reflections on the practicalities of making art. Much emphasis placed on the need to produce lots of work and in this way to learn the craft and to develop [[Habits]] which over time become style.
+- Notes:
+- Highlights:
+    - #[[E: One of the basic and difficult lessons every artist must learn is that even the failed pieces are essential]] #[[Evergreens]] [[Art and Fear. Observations on the Perils (and Rewards) of Artmaking]] #Creativity
+        - The function of the overwhelming majority of your artwork is simply to teach you how to make the small fraction of your artwork that soars. 
+        - your work is your guide: a complete, comprehensive, limitless reference book on your work
+    - #[[E: Audience comes later. The only pure communication is between you and your work.]] #[[Evergreens]] [[Art and Fear. Observations on the Perils (and Rewards) of Artmaking]] #Creativity
+        - Courting approval, even that of peers, puts a dangerous amount of power in the hands of the audience. Worse yet, the audience is seldom in a position to grant (or withhold) approval on the one issue that really counts — namely, whether or not you’re making progress in your work. They’re in a good position to comment on how they’re moved (or challenged or entertained) by the finished product, but have little knowledge or interest in your process. 
+    - #[[E: We don’t learn much about making art from being moved by it.]]  #[[Evergreens]] [[Art and Fear. Observations on the Perils (and Rewards) of Artmaking]] #Creativity
+        - Making art is bound by where we are, and the experience of art we have as viewers is not a reliable guide to where we are
+    - #[[E: New ideas come into play far less frequently than practical ideas — ideas that can be re-used for a thousand variations, supplying the framework for a whole body of work rather than a single piece]] #[[Evergreens]] #Creativity [[Art and Fear. Observations on the Perils (and Rewards) of Artmaking]]
+    - #[[E: If you were working smoothly and now you are stuck, chances are you unnecessarily altered some approach that was already working perfectly well]] #[[Evergreens]] #Creativity [[Art and Fear. Observations on the Perils (and Rewards) of Artmaking]]
+        - what you did got you here, and if you apply the same methods again you will likely get the same result again. This is true not just for being stuck, but for all other artistic states as well - including highly productive states. As a practical matter, ideas and methods that work usually continue to work. 
+    - #[[E: A piece of art is the surface expression of a life lived within productive patterns.]] #[[Evergreens]] #Creativity [[Art and Fear. Observations on the Perils (and Rewards) of Artmaking]]
+        - The hardest part of artmaking is living your life in such a way that your work gets done, over and over — and that means, among other things, finding a host of practices that are just plain useful.  Over time, the life of a productive artist becomes filled with useful conventions and practical methods, so that a string of finished pieces continues to appear at the surface. And in truly happy moments those artistic gestures move beyond simple procedure, and acquire an inherent aesthetic all their own. They are your artistic hearth and home, the working-places-to-be that link form and feeling.
+    - #[[E:There’s little reward in an easy perfection quickly reached by many.]] #[[Evergreens]] #Creativity [[Art and Fear. Observations on the Perils (and Rewards) of Artmaking]]
+        - Provocative art challenges not only the viewer, but also its maker. Art that falls short often does so not because the artist failed to meet the challenge, but because there was never a challenge there in the first place. Think of it like Olympic diving: you don’t win high points for making even the perfect swan dive off the low board.
+    - #[[E: Art that deals with ideas is more interesting than art that deals with technique.]] #[[Evergreens]] #Creativity [[Art and Fear. Observations on the Perils (and Rewards) of Artmaking]]
+    - #[[E: there’s a greater conceptual jump from one work of art to the next than from one work of craft to the next.]] #[[Evergreens]] #Creativity [[Art and Fear. Observations on the Perils (and Rewards) of Artmaking]]
+        - The net result is that art is less polished — but more innovative — than craft
+        - For the artisan, craft is an end in itself. For you, the artist, craft is the vehicle for expressing your vision. Craft is the visible edge of art
+        - The progression of most artists’ work over time is a progression from art toward craft. In the same manner that imagination gives way to execution as any single work builds toward completion, an artist’s major discoveries usually come early on, and a lifetime is then allotted to fill out and refine those discoveries
+    - #[[E: Indulge too many Habits, and life sinks into mind-dulling routine. Too few, and coping with a relentless stream of incoming detail overwhelms you.]] #[[Evergreens]] #Creativity [[Art and Fear. Observations on the Perils (and Rewards) of Artmaking]] #Habits
+        - [[Habits]] are the peripheral vision of the mind. Churning away just below the level of conscious decision-making, they scan a situation with a conceptual eye to disregarding most of it. The theory is simple enough: respond automatically to the familiar, and you’re then free to respond selectively to the unfamiliar. Applying that theory, however, is a bit dicier. 
+        - Style is the natural consequence of habit.
+    - #[[E:To see things is to enhance your sense of wonder both for the singular pattern of your own experience, and for the meta-patterns that shape all experience.]]  #[[Evergreens]] [[Art and Fear. Observations on the Perils (and Rewards) of Artmaking]] #Creativity
+        - All this suggests a useful working approach to making art: notice the objects you notice
+    - #[[E: What veteran artists share in common is that they have learned how to get on with their work.]] #[[Evergreens]] [[Art and Fear. Observations on the Perils (and Rewards) of Artmaking]] #Creativity
+        - What veteran artists know about each other is that they have engaged the issues that matter to them.  Simply put, artists learn how to proceed, or they don’t. The individual recipe any artist finds for proceeding belongs to that artist alone — it’s non-transferable and of little use to others
+        - In the end the work got done the way such things always get done — by carving out solo time for the project and nibbling away at it one sentence at a time, one idea at a time

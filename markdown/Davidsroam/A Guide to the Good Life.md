@@ -1,0 +1,6 @@
+- Keywords:: #Books #ToRead
+- Author:: [[William B. Irvine]]
+- Recommended by:: [[Derek Sivers]]
+- Comments:
+- Notes:
+- Highlights:

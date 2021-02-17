@@ -1,0 +1,30 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fh7Mb2uLLst.png?alt=media&token=8a68c4fa-ae79-49d1-9f2d-4796012c031f)
+- HT_Date:: 20210121
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:30
+        - SLA service agreement
+    - 11:00 
+    - 12:00
+    - 13:30
+        - business targets for VOST
+    - 15:00 
+        - Regulations schedule - review
+    - 20:00
+        - Call Esther
+- 15:16
+    - At my first meeting with [[Kenneth Brinck]] in his new role as head of [[CTOS]] he mentioned that he wanted to recruit an employee to CTOS to replace me during the first half year. Based on that, I feel that it is highly unlikely that the bank will renew my contract past 30/6. [[SHB]].
+- 16:30
+    - It feels as if the medicines I am taking to alleviate [[BPH]] are having effect - after only two days, it has become easier to urinate. I still need to urinate often, probably because the swollen prostate is pressing on my bladder, reducing its capacity. #Illness
+    - Went for a walk in the forest with [[Kerstin]]. Very slushy and slippery, you have to be careful.
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}

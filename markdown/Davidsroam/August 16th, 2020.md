@@ -1,0 +1,11 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FCxH4GVNgie.png?alt=media&token=06986022-a2d5-4e32-8036-ebdc54bb65e7)
+- 09:42
+    - [[Leo]] and I made a collage together, something he always looks forward to doing when he is here. He makes a list of things he wants to include, we search together on Google, and I paste the pictures he chooses into the collage.
+    - [[Kerstin]] wanted to go #bathing this morning, but I chose not to do so. I am so   looking forward to having some quiet time when [[Samuel]] takes the children home. 
+    - [[Samuel]] met [[Josefine]] yesterday evening, she is upset and sad, frightened of the possibility that they may divorce. He says that it is difficult to reason with her. They have a therapy session booked for noon on [[August 18th, 2020]], [[Samuel]] intends to describe the situation as he sees it and ask the therapist for input. He has more or less decided to go through with the divorce.
+- 13:20
+    - [[Kerstin]] has gone #bathing , I am enjoying time on my own. Reviewing and archiving some articles on [[Instapaper]], reading. Watched a very good instruction by [[Drew Baye]] about progressive difficulty for pullups and chinups.[Link](https://youtu.be/2AKLXc5F-kQ). #[[Health]]
+- 19:14
+    - We have eaten dinner with [[Samuel]] [[Leo]] and [[Ellen]]. [[Kerstin]] has gone to meet with [[Josefine]]. [[Samuel]] will take the children to day care and fritis tomorrow.
+- 22:24
+    - {{{[[DONE]]}}}} acquire the book [[Resilient: How to Grow an Unshakable Core of Calm, Strength, and Happiness]] [[August 17th, 2020]] #scheduled

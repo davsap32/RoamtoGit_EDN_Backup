@@ -1,0 +1,18 @@
+- Author:: [[thrivinghenry.com]]
+- URL:: https://www.thrivinghenry.com/writings/roamkasten-a-practical-how-to-guide-to-optimize-zettelkasten-in-roam-research
+- Recommended By::
+- Tags:: #Articles #[[Smart Notes]] #Inbox
+    - **Literature notes** are atomic concepts (meaning one idea unit per literature note) that I paraphrase with a direct reference back to the original text. 
+    - **Fleeting notes** are wisps of awareness that are triggered by the text. These can span the spectrum from fledgling tickles of cognition to fully formed thoughts and arguments.
+        - The mechanics of fleeting notes depend on how you like to read and take notes. If you prefer physical books or printing out articles and papers, most folks do one of the following
+            - Highlight in line
+            - Write in the margins
+            - Use removable sticky tabs to mark key passages
+            - Write ideas with pen and paper on the side
+            - If you prefer digital books on kindle or iPad, most folks highlight and comment directly in the file or highlight and take a screenshot. 
+    - **Permanent Notes**
+        - Then, I write my permanent notes (I like to call them zettels because that sounds fun).
+        - Zettels are declarative statements that make an assertion related to, but not bound by, the literature and fleeting notes.
+        - Structurally, imagine a zettel as a three-legged stool - the original text, fleeting notes, and literature notes are the three legs of the stool and the zettel is what you can stand on to see further in your intellectual landscape. Later, I'll show you how to stack these zettels so you can keep climbing higher and higher in your own consciousness.
+        - Procedurally, to create a zettel, I reread my highlight and its associated fleeting and literature notes, and then think about what that means to me.
+        - How does this concept fit into the larger narrative that I’m developing? Does that support other thoughts I’ve had or evidence I’ve found on that topic? Does it contradict past ideas? 

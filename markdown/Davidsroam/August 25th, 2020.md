@@ -1,0 +1,36 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F0KXmgx-Sel.png?alt=media&token=80e1cf61-5ead-4610-8996-a28244008f45)
+- Reminders:
+    - {{{[[DONE]]}}}} I will be busy until 13.30 tomorrow - tell [[Kerstin]]
+- Plan for the day:
+    - 08:00
+        - {{{[[DONE]]}}}} capstone project : 30 mins
+        - core team meeting
+    - 09:00
+        - {{{[[DONE]]}}}} WHM breathing, meditation
+    - 10:00
+        - {{{[[DONE]]}}}} Jira kanban columns
+        - {{{[[DONE]]}}}} Review Erikas presentation for steerco
+    - 11:00
+        - SHB - UK meeting
+    - 12:00
+    - 13:00
+        - {{{[[DONE]]}}}} Go [[HT_Bathing]]
+    - 14:00
+        - {{[[DONE]]}} Instructions for task review procedure. Include handling of tasks with many activities and many documents.
+        - {{{[[DONE]]}}}} set up meeting to demonstrate use of JIRA
+    - 16:00
+        - journal
+-  I have read some more of [[Make Time: How to Focus on What Matters Every Day]]. The authors suggest that the use of [[Infinity Pools]] such as social media, news sites, youtube etc should be minimized. Even email should be read at fixed times, not every time an email is received. They suggest making [[Infinity Pools]] less accessible by removing apps, logging out, cancelling accounts. For example, cancel Netflix, rather purchase content when you want to view it. Also, turn off notifications. I do think that most of the time spent in [[Infinity Pools]] can be better spent reading or writing. But there still needs to be a way to stumble upon useful input. #Books #[[Productivity]]
+- Stilll reading [[Resilient: How to Grow an Unshakable Core of Calm, Strength, and Happiness]], in small doses. It contains a lot of advice for meditation and reflection, which I do not intend to practice, as I already have my own practice. There are a few potential #[[Evergreens]]  #Books #Health  
+    - When we experience that needs are sufficiently met, there is a sense of fullness and balance. The body and the mind default to their resting state, which I call the **[[Responsive mode]]**, or “green zone.” The body conserves its resources, refuels and repairs itself, and recovers from stress. In the mind, there is a sense of peace, contentment, and love—broad, umbrella terms related to our needs for safety, satisfaction, and connection. This is embodied well-being
+    - On the other hand, when we experience that a need is unmet, there is a sense of deficit and disturbance: something missing, something wrong. The body and the mind are agitated out of their resting state into the **[[Reactive mode]]**, or “red zone.” The body fires up into fight, flight, or freeze reactions, shaking up its immune, hormonal, cardiovascular, and digestive systems. In the mind, there is a sense of fear, frustration, and hurt—umbrella terms related to our needs for safety, satisfaction, and connection. This is stress, distress, and dysfunction.
+- Finished reading [[Make Time: How to Focus on What Matters Every Day]]. Much of it was repetition of well-known information, rather banal. My main takeaway was the idea of [[Infinity Pools]] and that they should be restricted or avoided.
+- 14:28
+    - [[Alina systems]] contacted me - they need to replace the HDD in my desktop and then reinstall Windows. I asked them to do so and in addition to install an extra 4TB hard disk. The total cost will be 4-5 tkr ex moms. They expect delivery of the disks at the end of the week. they will contact me when the PC is ready to fetch.  [[Desktop repair]]
+    - [[Marianne]] was here for lunch. She and [[Kerstin]] went picking blueberries together.
+    - We were considering driving to Denmark next week, to visit with [[Hanne]] and [[Åke]] and stay in their summer cottage for a week. [[Hanne]] phoned today to tell us that she had fallen from her bicycle and broken her foot in several places, she will be in hospital for at least 10 days. So there won't be any trip to Denmark for us.
+    - [[Kerstin]] phoned [[Valy]]. we want him to paint the window of the upstairs bedroom, remove rust from the steel pillar outside the garage and replace the steps and floor of the porch. He expects to be able to work for us next week.
+- 19:10
+    - [[Susanne]] and [[Lennart]] are planning a trip to [[Stockholm]] and may stay with us on the way home.
+- 21:35
+    - {{{[[DONE]]}}}}  [[August 26th, 2020]] test ideas for daily/weekly plan using kanban or table. #scheduled

@@ -1,0 +1,8 @@
+- Keywords:: #Areas #Creativity
+- #[[Goals]]
+    - Use writing as a tool for self-analysis. (Reminiscent of [[Jed McKenna]] spiritual autophagy)
+- [[Activities]]
+    - Continue writing a daily journal, integrate this with "Look into [[Tiago Forte]]s ideas concerning the [[Full Stack Freelancer]] "
+    - Make use of [[Sönke Ahrens]] method for taking notes.
+    - Check out video courses and books on the subject
+        - [UChicago course with Larry McEnerney](https://www.youtube.com/results?search_query=larry+mcenerney+writing)

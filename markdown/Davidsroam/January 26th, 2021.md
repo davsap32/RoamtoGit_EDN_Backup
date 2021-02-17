@@ -1,0 +1,36 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FaecLClwr2A.png?alt=media&token=45b16a70-6524-4746-8e0c-782200516e55)
+- HT_Date:: 20210126
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: 78,6
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:30
+        - core team mtg
+    - 10:00 
+        - sla - third party agreements
+    - 11:00 
+        - progress tracking mtg with UK
+    - 12:00
+    - 13:00
+        - CRM service description
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 08:43
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}
+- 20:17
+    - [[Amanda]] was given notice from [[Angry Creative]] today, they say they do not have the resources to support a person with her needs. She is very upset, trying to reconcile herself with not having been able to make herself useful there. Her self confidence is at rock bottom, at this stage she does not have confidence in being able to find a way forward. She is wasting emotional energy in criticizing how [[Angry Creative]] has treated her. Also, self-pity. [[Kerstin]] spent most of the afternoon with Amanda.
+    - For my own part, I must start thinking about what I want to do after my assignment with [[SHB]] ends, which will be in June at the very latest. #[[Business Future]] Alternatives:
+        - Stop working for money. Spend time on personal projects.
+        - Look for new assignments.
+            - PKM
+            - IT governance
+                - I could perhaps register with [[Exceed]], using [[Peter Anderberg]] and [[Niklas Engelhardt]] as references.

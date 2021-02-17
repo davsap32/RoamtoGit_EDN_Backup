@@ -1,0 +1,34 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F3HcpWP2ewM.png?alt=media&token=fb1bb4bd-1953-404c-9639-664a91115d6c)
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - whm
+    - 10:00
+        - fetch wine
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+        - bookkeeping materials to Lena L
+        - assignment description #Work
+        - meeting minutes #Work
+    - 20:00
+        - Call Esther
+-  09:22
+    - Searched on [[Spotify]] yesterday evening for a piece of music i could hear in my head, an orchestral piece. Frustrating not to be able to find it. I don't know of any way of finding music in that way. In the process I played a lot of pieces in my [[Spotify]] library - there is lots of good stuff there. Amongst other pieces, I listened to [[Lascia ch'io pianga]] which is very beautiful. [[Kerstin]] and I heard it a year ago when walking in [[Rotneros]] park in Värmland, I looked for it after that on [[Spotify]] and found it some weeks later. #Music
+- 11:17
+    - Went #bathing, 11 C in the water, 13 C in the air, stayed in the water for 3:30 minutes. #HT_Bathing
+    - Listened to an  audio recording yesterday with [[Sabine Hossenfelder]] and [[Tim Palmer]], titled "Did scientists get climate change wrong?". It seems that our climate models are good at mean global temperature but that the grid resolution of the models is to coarse to capture many phenomena such as extreme weather. #Podcast
+    - Listening to a #Podcast on "The Intellectual Roots of Wokeness" with [[James Lindsay]] and [[Peter Boghossian]]. About the philosophical roots of identity politics ([postmodernism](https://en.wikipedia.org/wiki/Postmodernism) - based on the idea that all truth is relative).
+    - Watched a #Video on [[youtube]] about attributes in [[Roam Research]], which also discusses [[query]]. Much of this is covered in the [[Roam Research]] help page on [[Attributes]]. [Link](https://roamresearch.com/#/app/help/page/LJOc7nRiO). #[[Digital Garden]]
+        - {{[[youtube]]: https://youtu.be/uWXm85VFOQs}}
+- 12:14
+    - Finished reading [[Twilight of Democracy]]. Very good. #Books
+- 16:19
+    - While [[Kerstin]] was out shopping with [[Amanda]], I took the opportunity to do my bookkeeping for September and send it off. Also to write some meeting minutes for #SHB. It feels good to have gotten those things done. I still need to update the Services Agreement assign,ent for #SHB this weekend. #Work
+- 19:03
+    - [[Kerstin]] had an attack of nausea and vomiting after dinner. [[Josefine]] had informed her that [[Ellen]] had come down with a fever after the children had been with us the day before yesterday, I wonder if [[Kerstin]] picked up something from [[Ellen]].
+    - I have started reading [[The 80/20 Principle: The Secret to Achieving More with Less]]. Seems to be very intelligently written. At the moment it feels as if I have stumbled upon a golden seam in the mine of litterature. #Books
+- 21:24
+    - Spoke with [[Kenneth]] and [[Esther]] together for a while, continued with [[Kenneth]] when [[Esther]] left the conversation. [[Rafi]] wants [[Kenneth]] to finance the purchase of the building for the old age home, I tried to advise [[Kenneth]] against it. If she has  a good business plan she can find a financier, this risk will not be good for his peace of mind. We spoke about #Books, I sent three books to [[Kenneth]] that I think he might find worth reading.

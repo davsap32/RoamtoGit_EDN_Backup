@@ -1,0 +1,30 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FU7954_f-EY.png?alt=media&token=af918a46-9dc4-4d70-9e79-0efea3308a03)
+- HT_Date:: 20210106
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 09:02
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}
+- 10:53
+- Listening to a #Podcast in [[Sean Carroll]]'s [[Mindscape]] series with [[David Stasavage]] about the occurrence of democratic contra autocratic regimes through history. Which conditions gave rise to the one or the other. Interesting. Stasavage has written a book titled [[The Decline and Rise of Democracy]]
+- Preparing for doctor's visit 15/1: #Illness
+    - time taken to urinate 1dl - 10 measurements
+    - urine passed in 24 hours: 3 24-hour measurements.
+    - liquid consumption -unclear, but seems to cover one day.
+- 15:16
+    - Finished reading [[Wool Omnibus]] - enjoyed it.

@@ -1,0 +1,25 @@
+- ## Areas
+- #History
+- #Productivity
+- #Personal
+- #Psychology
+- #Photography
+- #Creativity
+- #Philosophy
+- #Health
+- #[[Personal Finance]]
+- #[[Home Improvement]]
+- #[[Home Tech]]
+- #Work
+- #[[Sort and Tidy]]
+- #[[Digital Garden]]
+- ## Projects
+- #[[Capstone Project]]
+- #[[Business Future]]
+- #[[Storage and Backup]]
+- #Booklists
+- #[[Lightroom Cleanup]]
+- #[[Touch Typing]]
+- ## Others
+- #Inbox
+- #Books

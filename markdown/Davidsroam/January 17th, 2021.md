@@ -1,0 +1,35 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FPXOzFekkj-.jpeg?alt=media&token=754d795b-9c75-43ea-acee-d9b54dcf9787)
+- HT_Date:: 20210117
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: 78,2
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 09:47
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}
+    - Yesterday evening [[Kerstin]] and I chose pictures for a calendar which we made as a birthday present for [[Samuel]].
+- 14:17
+    - Finished reading [[Rising Out of Hatred]]. #Books
+    - Listened to a #Podcast with [[Michael Moore]] and [[Daryl Johnson]]. Daryl Johnson worked for a US security organisation in 2012 when he wrote a paper warning of the threat from white supremacy groups. The paper was suppressed, he lost his job and his department was dismantled.
+    - Found two-book biography of [[Hitler]] by [[Volker Ullrich]] which received positive reviews. I'd like to read them. #Books
+    - Looking at a possible journey to [[Gran Canaria]] for the whole family. to [[Playa del Cura]], where we stayed previously. The journeys & accommodation will cost about 60 kkr for all. 
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FWpdjDiAvAN.png?alt=media&token=e948d016-631b-47a3-905d-9d35ceda4773)
+- 16:48
+    - [[Amanda]] and [[Samuel]] and family will eat dinner with us this evening. I fetched Amanda earlierr, we walked together to [[Lillsjön]] to see if it is possible to bathe there. There is in fact a small hole by a bathing ladder, so it is fully possible to bathe.
+    - I fetched gravel by [[Lilsjön]] parking.
+- 20:34
+    - We had dinner together with the whole family - as usual, [[Ellen]] was very demanding and noisy, always forcing attention toward herself.

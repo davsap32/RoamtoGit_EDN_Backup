@@ -1,0 +1,4 @@
+- Author:: [[Dan Jones]]
+- Reading Status:: #ToRead
+- Recommended By:: 
+- Keywords:: #Books

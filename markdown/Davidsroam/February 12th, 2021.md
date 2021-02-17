@@ -1,0 +1,29 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FaA9zGMOh0y.png?alt=media&token=845f440b-7ac4-4e85-8f9f-72737a7d0283)
+- HT_Date:: 20210212
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00
+        - digital SD: table of contents 
+    - 20:00
+        - Call Esther
+- 09:37
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}
+- 15:50
+    - Listening to a #Podcast on the  [[How to Academy]] channel with [[Ian McGilchrist]] entitled "The divided brain and the Search for meaning. About the roles and functions of the two hemispheres and what we can know from that about human behaviour. Ian McGilchrist has written a book [[The Master and His Emissary - The Divided Brain and the Making of the Western World]] which may be worth reading. #Books
+    - Watched a #youtube #Video on advice for writers by [[Ernest Hemingway]]. I'd like to read more of his advice as well as his books. #Books
+        - {{[[video]]: https://youtu.be/sbGO2TjVP6Q}}
+    - [[Josefine]] and the children were with us yesterday evening. I feel sorry for [[Leo]] - every time he gets involved in something, [[Ellen]] makes a beeline to provoke and disturb him.

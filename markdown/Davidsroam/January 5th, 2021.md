@@ -1,0 +1,32 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FL3aL1HBBn0.png?alt=media&token=052581d1-652b-4a5e-b648-1b60aaeda883)
+- HT_Date:: 20210105
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00
+        - Services agreement progress tracking 
+    - 12:00
+    - 13:00
+        - Dentist
+    - 14:00 
+    - 20:00
+        - Call Esther
+- [[Foundation Training]]
+    - Standing Decompression
+    - Prone Decompression
+    - Anchored Back Extension 
+- 09:13
+    - Yesterday evening [[Kerstin]], [[Amanda]] and I ate a good meal at [[Stadsvakten]] restaurant and then walked around [[Norrköping Light Show]] taking pictures - a lot of fun. [Pictures](https://www.davidsapire.com/Unlisted-galleries/Events/n-bpRWxq/20210104-Norrk%C3%B6ping-light-show/)
+    - Still bothered somewhat by [[Sciatica]] and [[lower back pain]], although my daily exercise routine is having some effect in reducing the syptoms. #Illness
+- 16:48
+    - The [[dentist]] glued my crown in place again. I also asked him to check on a sensitive tooth in my upper right jaw, which he did and said that it was worn but did not need repair.
+    - Went walking with [[Kerstin]]. Slippery, in places. I fell and twisted my left knee, no seríous damage as far as I can tell.
+    - My [[RSI]] in  my finger is better, so I have resumed [[Touch Typing]] practice.

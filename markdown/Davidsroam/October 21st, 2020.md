@@ -1,0 +1,43 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fdx2Qfhxd_4.png?alt=media&token=59a3ec8b-7fb1-4f7b-a0d0-fdb30b9ac813)
+- HT_Date:: 20201021
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 5 C 3,5 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 08:00
+        - whm
+    - 09:15
+        - Meeting with Mark Dransfield
+    - 10:00
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+    - 18:00
+        - journey to stm
+    - 20:00
+        - Call Esther
+- 09:11
+    - #[[Digital Garden]] Don't try to swallow the ocean.
+- 11:09
+    - Just returned from [[bathing]]. 
+    - Had a meeting earlier with Mark Dransfield. I undertook to support him in trying to create clarity in a couple of CHAPS issues. I feel a mild aversion to working with these questions, probably because whoever has to provide me with answers will most likely regard it as an imposition. I will travel to Stockholm this evening for meetings there tomorrow. I feel aversion to this journey as well, perhaps because of the risk of infection on public transport. Generally I feel that my work for [[SHB]] is something which requires discipline to get done - there is little that attracts me to it, although I do enjoy working with my colleagues. My contract with the bank expires at the end of the year, perhaps it is time to end the assignment. I'll wait to see if the bank wants to extend, and then decide. #Work
+- 13:53
+    - The question of whether to continue working for [[SHB]] is connected to the one of whether I want to develop an offering which might be of interest to other companies. My adventures with my #[[Digital Garden]] have been interesting, but the path to monetization is not clear. #Work
+- 18:28
+    - Sitting on the train to Stockholm, just left Norrköping. My [[Roam Research]] backup to [[GitHub]] stopped working yesterday. I spent some time shortening my #Evergreens from [["What the...": A Conversation about Living]], due to the fact that the backup last stopped working because some of my page titles were too long. It didn’t help this time. I put the question to the [[effortless output with roam circle]] and got an answer there within an hour from [[David Eaton]] referring me via Slack to an article at eriknewhard.com which mentioned a change which needed to be made in the github code. I tried it and the next scheduled backup after that worked, which bodes well.
+- 21:36
+    - Arrived in Stockholm a couple of hours ago. While travelling on the subway, I listened to the end of the #Podcast with [[Naval Ravikant]] and [[Tim Ferris]]. They spoke about [[Bitcoin]] as an investment for troubled times. Also about how taking the long view leads to better quality of life. It was a very good podcast.
+    - Put the second Tempur matress in my bed at [[Furusundsgatan 14]], the bed is now much more comfortable. 
+    - Started reading [[Stormbird]] by [[Conn Iggulden]], the first in a series of four books about the wars of the roses. I’m not sure yet if I want to read it through.
+- 
+-  
+- #[[Quick Capture]]
+    - #idea - Discussion tim ferris ravikant bitcoin long term
+
+

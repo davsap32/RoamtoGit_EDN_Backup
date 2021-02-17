@@ -1,0 +1,48 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FTH5yfMGy9r.png?alt=media&token=c5f0b989-ae0b-485d-a328-8b640129f837)
+- {{table}}
+    - Schedule
+        - task
+    - 08:00
+        - whm
+    - 09:00
+    - 10:00
+    - 11:00
+    - 12:00
+    - 13:00
+        - go bathing
+    - 14:00
+        - review assignment description
+    - 20:00
+        - Call Esther
+- 09:26
+    - I have been training at [[Touch Typing]] daily for the past few days, after not doing so for some weeks due to [[RSI]] in my finger. In order to reduce the risk/severity of recurrence of [[RSI]], I have realised that I should:
+        - Avoid using the backspace key when training. Let the errors be. The backspace key gets used frequently, given that my typing accuracy is not good, so I tend to overstrain the finger that uses that key. 
+        - Use the baby finger ("pinky") for the backspace key. It is the right hand ring finger which is giving me problems.
+            - Finger names:
+                - ![Finger Names: What are Fingers Called?](https://www.simplybodylanguage.com/images/finger-names.jpg)
+        - Depress the keys gently - no more force than necessary.
+        - [[Touch Typing]] speed progress, according to [[Typesy]]:
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FKhlVmaYTyd.png?alt=media&token=77fb7044-64c2-4b0c-87b7-ae1918969696)
+            - Accuracy has not improved much over time:
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FUlqAoW_ZTO.png?alt=media&token=0152adbb-e041-477b-8f77-d3cd8e5817bb)
+                - 
+    - [[Kerstin]] still has stomach pain after her nausea attack yesterday evening.
+- 10:35
+    - Added a new javascript block to [[Roam42]], to display the day of the week below the date on a daily notes page.
+        - https://twitter.com/roamhacker/status/1312051442665091073?s=20
+- 12:10
+    - I read some tweets from [@Jeanvaljean689](https://twitter.com/Jeanvaljean689?s=20), a participant in [[Robert Haisfield]]’s workshop on [[query]]. This reminded me of a section in the [[Galaxy Brain]] course on Namespacing:
+        - Use namespacing when meanings of a word collide 
+        - Use {} in a page name to create name spaces 
+            - [[Warrant {[[Law]]}]] 
+            - [[Warrant {[[Philosophy]]} ]]
+            - Both of these will be their own pages, but also be visible on the [[Law]] and [[Philosophy]] pages, respectively.
+        - Here is  a discussion about advance [[query]] in [[Roam Research]]. [Link](https://mattbrockwellmd.substack.com/p/on-formal-symmetry-breaking-in-roam)
+- 15:02
+    - Completed processing of highlights from [[Twilight of Democracy]]
+    - Discovered that windows now supports multiple clips in the clipboard. Hotkey: <Windows> + V
+    - [[bathing]]. Grey weather. 13 C in the air, 11 C in the water. 3:30 minutes immersion.
+- 17:01
+    - while shopping, listened to a #Podcast with [[Emerson Rad]] interviewing [[Robert Salzman]]. Robert is very down to earth, he is particular about not manufacturing stories about spiritual attainment and such. He talks about the freedom of not knowing and not having to convince yourself of anything.
+- 17:16
+    - [[David Vargas]] has developed a number of javascript plugins for [[Roam Research]] which seem worth looking into at: [Link](https://roam.davidvargas.me). Amongst other things, a function to scan an image containing text and use OCR to convert it to text.

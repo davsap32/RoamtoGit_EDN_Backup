@@ -1,0 +1,6 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FaEZ8LUrCiU.png?alt=media&token=70098fdf-61b8-4bfe-936a-226f87bf7c4a)
+- 08:39
+    - Yesterday evening [[Kerstin]] visited [[Josefine]] and spent some time there. [[Samuel]] spoke with [[Esther]] at length. [[Esther]] had spoken with [[Josefine]] earlier in the day. It seems that both [[Samuel]] and [[Josefine]] are understanding themselves and each other better, remains to be seen if this will be enough to save the relationship.
+    - [[Kenneth]] called yesterday evening to hear more about what is happening with [[Samuel]] and [[Josefine]]. He and [[Nadia]] are enjoying their break, they will move now to another place in Colorado and stay there for one more week. The are enjoying using marijuana, which is legal in Colorado. [[Kenneth]] mentioned that he is reading the book [[Resilient: How to Grow an Unshakable Core of Calm, Strength, and Happiness]]. He didn't exactly recommend it, but he did say it was interesting. I'll take a look at it.
+- 10:26
+    - We will eat lunch at home and then drive to meet [[Annika]] at [[Björkbrinken]]. This evening we will see a performance at [[Edgars at Lagnö]]

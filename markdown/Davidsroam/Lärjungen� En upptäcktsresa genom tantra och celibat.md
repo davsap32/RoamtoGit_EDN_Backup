@@ -1,0 +1,3 @@
+- **Author:** [[Erik Adelsohn]]
+- **Recommended By:**
+- **Keywords:** #Books #ToRead

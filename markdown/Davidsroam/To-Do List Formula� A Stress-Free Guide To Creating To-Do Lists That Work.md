@@ -1,0 +1,65 @@
+- Keywords:: #Books #Readit #Digested
+- uthor:: [[Damon Zahariades]]
+- Recommended by::
+- Comments:
+- Notes:
+- Highlights:
+    - #[[E: Most people misunderstand the function of a to-do list. They believe it’s a tool that should help them to complete every task they think deserves their attention. ]]. #[[Productivity]] #Evergreens #[[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]]
+        - On the contrary, a solid to-do list will focus your attention on the right work and prevent you from getting sidelined by less  critical items
+    - #[[E: Defining tasks too broadly is detrimental to their completion.]] #[[Productivity]] #Evergreens #[[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]]
+        - The vagueness of broadly defined tasks ensures they linger. If you’re having trouble completing to-do items, check whether they can be broken down to smaller tasks.
+    - #[[E: When you associate tasks with specific outcomes, you’ll feel more compelled to get them done. ]] #[[Productivity]] #Evergreens #[[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]]
+        - Taking action will signify progress toward goals you hope to achieve - goals that are important to you.
+    - #[[E: Make sure your to-do lists are limited to actionable tasks, not projects.]] #[[Productivity]] #Evergreens #[[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]]
+        - If an item requires more than one action, it is a project that can - and should - be broken down. By doing so, you’ll enjoy better focus and get important work done more quickly.
+    - #[[E: Every task on your master to-do list should have a deadline associated with it. The date doesn’t have to be written in stone. ]] #[[Productivity]] #Evergreens #[[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]]
+        - The date can change as the priority and urgency of the task to which it’s attached changes.
+    - #[[E: Limit the number of items on your daily to-do list to seven. (This does not include tasks that take less than 15 minutes to complete).]] #[[Productivity]] #Evergreens #[[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]]
+    - #[[E: Categorize each task on your master to-do list.]]  #[[Productivity]] #Evergreens #[[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]]
+        - Project
+        - Type: Analytical work, Creative work, Mindless work
+        - Location: At the office, At home, On the road
+    - #[[E: Prune the list on a regular basis, purging tasks that are no longer necessary or consistent with your goals.]] #[[Productivity]] #Evergreens #[[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]]
+        - Remove: 
+            - Wishes 
+            - Unclear tasks 
+            - Trivial tasks 
+            - Resolutions
+    - #[[E: You should know how long each to-do item on your master list will take you to finish.]] #[[Productivity]] #Evergreens #[[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]]
+    - #[[E: When you phrase a task with a verb, the task comes alive.]] #Evergreens #[[Productivity]] #[[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]]
+        - The following are “ tasks ” ( technically , they’re little more than notes ) that lack verbs :
+            - Laundry
+            - Sandra’s birthday cake
+            - Accounts receivable report
+            - Car tires
+            - Breakfast with parents
+        - Adding verbs:
+            - Start a load of laundry
+            - Buy a cake for Sandra’s birthday
+            - Finish the accounts receivable report
+            - Check the pressure in my car’s tires
+            - Call parents to plan breakfast date
+    - #[[E: Write a short note next to each to-do item for which you’re waiting for someone’s input. ]] #[[Productivity]] #Evergreens #[[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]]
+        - Detail the type of input you need, its format (email, phone call, report, spreadsheet, etc.), and the date you expect it to be delivered.
+    - #[[E: Tiny tasks are items that take less than 10 minutes to complete.]] #[[Productivity]] #Evergreens #[[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]]
+        - Batch these tiny tasks together. Place them on a separate batch list. Set aside 30 to 45 minutes to work on them .
+    - #[[E: Weekly reviews are critical .]]  #[[Productivity]] #Evergreens #[[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]]
+        - Gather all of your to - do lists . This includes your master list and context - based lists .
+        - Do a brain dump of all the tasks and projects floating around your head . Add them to your master list .
+        - Break down new projects into individual tasks . Separate new tasks according to context ( project , type , and location ) .
+        - Create new context - based lists , if necessary .
+        - Clear out your email inbox . Send responses if they’re necessary . If an email requires you to take action , but isn’t urgent , make a note of it on your master to - do list and archive the message . Also , archive emails that don’t warrant a response or action , but may be needed later . Delete the rest .
+        - Review your master list and context - based lists . Purge tasks that are no longer necessary or important . Note the tasks that are both important and urgent . Mark them as candidates for your daily to - do list .
+        - Note the tasks for which you’re waiting on input from others . Write down the person’s name and the date you expect to receive his or her input . The date will tell you when to follow up if you don’t receive it .
+        - Review your current deadlines for high - value tasks . Make adjustments if necessary .
+        - Assign deadlines to new tasks you’ve added to your master list and context - based lists .
+        - Review your calendar for the coming week . Create your daily to - do list based on your availability .
+    - #[[E: Assign a specific goal to each task on your list.]] #[[Productivity]] #Evergreens #[[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]]
+    - #[[E: Set aside 30 minutes at the end of each month to track your progress and reevaluate whether any of your goals have changed.]] #[[Productivity]] #Evergreens #[[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]]
+        - If they have, make notes accordingly
+    - #[[E: Incorporate your calendar into your ToDo list]] #[[Productivity]] #Evergreens #[[To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work]]
+        - At the end of the day , review your calendar for the following day . Determine when you’ll be in meetings , on conference calls , or otherwise unavailable .
+        - Estimate how much time you’ll be able to allocate to your to - do items . Don’t forget to leave yourself time for lunch and breaks . Also , pad the estimate to accommodate unexpected delays - for example , impromptu requests for help from your boss and coworkers .
+        - Build the following day’s to - do list . You should have a fairly good idea regarding how long each task will take you to complete ( recall step # 8 from the section How To Create The Perfect To - Do List ) . Create your to - do list based on your availability .
+        - Think of your day as a series of 30 - minute time chunks . An hour - long meeting will require two chunks . A two - hour conference call will require four chunks . These periods should be blocked off on your calendar .
+        - Schedule time to work on your to - do items during the periods that are not blocked off .

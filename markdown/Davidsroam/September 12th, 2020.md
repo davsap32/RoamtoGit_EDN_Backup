@@ -1,0 +1,34 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FxOJROEeSzR.png?alt=media&token=df76f160-9443-4d8b-b5c4-dd1b583ab237)
+- 
+- Highlight:
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - {{{[[DONE]]}}}} whm
+    - 10:00
+        - {{{[[DONE]]}}}} pt
+    - 11:00
+    - 12:00
+    - 13:00
+        - {{[[DONE]]}} vacuum
+    - 14:30
+        - 
+    - 17:00
+        - to [[Samuel]]
+    - 19:00
+        - {{[[DONE]]}} Steerco slides
+    - 20:00
+        - {{[[DONE]]}} Call Esther
+    - 21:00
+        - {{[[DONE]]}} weekly review
+- 10:45
+    - Rainy today, probably won't go #bathing unless there is a pause in the rain.
+    - I signed up for a one-year subscription to [[Medium]].
+- 13:22
+    - Remembering a dream from last night in which I heard a noise in the house and went into the kitchen to find a stranger there. In the dream I shouted at the stranger (with difficulty, because of being fearful) to leave. #Dreams
+- 16:28
+    - When there was a pause in the rain, I walked with [[Kerstin]] to [[Lillsjön]] to bathe, but as we got there and before I could bathe, it started raining heavily, so we tirned around. I didn’t want to have to put on wet clothes after having bathed in the cold water.
+    - We made juice of beetroots and apples. We have so many apples, we will give a bag of them to [[Samuel]].
+- 21:30
+    - Just returned from dinner with [[Samuel]] and family - very pleasant. It didn’t fell as tense as it did the last time we had dinner together.

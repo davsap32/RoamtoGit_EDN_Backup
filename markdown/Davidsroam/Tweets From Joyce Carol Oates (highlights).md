@@ -1,0 +1,6 @@
+- Author:: [[@JoyceCarolOates on Twitter]]
+- URL:: https://twitter.com/JoyceCarolOates
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 27th, 2020]]
+    - Talk about nuance! Why art is infinitely more immediate & forceful than politics in bringing us deeply into the experience of another. Powerful novels can’t be paraphrased still less summarized. https://t.co/9aX53iS44M 

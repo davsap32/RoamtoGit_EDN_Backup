@@ -1,0 +1,36 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F7ocpQlVaNK.png?alt=media&token=16e3f147-17d8-4662-bd91-f8b0c2ebd066)
+- Shopping:
+    - wine,beer, screws, new battery for watch
+- {{table}}
+    - Schedule
+        - task
+    - 08:30
+        - core team meeting
+    - 09:00
+        - {{[[DONE]]}} whm
+    - 10:00
+        - {{[[DONE]]}} go [[HT_Bathing]]
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+        - {{[[DONE]]}} go shopping
+    - 20:00
+        - Call Esther
+- 08:11
+    - After having put the children to bed yesterday evening, we waited for [[Samuel]] and [[Josefine]] to come home and then remained to chat with them. It was pleasant - not tense between them. 
+    - I put a question to the [[effortless output with roam circle]] ([Link](https://effortless-output-with-roam.circle.so/c/questions-and-answers)) yesterday, about how to be able to expand blocks to include attributes from linked pages. I got the following anwser from [[Erik Newhard]]: [[Roam Research]]
+        - You can't expand content from another page. That's where the sidebar comes in handy. Shift+click the link to open the page in the side bar.
+        - Blocks only become expandable when you indent other blocks beneath it. You can add attributes beneath that block in image one. But the attributes would be connected with a reference to the page rather than the page itself.
+        - Another option is to keep the attributes on the page, and Alt+drag them from the sidebar to underneath the block in the first image to create block references. That way you can see them in both locations, but they still live on the page.
+- 08:39
+    - Our apple tree has delivered a large harvest this year. Almost all of the apples have fallen from the tree now. In order not to waste them, we made [[apple sauce]] again yesterday. This time, lacking jars for the apple sauce, we froze the pressed apple sauce in plastic bags without adding sugar.  Our [[Electrolux Kitchen Assistant]] worked better yesterday than it had done previously, it had to do with how I had assembled the sauce press, so I have taken a picture of how the sauce press should be assembled:
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FrXFcSNoHMg.png?alt=media&token=bc41874c-a168-4b8b-bc99-2cf4be61942c)
+- 13:24
+    - My wristwatch has stopped working - I took it in to have the battery replaced, but that did not help. So i ordered a new similar watch from klockor.nu
+- 15:51
+    - Finished reading [[The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness]]. This is a very good book on personal finance - I look forward to processing the highlights. I have tried to persuade [[Samuel]] to read it. #Books
+- 21:43
+    - Finished processing highlights from the book [[The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness]]. Really a wise book.
+-  
+- 

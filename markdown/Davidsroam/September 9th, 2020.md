@@ -1,0 +1,32 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FMZJMk86wSR.png?alt=media&token=6687fe83-c07f-45b2-83ac-a94acd009445)
+- Highlight:
+- Reminders
+    - {{{[[DONE]]}}}} book return journey for tomorrow
+    - {{{[[DONE]]}}}} apple invoice
+    - {{{[[DONE]]}}}} sj invoice
+- {{table}}
+    - Schedule
+        - task
+    - 08:00
+        - {{[[DONE]]}} WHM
+    - 09:00
+        - CTOP area meeting
+    - 11:00
+    - 12:00
+    - 13:00
+        - presentation of service method
+    - 15:00
+        - {{[[DONE]]}} Go [[HT_Bathing]]
+    - 16:00
+        - {{[[DONE]]}} Prepare planning meeting
+    - 20:00
+        - Call Esther
+- 07:37
+    - Quote from [[Maggie Appleton]]: #[[Digital Garden]]
+        - Create notes based around concepts and big ideas rather than specific books, articles, events and media.
+- 12:24
+    - Spoke to [[Samuel]], he is ill. He took a corona test yesterday evening, expecting results this evening. [[Leo]] and [[Alice]] have both been ill, it might have been Corona.
+- 14:51
+    - Considering whether to subscribe to [[Dropbox]]. Sync with [[Edraw]] apps on [[Ipad]] needs dropbox, [[OneDrive]] does not seem to work. Do I need [[Dropbox]] for this purpose? For any other purpose? I cannot install [[Dropbox]] on my desktop PC without subscribing.
+        - [[OneDrive]] doesn't work with Edraw. but [[Box]] does. I'll stick to [[Box]] for the time being. Their free plan includes 10 GB of storage, which is more than enough for my purposes.
+-  

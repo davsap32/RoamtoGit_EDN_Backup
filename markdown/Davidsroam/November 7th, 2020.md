@@ -1,0 +1,33 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FuvOmbxu2Os.png?alt=media&token=42619182-b71e-4f08-9711-68e92e247362)
+- HT_Date:: 20201107
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 5 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - whm
+    - 10:00
+        - bathing
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+    - 20:00
+        - Call Esther
+-  08:29
+    - #Dreams Visitng [[Colin Sapire]] who had just bought a new holiday flat. Garden being maintained by 23 people. He had moved in, but it was my house, I had sold it but was still the owner. He was not aware of this.
+    - #[[Samuel]] called yesterday evening - he would much appreciate me picking him up from the airport at Linköping [[November 8th, 2020]]. I promised to do that.
+- 10:59
+    - Spent some time checking through my list of #Books, trying to standardize the format for attributes. Have now done this for all books in the #ToRead category, will continue for #Reading and #Readit
+    - Considering using an attribute rather than a page for [[Live List]]. In which case, tasks will be added on any page, e.g Daily Notes, but marked with #Areas or #Projects attibutes as well as #Livelist. This because the DONE attribute has to be filtered out each time the [[Live List]] page is displayed from scratch.
+- 16:15
+    - Wnet to the forest above [[Hults Bruk]] to check on the place where we usually find black trumpet mushrooms at this time of uear. We did find quite a few. Shopped on the way home for ingredients to make Plov rice.
+    - Previously, [[Kerstin]] got stuck with a game application she has on her iphone. She could not log in and paid money to create a new login based on Facebook. Now the app would only allow her to play with people on her contacts list, which she would be forced to share woth the app. I tried to help her, but became impatient and walked away from it - my feeling was that she should use apps that she could administer, not create a mess and ask me to clean it up. She was of course dissapointed about my reaction. Anyway, after our outing in the forest I sat down with the app and discovered that sje was trying to log in with her email address, while the app was expecting her to use her username. 
+    - Continuing to read [[Very Important People]] - an interesting description of the competitionfor status amongst superwealthy  men. For them, being surrounded by pretty girls (models) in expensive clubs confers status. ”Promoters” who arrange for these girls to turn up at the clubs and parties, earn momey from the clubs. The girls’ expenses are paid but they earn nothing. The girls are rare because of their beauty, but they have no power or status.
+- 17:52
+    - Just heard that USA media have called the election for Biden. Quite emotional. Great relief.

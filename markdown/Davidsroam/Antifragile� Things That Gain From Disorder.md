@@ -1,0 +1,3 @@
+- Keywords:: #Books #ToRead
+- Author:: [[Nassim Nicholas Taleb]]
+- Recommended by:: [[Ali Abdaal]]

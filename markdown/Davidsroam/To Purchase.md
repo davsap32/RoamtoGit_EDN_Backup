@@ -1,0 +1,4 @@
+- {{[[TODO]]}} consider purchasing mesh wifi #[[Home Tech]]
+- {{[[TODO]]}} purchase iodine
+- {{[[TODO]]}}  consider purchasing sonos move #[[Home Tech]]
+- {{[[TODO]]}} consider purchasing Windows 10 mini PC #[[Home Tech]]

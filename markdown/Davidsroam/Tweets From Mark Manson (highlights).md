@@ -1,0 +1,6 @@
+- Author:: [[@IAmMarkManson on Twitter]]
+- URL:: https://twitter.com/IAmMarkManson
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[October 10th, 2020]]
+    - My recommendation: don't be special, don't be unique. Redefine your metrics in mundane and broad ways. Choose to measure yourself not as a rising star or an undiscovered genius, but by more mundane identities: a student, a partner, a friend, a creator. 

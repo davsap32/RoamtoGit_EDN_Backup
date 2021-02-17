@@ -1,0 +1,14 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fb2FV5k5XhG.png?alt=media&token=9e23c935-fb5b-415a-9db0-f7bd3546e82f)
+- 15:21
+    - Just returned from [[Lilla Älgsjön]] where we went #bathing  since this morning. It has been sunny and warm but now there are thunderclouds over us and we are hoping for a good rain because the garden is very dry. I have been reading  [[Barking Up the Wrong Tree]] and finding it quite insightful. Books like this build on many sources  and provide a good summary of what is known about human behaviour.
+    - I need to write an introduction to myself for the [[effortless output with roam circle]]. [Link](https://effortless-output-with-roam.circle. Text: (250 first characters)
+        - ^^My name is David Sapire and I am based in Norrköping, Sweden. I am partly retired and work part time as an IT consultant. I have been using Roam for about a month, before that I used Notion and before that Trello and OneNote. I am interested in PKM^^ (specifically Smart Notes, Evergreen Notes and Digital Gardens), task management, habit tracking, daily journal. I would like to explore the possibility of offering consultancy services within the area of PKM.
+- 16:51
+    - Yesterday [[Lizzie]] had lost her eyeglasses, which made her almost blind. This morning she found them hanging on her cupboard door. She believes that someone has come in to the house and taken her glasses and then returned during the night to hang them on her cupboard door.
+- 18:24
+    - [[Kerstin]] mentioned that her friend Layla had recommended a hotel at [[Rimforsa strand]] for good food. [Link](https://www.rimforsastrand.se/) #Journeys
+    - Spoke with [[Esther]]. [[Samuel]]s and [[Josefine]]s therapy session was cancelled due to the therapist being ill with suspected Covid. Unsure as to whether they have booked a new session or not.
+    - I have started following v2 of [[Nat Eliason]]s course "[[Effortless output with Roam]]". Nothing new yet, only the introductory classes have been published, most of which is stuff I already know. He will release more lectures on [[August 31st, 2020]]. He requires participants to chose a #[[Capstone Project]]. [[Roam Research]]
+- 20:58
+    - We have been invited by [[Hanne]] so stay in their summer cottage by the coast at Marielyst (Lathyrusvej nr. 9, Væggerløse) near Nykøbing Falster in Denmark during the first week of September. We'll wait until the weather forecast covers that period before deciding. We also have to be wary of sudden changes in who is allowed to pass the border between Sweden and Denmark. #Journeys
+    - Just completed some [[Touch Typing]] training. I do as much as I dare considering the risk of aggravating the inflammation in my fingers.

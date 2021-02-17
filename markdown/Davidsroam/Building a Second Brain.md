@@ -1,0 +1,6 @@
+- Free videos in connection with [[Tiago Forte]]s [[Building a Second Brain]] course in August 2020
+- {{[[youtube]]: https://youtu.be/hvLLVCcPsIE}}
+- {{[[youtube]]: https://youtu.be/LkkdUrxX7zE}}
+- {{[[youtube]]: https://youtu.be/B-Xs_u6mW5Y}}
+- {{[[youtube]]: https://youtu.be/6Jm6Tj-oygs}}
+- {{[[youtube]]: https://youtu.be/--x10rQ4FvI}}

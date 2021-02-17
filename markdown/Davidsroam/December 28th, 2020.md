@@ -1,0 +1,38 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FnF8URrlX3y.png?alt=media&token=b4af5292-ca5e-4856-b5a0-746dcf02a101)
+- HT_Date:: 20201228
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 13:40
+    - The [[Telia Media Access TG799vac]] router kept dropping connections, so I have removed it and replaced it with the [[Dlink DIR-815]] router. #[[Home Tech]]
+    - [[Kerstin]] has wished for a portable radio which she can have in her room downstairs. I ordered one from [[Cdon]]: #[[Home Tech]]
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FybZfnaiDRS.png?alt=media&token=0f4c9990-b3d7-4ab1-95a2-aa96a653a774)
+        - The sorting function seems to have stopped working for my [[Habit-tracker]] attribute table [[Roam Research]]. Updated from the [gitmurf homepage](https://gitmurf.github.io/roam-javascript/#attribute-table-filters). Works now.
+- 14:27
+    - Reading an article at [[thrivinghenry.com]] titled "Roamkasten - a practical how to guide to optimize Zettelkasten in Roam Research" - based on a book club study of [[Sönke Ahrens]] book. Lots to think about. [Link to article](https://www.thrivinghenry.com/writings/roamkasten-a-practical-how-to-guide-to-optimize-zettelkasten-in-roam-research). I am considering using CSS code for Zettelkasten tags referred to in this tweet:
+        - https://twitter.com/beauhaan/status/1341105734910500866?s=20
+- 15:16
+    - Waiting for a call from Folktandvården. This morning they did not phone when they said they would, I tried to phone them and at that moment they called and the call failed because the phone was busy. They called again a bit later and terminated the call before I had a chance to pick up. Now they were supposed to call at 3pm, I’m keeping the phone nearby and hoping they call.
+    - I got the call from Folktandvården - booked an appointment for [[January 5th, 2021]] 13:00. 
+- 16:13
+    - Windy and rainy - no #bathing today.
+    - Still feeling the effects of #Sciatica - keeping up with my exercises. #Illness
+- 18:41
+    - Browsing [[Sönke Ahrens]] book - it may be worth rereading and highlighting. #[[Digital Garden]]
+    - Spoke with [[Esther]], she had suffered from diarrhea today, she suspects due to having eaten of a chicken dish that had been in the fridge for too long.
+- 21:46
+    - I just realised that a common custody account that [[Samuel]] and I created many years ago is costing us 25 SEK each month and has been doing so for mamy years. Time to close it!

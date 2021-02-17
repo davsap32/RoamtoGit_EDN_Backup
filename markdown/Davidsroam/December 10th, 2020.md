@@ -1,0 +1,28 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fl-gk9-iKVi.png?alt=media&token=8d255244-98af-4d80-a1ae-22d0ddca6c81)
+- HT_Date:: 20201210
+- HT_WHM:: yes
+- HT_Meditation:: yes 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: 4 min
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:00
+        - whm
+    - 09:00
+        - mtg with Peter - agenda for lessons learned
+    - 10:00 
+        - bathing
+    - 11:00 
+    - 12:00
+    - 13:30
+        - mtg with Jens and Babu concerning Link assessment.
+    - 15:00
+        - mtg concerning digital SD
+    - 20:00
+        - Call Esther
+- 21:22
+    - I read an article on [[Medium]] about free writing courses. Link: https://link.medium.com/eCBYZHNY6bb. I enrolled in a course on rhetoric at courses.edx.com to get a closer look at the contents. There are more courses mentioned in the article that I should check out.  #[[Creative writing]]

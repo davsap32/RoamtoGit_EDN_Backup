@@ -1,0 +1,30 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FDPZ314byTE.png?alt=media&token=0bef108e-9fd3-446e-b596-3080a5bfe8b4)
+- HT_Date:: 20201206
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 09:14
+    - Found a [[youtube]] channel about [[Borderline]] personality disorders - seems interesting. [Link](https://www.youtube.com/c/BorderlinerNotes)
+    - Next PT: [[December 8th, 2020]]
+    - Downloaded [[Roam Research]] [[shortcut sheet]]:
+        - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fiv8raHpoWv.pdf?alt=media&token=150aa4cb-5203-4171-83c4-c0a8ad2d6c9a}}
+- 13:21
+    - Watching a [[youtube]] video  with [[Marsha Linehan]]on [[Radical Acceptance]]: #Philosophy
+        - {{[[youtube]]: https://www.youtube.com/watch?v=OTG7YEWkJFI}}
+- 21:29
+    - [[Amanda]], [[Samuel]] and family were here for dinner. Samuel had marinated chicken to make Jerky, which he grilled. Delicious.
+- {{[[DONE]]}} download book [[Hamnet]]

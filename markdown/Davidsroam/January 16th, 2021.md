@@ -1,0 +1,25 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FFsxgCB8sXS.png?alt=media&token=f3af15db-de01-44de-9cc9-6155d8031a6f)
+- HT_Date:: 20210116
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 09:35
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}
+- 10:46
+    - I have been unable to use my [[Sony]] headphones on some occasions, the battery being dead in spite of the fact that the headphones were left to charge. It seems that the USB-C cable that I have been using to charge them does not work to charge those headphones. They charge ok with another cable. #[[Home Tech]]

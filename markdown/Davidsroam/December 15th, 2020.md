@@ -1,0 +1,35 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FVxiBjd1IMc.png?alt=media&token=87e7a81e-1157-4ef9-81c1-9fc1ed31acae)
+- HT_Date:: 20201215
+- HT_WHM:: no
+- HT_Meditation:: no
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:30
+        - core team mtg
+    - 09:00
+        - whm
+    - 10:00 
+        - attestations evidence request
+    - 11:00
+        - progress tracking mtg with uk 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 14:34
+    - Meetings all morning, no [[bathing]] or whm so far today. Raining at the moment and soon dark, so there may not be any [[bathing]] today.
+    - [[Kerstin]] has left for [[Arboga]] to celebrate Christmas with her sisters, brother and [[Lizzie]], she said she would have preferred to stay at home, saddened by [[Amanda]]'s working situation.
+    - Ordered toner cartridges to my Samsung printer. Confirmation:
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F9YlwQVYFVA.png?alt=media&token=b1c6c498-b990-41b1-997f-4a7a3f26f4c3)
+- 16:11
+    - Fetched vitamins that I had ordered.
+    - Listening to a #Podcast with [[Rangam Chatterjee]] and [[Daniel Levitin]]. I am curious to read Levitin's book, [[The Changing Mind]] #Books
+- 20:04
+    - Picked up a number of books from [[lithub.com]] list of lists of the best books of the year. [Link](https://www.instapaper.com/read/1370264979) #Books

@@ -1,0 +1,9 @@
+- Author:: [[Srinivas Rao]]
+- URL:: https://medium.com/p/5f7912670ffa
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[October 13th, 2020]]
+    - I think if you’re enjoying what you’ve created, that’s key. If the only reader that benefits from what you’ve written is you, it’s still worth writin 
+    - I try to keep a running list of ideas in a notebook. Most of them are half baked as I mentioned above. I’ll also look through things that I’ve highlighted in books and write my responses and opinions about them. Kindle highlights is a great way to do this. Sometimes I”ll also explore ideas that I’ve written about before and see if there’s new light to be shed on the 
+    - I usually write for myself to start, and then look for what might be worth sharing with readers. All writing involves risk. But the consequences are rarely jail, death or bankruptcy for writing and publishing. 
+    - Resist the temptation to go for eyeballs instead of hearts, embrace the limitless power of art that touches hearts and if nothing else at least you’ll have something you’re proud of to show for your time. 

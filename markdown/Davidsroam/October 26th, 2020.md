@@ -1,0 +1,33 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F-WfrFC9aXg.png?alt=media&token=125d8889-f1df-468b-bea9-9d3f252f1088)
+- HT_Date:: 20201026
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 5 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 07:30
+        - whm
+    - 08:30
+        - core team mtg
+    - 10:00
+        - bathing
+    - 11:30-12:30
+        - steerco services agreement
+    - 12:30-14:00
+        - Monthly service review
+    - 13:00
+    - 14:00
+    - 20:00
+        - Call Esther
+-  07:21
+    - Watched a #Video biographic documentary about Björn Natthiko Lindeblad, who was brought up in a middle class family and started a corporate career which he then abandoned to become a monk.
+        - {{[[youtube]]: https://youtu.be/txanaN2tsuM}}
+-  09:47
+    - Skimmed through an article by [[Tom Thompson]] about Cathexis. Worth highlighting and processing. [Link](https://theheartofconsciousliving.wordpress.com/2015/08/21/cathexis/) #Philosophy
+- 16:53
+    - I had some #Work tasks to do today and felt an aversion to them. Now they are done, they were not unpleasant in any way. As soon as I started thinking practically about what I needed to do, the aversion evaporated. The aversion is partly due to the fear that it will not be possible for me to perform the tasks well, and that I might be criticized for that. Fear is a potent hinder, and has as much power as I grant it.
+    - I have only reported two hours of #Work today, but it feels as if work has dominated my day. This is the disadvantage of part-time work, it expands in awareness to fill other parts of the day than those spent doing it.

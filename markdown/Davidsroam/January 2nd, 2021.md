@@ -1,0 +1,28 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F9Jr79Bc_e_.png?alt=media&token=ccb6a3a8-e21e-4f9d-b223-2b53c2d2abf4)
+- HT_Date:: 20210102
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 09:08
+    - [[lower back pain]] slowly diminishing, although still quite uncomfortable. I am exercising several times a day to loosen it up. Pausing cold bathing and [[Drew Baye]] PT until this is sorted out. #Illness
+    - [[Amanda]] phoned [[Kerstin]] yesterday evening - she was distraught, feels that she fails at everything and lacks the will to continue living. difficult to know what to do, apart from spending more time with her and being supportive.
+    - [[Kenneth]] phoned yesterday evening, after hearing from [[Esther]] that [[Amanda]] had tested positive for [[Covid]]. We discussed [[Samuel]]'s planned journey on Monday to [[Cape Town]]. [[Kenneth]] thought that is would be wrong to travel as planned, as there is a chance that Samuel is incubating even if the test he took on Thursday shows negative. The incubation period is 10 days after exposure according to Kenneth, and a test during that time might show negative for someone who is carrying the infection. Another consideration is that the hospitals in SA are overfull, so that if Samuel needs medical attention while there, it will be difficult to get. I asked Kenneth to discuss this with Samuel, which he did. I hope that Samuel waits another five days and tests again before travelling, as Kenneth recommends.
+- 15:27
+    - [[Samuel]] phoned, he has decided to postpone his journey by 1 week - to be on the safe side. Still no result from his [[Covid]] test.
+    - [[Kerstin]] fetched [[Amanda]], who was here for lunch. She was terribly sad when she got here, but has calmed down a bit. [[Kerstin]] has taken her back to town. She has taken an old office chair with her that I no longer need.
+- 22:01
+    - I intend to do back exercise practice daily. I have a mix of exercises at the moment, but in the long run I think I should build up a routine based on [[Foundation Training]] - 15-20 minutes daily. #Health

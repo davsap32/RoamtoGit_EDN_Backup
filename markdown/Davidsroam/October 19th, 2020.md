@@ -1,0 +1,45 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FUTl2JPzNoP.png?alt=media&token=ad355d27-b3b7-41ca-9f11-d81b52a1e6e2)
+- HT_WHM:: yes
+- HT_Date:: 20201019
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 5 C 2,5 min
+- HT_Back_ex:: no
+- HT_Weight:: 80,6
+- {{table}}
+    - Schedule
+        - task
+    - 10:00
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+        - bathing
+    - 15:00
+        - document Chaps requirement on security tokens
+    - 20:00
+        - Call Esther
+-  10:58
+    - I have completed processing highlights for [["What the...": A Conversation about Living]]. Continuing to read [[Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body]]. Now it is high time to learn something about  reusing my #Evergreens. Perhaps by writing something? Title?
+- 18:54
+    - Colder weather is on its way, if I wait to change to [[winter wheels]] until the first snow comes, I will have to queue to get this done. So I changed to [[winter wheels]] at [[Däckskiftarna]] today - did not have to wait atall. I accepted their offer to have them store and clean my summer wheels for 600 kr including the wheel change. #[[Home Tech]]
+    - After changing wheels I went in to the new Eko shop - first and last time. The shop is enormous, selling everything from clothes to cleaning articles, and they have arranged it so that after entering you cannot leave the shop without traversing all of its departments. Much easier to shop at the Ingelsta gallery
+    - [[bathing]] today - the water is becoming rapidly colder. 5 C today. I left the water after 2,5 minutes, really feeling the cold. It was chilly and windy.
+    - [[Esther]] called this afternoon to say that their water heater had burst during the early hours of the morning, she had called the insurance company and they accepted to cover the damage and replacement. A plumber was to come to the house during the afternoon, I will call this evening to hear how things worked out.
+    - I purchased a book on being a writer by [[Haruki Murakami]] - called [[Författare till yrket]]. It does not seem to have been translated to English yet, so I bought it in Swedish. I've put it on my #ToRead list. #[[Creative writing]]
+    - I am still feeling some pain in the little finger of my right hand, so I am not practicing [[Touch Typing]] (apart from my daily notes) until the RSI is better.
+    - Tested [[Quick Capture]] to [[Roam Research]] from [[youtube]] on the [[Ipad]] using the Siri [[Roam Capture]] shortcut, it works very well. 
+    - I took the day off work entirely today, enjoyed doing other things.
+- 21:08
+    - Spoke with [[Esther]], the plumber had been there and put in a new copper geyser. The ceiling of the bedroom has to be repaired, builders will come tomorrow to look at it and make an estimate. She was not happy to have people in the house, I did't think that there was a risk of infection as long as they did not come too close to her. The bed has dried, [[Ernest]] hung out the blankets so they have also dried. [[Daudi]] was to speak to his brother's doctor today, to find out what precautions he and his family should take, as the brother has been diagnosed with tuberculosis. [[Daudi]] wants to send the brother to Malawi as soon as he leaves hospital, as he doesn't want the brother living in his room with his family.
+    - I have rearranged my [[Habit-tracker]] attribute table to take advantage of [[Shawn Murphy]]'s javascript extension for filtering and sorting in attibute tables. Now, the first column is the date of the corresponding daily notes page. I probaböy no longer need the HT_Date attribute, I'll remove it as soon as i am sure that the daily notes date can be sorted in the first column, which  seems to be the case
+- 22:32
+    - [[Marianne]] has been talking with [[Kerstin]] for about an hour on the phone - of course I don’t mind, but [[Kerstin]] had her phone loudspeaker on, so I couldn’t avoid hearing some of what was said. What struck me was that [[Marianne]] does not converse, she broadcasts her opinions. She reminds me of someone phoning in to the program ”Ring P1”, in which people give their opinions about current issues.
+-  
+- #[[Quick Capture]]
+    - #Video - [Mastering Style: The Learning and Teaching of Writing - YouTube](https://www.youtube.com/watch?v=cYhjo5O-nfg&feature=share) #bookmark
+
+
+    - #Video - [Judy Swan, Scientific Writing: Beyond Tips and Tricks - YouTube](https://www.youtube.com/watch?v=jLPCdDp_LE0&feature=share) #bookmark
+
+

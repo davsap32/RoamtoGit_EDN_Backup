@@ -1,0 +1,6 @@
+- Author:: [[@CatoMinor3 on Twitter]]
+- URL:: https://twitter.com/CatoMinor3
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[December 27th, 2020]]
+    - #roamext will get soon the version 2 :)) that will hopefully solve some bugs and improve the performance :). #roamcult #roam @roamhacker https://t.co/xI1b8BHwrK 

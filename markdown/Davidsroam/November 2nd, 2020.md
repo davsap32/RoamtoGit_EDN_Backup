@@ -1,0 +1,28 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FbEW1Nhq_UE.png?alt=media&token=c397a3ca-7e4d-4d93-96ff-3fe3687d3815)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FNq2YoDWYk5.jpg?alt=media&token=f70b9db9-4445-4a0b-908b-7a585d19725e)
+- HT_Date:: 20201102
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 5 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 09:00 
+        - whm
+    - 10:00
+        - go bathing
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+        - review of CHAPS remediation status
+    - 20:00
+        - Call Esther
+-  19:30
+    - Spoke with [[Esther]] - [[Samuel]] is on the way to [[Cape Town]]. He arrived too early at Linköpings airport this morning and had to wait in a garage for an hour. He should arrive in [[Cape Town]] late this evening.
+    - Today I received a formal offer from [[ITC]] to extend my contract with [[SHB]] through June 2021. I accepted the offer. 
+    - Started reading [[Who they was]] by [[Gabriel Krauze]]. Very good, about life in rough areas of London.
+-  

@@ -1,0 +1,8 @@
+- Keywords:: #Books #Readit 
+- Author:: [[Henry Shukman]]
+- Recommended by::
+- Comments:
+- Notes:
+- Highlights:
+    - #[[E: Reality becomes obscured through thinking and then believing the thoughts.]] 
+        - It is a subtle process, but ubiquitous. But once this dark, radiant fact opens up, we have an alternative. It is possible to see the obscuring process in action, and cherish it without being caught by it. It, too, is empty, after all.  #Philosophy

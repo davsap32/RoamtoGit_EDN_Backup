@@ -1,0 +1,6 @@
+- Author:: [[@RoamFm on Twitter]]
+- URL:: https://twitter.com/RoamFm
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[September 11th, 2020]]
+    - Other than some nesting differences, my headings are similar to this. Very very clean, and the text replacement shortcuts are a very nice touch (will implement this!) https://t.co/xY15nEOCTi 

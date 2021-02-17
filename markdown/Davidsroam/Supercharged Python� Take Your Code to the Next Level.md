@@ -1,0 +1,10 @@
+- [[Books]]
+    - Author::  [[Brian Overland & John Bennett]]
+    - Recommended by::
+    - How much I liked it:
+        - {{[[slider]]}}
+    - How much I have read so far:
+        - {{[[slider]]}}
+- Comments:
+- Notes:
+- Highlights:

@@ -1,0 +1,32 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FcyK-Gi1qv5.png?alt=media&token=fb0b9a64-bbb1-4aa0-8fd7-b18834636d98)
+- HT_Date:: 20210211
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: no
+- HT_Weight:: 78,0
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:30
+        - core team mtg
+    - 10:00 
+        - onboarding service description
+    - 11:30 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 09:14
+    - Spoke with  [[Samuel]] yesterday evening, he was pleased with how his work is going in [[Cape Town]]. He had decided not to visit [[Esther]] yesterday evening, as he needed to rest.
+- 12:57
+    - Watched a #video on [[youtube]] with [[Heather Cox Richardson]]. A useful analysis by a historian of current American politics
+        - {{[[video]]: https://youtu.be/Ry7vSMgfESQ}}
+- 19:42
+    - I fetched [[Leo]]and [[Ellen]] this afternoon, they ate with us and [[Josefine]] joined us with [[Alice]]
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}

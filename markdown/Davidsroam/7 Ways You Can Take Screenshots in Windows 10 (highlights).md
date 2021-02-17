@@ -1,0 +1,5 @@
+- Author:: [[cnet.com]]
+- URL:: https://www.cnet.com/how-to/7-ways-you-can-take-screenshots-in-windows-10/
+- Recommended By::
+- Tags:: #Articles #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[September 24th, 2020]]

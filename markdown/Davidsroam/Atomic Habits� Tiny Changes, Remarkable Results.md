@@ -1,0 +1,78 @@
+- Keywords:: #Books #Readit #Evergreens
+- Author:: [[James Clear]]
+- ## Highlights
+    - #[[E: The effects of Habits amplify over time]] #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #[[Psychology]] #Habits
+        - Positive Compounding
+        - [[Productivity]] compounds. Accomplishing one extra task is a small feat on any given day, but it counts for a lot over an entire career. The effect of automating an old task or mastering a new skill can be even greater. The more tasks you can handle without thinking, the more your brain is free to focus on other areas.
+        - Knowledge compounds. Learning one new idea won’t make you a genius, but a commitment to lifelong learning can be transformative. Furthermore, each book you read not only teaches you something new but also opens up different ways of thinking about old ideas. As Warren Buffett says, “That’s how knowledge works. It builds up, like compound interest.”
+        - Relationships compound. People reflect your behavior back to you. The more you help others, the more others want to help you. Being a little bit nicer in each interaction can result in a network of broad and strong connections over time.
+        - Negative Compounding
+        - Stress compounds. The frustration of a traffic jam. The weight of parenting responsibilities. The worry of making ends meet. The strain of slightly high blood pressure. By themselves, these common causes of stress are manageable. But when they persist for years, little stresses compound into serious health issues.
+        - Negative thoughts compound. The more you think of yourself as worthless, stupid, or ugly, the more you condition yourself to interpret life that way. You get trapped in a thought loop. The same is true for how you think about others. Once you fall into the habit of seeing people as angry, unjust, or selfish, you see those kind of people everywhere.
+        - Outrage compounds. Riots, protests, and mass movements are rarely the result of a single event. Instead, a long series of microaggressions and daily aggravations slowly multiply until one event tips the scales and outrage spreads like wildfire.
+    - #[[E: Goals are about the results you want to achieve. Systems are about the processes that lead to those results.]] #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #Habits #[[Psychology]]
+        - True long-term thinking is goal-less thinking. It’s not about any single accomplishment. It is about the cycle of endless refinement and continuous improvement. Ultimately, it is your commitment to the process that will determine your progress
+    - #[[E:The most effective way to change your Habits is to focus not on what you want to achieve, but on who you wish to become.]] #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #[[Psychology]] #Habits
+        - There are three levels of change: outcome change, process change, and [[Identity]] change.
+        - Your [[Identity]] emerges out of your [[Habits]]. Every action is a vote for the type of person you wish to become.
+        - Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your [[Identity]].
+        - The real reason [[Habits]] matter is not because they can get you better results (although they can do that), but because they can change your beliefs about yourself.
+    - #[[E: Any habit can be broken down into a feedback loop that involves four steps: cue, craving, response, and reward.]] #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #Habits #[[Psychology]]
+        - The ultimate purpose of [[Habits]] is to solve the problems of life with as little energy and effort as possible.
+        - A habit is a behavior that has been repeated enough times to become automatic.
+    - #[[E: It is the anticipation of a reward—not the fulfillment of it—that gets us to take action.]] #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #Habits #[[Psychology]]
+        - The greater the anticipation, the greater the dopamine spike.
+        - Temptation bundling is one way to make your [[Habits]] more attractive. The strategy is to pair an action you want to do with an action you need to do.
+    - #[[E: If a behavior can get us approval, respect, and praise, we find it attractive.]] #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #[[Psychology]] #Habits 
+        - "#[[E: Joining a group that consists of the type of people you want to become can enable you to drastically change your life.]] #[[Evergreens]] #[[Psychology]] [[Barking Up the Wrong Tree]]"
+        - We tend to adopt [[Habits]] that are praised and approved of by our culture because we have a strong desire to fit in and belong to the tribe.
+        - We tend to imitate the [[Habits]] of three social groups: the close (family and friends), the many (the tribe), and the powerful (those with status and prestige).
+        - One of the most effective things you can do to build better [[Habits]] is to join a culture where (1) your desired behavior is the normal behavior and (2) you already have something in common with the group.
+        - The normal behavior of the tribe often overpowers the desired behavior of the individual. ^^Most days, we’d rather be wrong with the crowd than be right by ourselves.^^
+    - #[[E: Each time you repeat an action, you are activating a particular neural circuit associated with that habit.]] #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #[[Psychology]] #Habits
+        - This means that simply putting in your reps is one of the most critical steps you can take to encoding a new habit
+        - {{embed: ((hAnnYy-z2))}}
+        - Jerry Uelsmann #[[Photography]] class
+            - ON THE FIRST day of class, Jerry Uelsmann, a professor at the University of Florida, divided his film photography students into two groups.
+            -  Everyone on the left side of the classroom, he explained, would be in the “quantity” group. They would be graded solely on the amount of work they produced. On the final day of class, he would tally the number of photos submitted by each student. One hundred photos would rate an A, ninety photos a B, eighty photos a C, and so on.
+            - Meanwhile, everyone on the right side of the room would be in the “quality” group. They would be graded only on the excellence of their work. They would only need to produce one photo during the semester, but to get an A, it had to be a nearly perfect image.
+            - At the end of the term, he was surprised to find that all the best photos were produced by the quantity group. During the semester, these students were busy taking photos, experimenting with composition and lighting, testing out various methods in the darkroom, and learning from their mistakes. In the process of creating hundreds of photos, they honed their skills. Meanwhile, the quality group sat around speculating about perfection. In the end, they had little to show for their efforts other than unverified theories and one mediocre photo.
+
+    - #[[E: The most effective form of learning is practice, not planning.]] #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #Habits #[[Psychology]]
+        - Focus on taking action, not being in motion.
+        - Habit formation is the process by which a behavior becomes progressively more automatic through repetition.
+        - The amount of time you have been performing a habit is not as important as the number of times you have performed it
+    - #[[E: make your Habits as easy as possible to start. Anyone can meditate for one minute, read one page, or put one item of clothing away.]] #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #[[Psychology]] #Habits
+        - This is a powerful strategy because once you’ve started doing the right thing, it is much easier to continue doing it. A new habit should not feel like a challenge. The actions that follow can be challenging, but the first two minutes should be easy. What you want is a “gateway habit” that naturally leads you down a more productive path.
+    - #[[E: The best way to break a bad habit is to make it impractical to do. Increase the friction until you don’t even have the option to act]] #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]]#Habits #[[Psychology]]
+    - #[[E: What is immediately rewarded is repeated. What is immediately punished is avoided.]] #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #Habits #[[Psychology]]
+        - The human brain evolved to prioritize immediate rewards over delayed rewards.The Cardinal Rule of Behavior Change:
+        - To get a habit to stick you need to feel immediately successful—even if it’s in a small way.
+        - The first three laws of behavior change—make it obvious, make it attractive, and make it easy—increase the odds that a behavior will be performed this time. The fourth law of behavior change—make it satisfying—increases the odds that a behavior will be repeated next time.
+    - #[[E: The most effective form of motivation is progress.]] #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #Habits #Motivation #[[Psychology]]
+        - When we get a signal that we are moving forward, we become more motivated to continue down that path. In this way, habit tracking can have an addictive effect on motivation. Each small win feeds your desire.
+        - Habit trackers and other visual forms of measurement can make your [[Habits]] satisfying by providing clear evidence of your progress.
+        - Never miss twice. If you miss one day, try to get back on track as quickly as possible.
+    - #[[E: The most proven scientific analysis of personality traits is known as the “Big Five,” which breaks them down into five spectrums of behavior.]] #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #[[Psychology]]  [[Personality Traits]]
+        - **Openness** to experience: from curious and inventive on one end to cautious and consistent on the other.
+        - **Conscientiousness**: organized and efficient to easygoing and spontaneous.
+        - **Extroversion**: outgoing and energetic to solitary and reserved (you likely know them as extroverts vs. introverts).
+        - **Agreeableness:** friendly and [[Compassion]]ate to challenging and detached.
+        - **Neuroticism**: anxious and sensitive to confident, calm, and stable.
+    - #[[E: Humans experience peak motivation when working on tasks that are right on the edge of their current abilities. Not too hard. Not too easy. Just right]]. #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #Motivation #[[Psychology]]
+    - #[[E: The greatest threat to success is not failure but boredom. We get bored with Habits because they stop delighting us. ]]#[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #Motivation #[[Psychology]] #Habits
+        - The outcome becomes expected. And as our Habits become ordinary, we start derailing our progress to seek novelty.
+        - {{embed: ((DiaRJl4d3))}}
+    - #[[E: If you only do the work when it’s convenient or exciting, then you’ll never be consistent enough to achieve remarkable results]] #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #Motivation #[[Psychology]]
+        - The antidote to exhaustion is not necessarily rest….The antidote to exhaustion is wholeheartedness. -BROTHER DAVID STEINDL-RAST #Quotes
+        - Anyone can work hard when they feel motivated. It’s the ability to keep going when work isn’t exciting that makes the difference.
+        - ^^Professionals stick to the schedule; amateurs let life get in the way.^^
+    - #[[E: Reflection and review enables the long-term improvement of all Habits because it makes you aware of your mistakes and helps you consider possible paths for improvement.]] #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #Habits #[[Psychology]]
+        - Without reflection, we can make excuses, create rationalizations, and lie to ourselves. We have no process for determining whether we are performing better or worse compared to yesterday.
+    - #[[E: In the beginning, repeating a habit is essential to build up evidence of your desired Identity. As you latch on to that new identity, however, those same beliefs can hold you back from the next level of growth.]] #Identity #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #[[Psychology]] 
+        - When working against you, your Identity creates a kind of “pride” that encourages you to deny your weak spots and prevents you from truly growing. This is one of the greatest downsides of building [[Habits]]. 
+        - {{embed: ((Du_7aSkWC))}}
+    - #[[E: Success is not a goal to reach or a finish line to cross. It is a system to improve, an endless process to refine]] #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #[[Psychology]] #Habits
+        - {{embed: ((bGn_xADwf))}}
+    - #[[E:Our expectations determine our satisfaction]]. #[[Evergreens]] [[Atomic Habits: Tiny Changes, Remarkable Results]] #[[Psychology]]
+        - The gap between our cravings and our rewards determines how satisfied we feel after taking action. If the mismatch between expectations and outcomes is positive (surprise and delight), then we are more likely to repeat a behavior in the future. If the mismatch is negative (disappointment and frustration), then we are less likely to do so.

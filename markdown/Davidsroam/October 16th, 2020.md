@@ -1,0 +1,33 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FmRlZ3frb_T.png?alt=media&token=3a4f3e55-fd65-45bb-a26b-382a62f52ff2)
+- HT_Date:: 20201016
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Bathing:: 7 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 08:30 - 09:00
+        - core team mtg
+    - 09:00
+        - whm
+    - 10:00
+        - bathing
+    - 11:00
+    - 12:00
+    - 13:30-14:00
+        - mtg with Jens Landin & Erika concerning next CHAPS assesment
+    - 14:00-14:45
+        - SLM/UK reporting
+    - 20:00
+        - Call Esther
+-  10:12
+    - Yesterday evening, started rereading [["What the...": A Conversation about Living]] by [[Darryl Bailey]]. His point is that there is no "me", just a stream of experiences
+- 14:22
+    - [[Helene]] and [[Johan]] arrive in Stm [[December 11th, 2020]]
+    - [[Helene]] and [[Johan]] leave Stm [[January 8th, 2021]]
+    - [[Kerstin]] is fetching [[Leo]], he will be with us until this evening, the rest of the family will come to us for dinner.
+- 19:36
+    - [[Samuel]] leaves for [[Cape Town]] [[November 2nd, 2020]] and returns [[November 7th, 2020]]

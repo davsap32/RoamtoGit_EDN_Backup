@@ -1,0 +1,6 @@
+- Keywords:: #Books #ToRead
+- Author:: [[Michael Gerber]]
+- Recommended by:: [[Derek Sivers]]
+- Comments:
+- Notes:
+- Highlights:

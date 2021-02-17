@@ -1,0 +1,22 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FxFNZoA0EMH.png?alt=media&token=a5ac1a57-3e02-46c3-9e13-d406cade1b76)
+- 13:04
+    - Installed [[Roam Toolkit]] as a Chrome extension. #[[Roam Research]]
+    - [[ISDM Core Team]] meeting this morning: we have a lot to do before we are ready to request decisions about strategy for service provision to UK. #SHB
+    - Produced a draft material for meeting with [[ITDP]] on [[August 24th, 2020]] #SHB
+- 17:08
+    - I listened to a Google Talk in podcast format, 
+        - {{[[youtube]]: https://youtu.be/vd2dtkMINIw}}
+        - [[Barbara Oakley]] talked about the neuroscience of learning. I didn't make notes as I was cooking as I listened to the podcast, maybe I'll read  her book and take notes then. #Books  Some takeaways:
+            - Use the [[Pomodoro]] method to tackle unwillingness to perform a task. Set a timer for how long you intend to work, make sure that there are no distractions during that time. Don't worry about completing the task, the goal is to work in a focused way for the set time.
+            - Learn in chunks. Don't try to learn too much at one time, divide the material into bits. Once you understand a chunk it requires less mental effort to use that information.
+            - Testing yourself is the most powerful way of learing something.
+        - [[Barbara Oakley]] (and others) offer a course in learning how to learn- [Link](https://www.coursera.org/learn/mindshift)
+    - [[Kerstin]] spoke with [[Samuel]], he thought that he and [[Josefine]] had made some progress during their therapy session on [[August 19th, 2020]]. He is a little more hopeful now that the relationship can work.
+- 19:52
+    - Listening to an episode of the [[Modern Wisdom]] [[Podcast]] with [[Daniel Schmachtenberger]]. A discussion of meaning and how to find meaning, or how to know when you have found it. Two approaches. which should in the best case converge: #Inbox
+        - An inner sense of certainty
+        - Reasoning
+    - Finished reading [[Barking Up the Wrong Tree]]. Lots of interesting angles on success, what it is or could be and how to go about getting it. Not a shallow book, as one might expect from the subject. Most of the author's conclusions are based on studies within the area of behavioural science.  #Books
+- 21:39
+    - I subscribed to [[Kindle unlimited]] in order to buy the book [[How to Set Up a Permanent Portfolio]]. I should remember to cancel before the next payment is due. #Books
+- [[August 22nd, 2020]] consider the idea mentioned in [[Barking Up the Wrong Tree]] and in [[Dalton Mabery]]s video on [[Things 3]] that tasks should be scheduled into the calendar. This may be a relevant approach for myself who has a task list that keeps growing.

@@ -1,0 +1,26 @@
+- HT_Date:: 20210107
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 09:00 - 10:30
+        - Core team
+    - 11:00
+        - digital service
+    - 12:00
+    - 13:00
+    - 14:00 
+        - collaboration and governance
+    - 20:00
+        - Call Esther
+- 08:42
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}
+    - We visited the [[Norrköping Light Show]] again yesterday evening with [[Samuel]] and family as well as [[Amanda]].We all came home to us to eat dinner. I found [[Ellen]] to be demanding to the point of being irritating. In the end I tired of the whole event. 
+    - I was quite upset about the rioting in Washington and slept badly, perhaps for that reason.

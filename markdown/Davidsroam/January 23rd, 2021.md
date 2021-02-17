@@ -1,0 +1,27 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FF1lZSJ8mw0.jpeg?alt=media&token=ca70dfce-271b-42fa-a86f-8b77b1f42ce4)
+- HT_Date:: 20210103
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 11:18
+    - Yesterday evening, [[Samuel]] asked us to take care of the children this evening, as he and [[Josefine]] were invited out. I was not keen, as we will have a family gathering tomorrow to celebrate [[Amanda]], I thought it would all be too much. So we said no, but having slept on it [[Kerstin]] said this morning that she thought we should take care of the children this evening and have the family here for lunch tomorrow. I was a bit unwilling but said ok.
+- 14:34
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}
+- 19:42
+    - The grandchildren are here, will be here overnight. I long for peace and quiet.

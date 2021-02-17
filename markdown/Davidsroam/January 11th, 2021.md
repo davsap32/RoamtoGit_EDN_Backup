@@ -1,0 +1,28 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FQlGEfgljIL.png?alt=media&token=95ed06fc-3ceb-4042-a42d-223ed680b78b)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FGQTRJuFIfD.jpg?alt=media&token=49866280-3ca2-46e1-afd8-d175b0c24b15)
+- HT_Date:: 20210111
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+        - walkthrough of lessons learned document
+    - 14:00 
+    - 15:00
+        - Mtg with Magnus Fageräng
+    - 20:00
+        - Call Esther
+- 08:35
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}
+- 21:24
+    - Saw an interview on [[youtube]]with [[Trevor Noah]] and the authors of a book called [[Rising Out of Hatred]] - about the journey of a white nationalist who in the end repudiated his ideology. I’d like to read the book #Books

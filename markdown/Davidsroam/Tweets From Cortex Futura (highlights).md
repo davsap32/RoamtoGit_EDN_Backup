@@ -1,0 +1,6 @@
+- Author:: [[@cortexfutura on Twitter]]
+- URL:: https://twitter.com/cortexfutura
+- Recommended By::
+- Tags:: #Tweets #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[October 13th, 2020]]
+    - @fortelabs DaVinci Resolve - used in Hollywood, completely free version. Only paid when you want to use multiple graphics cards to render etc. 

@@ -1,0 +1,21 @@
+- 11:07
+    - Based on a tweet that [[Theresia Tanzil]] sent, I looked up her [blog](http://proses.id/). She seems to be on to something quite interesting, though I'm not quite sure what it is yet. It has to do with thinking things through and communicating thoughts.
+    - The above is an example of a flood wave of impressions, thoughts and insights within the area of [[Personal Knowledge Management]]. Connected in many cases to [[Neurohacking]] (e.g. [[Atomic Habits: Tiny Changes, Remarkable Results]]). It's about systems and practices for navigating and making use of a flood of information. The systems and practices to be considered are also out there, part of the same flood. There are a number of people providing services within the area of systems and processes for extracting and acting on information from the flood, e.g. [[Tiago Forte]], [[August Bradley]]. The potential is large, the challenge as always is to describe in practical terms how I can contribute.
+    - Having no method that I know of to control the order of rows in my [[Roam Research]] [[Habit-tracker]] I am returning to [[Notion]] for habit tracking until [[Roam Research]] updates with better functionality. [Link ](https://www.notion.so/8f02495b9af748d6a0989aea1512a579?v=68500f1cc4d24c79ab77a3ee9ed5c1ae)
+- 15:48
+    - Just returned from shopping. Listened on the way to a [[Podcast]] with [[Sam Harris]] and [[Robert Plomin]] about the role that DNA plays in detemining who we are. Genes explain about 50% of the differences between people, of the remaining 50% (consisting of environmental factors) about half of the differences are dur to genetics determing which environments we chose. [Link](https://samharris.org/podcasts/211-the-nature-of-human-nature/)
+        - Excerpt from the show notes:
+            - In this episode of the podcast, Sam Harris speaks with Robert Plomin about the role that DNA plays in determining who we are. They discuss the birth of behavioral genetics, the taboo around studying the influence of genes on human psychology, controversies surrounding the topic of group differences, the first law of behavior genetics, heritability, nature and nurture, the mystery of unshared environment, the way genes help determine a person’s environment, epigenetics, the genetics of complex traits, dimensions vs disorders, the prospect of a GATTACA-like dystopia and genetic castes, heritability and equality of opportunity, the implications of genetics for parenting and education, DNA as a fortune-telling device, and other topics.
+    - Listened also to a [[Podcast]]with [[Dale Bredesen]] about Lifestyle Changes to Prevent Neurodegenerative Diseases. Factors such as diet (he thinks keto is good, plant based is good, sleep apnea is bad). Genetics are an important factor, not everyone reacts the same to treatment  protocols. He sees neurodegeneration as being preventable and treatable, though there is a lot still to be learned about prevention and treatment. [Link](https://neurohacker.com/ending-alzheimer-s-lifestyle-changes-to-prevent-neurodegenerative-diseases). 
+        - Excerpt from the show notes:
+            - How millions of variables can contribute to cognitive decline
+            - The crucial role of health coaches to support patients
+            - The truth about amyloid plaque
+            - Oxygenation while you sleep and oral hygiene
+            - Bringing tech and medicine together
+            - Lifestyle factors: Adopting a plant rich, mildly ketogenic diet with some fasting periods
+            - Getting a Cognoscopy to know your risk level
+- 21:41
+    - Read a short article by [[Morgan Hausel]] suggesting that one should start as many books as possible but finish few of them. [Link](https://www.collaborativefund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter/). In most books, arguments are repeated and there are often repetitive case studies to shore up the arguments. I think it is simplest to skim through the text and pay more attention when new ideas are discussed, given that the book and the subject matter are interesting. #Books
+    - Links which I save from the [[youtube]] app on my [[Ipad]] to Instapaper do not work. I am considering using [[Getpocket]] as an alternative.It works well with [[youtube]] links. #[[Digital Garden]]
+- -------------------------

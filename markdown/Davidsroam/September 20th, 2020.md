@@ -1,0 +1,39 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FhBlAZqlzMC.png?alt=media&token=7577716e-8f95-41e0-94ab-ad5b1dddf6b2)
+- Reminders:
+    - "{{[[DONE]]}} book core team planning meetings #Work [[September 24th, 2020]]"
+    - {{[[DONE]]}} mail to Erika: out of office mon-tue
+    - {{[[DONE]]}} out of office mon-tue
+    - {{[[DONE]]}} apologies uk planning mtg 
+    - 
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - {{[[DONE]]}} whm
+    - 10:00
+        - {{[[DONE]]}} PT
+    - 11:00
+        - {{[[DONE]]}} go [[HT_Bathing]]
+    - 12:00
+    - 13:00
+    - 14:00
+        - {{[[DONE]]}} tidy
+    - 17:30
+        - [[Annethe  and Anders]] here for dinner
+    - 20:00
+        - Call Esther
+- 12:23
+    - After beginning to sketch workflow for capture of notes, I arrived at the conclusion that I should subscribe to [[Readwise]], so as not to have to maintain several different channels for data capture. My trial subscription expires on [[September 30th, 2020]] so I should subscribe before or then or on that day.
+    - I will use [[Evernote]] for quick capture - ideas, items to purchase etc.
+- 14:58
+    - While shopping and vacuuming, listened to two audio files: #Podcast
+        - Andrew Neil interviews Anders Tegnell - a second wave and what Sweden got right   SpectatorTV
+            - No special news, interesting to  hear how Anders Tegnell describes the Swedish experience of the pandemic.
+        - Andrew Neil’s US Election in 60 Minutes – Will Trump win again   SpectatorTV
+            - Good panel, good discussion. Who will win in November is in the balance, according to the panel. Up for discussion: Black Lives Matter, China, Covid, Bidens ability or lack thereof to enthuse his voters. Risks for Biden in debating with Trump.
+- 21:21
+    - [[Annethe  and Anders]] have just left after having eaten dinner with us. Quite pleasant. They are both divorced from previous marriages, we spoke about marital problems between [[Samuel]] and [[Josefine]], Anders spoke a little about his experience of divorce.
+    - Will pack tomorrow morning and leave for Örebro.
+    - 
+- 
+-  

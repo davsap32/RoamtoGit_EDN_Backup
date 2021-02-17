@@ -1,0 +1,33 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F6ZwRROosID.png?alt=media&token=c038abda-1862-4c00-a771-07aae8338f9a)
+- HT_Date:: 20210208
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 08:30
+    - 09:00
+        - preparation for mtg with CRM
+    - 10:00 
+        -  core team mtg
+    - 11:00 
+        - progress tracking mtg
+    - 12:00
+    - 13:00
+        - walkthrough of UK service catalog
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 16:35
+    - I mentioned to [[Kerstin]] that I become mentally exhausted when all the grandchildren are here. She thinks it is because I try to withdraw rather than getting involved. Probably true.
+    - Not news yet from [[Samuel]], who should have arrived att midday in  [[Cape Town]]. Esther has heard from him, all seems well.
+- 19:33
+    - Received a message at last from [[Samuel]] that all is well with him.
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}

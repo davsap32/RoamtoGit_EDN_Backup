@@ -1,0 +1,4 @@
+- Utilities on PC:
+    - Anaconda
+    - Spyder
+    - MySQL

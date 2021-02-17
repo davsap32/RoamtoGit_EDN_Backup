@@ -1,0 +1,40 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FFPJLSOxqvt.png?alt=media&token=5dc1db23-bd2f-4dfa-bb93-4a38e9606253)
+- HT_Date:: 20210120
+- HT_WHM:: no 
+- HT_Meditation:: No 
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: no 
+- HT_Back_ex:: yes
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 08:21
+    - Yesterday evening, I began taking the tablets prescribed by [[Sara Seaton]] for [[BPH]]. [[Finasteride Accord]] 5mg [5–alpha-reductase inhibitor](((pJ0Qcr4IQ)))  and [[Alfuzosin STADA]] 10mg [(Alpha-1 blocker)](((iiOyDjXp0))).  #Illness
+    - I feel somewhat "out of sorts" today, perhaps in art due to the medicine lowering my blood pressure. Also, I experienced nasal congestion during the night and feel as if I may be starting a cold. #Illness
+        - Side effects according to FASS: 
+            - [[Finasteride Accord]]: De vanligaste biverkningarna är impotens och minskad sexualdrift. Dessa biverkningar inträffar vanligen i början av behandlingen och hos majoriteten av patienterna är de övergående vid fortsatt behandling.
+            - [[Alfuzosin STADA]]: Vanlig:Trötthet, matthet/yrsel, huvudvärk, svindel (Vanlig (≥1/100 till <1/10))
+        - Extract from [Article on treatment options](https://www.health.harvard.edu/blog/your-benign-prostatic-hyperplasia-medication-when-to-consider-a-change-2009031134) for [[BPH]]
+            - Simply put, alpha-1 blockers deal with the “going” problem by relaxing certain muscles in the prostate and urinary tract, while 5–alpha-reductase inhibitors deal with the “growing” problem by reducing the size of the prostate
+            - When it comes to recommending one drug or another, urologists often use some general guidelines: Alpha-1 blockers are better at relieving urinary symptoms such as difficult or frequent urination, and are best for men with smaller prostate glands. But 5–alpha-reductase inhibitors may be in order if you have a large prostate gland or have not obtained sufficient relief from alpha-1 blockers. And they have a stronger track record for reducing the chance that you’ll need surgery or will experience complications such as acute urinary retention. Sometimes the medications are prescribed in combination.
+            - The alpha-1 blockers work quickly, taking effect in days to weeks. Alfuzosin is a time-release formulation, so a single 10-mg tablet is taken once a day immediately after a meal.
+            - With the 5–alpha-reductase inhibitors, it takes longer to feel the results. These drugs shrink the prostate by reducing levels of the male hormone dihydrotestosterone (DHT), which promotes prostate growth. Levels of DHT fall precipitously after several weeks of taking a 5–alpha-reductase inhibitor, but it may take at least three to six months, and perhaps even longer, before you notice any improvement in urine flow.
+            - When it comes to BPH, are two drugs better than one? The Medical Therapy of Prostatic Symptoms (MTOPS) study indicated that the answer may be yes — at least for some men. In the study, 3,047 men with BPH were randomly assigned to take doxazosin (Cardura), finasteride (Proscar), a combination of the two, or a placebo. After roughly four and a half years of observation, the combination reduced the risk of BPH progression (symptoms getting worse) by 66% when compared with placebo, significantly more than either drug alone. Compared with placebo, doxazosin reduced BPH progression by 39%, and finasteride reduced it by 34%.
+                - A 2006 reanalysis of the MTOPS data according to prostate gland size found that combination therapy provided the most benefit to men whose prostate glands were 25 grams or greater in size (see “MTOPS study and reanalysis,” below).
+            - Because they affect levels of the male hormone testosterone, the 5–alpha-reductase inhibitors may cause a variety of sexual side effects. In the original clinical trials, 3.7% of men taking these drugs (and 4%–6% by some other estimates) developed erectile dysfunction. Another 3.3% of men experienced a decline in libido, while 2.8% had problems ejaculating during an orgasm.
+    - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
+        - {{[[slider]]}}
+    - 13:48
+        - [[Kerstin]] has some errands in town, she will also eat lunch with [[Amanda]] and fetch [[Ellen]] who will be here for supper.
+    - 17:17
+        - [[Ellen]] is with us for dinner. She needs a lot of attention, but mostly she is a pleasure when she does not have to compete with her brother and sister for attention.

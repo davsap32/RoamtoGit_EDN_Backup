@@ -1,0 +1,30 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fo3WoWE5L5-.png?alt=media&token=45cb57f3-5872-43cf-a3dd-489e4a6a29c1)
+- {{table}}
+    - Schedule
+        - task
+    - 08:30
+        - core team mtg
+    - 09:00
+        - discussion with Clare on presentation for exec mtg
+    - 10:00
+        - whm
+    - 11:00
+        - go bathing
+    - 12:00
+    - 13:00
+    - 14:00
+        - prepare planning mtg on Friday
+    - 20:00
+        - Call Esther
+-  09:57
+    - [[Samuel]] called to discuss what to do about [[Amanda]]. She takes a lot of sick leave and is not going to be able to perform her tasks at  [[Angry Creative]] unless she spends time at work learning her new tasks. There is no way [[Angry Creative]] will employ her after her trial period at this rate. I talked to [[Kerstin]] about this, she will talk to [[Amanda]].
+    - At #Work, it seems as if it will soon be time to start a new round of the CHAPS assessment. If I get involved in this, it will increase the likelihood of the Bank renewing my contract at the end of the year. One line of thinking is that I may accept an extension, but that I want to restore my hourly rate to what is was before the bank reduced it by 10%. Another line of thinking is that I need to use my time and energy to develop another kind of offering, which is a reason not to accept an extension.
+- 14:24
+    - [[bathing]]. 10.5 C  in the water, 14 C in the air. stayed in for 3:40 minutes.
+    - Went picking mushrooms yesterday evening, found a few (trattkantareller). Enjoyed.
+- 20:31
+    - Spoke with [[Esther]]. Daudi had requested a loan of 10 000 SAR to be able to transport his brother's body to Malawi for burial, [[Esther]] said to [[Daudi]]that she had been very generous to him and would continue to do so, but that this would have to be limited to her continuing to pay his salary. [[Daudi]] then decided that the brother would have to buried in Johannesburg, which has now been done. [[Esther]] said that she had felt strengthened by her conversation yesterday evening with me.
+    - I have continued to train daily at [[Touch Typing]]. I keep repeating the same text over and over again, trying to reach 100% accuracy, which is still out of reach for me. I can now reach 97% accuracy at 34 wpm, but not every time. However, I do feel that my typing fluency and accuracy improve as I practice.
+    - This evening I ordered a pack of face masks, to use when I travel. I will be travelling to Stockholm next week and want to be able to put on a mask if the train is crowded. I have not yet decided if I will go to [[Furusundsgatan 14]] when I am there. 
+- #[[Quick Capture]]
+    - amazon invoice [[October 8th, 2020]]

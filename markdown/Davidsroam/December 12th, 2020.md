@@ -1,0 +1,23 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F-hpcT4I50B.png?alt=media&token=8801efbf-5656-48d0-89e6-039deb406d2e)
+- HT_Date:: 20201212
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: yes
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: 1,5 C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}} 
+    - Schedule 
+        - task
+    - 10:00 
+    - 11:00 
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 14:34
+    - Listening to a #Podcast about [[Breathology]] with [[Stig Severinsen]]. Stig talks in never ending gushes - reminding me somewhat of [[Wim Hof]]. I find that style of conversation unattractive
+- 23:27
+    - I seem to have deleted the note containing login information for the dlink and asus routers. These are probably configured as access points to the com hem router in the cellar. #[[Home Tech]]

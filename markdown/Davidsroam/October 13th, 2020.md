@@ -1,0 +1,39 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fgu0Sd6dABA.png?alt=media&token=4fcc1759-1927-4ac4-96b3-3fc830a44c20)
+- HT_Date:: 20201013
+- HT_WHM:: Yes
+- HT_Meditation:: Yes
+- HT_PT:: no
+- HT_Bathing:: 9C 4 min
+- HT_Back_ex:: no
+- HT_Weight:: xx
+- {{table}}
+    - Schedule
+        - task
+    - 08:00
+        - whm
+    - 09:00
+        - Jira workflow with Erika and Clare
+    - 10:00
+        - Bathing
+    - 11:00
+        - services agreement progress mtg
+    - 12:00
+    - 13:00
+    - 14:00
+    - 16:00
+        - mtg with Mark Dransfield about CHAPS remediation
+    - 20:00
+        - Call Esther
+-  08:35
+    - [[Kenneth]] sent an email link to a [[youtube]] video of a flash mob street performance:
+        - {{[[youtube]]: https://youtu.be/ceX5jJ5fggs}}
+        - Strange to consider that all of that is gone until further notice. Gathering together and being  transported by art and culture.
+- 14:18
+    - Planning meeting with UK at #Work - we have great difficulty in getting service owners to approve their service descriptions. Services include functionality from many areas and it is difficullt to map responsibility for a service onto a line manager responsibility.
+    - I have added some texts to [[Typesy]] in order to practice [[Touch Typing]] on texts which feel relevant to me. There is a bug in [[Typesy]] which causes the texts I have saved not to be listed, I have reported the bug. When I do change to a new text my typing skills drop from about 37 wpm with 96% accuracy to under 30 wpm with 90% accuracy. So I still have a way to wander in my practice.
+    - I was feeling a bit out of sorts earlier today, after having lain awake for some time during the night. But #bathing in cold water fixed that.
+    - I have taped a rope handle on one of two new matresses that I will use at [[Furusundsgatan 14]]. I'll take it with me when I go to Stockhom tomorrow evening.
+- 20:48
+    - Started reading [[The Plantagenets]] by [[Dan Jones]].
+- 15:19
+    - [[Kerstin]] back from [[Arboga]]. We went out to pick mushrooms,  nice walk but found nearly nothing.

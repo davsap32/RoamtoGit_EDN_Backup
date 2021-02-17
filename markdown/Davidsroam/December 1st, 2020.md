@@ -1,0 +1,34 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fh4HPqjEckn.png?alt=media&token=6039e443-65ef-424a-bf6f-6f2a27727d7a)
+- HT_Date:: 20201201
+- HT_WHM:: yes
+- HT_Meditation:: yes
+- HT_PT:: no
+- HT_Breaths_per_min:: xx 
+- HT_Bathing:: 2 C 3 min
+- HT_Back_ex:: no
+- HT_Weight:: 80,2
+- {{table}} 
+    - Schedule 
+        - task
+    - 07:30
+        - whm
+    - 08:30
+        - core team mtg
+    - 09:00
+        - review service description payments and cards
+    - 10:00
+        - bathing 
+    - 11:00 
+        - Services agreement progress tracking mtg
+    - 12:00
+    - 13:00
+    - 14:00 
+    - 20:00
+        - Call Esther
+- 16:38
+    - Received and installed a new NAS from [[Synology]]. Name: SynologyDS218. IP address: 192.168.0.38. I can connect to this device from my [[Ipad]], which makes it possible for me to access video courses and such without needing to store them on the Ipad. #[[Home Tech]]
+    - [[Kerstin]] is feeling much better after her cold, but she has decided not to go to [[Arboga]], which she had planned to do tomorrow. [[Marianne]] will go instead, and meet the chimneyseeep to discuss repairs which need to be done on the rood of [[Lizzie]]'s home.
+    - [[Erika]] asked if I would be prepared to work more hours for the bank, which would imply signing a new contract with a higher ceiling (75% or 100% compared to 50% as it is now). 
+- 20:01
+    - Watching a masterclass with [[Annie Leibovitz]] on portrait #Photography - quite inspiring.
+    - Nest PT on [[December 4th, 2020]]

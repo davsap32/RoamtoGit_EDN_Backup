@@ -1,0 +1,5 @@
+- Keywords:: #Books #Readit
+- Author:: [[Lionel Shriver]]
+- Recommended by:: 
+- Comments:
+    - The main theme of the book is the cult of extreme physical performance ("Mettleman competions") and how joyless and physically damaging it can be.

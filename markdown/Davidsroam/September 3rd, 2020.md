@@ -1,0 +1,36 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FUJTBlCImuG.png?alt=media&token=19ac5a70-fa5c-4464-ace8-677412c221cc)
+- Highlight: 
+- {{table}}
+    - Schedule
+        - task
+    - 09:00
+        - {{{[[DONE]]}}}} whm
+    - 10:00
+        - {{{[[DONE]]}}}} make [[CSS theme]]  custom tags for P:projects and A:areas
+    - 11:00
+        - {{{[[DONE]]}}}} bookkeeping
+    - 12:30 
+        - ISDM planning meeting
+    - 14:30
+        - VOST requirements
+    - 15:00
+        - {{{[[DONE]]}}}} go [[HT_Bathing]]
+    - 20:00
+        - Call Esther
+- 10:05
+    - Yesterday evening I started reading [[One Blade of Grass]]. Seems to be an interesting story of a troubled boy with eczema who has glimpses of the transcendent and later in life becomes a Zen practitioner. #Books
+    - Rainy weather. [[Valy]] called to say that he would not come today, it is too damp to paint. He will come tomorrow if the weather improves.
+    - [[Kerstin]] will fetch [[Leo]] today and take him for a haircut. She will probably come home with him and we will eat dinner together.
+    - My reading for my #[[Capstone Project]] has mostly been within the area of #[[Psychology]]. I need to read more within the area of #Philosophy. I intend to read [[Bertrand Russell]]'s book [[History of Western Philosophy]]. This a large and challenging book, so it will be a big task. #Books
+    - Called #[[Alina systems]] to find out status of [[Desktop repair]]. They are still waiting for a new SSD, it should come today or tomorrow.
+    - Today I received the copy of [[The Book of Not]] which I ordered from [[Bokus]]. Looking forward to reading it. #Books
+    - Watching SVT kulturnytt. Trailer for the film ”[[I’m thinking of ending things]]”. I’d like to see it. On Netflix from [[September 6th, 2020]] #Films
+- 18:29
+    - I have booked a dentist’s appointment for [[September 4th, 2020]] at 10:00. It feels as if a tooth is broken and is a little painful to chew on (upper jaw, right side, at the back.)
+    - {{{[[DONE]]}}}} answer Tracy Winchell [[September 4th, 2020]]
+- 20:40
+    - [[Kerstin]] came home with [[Leo]], after fetching him from school and taking him for a haircut. He is such a pleasure to be with when it is just us and him. 
+    - Spoke briefly with [[Esther]], she seems to think that it is a burden for me to talk with her daily, so she tries to keep our conversations short.
+    - Read a few more pages of [[One Blade of Grass]]. I really like it.  #Books
+- 
+-  

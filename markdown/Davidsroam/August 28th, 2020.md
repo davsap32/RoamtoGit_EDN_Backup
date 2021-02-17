@@ -1,0 +1,47 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FrDth2edyDb.png?alt=media&token=f898024a-3b88-4976-b561-afc3fa631644)
+- Reminders
+    - {{{[[DONE]]}}}} flutikason
+- {{table}}
+    - Schedule
+        - task
+    - 08:30
+        - {{{[[DONE]]}}}} WHM breating & meditation
+    - 09:00
+        - {{{[[DONE]]}}}} tag evergreen notes to projects & areas
+    - 10:00
+        - {{{[[DONE]]}}}} go [[HT_Bathing]]
+    - 11:00
+        - {{[[DONE]]}} tidy and remove dust from desk
+    - 12:00
+    - 13:00
+        - "{{{[[DONE]]}}}} minutes of service review meeting"
+    - 14:00
+        - {{{[[DONE]]}}}} Continue with Cortex futura course
+-  07:39
+    - I have begun tagging #[[Evergreens]]. Most of the #Books from which I have extracted these have been about Psychology, so I need a #[[Psychology]] tag. I hadn't really expected this, I had previously defined my #[[Capstone Project]] as follows:
+        - "I am on a journey of exploration, the territory to be explored includes the following:"
+            - "[[Creativity]]: Producing original work"
+            - "[[Productivity]]: Getting things done"
+            - "[[Personal Knowledge Management]]: Finding useful information that can be trusted and making use of it."
+            - "[[Philosophy]]: The search for meaning."
+        - Obviously, #[[Psychology]] is an underlying body of knowledge which will be needed. So I do need a #[[Psychology]] page. 
+        - {{{[[DONE]]}}}} I need to consider whether to make it an area of my #[[Capstone Project]] or not.
+- 09:20
+    - [[Jed McKenna]] sent a new email rant on the theme of consciousness creating everything in order to entertain itself. I wonder how he knows that?
+- 11:31
+    - Went #bathing - beautiful weather. 16 C in the water. [[Kerstin]] accompanied me. She had an asthma attack this morning and had to take two doses of her puffer. On the way back from the lake she felt suddenly faint and had to sit and rest. Probably due to the high dose of asthma medicine.
+    - Tagging #[[Evergreens]] feels like a creative activity - very enjoyable. I have now completed this for the book [[Resilient: How to Grow an Unshakable Core of Calm, Strength, and Happiness]] #Creativity
+- 15:00
+    - I have spent a couple of very pleasant hours in my #[[Digital Garden]]. #Books digested:
+        - [[Make Time: How to Focus on What Matters Every Day]]
+        - [[Resilient: How to Grow an Unshakable Core of Calm, Strength, and Happiness]]
+        - [[Barking Up the Wrong Tree]]
+        - [[Peak_ Secrets from the New Science of Expertise]]
+        - [[Atomic Habits: Tiny Changes, Remarkable Results]]
+        - [[Art and Fear. Observations on the Perils (and Rewards) of Artmaking]]
+    - It is challenging to find common themes and propositions in all this material. I have done this to a certain extent for the above material, but there are probably commonalities that I haven't found yet.
+    - Now I have to absorb this material and see if new perspectives make themselves known.
+- 21:32
+    - I took [[Alice]] home, met with the family and invited them to dinner on Sunday - they will come. Went shopping on the way home.
+    - On the way home I listened to a #Podcast from the [[BrainFirst Radio]] channel with [[Gabriele Oettingen]] about [[WOOP]]. Titled "The Science of Making Your Dreams Come True"
+    - Downloaded [[WOOP]] materials from [Link](https://woopmylife.org/en/practice)

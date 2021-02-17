@@ -1,0 +1,28 @@
+- Keywords:: #Areas
+- #[[Goals]]:
+    - Reduce clutter
+    - Make it easier to find things
+- ToDos
+    - {{[[TODO]]}} Tidy workbench in garage #[[Sort and Tidy]]
+    - {{[[TODO]]}} Tidy desk in study #[[Sort and Tidy]]
+    - {{[[TODO]]}} Tidy drawer in hall bureau #[[Sort and Tidy]]
+    - {{[[TODO]]}} Tidy desk and drawers in hall upstairs #[[Sort and Tidy]]
+    - {{[[TODO]]}} Tidy border of flagstone path behind house #[[Sort and Tidy]]
+    - {{[[DONE]]}} Cut back creeper outside toilet #[[Sort and Tidy]]
+    - {{[[TODO]]}} Vacuum matresses in bedrooms #[[Sort and Tidy]]
+    - {{[[TODO]]}} Decide new storage space for cameras #[[Sort and Tidy]]
+    - {{[[TODO]]}} Replace sand between flagstones #[[Sort and Tidy]]
+    - {{[[TODO]]}} Repair garden chairs #[[Sort and Tidy]]
+    - {{[[TODO]]}} Put up shelves in clothes cupboard #[[Sort and Tidy]]
+    - {{[[TODO]]}} Clean oven  #[[Sort and Tidy]]
+    - {{[[TODO]]}} Tidy drawers in flat at #[[Furusundsgatan 14]] #[[Sort and Tidy]]
+    - {{[[TODO]]}} Renew water in storage containers #[[Sort and Tidy]] #[[Repeat tasks]]
+    - {{[[TODO]]}} Scan home improvement receipts #[[Sort and Tidy]]
+    - {{[[TODO]]}} Wash awning in front of kitchen #[[Sort and Tidy]]
+    - {{[[DONE]]}} Defrost freezer in garage #[[Sort and Tidy]]
+    - {{[[TODO]]}} Prune cherry tree #[[Sort and Tidy]]
+    - {{{[[DONE]]}}}} trim hedge #[[Sort and Tidy]]
+    - {{{[[DONE]]}}}} trim grass behind cars
+    - {{[[TODO]]}} wash remaining windows  #[[Sort and Tidy]]
+    - {{[[TODO]]}} sort plastic tray with stuff from drawer in hall #Livelist
+    - 

@@ -1,0 +1,39 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F2csvE0gmsv.png?alt=media&token=13451a54-3234-4bfc-88a1-e66ca32eb41b)
+- Highlight:
+- {{table}}
+    - Schedule
+        - task
+    - 10:00
+        - {{{[[DONE]]}}}} WHM Breathing & meditation
+        - {{{[[DONE]]}}}} go [[HT_Bathing]].
+    - 11:00
+        - Planning meeting
+    - 12:00
+    - 13:00
+    - 14:00
+        - [[Galaxy Brain]] course - look at a couple of lessons
+    - 15:00
+        - [[Effortless output with Roam]] course - look at a couple of lessons.
+    - 20:00
+        - Call Esther
+-  08:36
+    - I have registered problems that I have experienced with [[Roam Backup/Restore]] on the following forums:
+        - [[effortless output with roam circle]] [Link](https://effortless-output-with-roam.circle.so/c/questions-and-answers)
+        - roamresearch.slack.com
+        - https://roamresearch.freshdesk.com/support/tickets/5305
+        - https://www.roamstack.com/
+    - Watched a video on [[youtube]] by [[James Jani]] about self help gurus making money out of people using manipulative methods.
+        - {{[[youtube]]: https://youtu.be/L9Gpr7PEnbs}}
+    - [[Amanda]]'s interview at [[Angry Creative]] went well yesterday, according to her. She will start there next week.
+- 10:32
+    - Talked with [[Valy]] for a while this morning. He is very stressed, has difficulty sleeping. His daughter is living with her alcoholic mother, not going to school, refuses to come and live with Valy. The social services are not helping. The daughter is only ten years old. What a mess.
+- 13:27
+    - So far as I can see, I have not received an invoice or receipt from [[Instapaper]] for my premium subscription paid on 20200805. I have written to them to ask for a receipt, frustrated about having to spend time on something like this.
+- 15:34
+    - [[Kerstin]] has come home from visiting [[Katarina]] in Malexander. She seems to have had a good time there
+    - #[[Roam Backup/Restore]] [[Erik Newhard]] in the [[effortless output with roam circle]] asked me to check if the texts that were missing on my Daily Notes pages were there but behind collapsed bullets. this was in fact the cased, so I have raised the alarm unnecessarily. He has offered to troubleshoot my [[GitHub]] roam backup routine, so I have sent him the action logs.
+    - [[Valy]] has replaced the porch steps - looks very good. Now he has started preparing the pillars for painting with anti-rust and for pouring concrete by the flagstones.
+    - Missed a work meeting today, it was in my [[Roam Research]] schedule for today and in my [[SHB]] calendar, but I forgot about it anyway.
+- 21:36
+    - [[Marianne]] and [[William]] were here to borrow our ladder - they need to replace a missing roof till.
+    - Spoke to [[Esther]], it is bitterly cold in Cape Town. Snow on the mountain. There are long traffic queues to see the spring flowers at the [[West Coast National Park]] near [[Langebaan]]

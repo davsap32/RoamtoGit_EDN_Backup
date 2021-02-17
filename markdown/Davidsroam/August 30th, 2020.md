@@ -1,0 +1,15 @@
+-  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FhZHVcYEdK6.png?alt=media&token=77fdaace-cd15-47bf-8adb-da9dc8584ec8)
+- Highlight:
+- {{table}}
+    - Schedule
+        - task
+    - 10:00
+    - 11:00
+    - 12:00
+    - 13:00
+    - 14:00
+- 16:19
+    - [[Lennart]] and [[Susanne]] arrived  yesterday evening, they ate dinner with us and stayed over. This morning we all went #bathing  - 15 C in the water and 16 C in the air. They ate lunch with us and have recently left for Gothenburg.
+    - We were going to cancel our Sunday evening dinner with the family as [[Leo]] had a fever, but [[Samuel]] now says that he seems to be well and they want to come. So now they will come.
+- 20:42
+    - Now at last the house is empty - [[Kerstin]] has taken [[Amanda]] back to town, and [[Samuel]] and family have gone home. It was all a little too much after having spent most of the day with [[Lennart]] and [[Susanne]]. This evening I was not really in the mood for playing with the grandchildren.  As usual, [[Josefine]] was glued to her telephone. [[Ellen]] was her usual whirlwind and [[Leo]] complained constantly about not having anythng to do, as he missed his Ipad.
