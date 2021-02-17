@@ -21,6 +21,10 @@
     - I received a call from [[Åby Vårdcentral]] after my call to them yesterday about discoloration under my eye. They asked me to send a picture of the discoloration and also to come in and leave a blood sample any day between 8-11 am, fasting. The nurse said that [[Sara Seaton]] suspects it may be [[Xanthelasma]] and that I should have my blood fats checked.
 - 14:44
     - Listening to a #Podcast in the [[Sensibly Speaking]] series with [[Tim Ward]] about truth in politics. The book [[The Cult of Trump]] was mentioned - seems interesting. #Books
+- 20:23
+    - [[Kenneth]] called earlier to advise me of some questions to raise with [[Urologist Bengt Folkestad]] when I have a new appointment on [[February 22nd, 2021]]. I have added his questions to the list I have made for that visit. [[Kenneth]] has moved home again, after the house he had borrowed lost power. They are suffering from rolling blackouts with no date given for restoration of normal power.
+    - [[Kerstin]] called to say that she would spend another night with [[Lizzie]], coming back tomorrow morning.
+- 
 - DAC
     - https://youtu.be/zgRLCAbrr2c
 - Obersalzburg movies 1937

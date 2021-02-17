@@ -120,6 +120,7 @@
 - {{[[DONE]]}} crm service description #Work
 - {{[[DONE]]}} lightroom backup 2020 complete #Lightroom
 - {{[[DONE]]}} excel questionnaire for SLA info #Work
+- {{[[TODO]]}} crm action list
 - {{[[TODO]]}} purchase Governo Rosso wine
 - {{[[DONE]]}}  book doctor's appointment for discoloration under right eye. #Waiting
 - {{[[TODO]]}} consider purchases for #Riscom 
