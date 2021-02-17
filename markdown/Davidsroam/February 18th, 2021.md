@@ -1,0 +1,15 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FcJuuB43K3J.png?alt=media&token=402b13dd-fa4d-4e02-8fc0-8aaad43120c3)
+- [[Daily agenda]]
+    - {{[[kanban]]}}
+        - All day
+        - 08:00
+        - 09:00
+            - blood test [[Åby Vårdcentral]]
+        - 10:00
+        - 11:00
+        - 12:00
+        - 13:00
+        - 14:00
+        - 15:00
+        - [[Need to plan]]

@@ -16,6 +16,7 @@
         - 15:00
             - status discussion with Kenneth
         - [[Need to plan]]
+- #HT_Back_ex
 - 09:11
     - I received a call from [[Åby Vårdcentral]] after my call to them yesterday about discoloration under my eye. They asked me to send a picture of the discoloration and also to come in and leave a blood sample any day between 8-11 am, fasting. The nurse said that [[Sara Seaton]] suspects it may be [[Xanthelasma]] and that I should have my blood fats checked.
 - 14:44
