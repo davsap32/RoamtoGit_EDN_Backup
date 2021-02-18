@@ -26,8 +26,8 @@
     - [[Kerstin]] called to say that she would spend another night with [[Lizzie]], coming back tomorrow morning.
 - 
 - DAC
-    - https://youtu.be/zgRLCAbrr2c
-- Obersalzburg movies 1937
+    - https://youtu.be/zgRLCAbrr2c [[To Purchase]]
+- Obersalzburg movies 1937 [[History]]
     - https://youtu.be/5HVX4je4cBI
     - [https://catalog.archives.gov/id/43461](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGRycGhzdm9MUndXMS03MWtpZFB2SHk1M2F0Z3xBQ3Jtc0tsd09oS1lnVHQ4NzZOTWdvM3hITTY3bVRiZGJ3eHJaYnY5WVFkVW9YTE9yVlFoNUhIY1NfWlpETUJnRmw5UHJQM3hsX09ieVQ0cHF3MmlyVm0yZWVOc3ZYWjhDZE9Gdng0RlRwNkEwRVBVY2ZzMmtyNA&q=https%3A%2F%2Fcatalog.archives.gov%2Fid%2F43461)
 - Zondo commission
