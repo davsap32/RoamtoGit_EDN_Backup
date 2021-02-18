@@ -17,3 +17,5 @@
     - Drove to [[Åby Vårdcentral]] to do a blood test, went shopping on the way home.
 - 11:14
     - [[Kerstin]] called from the car, she will be here for lunch
+- 13:55
+    - Finished reading [[Hitler Ascent 1889-1939]], well worth reading. Loking forward to the second part #Books
