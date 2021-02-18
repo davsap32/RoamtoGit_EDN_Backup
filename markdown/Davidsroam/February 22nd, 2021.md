@@ -10,3 +10,4 @@
         - erectile dysfunction
         - pain
         - incontinence
+    - choice between local anaesthetic or general
