@@ -13,3 +13,5 @@
         - 14:00
         - 15:00
         - [[Need to plan]]
+- 10:20
+    - Drove to [[Åby Vårdcentral]] to do a blood test, went shopping on the way home.
