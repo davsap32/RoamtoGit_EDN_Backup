@@ -1,0 +1,16 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F0xZpfvU3vE.png?alt=media&token=ce0f28eb-2e0c-4b9d-b665-042410c3cb9c)
+- [[Daily agenda]]
+    - {{[[kanban]]}}
+        - All day
+        - 08:30
+            - core team mtg
+        - 09:00
+        - 10:00
+        - 11:00
+        - 12:00
+        - 13:00
+        - 14:00
+        - 15:00
+            - status digital
+        - [[Need to plan]]

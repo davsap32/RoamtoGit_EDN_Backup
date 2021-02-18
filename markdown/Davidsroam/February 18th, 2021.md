@@ -15,3 +15,5 @@
         - [[Need to plan]]
 - 10:20
     - Drove to [[Åby Vårdcentral]] to do a blood test, went shopping on the way home.
+- 11:14
+    - [[Kerstin]] called from the car, she will be here for lunch
