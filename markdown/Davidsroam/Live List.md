@@ -122,7 +122,7 @@
 - {{[[DONE]]}} excel questionnaire for SLA info #Work
 - {{[[TODO]]}} preparation for VOST WS1 #Work
 - {{[[TODO]]}} strategy to share jira issues with service owners #Work
-- {{[[TODO]]}} mail to ctme #Work
+- {{[[DONE]]}} mail to ctme #Work
 - {{[[TODO]]}} purchase Governo Rosso wine
 - {{[[DONE]]}}  book doctor's appointment for discoloration under right eye. #Waiting
 - {{[[TODO]]}} consider purchases for #Riscom 
@@ -139,7 +139,7 @@
 - {{[[DONE]]}} fetch package at myway
 - {{[[DONE]]}} unit trust for grandchildrens birthdays
 - {{[[DONE]]}} book time at the workshop for a new battery
-- {{[[TODO]]}} sell Swedbank shares
+- {{[[DONE]]}} sell Swedbank shares
 - {{[[DONE]]}} clean fireplace #[[Sort and Tidy]]
 - {{[[DONE]]}} reply to [[Cecilia]] about lunch
 - {{[[DONE]]}} clean behind stove #[[Sort and Tidy]]
@@ -168,7 +168,6 @@
     - https://mail.google.com/mail/u/0/#inbox/FMfcgxwKjxJgxffZKgHlbGhtMNktQqCT
 - {{[[DONE]]}} acquire the book Devore J. Modern Mathematical Statistics with App. 2ed 2018 #Books
 - {{[[TODO]]}} close common custody account with [[Samuel]] #Waiting
-    - number of account to be closed:  592 767 752
 - {{[[DONE]]}} set up prel tax payments to tax authority #Riscom
     - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FVP1GVvxyVa.pdf?alt=media&token=b8ef7b85-03b8-4f3f-a2d9-5b7efe24b1e7}}
 - {{[[DONE]]}} sign financial statements at bolagsverket #Riscom
