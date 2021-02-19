@@ -19,3 +19,6 @@
     - I sold the remaining shares from the common custody account which [[Samuel]] and I have had at [[SHB]]. I have asked [[Amelia Josefsson]] at [[SHB]] to terminate the custody account 588 356 409 and the associated liquidity account 912 470 291.
     - Started reading [[The Cult of Trump]] - very interesting. #Books
     - Spoke with [[Esther]] yesterday evening, I had sent her a recipe for [[Fish Chowder]] which she made and liked. #Recipes
+- 16:33
+    - Spent some time reading the book [[The Cult of Trump]], finding it to be very good. The author mentioned the film [[Downfall]] about the days in Hitler’s bunker, I have seen it but I spent some time watching it on [[youtube]] this afternoon - very good.  Not having many meetings at work lately, I am enjoying the freedom to read or watch movies as I feel for it. #Books #Films
+    - [[Kerstin]] has gone to town to browse flea markets with [[Amanda]].
