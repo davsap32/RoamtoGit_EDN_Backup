@@ -24,9 +24,9 @@
         - [[Ernest Hemingway on Writing]] by [[Larry W. Phillips]]
         - Books by [[Ernest Hemingway]]
         - [[Ultralearning]] by [[Scott Young]]
-        - [[The Cult of Trump]] by [[Steven Hassan]]
+        - [[How to Avoid a Climate Disaster]] by [[Bill Gates]]
     - Reading
-        - [[Hitler Ascent 1889-1939]] by [[Volker Ullrich]]
+        - [[The Cult of Trump]] by [[Steven Hassan]]
     - Paused
         - [[Transcendent Kingdom]] by [[Yaa Gyasi]]
         - [[Jonathan Strange and Mr. Norell]] by [[Susanna Clarke]]
@@ -171,6 +171,7 @@
     - [[This is Marketing]]
 - 
 - Read:
+    - [[Hitler Ascent 1889-1939]] by [[Volker Ullrich]]
     - [[The Silence]] by [[Don DeLillo]]
     - [[A Burning]] by [[Megha Majundar]] 
     - [[Caste: The Origins of Our Discontents]] by [[Isabel Wilkerson]] recommended by [[Kenneth]]

@@ -14,3 +14,8 @@
         - 15:00
             - status digital
         - [[Need to plan]]
+- 09:45
+    - The temperature is on the way from minus to plus - it is extremely slippery on the steps and paths, a layer of wet ice on all surfaces. I have spread gravel.
+    - I sold the remaining shares from the common custody account which [[Samuel]] and I have had at [[SHB]]. I have asked [[Amelia Josefsson]] at [[SHB]] to terminate the custody account 588 356 409 and the associated liquidity account 912 470 291.
+    - Started reading [[The Cult of Trump]] - very interesting. #Books
+    - Spoke with [[Esther]] yesterday evening, I had sent her a recipe for [[Fish Chowder]] which she made and liked. #Recipes

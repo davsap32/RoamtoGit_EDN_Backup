@@ -2,6 +2,8 @@
     - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FLdRKvQKb3Q.pdf?alt=media&token=041b809a-bc41-4bc8-b604-edbd56504718}}
 - Clam Chowder
     - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FEf6U_NAy4y.pdf?alt=media&token=d88f7ce6-67cf-4731-a27c-14400495c30b}}
+- Fish Chowder
+    - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FZGg_fCLWPi.pdf?alt=media&token=a2c52907-182f-4941-a431-44a760f4ee54}}
 - Chili con carne med helt kött
     - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FmeufgQsj1t.pdf?alt=media&token=233b3874-37fe-411f-9a62-d82d2a5b0738}}
 - Asiatisk rödkålssallad
