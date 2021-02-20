@@ -4,3 +4,5 @@
     - Did #HT_Back_ex
     - The film [[Nomadland]] is recommended by the [[New York Times]] - seems interesting. #Films
     - [[New York Times]] also recommends [[I Care a Lot]] (On Netflix)
+    - Novel recommended in [[DN kultur]]: [[Hurricane Season]] by [[Fernanda Melchor]] #Books
+    - Film to see on [[SF Anytime]]: [[Självporträtt]] #Films
