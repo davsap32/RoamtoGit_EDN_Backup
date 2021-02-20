@@ -25,6 +25,7 @@
         - Books by [[Ernest Hemingway]]
         - [[Ultralearning]] by [[Scott Young]]
         - [[How to Avoid a Climate Disaster]] by [[Bill Gates]]
+        - [[The Power of Writing It Down]] by [[Allison Fallon]]
     - Reading
         - [[The Cult of Trump]] by [[Steven Hassan]]
     - Paused
