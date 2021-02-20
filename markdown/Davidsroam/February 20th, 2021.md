@@ -11,3 +11,6 @@
     - Listening to a #Podcast with [[Robert Salzman]] and [[Judy Cohen]]. I really like her thinking - clear and free from balast. They both recommended the film [[The Stepford Wives]], which is on HBO. #Films
     -  #Films [[Kerstin]] wants to see the film [[Babyteeth]], which is available on [[SF Anytime]] via [[ComHem]]
         - She also wants to see the film [[Falling]] with [[Viggo Mortensen]]
+- 20:48
+    - Watched the film [[Babyteeth]] with [[Kerstin]]- very good.
+- In a post on [[Facebook]], [[Joan Tollifson]] recommended the book [[Hunger Mountain]] by [[David Hinton]]. I’d like to read it #Books

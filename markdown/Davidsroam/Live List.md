@@ -120,6 +120,7 @@
 - {{[[DONE]]}} crm service description #Work
 - {{[[DONE]]}} lightroom backup 2020 complete #Lightroom
 - {{[[DONE]]}} excel questionnaire for SLA info #Work
+- {{[[TODO]]}} ring [[SHB]] Norrköping
 - {{[[TODO]]}} preparation for VOST WS1 #Work
 - {{[[TODO]]}} strategy to share jira issues with service owners #Work
 - {{[[DONE]]}} mail to ctme #Work
