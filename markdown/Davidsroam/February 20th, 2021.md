@@ -6,3 +6,8 @@
     - [[New York Times]] also recommends [[I Care a Lot]] (On Netflix)
     - Novel recommended in [[DN kultur]]: [[Hurricane Season]] by [[Fernanda Melchor]] #Books
     - Film to see on [[SF Anytime]]: [[Självporträtt]] #Films
+- 11:16
+    - Just got back from shopping for food as well as wine and beer.
+    - Listening to a #Podcast with [[Robert Salzman]] and [[Judy Cohen]]. I really like her thinking - clear and free from balast. They both recommended the film [[The Stepford Wives]], which is on HBO. #Films
+    - [[Kerstin]] wants to see the film [[Babyteeth]], which is available on [[SF Anytime]] via [[ComHem]]
+        - She also wants to see the film [[Falling]]
