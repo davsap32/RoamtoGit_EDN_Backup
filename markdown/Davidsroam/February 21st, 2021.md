@@ -4,3 +4,5 @@
     - We will have the family to dinner this evening.
 - 09:44
     - Spent some time yesterday photographing [[Kerstin]]’s mittens for her shop on [[Etsy]].
+- 16:25
+    - Listening to a #Podcast in the [[Jordan Harbinger Show]] series with[[Steven Hassan]], about cults and [[Qanon]]. Steven mentions the film [[The Vow]] about the [[NXIVM]] cult. The film is on [[HBO]].
