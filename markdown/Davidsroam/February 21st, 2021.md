@@ -6,3 +6,5 @@
     - Spent some time yesterday photographing [[Kerstin]]’s mittens for her shop on [[Etsy]].
 - 16:25
     - Listening to a #Podcast in the [[Jordan Harbinger Show]] series with[[Steven Hassan]], about cults and [[Qanon]]. Steven mentions the film [[The Vow]] about the [[NXIVM]] cult. The film is on [[HBO]].
+- 19:14
+    - Testing a [new version](https://github.com/apprenticeharper/DeDRM_tools) of [[DEDRM]]. Kindle series number: B003A0A093670E4F. It works!
