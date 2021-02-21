@@ -2,3 +2,5 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FopGxCCcaQu.png?alt=media&token=72ed08bd-77ba-4419-beb6-6715793f019f)
 - 08:31
     - We will have the family to dinner this evening.
+- 09:44
+    - Spent some time yesterday photographing [[Kerstin]]’s mittens for her shop on [[Etsy]].
