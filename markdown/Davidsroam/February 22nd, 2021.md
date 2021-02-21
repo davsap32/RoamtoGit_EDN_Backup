@@ -1,3 +1,22 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FTbcZtRTlWE.png?alt=media&token=d7ff7e65-f8eb-4d49-b70e-cb097905bded)
+- [[Daily agenda]]
+    - {{[[kanban]]}}
+        - All day
+        - 08:00
+        - 09:00
+        - 10:20
+            - Doctor's appointment
+        - 11:00
+        - 12:00
+            - Service review mtg
+        - 13:00
+        - 14:00
+            - Workload planning Q2 and beyond
+        - 15:00
+        - 16:00
+            - status third party agreement info
+        - [[Need to plan]]
 - Questions to [[Urologist Bengt Folkestad]]:
     - What is the waiting time for the [[Transurethal Resection]]?
     - After the [[Transurethal Resection]], can I stop taking [[Alfuzosin STADA]] and [[Finasteride Accord]]?

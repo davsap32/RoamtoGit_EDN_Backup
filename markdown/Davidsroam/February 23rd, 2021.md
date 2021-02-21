@@ -1,0 +1,17 @@
+- #Weather
+    - 
+- [[Daily agenda]]
+    - {{[[kanban]]}}
+        - All day
+        - 08:30
+            - Core team mtg
+        - 09:00
+        - 10:00
+        - 11:00
+            - progress tracking mtg
+        - 12:00
+        - 13:00
+        - 14:00
+            - VOST WS1
+        - 15:00
+        - [[Need to plan]]
