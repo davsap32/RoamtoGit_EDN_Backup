@@ -121,7 +121,7 @@
 - {{[[DONE]]}} lightroom backup 2020 complete #Lightroom
 - {{[[DONE]]}} excel questionnaire for SLA info #Work
 - {{[[DONE]]}} log in to synology account
-- {{[[TODO]]}} ring [[SHB]] Norrköping
+- {{[[TODO]]}} prepare for mtg with [[SHB]] Norrköping
     - Sibel Efremsdotter 011 233710
 - {{[[TODO]]}} preparation for VOST WS1 #Work
 - {{[[TODO]]}} strategy to share jira issues with service owners #Work

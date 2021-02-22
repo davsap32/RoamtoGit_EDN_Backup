@@ -1,5 +1,5 @@
 - #Weather
-    - 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FjEwkGijzBa.png?alt=media&token=360432ce-153b-4753-b9e1-ea20eedea830)
 - [[Daily agenda]]
     - {{[[kanban]]}}
         - All day
@@ -10,13 +10,10 @@
         - 11:00
             - progress tracking mtg
         - 12:00
+            - chaps cdok questions
         - 13:00
+            - support channels for crm
         - 14:00
             - VOST WS1
         - 15:00
         - [[Need to plan]]
-- 10:59
-    - Just back from my appointment witn [[Urologist Bengt Folkestad]]. He recommends a follow up after half a year, he does not recommend operating before then. I am to keep taking my medicines.
-- 11:58
-    - Results from blood tests:
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F7l7Dop4_OW.png?alt=media&token=bad71f09-daed-4d0b-8c30-cae399d6c9d5)
