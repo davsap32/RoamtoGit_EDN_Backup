@@ -126,7 +126,7 @@
 - {{[[TODO]]}} preparation for VOST WS1 #Work
 - {{[[TODO]]}} strategy to share jira issues with service owners #Work
 - {{[[DONE]]}} mail to ctme #Work
-- {{[[TODO]]}} purchase Governo Rosso wine
+- {{[[DONE]]}} purchase Governo Rosso wine
 - {{[[DONE]]}}  book doctor's appointment for discoloration under right eye. #Waiting
 - {{[[TODO]]}} consider purchases for #Riscom 
 - {{[[TODO]]}} lee townson missing item #Work

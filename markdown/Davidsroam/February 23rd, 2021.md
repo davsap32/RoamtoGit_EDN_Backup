@@ -15,3 +15,5 @@
             - VOST WS1
         - 15:00
         - [[Need to plan]]
+- 10:59
+    - Just back from my appointment witn [[Urologist Bengt Folkestad]]. He recommends a follow up after half a year, he does not recommend operating before then. I am to keep taking my medicines.
