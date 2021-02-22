@@ -17,7 +17,7 @@
         - 16:00
             - status third party agreement info
         - [[Need to plan]]
-- Questions to [[Urologist Bengt Folkestad]]:
+- Questions to [[Urologist Bengt Folkestad]]: #Illness
     - What is the waiting time for the [[Transurethal Resection]]?
     - After the [[Transurethal Resection]], can I stop taking [[Alfuzosin STADA]] and [[Finasteride Accord]]?
     - Once it has been decided to operate, can I stop taking one or both medicines? (Specifically [[Finasteride Accord]] which is the long-term treatment)
@@ -33,7 +33,10 @@
 - #[[Quick Capture]]
     - test quick capture
 - 10:59
-    - Just back from my appointment witn [[Urologist Bengt Folkestad]]. He recommends a follow up after half a year, he does not recommend operating before then. I am to keep taking my medicines.
+    - Just back from my appointment witn [[Urologist Bengt Folkestad]]. He recommends a follow up after half a year, he does not recommend operating before then. I am to keep taking my medicines. #Illness
 - 11:58
-    - Results from blood tests:
+    - Results from the blood test I took last week: #Illness
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F7l7Dop4_OW.png?alt=media&token=bad71f09-daed-4d0b-8c30-cae399d6c9d5)
+- 21:43
+    - Spoke with [[Sibel Efremsdotter]] at [[SHB]]Norrköping. She will transfer my accounts to the Norrköping branch. She suggested that we meet to discuss savings, as I have a lot of cash in my company account as well as my private account. She has sent a booking for [[March 3rd, 2021]].
+    - Watched the film [[Fallen]] together ith [[Kerstin]] this evening - very good.
