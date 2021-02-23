@@ -124,7 +124,7 @@
 - {{[[TODO]]}} minutes service review mtg. #Work
 - {{[[TODO]]}} prepare for mtg with [[SHB]] Norrköping
     - Sibel Efremsdotter 011 233710
-- {{[[TODO]]}} preparation for VOST WS1 #Work
+- {{[[DONE]]}} preparation for VOST WS1 #Work
 - {{[[TODO]]}} strategy to share jira issues with service owners #Work
 - {{[[DONE]]}} mail to ctme #Work
 - {{[[DONE]]}} purchase Governo Rosso wine
