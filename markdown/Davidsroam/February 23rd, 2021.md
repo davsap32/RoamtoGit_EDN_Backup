@@ -17,3 +17,6 @@
             - VOST WS1
         - 15:00
         - [[Need to plan]]
+- 03:49
+    - On Sunday, when I turned on the vacuum cleaner in the downstairs hallway, the fuse for all the downstairs plugs blew. The same thing happened earlier this winter when I borrowed the neighbour’s snow blower. Probably, the floor and wall heaters on the cellar floor draw a lot of current in the winter, near the limit for the fuse. I may meed to have an electrician put in a stronger fuse. #[[Home Tech]].
+        - It seems that my [[Dlink DIR-815]] NAS did not survive the power outage - I cannot turn it on. I should check to see if it has an internal fuse.
