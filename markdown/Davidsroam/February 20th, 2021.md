@@ -12,5 +12,5 @@
     -  #Films [[Kerstin]] wants to see the film [[Babyteeth]], which is available on [[SF Anytime]] via [[ComHem]]
         - She also wants to see the film [[Falling]] with [[Viggo Mortensen]]
 - 20:48
-    - Watched the film [[Babyteeth]] with [[Kerstin]]- very good.
+    - Watched the film [[Babyteeth]] with [[Kerstin]]- very good. #Films
 - In a post on [[Facebook]], [[Joan Tollifson]] recommended the book [[Hunger Mountain]] by [[David Hinton]]. I’d like to read it #Books

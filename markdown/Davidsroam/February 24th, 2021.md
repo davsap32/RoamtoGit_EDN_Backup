@@ -5,12 +5,16 @@
         - All day
         - 08:00
         - 09:00
-            - Services essential processes
+            - Services and essential processes
         - 10:00
+        - 10:30
+            - Financing services
         - 11:00
         - 12:00
         - 13:00
-        - 14:00
+        - 14:30
             - Service reporting meetings and content
-        - 15:00
+        - 15:15
+            - mtg with erik hilton concerning agreements affecting UK
+        - 15:45
         - [[Need to plan]]
