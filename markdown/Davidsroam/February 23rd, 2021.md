@@ -10,12 +10,11 @@
         - 11:00
             - progress tracking mtg
         - 12:00
-            - chaps cdok questions
         - 13:00
             - support channels for crm
         - 14:00
             - VOST WS1
-        - 15:00
+        - 16:00
         - [[Need to plan]]
 - 03:49
     - On Sunday, when I turned on the vacuum cleaner in the downstairs hallway, the fuse for all the downstairs plugs blew. The same thing happened earlier this winter when I borrowed the neighbour’s snow blower. Probably, the floor and wall heaters on the cellar floor draw a lot of current in the winter, near the limit for the fuse. I may meed to have an electrician put in a stronger fuse. #[[Home Tech]].

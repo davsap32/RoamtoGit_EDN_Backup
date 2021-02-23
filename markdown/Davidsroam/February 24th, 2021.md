@@ -1,0 +1,16 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FVjvji18BuD.png?alt=media&token=38c02552-ba0a-4e5a-bf87-3f997388e124)
+- [[Daily agenda]]
+    - {{[[kanban]]}}
+        - All day
+        - 08:00
+        - 09:00
+            - Services essential processes
+        - 10:00
+        - 11:00
+        - 12:00
+        - 13:00
+        - 14:00
+            - Service reporting meetings and content
+        - 15:00
+        - [[Need to plan]]

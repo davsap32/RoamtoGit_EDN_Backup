@@ -1,0 +1,17 @@
+- #Weather
+    - 
+- [[Daily agenda]]
+    - {{[[kanban]]}}
+        - All day
+        - 08:30
+            - Core team mtg
+        - 09:00
+        - 10:00
+        - 11:00
+            - Services agreement actions review schedule
+        - 12:00
+        - 13:15
+            - Sla template
+        - 14:00
+        - 15:00
+        - [[Need to plan]]
