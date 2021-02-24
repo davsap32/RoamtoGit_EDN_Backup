@@ -121,6 +121,7 @@
 - {{[[DONE]]}} lightroom backup 2020 complete #Lightroom
 - {{[[DONE]]}} excel questionnaire for SLA info #Work
 - {{[[DONE]]}} log in to synology account
+- {{[[TODO]]}} book mtg with Martin Arvidsson #Work
 - {{[[TODO]]}} time report to [[ITC]] and [[SHB]] #Work
 - {{[[TODO]]}} invoice to [[ITC]] #Work
 - {{[[TODO]]}} bookkeeping materials for feb to Oneeconomy #Work
