@@ -48,3 +48,4 @@
 - On [[December 28th, 2020]] at 8:04 PM Readwise synced 4 highlights from 1 book.
 - On [[January 6th, 2021]] at 10:58 AM Readwise synced 5 highlights from 4 books.
 - On [[January 30th, 2021]] at 5:59 PM Readwise synced 27 highlights from 4 books.
+- On [[February 25th, 2021]] at 11:51 AM Readwise synced 91 highlights from 5 books.

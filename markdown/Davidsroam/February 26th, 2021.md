@@ -1,9 +1,10 @@
 - #Weather
-    - 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F81D_5YDeaC.png?alt=media&token=7ee63b0b-36ce-4bf8-9149-e0f0b35764f9)
 - [[Daily agenda]]
     - {{[[kanban]]}}
         - All day
-        - 08:00
+        - 08:30
+            - core team mtg
         - 09:00
         - 10:00
         - 11:00
@@ -11,5 +12,5 @@
         - 13:00
             - Process to capture changes in third party agreements.
         - 14:00
-            - To villa fridehm
+            - To villa fridhem
         - [[Need to plan]]

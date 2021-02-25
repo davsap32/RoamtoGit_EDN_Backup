@@ -1,0 +1,10 @@
+- Author:: [[Volker Ullrich]]
+- Recommended By::
+- Tags:: #Books #Inbox #Readwise
+- ### Highlights first synced by #Readwise [[February 25th, 2021]]
+    - # 5: The King of Munich
+        - According to the sociologist Max Weber, the power of a charismatic politician depends on his having a community of followers who are convinced that he possesses extraordinary abilities and has been called by destiny
+    - # 13: Hitler as Human Being
+        - The more likeable, warm and considerate he could be in his private life, the colder, more unfeeling and ruthless he behaved when it came to achieving his political goals. Possibly, this was the result of the violence to which Hitler, like many men of his generation, had been exposed in the First World War. Soldiers had been trained to be hard, inured to human suffering, and that had left its mark, particularly as it was reinforced by the violent confrontations, just shy of a civil war, that followed in post-war Germany
+    - # 15: Eviscerating Versailles
+        - Only two of the new nations formed after 1918–19, Finland and Czechoslovakia, had remained democratic through the post-war years of crisis. All the others—the Austrian Republic, Hungary, Croatia and Slovenia (as of 1929 the Kingdom of Yugoslavia), Poland and the Baltic states—had sooner or later all become authoritarian regimes. Even states that had existed prior to 1918, including Romania, Bulgaria, Greece, Albania, Portugal and Spain were subjugated to “authoritarian transformation.”1
