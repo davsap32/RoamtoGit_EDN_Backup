@@ -18,3 +18,6 @@
 - 10:21
     - Finished reading [[The Cult of Trump]]. As is true for many American non-fiction books, it had made its point about half way through, the rest was mainly repetition or unnecessary detail. I skimmed most of the second half of the book. Still, well worth reading.
     - Started reading [[Hitler Downfall 1939-1945]].
+- 19:31
+    - #HT_Back_ex
+    - #HT_Weight 78,6
