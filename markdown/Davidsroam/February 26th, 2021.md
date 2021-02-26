@@ -16,3 +16,5 @@
         - [[Need to plan]]
 - 09:58
     - We received boxes of fruit that [[Kerstin]] had ordered from Spain.
+- 20:12
+    - Seafood buffet at [[Villa Fridhem]]. Tasty. Pleasant
