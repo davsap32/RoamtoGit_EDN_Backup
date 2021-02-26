@@ -121,6 +121,7 @@
 - {{[[DONE]]}} lightroom backup 2020 complete #Lightroom
 - {{[[DONE]]}} excel questionnaire for SLA info #Work
 - {{[[DONE]]}} log in to synology account
+- {{[[TODO]]}} email to Ann-Beate #Work
 - {{[[TODO]]}} book to [[Esther]]
 - {{[[TODO]]}} try to start the [[Dlink DIR-815]]- #[[Home Tech]]
 - {{[[TODO]]}}  Check out [[Harley Stagner]]'s  [Ideas on permanent notes](https://harleystagner.com/digital-smart-notes-part-4-creating-permanent-notes-in-roam-research/?fbclid=IwAR325PcJ4HSm4746Gaj-NIqxO1C2oD7bfkwYZW60GUn6-m08dyn_KtPGKOo)

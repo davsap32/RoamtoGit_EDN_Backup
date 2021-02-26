@@ -14,3 +14,5 @@
         - 14:00
             - To villa fridhem
         - [[Need to plan]]
+- 09:58
+    - We received boxes of fruit that [[Kerstin]] had ordered from Spain.
