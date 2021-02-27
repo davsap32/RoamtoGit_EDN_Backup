@@ -1,0 +1,9 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FUiiE3qrirJ.jpeg?alt=media&token=31aa7793-f654-435e-a2f2-c55a88b5666a)
+- 12:06
+    - Returned from [[Villa Fridhem]], after staying there overnight. [[Kerstin]] was not entirely satisfied with the food. [[Villa Fridhem]] gave us an offer of a free overnight stay the next time we booked dinne with them after their ongoing renovations.
+    - I am experiencing tooth pain in my upper right jaw - afraid i might have cracked a tooth.
+    - Quite absorbed in [[Hitler Downfall 1939-1945]] #Books
+    - to purchase at [[Mathem.se]]:
+        - Hoisin sauce
+        - Lemon pickle

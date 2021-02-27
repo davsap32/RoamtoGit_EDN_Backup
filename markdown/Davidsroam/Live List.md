@@ -121,6 +121,7 @@
 - {{[[DONE]]}} lightroom backup 2020 complete #Lightroom
 - {{[[DONE]]}} excel questionnaire for SLA info #Work
 - {{[[DONE]]}} log in to synology account
+- {{[[TODO]]}} renew malwarebytes subscription #[[Home Tech]]
 - {{[[TODO]]}} email to Ann-Beate #Work
 - {{[[TODO]]}} book to [[Esther]]
 - {{[[TODO]]}} try to start the [[Dlink DIR-815]]- #[[Home Tech]]
