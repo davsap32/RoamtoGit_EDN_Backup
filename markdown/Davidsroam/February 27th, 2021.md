@@ -13,4 +13,7 @@
     - I have some tooth problems - a pice of a tooth missing on my left upper jaw, and a sensitive tooth on the upper right, perhaps cracked. #Illness I stopped using my bite guard when it no longer fit because of a new crown. Maybe I should get a new one, I am probably damaging my teeth by pressing them in my sleep.
     - Suffering from a mild cold. #Illness
     - I have been doing back exercises after having lower back problems some weeks ago. I need to keep that up but to return to more intensive exercise. #Health
-    - We have begun to think about lans  travelling on the 
+    - We have begun to think about plans for  travelling on the [[Garden Route]] with [[Helene]] and [[Johan]] in February of next year, when [[Johan]] turns sixty. #Travel. When we were there a year ago, we ate at a farm stay near [[Nature’s Valley]]. Perhaps we should look into staying there with H&J.
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FVvmYCEdYDA.jpeg?alt=media&token=34aff2c3-a2df-4143-8568-c50020b9d52c)
+        - https://www.naturesway-sa.com/
+        - https://www.stayatfriends.co.za/bettysbay/

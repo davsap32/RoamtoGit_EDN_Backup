@@ -123,17 +123,17 @@
 - {{[[DONE]]}} log in to synology account
 - {{[[TODO]]}} invoice to [[ITC]] #Work
 - {{[[TODO]]}} time report to [[ITC]] and [[SHB]] #Work
+- {{[[TODO]]}} prepare for mtg with [[SHB]] Norrköping
+    - Sibel Efremsdotter 011 233710
 - {{[[TODO]]}} bookkeeping materials for feb to Oneeconomy #Work
 - {{[[TODO]]}} renew malwarebytes subscription #[[Home Tech]]
 - {{[[TODO]]}} email to Ann-Beate #Work
 - {{[[DONE]]}} book to [[Esther]]
-- {{[[TODO]]}} try to start the [[Dlink DIR-815]]- #[[Home Tech]]
 - {{[[TODO]]}}  Check out [[Harley Stagner]]'s  [Ideas on permanent notes](https://harleystagner.com/digital-smart-notes-part-4-creating-permanent-notes-in-roam-research/?fbclid=IwAR325PcJ4HSm4746Gaj-NIqxO1C2oD7bfkwYZW60GUn6-m08dyn_KtPGKOo)
 - {{[[TODO]]}} activate login smartcard #Work
 - {{[[DONE]]}} book mtg with Martin Arvidsson #Work
 - {{[[TODO]]}} minutes service review mtg. #Work
-- {{[[TODO]]}} prepare for mtg with [[SHB]] Norrköping
-    - Sibel Efremsdotter 011 233710
+- {{[[TODO]]}} try to start the [[Dlink DIR-815]]- #[[Home Tech]]
 - {{[[DONE]]}} preparation for VOST WS1 #Work
 - {{[[TODO]]}} strategy to share jira issues with service owners #Work
 - {{[[DONE]]}} mail to ctme #Work
@@ -170,7 +170,6 @@
 - {{[[DONE]]}} defrost freezer in garage
 - {{[[DONE]]}} chaps question 284 #Work
 - {{[[DONE]]}} return signed papers to [[Sami Homsi]]
-- {{[[TODO]]}} purchase apple cider vinegar
 - {{[[DONE]]}} vacuum upper floor #[[Sort and Tidy]]
 - {{[[TODO]]}} practice [[Foundation Training]] activity "[Progressive Workout: Rotational Imbalances 1](https://stream.foundationtraining.com/programs/core-elements-part-2?cid=122802)". 
 - {{[[DONE]]}}  Throw remains of christmas tree in the forest.
@@ -218,7 +217,7 @@
 - {{[[DONE]]}} Christmas present for [[Kerstin]]
 - {{[[TODO]]}} arrange storage for softbox #[[Sort and Tidy]] 
 - {{[[DONE]]}}  Include dates in service review mtg tracker #Work
-- {{[[TODO]]}} put out rodent poison
+- {{[[DONE]]}} put out rodent poison
 - {{[[DONE]]}} measure breath frequency
 - {{[[DONE]]}} book roadworthy test for Toyota #Livelist
 - {{[[TODO]]}} choose bitcoin books to read. #Livelist
@@ -328,4 +327,5 @@
     - Last date in [[Lightroom Desktop]] is 20200713, so everthing after that should be backed up from [[Lightroom Laptop]] and imported to [[Lightroom Desktop]].
 - {{{[[DONE]]}}}} purchase Ipod pro #[[Home Tech]]
 - {{[[DONE]]}} clean oven #[[Sort and Tidy]]
-- {{[[TODO]]}} Change to Norrköping branch office #[[Personal Finance]] #Waiting
+- {{[[DONE]]}} Change to Norrköping branch office #[[Personal Finance]] #Waiting
+- {{[[TODO]]}} purchase apple cider vinegar
