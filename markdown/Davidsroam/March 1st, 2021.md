@@ -1,0 +1,16 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FzcjbE0oT3z.png?alt=media&token=6e0f2c9f-b088-4e01-878a-a39385ad6243)
+- [[Daily agenda]]
+    - {{[[kanban]]}}
+        - All day
+        - 08:30
+            - Core team mtg
+        - 09:30
+            - Service method with Swarup
+        - 10:00
+        - 11:00
+        - 12:00
+        - 13:00
+        - 14:00
+        - 15:00
+        - [[Need to plan]]

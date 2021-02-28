@@ -12,7 +12,6 @@
         - [[Jack]] by [[Ulf Lundell]]
         - [[Silo Saga]] by [[Hugh Howey]] recommended by [[Samuel]]
             - Should be read in order [[Wool Omnibus]] [[Shift Omnibus]] [[Dust]]
-        - [[Hitler Downfall 1939-1945]] by [[Volker Ullrich]]
         - [[A Companion to Photography]] by [[Stephen Bull]]
         - [[Being Wrong]] by [[Kathryn Schulz]]
         - [[Tritonus]] by [[Kjell Westö]] recommended by [[Kerstin]]
@@ -27,8 +26,9 @@
         - [[How to Avoid a Climate Disaster]] by [[Bill Gates]]
         - [[The Power of Writing It Down]] by [[Allison Fallon]]
         - [[Hunger Mountain]] by [[David Hinton]]
+        - [[Sammetsdiktaturen]] by [[Anna-Lena Laurén]]
     - Reading
-        - [[The Cult of Trump]] by [[Steven Hassan]]
+        - [[Hitler Downfall 1939-1945]] by [[Volker Ullrich]]
     - Paused
         - [[Transcendent Kingdom]] by [[Yaa Gyasi]]
         - [[Jonathan Strange and Mr. Norell]] by [[Susanna Clarke]]
@@ -173,6 +173,7 @@
     - [[This is Marketing]]
 - 
 - Read:
+    - [[The Cult of Trump]] by [[Steven Hassan]]
     - [[Hitler Ascent 1889-1939]] by [[Volker Ullrich]]
     - [[The Silence]] by [[Don DeLillo]]
     - [[A Burning]] by [[Megha Majundar]] 

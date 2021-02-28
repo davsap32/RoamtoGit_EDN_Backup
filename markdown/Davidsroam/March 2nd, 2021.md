@@ -1,0 +1,15 @@
+- #Weather
+    - 
+- [[Daily agenda]]
+    - {{[[kanban]]}}
+        - All day
+        - 08:00
+            - Anticimex besiktning
+        - 10:00
+            - CRM/Onboarding serviced descrioption.
+        - 11:00
+        - 12:00
+        - 13:00
+        - 14:00
+        - 15:00
+        - [[Need to plan]]
