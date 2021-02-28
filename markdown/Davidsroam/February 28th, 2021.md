@@ -2,5 +2,7 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FJA_cd3t9OO.jpeg?alt=media&token=6a5e0bbc-0c66-41ce-8318-db460cebf27b)
 - 08:57
     - #HT_Back_ex
-    - Preparing meeting with [[Sibel Efremsdotter]] at [[SHB]] Norrköping office. Riskvillighetsanalys. Pension according to minpension.se:
+    - Preparing meeting with [[Sibel Efremsdotter]] at [[SHB]] Norrköping office on [[February 3rd, 2021]]. Riskvillighetsanalys. Pension according to minpension.se:
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FkHK5eBBGZi.png?alt=media&token=288c452a-d15c-450b-9114-43e6aefd8914)
+- 21:35
+    - Fetched [[Amanda]] in town, brought her home for lunch. Later this afternoon, we drove Amanda home and continued to [[Samuel]] for tea and cake.
