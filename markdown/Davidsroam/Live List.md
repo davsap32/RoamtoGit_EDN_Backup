@@ -126,6 +126,8 @@
 - {{[[DONE]]}} prepare for mtg with [[SHB]] Norrköping
     - Sibel Efremsdotter 011 233710
 - {{[[TODO]]}} bookkeeping materials for feb to Oneeconomy #Work
+- {{[[TODO]]}} shower
+- {{[[TODO]]}} bring out summer furniture
 - {{[[DONE]]}} renew malwarebytes subscription #[[Home Tech]]
 - {{[[TODO]]}} email to Ann-Beate #Work
 - {{[[DONE]]}} book to [[Esther]]
