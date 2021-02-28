@@ -121,8 +121,8 @@
 - {{[[DONE]]}} lightroom backup 2020 complete #Lightroom
 - {{[[DONE]]}} excel questionnaire for SLA info #Work
 - {{[[DONE]]}} log in to synology account
-- {{[[TODO]]}} invoice to [[ITC]] #Work
-- {{[[TODO]]}} time report to [[ITC]] and [[SHB]] #Work
+- {{[[DONE]]}} invoice to [[ITC]] #Work
+- {{[[DONE]]}} time report to [[ITC]] and [[SHB]] #Work
 - {{[[TODO]]}} prepare for mtg with [[SHB]] Norrköping
     - Sibel Efremsdotter 011 233710
 - {{[[TODO]]}} bookkeeping materials for feb to Oneeconomy #Work
