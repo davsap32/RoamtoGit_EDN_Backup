@@ -27,6 +27,6 @@
     - Yesterday evening [[Kerstin]], [[Amanda]] and I ate a good meal at [[Stadsvakten]] restaurant and then walked around [[Norrköping Light Show]] taking pictures - a lot of fun. [Pictures](https://www.davidsapire.com/Unlisted-galleries/Events/n-bpRWxq/20210104-Norrk%C3%B6ping-light-show/)
     - Still bothered somewhat by [[Sciatica]] and [[lower back pain]], although my daily exercise routine is having some effect in reducing the syptoms. #Illness
 - 16:48
-    - The [[dentist]] glued my crown in place again. I also asked him to check on a sensitive tooth in my upper right jaw, which he did and said that it was worn but did not need repair.
+    - The [[dentist]] glued my crown in place again. I also asked him to check on a sensitive tooth in my upper right jaw, which he did and said that it was worn but did not need repair. #Teeth
     - Went walking with [[Kerstin]]. Slippery, in places. I fell and twisted my left knee, no seríous damage as far as I can tell.
     - My [[RSI]] in  my finger is better, so I have resumed [[Touch Typing]] practice.

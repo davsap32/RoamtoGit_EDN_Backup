@@ -19,7 +19,7 @@
         - Call Esther
 - 09:17
     - [[Samuel]] and family stayed overnight after our Christmas dinner. Pleasant evening, but I tired of it after a while and read my book.
-    - While eating a piece of toffee, my crown loosened from my tooth. I saved it and will take it to the dentist to be glued in place. #Illness
+    - While eating a piece of toffee, my crown loosened from my tooth. I saved it and will take it to the dentist to be glued in place. #Teeth
     - Still feeling the effects of [[Sciatica]]. #Illness
     - [[Samuel]] and family left earlier this afternoon, after lunch and a walk in the forest. Now peace has settled over our household after entertaining guests for three days straight.
     - Finished reading [[The Changing Mind]]. Skimmed a lot of it. Started  reading [[Tokyo Underworld]], seems interesting.
