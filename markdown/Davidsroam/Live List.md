@@ -123,14 +123,14 @@
 - {{[[DONE]]}} log in to synology account
 - {{[[DONE]]}} invoice to [[ITC]] #Work
 - {{[[DONE]]}} time report to [[ITC]] and [[SHB]] #Work
-- {{[[TODO]]}} prepare for mtg with [[SHB]] Norrköping
+- {{[[DONE]]}} prepare for mtg with [[SHB]] Norrköping
     - Sibel Efremsdotter 011 233710
 - {{[[TODO]]}} bookkeeping materials for feb to Oneeconomy #Work
-- {{[[TODO]]}} renew malwarebytes subscription #[[Home Tech]]
+- {{[[DONE]]}} renew malwarebytes subscription #[[Home Tech]]
 - {{[[TODO]]}} email to Ann-Beate #Work
 - {{[[DONE]]}} book to [[Esther]]
 - {{[[TODO]]}}  Check out [[Harley Stagner]]'s  [Ideas on permanent notes](https://harleystagner.com/digital-smart-notes-part-4-creating-permanent-notes-in-roam-research/?fbclid=IwAR325PcJ4HSm4746Gaj-NIqxO1C2oD7bfkwYZW60GUn6-m08dyn_KtPGKOo)
-- {{[[TODO]]}} activate login smartcard #Work
+- {{[[DONE]]}} activate login smartcard #Work
 - {{[[DONE]]}} book mtg with Martin Arvidsson #Work
 - {{[[TODO]]}} minutes service review mtg. #Work
 - {{[[TODO]]}} try to start the [[Dlink DIR-815]]- #[[Home Tech]]
