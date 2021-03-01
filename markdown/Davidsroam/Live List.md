@@ -126,6 +126,7 @@
 - {{[[DONE]]}} prepare for mtg with [[SHB]] Norrköping
     - Sibel Efremsdotter 011 233710
 - {{[[TODO]]}} rebook mtg with [[SHB]] if necessary
+- {{[[TODO]]}} fetch wood
 - {{[[TODO]]}} vacuum #[[Sort and Tidy]]
 - {{[[TODO]]}} bookkeeping materials for feb to Oneeconomy #Work
 - {{[[DONE]]}} shower
