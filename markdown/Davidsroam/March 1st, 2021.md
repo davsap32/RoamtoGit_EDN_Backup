@@ -23,3 +23,5 @@
     - Finished reading [[Hitler Downfall 1939-1945]]. Brilliantly written and fascinating. #Books
 - 15:40
     - Listened to a #Podcast with [[Yuval Noah Harari]] and [[Masha Gessen]] about trends towards authoritarian leadership. Very good.
+- 20:17
+    - I have had a cold for about a week. #Illness

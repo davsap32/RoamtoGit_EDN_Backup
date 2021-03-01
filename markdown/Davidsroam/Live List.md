@@ -128,6 +128,7 @@
 - {{[[TODO]]}} rebook mtg with [[SHB]] if necessary
 - {{[[TODO]]}} fetch wood
 - {{[[TODO]]}} vacuum #[[Sort and Tidy]]
+- {{[[TODO]]}} book dentist’s appointment #Waiting after recovering from cold.
 - {{[[TODO]]}} bookkeeping materials for feb to Oneeconomy #Work
 - {{[[DONE]]}} shower
 - {{[[TODO]]}} bring out summer furniture
