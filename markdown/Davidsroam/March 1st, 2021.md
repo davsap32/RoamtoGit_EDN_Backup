@@ -14,3 +14,7 @@
         - 14:00
         - 15:00
         - [[Need to plan]]
+    - 13:31
+        - Listening to a #Podcast with [[Coleman Hughes]]and [[Christopher Ferguson]].Christopherisa clinical psychologist and has written the book [[How Madness Shaped History]], “An Eccentric Array of Maniacal Rulers, Raving Narcissists, and Psychotic Visionaries”, which I would like to read.
+        - #HT_Weight 79,2
+        - #HT_Back_ex
