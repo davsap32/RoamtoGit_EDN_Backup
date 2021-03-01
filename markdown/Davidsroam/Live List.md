@@ -125,7 +125,7 @@
 - {{[[DONE]]}} time report to [[ITC]] and [[SHB]] #Work
 - {{[[DONE]]}} prepare for mtg with [[SHB]] Norrköping
     - Sibel Efremsdotter 011 233710
-- {{[[TODO]]}} rebook mtgs with [[SHB]] and [[Anticimex]]
+- {{[[TODO]]}} rebook mtg with [[SHB]] if necessary
 - {{[[TODO]]}} vacuum #[[Sort and Tidy]]
 - {{[[TODO]]}} bookkeeping materials for feb to Oneeconomy #Work
 - {{[[TODO]]}} shower
