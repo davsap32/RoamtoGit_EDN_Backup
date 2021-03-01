@@ -125,6 +125,8 @@
 - {{[[DONE]]}} time report to [[ITC]] and [[SHB]] #Work
 - {{[[DONE]]}} prepare for mtg with [[SHB]] Norrköping
     - Sibel Efremsdotter 011 233710
+- {{[[TODO]]}} rebook mtgs with [[SHB]] and [[Anticimex]]
+- {{[[TODO]]}} vacuum #[[Sort and Tidy]]
 - {{[[TODO]]}} bookkeeping materials for feb to Oneeconomy #Work
 - {{[[TODO]]}} shower
 - {{[[TODO]]}} bring out summer furniture
@@ -161,6 +163,7 @@
 - {{[[DONE]]}} clean behind stove #[[Sort and Tidy]]
 - {{[[DONE]]}} Riscom december expenses #Riscom
 - {{[[TODO]]}} Chaps questions from Erika #Work
+- {{[[TODO]]}} wash cars #[[Sort and Tidy]]
 - {{[[DONE]]}} dishwash air filters over stove #[[Sort and Tidy]]
 - {{[[DONE]]}} pay deposit to ving [[January 25th, 2021]] #Travel
 - {{[[DONE]]}} service review meeting minutes #Work
