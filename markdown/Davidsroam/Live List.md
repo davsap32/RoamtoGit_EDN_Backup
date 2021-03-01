@@ -128,7 +128,7 @@
 - {{[[TODO]]}} rebook mtg with [[SHB]] if necessary
 - {{[[TODO]]}} vacuum #[[Sort and Tidy]]
 - {{[[TODO]]}} bookkeeping materials for feb to Oneeconomy #Work
-- {{[[TODO]]}} shower
+- {{[[DONE]]}} shower
 - {{[[TODO]]}} bring out summer furniture
 - {{[[DONE]]}} renew malwarebytes subscription #[[Home Tech]]
 - {{[[TODO]]}} email to Ann-Beate #Work

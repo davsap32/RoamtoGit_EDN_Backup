@@ -26,9 +26,8 @@
         - [[How to Avoid a Climate Disaster]] by [[Bill Gates]]
         - [[The Power of Writing It Down]] by [[Allison Fallon]]
         - [[Hunger Mountain]] by [[David Hinton]]
-        - [[Sammetsdiktaturen]] by [[Anna-Lena Laurén]]
     - Reading
-        - [[Hitler Downfall 1939-1945]] by [[Volker Ullrich]]
+        - [[Sammetsdiktaturen]] by [[Anna-Lena Laurén]]
     - Paused
         - [[Transcendent Kingdom]] by [[Yaa Gyasi]]
         - [[Jonathan Strange and Mr. Norell]] by [[Susanna Clarke]]
@@ -173,6 +172,7 @@
     - [[This is Marketing]]
 - 
 - Read:
+    - [[Hitler Downfall 1939-1945]] by [[Volker Ullrich]]
     - [[The Cult of Trump]] by [[Steven Hassan]]
     - [[Hitler Ascent 1889-1939]] by [[Volker Ullrich]]
     - [[The Silence]] by [[Don DeLillo]]

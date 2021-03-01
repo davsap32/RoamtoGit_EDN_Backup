@@ -16,8 +16,10 @@
         - [[Need to plan]]
     - 
 - 13:31
-    - Listening to a #Podcast with [[Coleman Hughes]]and [[Christopher Ferguson]].Christopherisa clinical psychologist and has written the book [[How Madness Shaped History]], “An Eccentric Array of Maniacal Rulers, Raving Narcissists, and Psychotic Visionaries”, which I would like to read. #Books
+    - Listening to a #Podcast with [[Coleman Hughes]]and [[Christopher Ferguson]].Christopher is a clinical psychologist and has written the book [[How Madness Shaped History]], “An Eccentric Array of Maniacal Rulers, Raving Narcissists, and Psychotic Visionaries”, which I would like to read. #Books
     - #HT_Weight 79,2
     - #HT_Back_ex
 - 14:19
     - Finished reading [[Hitler Downfall 1939-1945]]. Brilliantly written and fascinating. #Books
+- 15:40
+    - Listened to a #Podcast with [[Yuval Noah Harari]] and [[Masha Gessen]] about trends towards authoritarian leadership. Very good.
