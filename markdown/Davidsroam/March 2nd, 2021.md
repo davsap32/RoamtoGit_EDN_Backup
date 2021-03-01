@@ -3,8 +3,8 @@
 - [[Daily agenda]]
     - {{[[kanban]]}}
         - All day
-        - 08:00
-            - Anticimex besiktning
+        - 08:30
+            - Core team mtg
         - 10:00
             - CRM/Onboarding serviced descrioption.
         - 11:00
@@ -12,4 +12,7 @@
         - 13:00
         - 14:00
         - 15:00
+            - Service method - Peter & Kenneth
+        - 16:00
+            - service method - Peter & Swarup
         - [[Need to plan]]
