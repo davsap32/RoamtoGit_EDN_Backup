@@ -32,3 +32,4 @@
     - Started reading [[Sammetsdiktaturen]].
 - 18:51
     - [[Kerstin]] has returned from [[Arboga]], where she took [[Lizzie]] to an eye examination.
+    - I have logged in to [[Samuel]]’s subscription on [[Amazon Prime]]. Watched some of the film [[Bliss]]. Not sure if it is good or bad or in between.

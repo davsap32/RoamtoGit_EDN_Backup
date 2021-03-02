@@ -133,6 +133,7 @@
 - {{[[TODO]]}} bookkeeping materials for feb to Oneeconomy #Work
 - {{[[DONE]]}} shower
 - {{[[TODO]]}} bring out summer furniture
+- {{[[TODO]]}} new prescription for Flutikason
 - {{[[DONE]]}} renew malwarebytes subscription #[[Home Tech]]
 - {{[[DONE]]}} email to Ann-Beate #Work
 - {{[[DONE]]}} book to [[Esther]]
