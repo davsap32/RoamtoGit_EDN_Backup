@@ -126,6 +126,7 @@
 - {{[[DONE]]}} prepare for mtg with [[SHB]] Norrköping
     - Sibel Efremsdotter 011 233710
 - {{[[DONE]]}} rebook mtg with [[SHB]] if necessary
+- {{[[TODO]]}} notes from mtg with CTME. #Work
 - {{[[TODO]]}} fetch wood
 - {{[[TODO]]}} vacuum #[[Sort and Tidy]]
 - {{[[TODO]]}} book dentist’s appointment #Waiting after recovering from cold.

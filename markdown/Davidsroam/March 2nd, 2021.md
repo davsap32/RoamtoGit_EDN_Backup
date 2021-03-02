@@ -25,3 +25,5 @@
         - [[Roam Research]]: #Video "Flexible Systems for Synthesis in Roam Research with Professor Joel Chan"
             - {{[[video]]: https://youtu.be/JoCjpTXCklw}}
         - #HT_Back_ex
+- 10:47
+    - Feeling quite congested due to my cold. #Illness
