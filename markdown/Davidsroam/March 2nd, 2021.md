@@ -30,3 +30,5 @@
 - 14:34
     - Walked around [[Lillsjön]], pleasant.
     - Started reading [[Sammetsdiktaturen]].
+- 18:51
+    - [[Kerstin]] has returned from [[Arboga]], where she took [[Lizzie]] to an eye examination.
