@@ -11,7 +11,7 @@
         - 12:00
         - 13:00
         - 14:00
-        - 15:00
+        - 15:30
             - Service method - Peter & Kenneth
         - 16:00
             - service method - Peter & Swarup
@@ -27,3 +27,6 @@
     - #Podcast to listen to: Brene Brown with Susan David on the dangers of toxic positivity
 - 10:47
     - Feeling quite congested due to my cold. #Illness
+- 14:34
+    - Walked around [[Lillsjön]], pleasant.
+    - Started reading [[Sammetsdiktaturen]].
