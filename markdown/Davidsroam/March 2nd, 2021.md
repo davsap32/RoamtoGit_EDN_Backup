@@ -19,11 +19,11 @@
 - 08:16
     - #Films to watch out for: [[The Father]] with Anthony Hopkins:
         - Those willing to wait a month can watch __The Father __on various digital on demand platforms — including Amazon Prime Video, iTunes, Vudu, and Google Play — beginning March 26.
-        - #Podcast to listen to: Brene Brown with Susan David on the dangers of toxic positivity
-        - [[Roam Research]]: #Video on  Fleeting notes, literature notes and permanent notes
-            - {{[[video]]: https://youtu.be/KoddCmn3eL0}}
-        - [[Roam Research]]: #Video "Flexible Systems for Synthesis in Roam Research with Professor Joel Chan"
-            - {{[[video]]: https://youtu.be/JoCjpTXCklw}}
-        - #HT_Back_ex
+    - #HT_Back_ex
+    - [[Roam Research]]: #Video on  Fleeting notes, literature notes and permanent notes
+        - {{[[video]]: https://youtu.be/KoddCmn3eL0}}
+    - [[Roam Research]]: #Video "Flexible Systems for Synthesis in Roam Research with Professor Joel Chan"
+        - {{[[video]]: https://youtu.be/JoCjpTXCklw}}
+    - #Podcast to listen to: Brene Brown with Susan David on the dangers of toxic positivity
 - 10:47
     - Feeling quite congested due to my cold. #Illness
