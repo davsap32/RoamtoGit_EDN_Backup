@@ -3,12 +3,14 @@
 - [[Daily agenda]]
     - {{[[kanban]]}}
         - All day
-        - 08:00
+        - 08:30
+            - core team mtg
         - 09:00
         - 10:00
         - 11:00
         - 12:00
         - 13:00
         - 14:00
-        - 15:00
+            - working mtg - assign roadmaps to services
+        - 16:00
         - [[Need to plan]]
