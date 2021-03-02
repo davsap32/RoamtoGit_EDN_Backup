@@ -1,5 +1,5 @@
 - #Weather
-    - 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FWRu_1gpw-m.png?alt=media&token=1bda4f81-6d79-41cc-ae7b-f189a2c04143)
 - [[Daily agenda]]
     - {{[[kanban]]}}
         - All day
@@ -16,3 +16,12 @@
         - 16:00
             - service method - Peter & Swarup
         - [[Need to plan]]
+- 08:16
+    - #Films to watch out for: [[The Father]] with Anthony Hopkins:
+        - Those willing to wait a month can watch __The Father __on various digital on demand platforms — including Amazon Prime Video, iTunes, Vudu, and Google Play — beginning March 26.
+        - #Podcast to listen to: Brene Brown with Susan David on the dangers of toxic positivity
+        - [[Roam Research]]: #Video on  Fleeting notes, literature notes and permanent notes
+            - {{[[video]]: https://youtu.be/KoddCmn3eL0}}
+        - [[Roam Research]]: #Video "Flexible Systems for Synthesis in Roam Research with Professor Joel Chan"
+            - {{[[video]]: https://youtu.be/JoCjpTXCklw}}
+        - #HT_Back_ex

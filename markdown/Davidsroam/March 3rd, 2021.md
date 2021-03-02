@@ -1,0 +1,14 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FkbS0ayBI6c.png?alt=media&token=d8670f8f-92da-4b4f-9e78-7cd8a413f0cc)
+- [[Daily agenda]]
+    - {{[[kanban]]}}
+        - All day
+        - 08:00
+        - 09:00
+        - 10:00
+        - 11:00
+        - 12:00
+        - 13:00
+        - 14:00
+        - 15:00
+        - [[Need to plan]]

@@ -125,7 +125,7 @@
 - {{[[DONE]]}} time report to [[ITC]] and [[SHB]] #Work
 - {{[[DONE]]}} prepare for mtg with [[SHB]] Norrköping
     - Sibel Efremsdotter 011 233710
-- {{[[TODO]]}} rebook mtg with [[SHB]] if necessary
+- {{[[DONE]]}} rebook mtg with [[SHB]] if necessary
 - {{[[TODO]]}} fetch wood
 - {{[[TODO]]}} vacuum #[[Sort and Tidy]]
 - {{[[TODO]]}} book dentist’s appointment #Waiting after recovering from cold.
@@ -133,7 +133,7 @@
 - {{[[DONE]]}} shower
 - {{[[TODO]]}} bring out summer furniture
 - {{[[DONE]]}} renew malwarebytes subscription #[[Home Tech]]
-- {{[[TODO]]}} email to Ann-Beate #Work
+- {{[[DONE]]}} email to Ann-Beate #Work
 - {{[[DONE]]}} book to [[Esther]]
 - {{[[TODO]]}}  Check out [[Harley Stagner]]'s  [Ideas on permanent notes](https://harleystagner.com/digital-smart-notes-part-4-creating-permanent-notes-in-roam-research/?fbclid=IwAR325PcJ4HSm4746Gaj-NIqxO1C2oD7bfkwYZW60GUn6-m08dyn_KtPGKOo)
 - {{[[DONE]]}} activate login smartcard #Work
