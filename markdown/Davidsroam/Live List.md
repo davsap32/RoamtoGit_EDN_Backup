@@ -129,6 +129,7 @@
 - {{[[TODO]]}} notes from mtg with CTME. #Work
 - {{[[DONE]]}} fetch wood
 - {{[[TODO]]}} vacuum #[[Sort and Tidy]]
+- {{[[TODO]]}} apply Aldera cream to [[Actinic Keratosis]] lesions #Health
 - {{[[TODO]]}} book dentist’s appointment #Waiting after recovering from cold.
 - {{[[DONE]]}} bookkeeping materials for feb to Oneeconomy #Work
 - {{[[DONE]]}} shower
