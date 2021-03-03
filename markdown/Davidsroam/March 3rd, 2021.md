@@ -16,3 +16,4 @@
         - [[Need to plan]]
 - 06:46
     - Put out ladder for chimney sweper on [[March 8th, 2021]]
+    - Yesterday evening, watched part of the first episode of [[Star Trek: Picard]] on [[Amazon Prime]].
