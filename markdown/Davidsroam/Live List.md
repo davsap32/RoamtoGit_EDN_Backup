@@ -130,7 +130,7 @@
 - {{[[DONE]]}} fetch wood
 - {{[[TODO]]}} vacuum #[[Sort and Tidy]]
 - {{[[TODO]]}} book dentist’s appointment #Waiting after recovering from cold.
-- {{[[TODO]]}} bookkeeping materials for feb to Oneeconomy #Work
+- {{[[DONE]]}} bookkeeping materials for feb to Oneeconomy #Work
 - {{[[DONE]]}} shower
 - {{[[TODO]]}} bring out summer furniture
 - {{[[TODO]]}} new prescription for Flutikason
@@ -141,7 +141,6 @@
 - {{[[DONE]]}} activate login smartcard #Work
 - {{[[DONE]]}} book mtg with Martin Arvidsson #Work
 - {{[[TODO]]}} minutes service review mtg. #Work
-- {{[[TODO]]}} try to start the [[Dlink DIR-815]]- #[[Home Tech]]
 - {{[[DONE]]}} preparation for VOST WS1 #Work
 - {{[[TODO]]}} strategy to share jira issues with service owners #Work
 - {{[[DONE]]}} mail to ctme #Work
@@ -337,4 +336,5 @@
 - {{{[[DONE]]}}}} purchase Ipod pro #[[Home Tech]]
 - {{[[DONE]]}} clean oven #[[Sort and Tidy]]
 - {{[[DONE]]}} Change to Norrköping branch office #[[Personal Finance]] #Waiting
-- {{[[TODO]]}} purchase apple cider vinegar
+- {{[[DONE]]}} purchase apple cider vinegar
+- {{[[TODO]]}} try to start the [[Dlink DIR-815]]- #[[Home Tech]]

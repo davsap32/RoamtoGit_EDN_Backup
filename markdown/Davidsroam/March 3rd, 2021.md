@@ -17,3 +17,5 @@
 - 06:46
     - Put out ladder for chimney sweper on [[March 8th, 2021]]
     - Yesterday evening, watched part of the first episode of [[Star Trek: Picard]] on [[Amazon Prime]].
+- 09:00
+    - Core team mtg. [[Erika]] informs us that she is working with recruitment of a consultant who will replace myself and [[Judith]], probably in April. #Work #SHB
