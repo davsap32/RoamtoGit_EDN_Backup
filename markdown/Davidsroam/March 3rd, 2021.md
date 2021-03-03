@@ -22,3 +22,5 @@
 - 15:58
     - Moved mtg with [[Sibel Efremsdotter]] to [[March 18th, 2021]]
     - Moved [[Anticimex]] besiktning to [[March 26th, 2021]]
+- 17:31
+    - Watched the rest of the film #Bliss - enjoyed it. #Films
