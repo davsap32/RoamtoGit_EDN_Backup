@@ -13,3 +13,6 @@
         - 14:00
         - 15:00
         - [[Need to plan]]
+- 06:08
+    - Yesterday evening, watched the film [[Small Axe]] - very good.
+    - Also, saw some of the second episode of [[Star Trek: Picard]]. I am dubious about following the rest of the series.
