@@ -27,3 +27,6 @@
     - [[Dr Mandell]]’s suggested elixir to reduce mucus/phlegm: #Illness
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fr1GCPfWO7R.jpeg?alt=media&token=a731e358-cf8d-42e1-89f0-b79e74536f97)
     - I still have symptoms of a cold, but they have lightened somewhat. #Illness
+- 16:03
+    - Went for a l0ng walk. Pleasant.
+    - Listened to a #Podcast with [[Robert Salzman]] and [[Jim Newman]]. Interesting at times, 
