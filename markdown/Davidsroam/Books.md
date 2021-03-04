@@ -26,6 +26,10 @@
         - [[How to Avoid a Climate Disaster]] by [[Bill Gates]]
         - [[The Power of Writing It Down]] by [[Allison Fallon]]
         - [[Hunger Mountain]] by [[David Hinton]]
+        - [[Daevabad Trilogy]] by [[S.A.Chakraborty]]: 
+            - [[The City of Brass]]
+            - [[The Kingdom of Copper]]
+            - [[The Empire of Gold]]
     - Reading
         - [[Sammetsdiktaturen]] by [[Anna-Lena Laurén]]
     - Paused

@@ -126,11 +126,11 @@
 - {{[[DONE]]}} prepare for mtg with [[SHB]] Norrköping
     - Sibel Efremsdotter 011 233710
 - {{[[DONE]]}} rebook mtg with [[SHB]] if necessary
-- {{[[TODO]]}} minutes service review mtg. #Work
+- {{[[DONE]]}} minutes service review mtg. #Work
 - {{[[TODO]]}} notes from mtg with CTME. #Work
 - {{[[DONE]]}} fetch wood
 - {{[[TODO]]}} vacuum #[[Sort and Tidy]]
-- {{[[TODO]]}} apply Aldera cream to [[Actinic Keratosis]] lesions #Health
+- {{[[DONE]]}} apply Aldera cream to [[Actinic Keratosis]] lesions #Health
 - {{[[TODO]]}} book dentist’s appointment #Waiting after recovering from cold.
 - {{[[DONE]]}} bookkeeping materials for feb to Oneeconomy #Work
 - {{[[DONE]]}} shower
