@@ -126,6 +126,7 @@
 - {{[[DONE]]}} prepare for mtg with [[SHB]] Norrköping
     - Sibel Efremsdotter 011 233710
 - {{[[DONE]]}} rebook mtg with [[SHB]] if necessary
+- {{[[TODO]]}} minutes service review mtg. #Work
 - {{[[TODO]]}} notes from mtg with CTME. #Work
 - {{[[DONE]]}} fetch wood
 - {{[[TODO]]}} vacuum #[[Sort and Tidy]]
@@ -141,7 +142,6 @@
 - {{[[TODO]]}}  Check out [[Harley Stagner]]'s  [Ideas on permanent notes](https://harleystagner.com/digital-smart-notes-part-4-creating-permanent-notes-in-roam-research/?fbclid=IwAR325PcJ4HSm4746Gaj-NIqxO1C2oD7bfkwYZW60GUn6-m08dyn_KtPGKOo)
 - {{[[DONE]]}} activate login smartcard #Work
 - {{[[DONE]]}} book mtg with Martin Arvidsson #Work
-- {{[[TODO]]}} minutes service review mtg. #Work
 - {{[[DONE]]}} preparation for VOST WS1 #Work
 - {{[[TODO]]}} strategy to share jira issues with service owners #Work
 - {{[[DONE]]}} mail to ctme #Work

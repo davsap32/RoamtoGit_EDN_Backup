@@ -53,4 +53,4 @@
             - And, as I keep repeating, the living realization of what sets us free and what seems to bind us is rarely, if ever, a one-time event that permanently ends all delusion. The dance is unending, always NOW. 
             - And this liberation to which spirituality points includes having cancer, losing all your money, and being in a world where there is all manner of unfathomable cruelty and horror along with astonishing beauty and kindness. We each contain it all, and the manifestation will always be a dance of polarities. Utopia is a fantasy. Human perfection is a fantasy. But still, life moves us to reach, to seek, to wake up, to find that new-born heart-mind.
 - 21:53
-    - Applied [[Aldara creme]]
+    - Applied [[Aldara creme]]. Next appplication [[March 5th, 2021]]
