@@ -23,3 +23,7 @@
     - On [[Medium]], read a recommendation of the [[Daevabad Trilogy]] by [[S.A.Chakraborty]]: #Books
         - [[The City of Brass]]
         - [[The Kingdom of Copper]]
+- 13:06
+    - [[Dr Mandell]]’s suggested elixir to reduce mucus/phlegm: #Illness
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fr1GCPfWO7R.jpeg?alt=media&token=a731e358-cf8d-42e1-89f0-b79e74536f97)
+    - I still have symptoms of a cold, but they have lightened somewhat. #Illness
