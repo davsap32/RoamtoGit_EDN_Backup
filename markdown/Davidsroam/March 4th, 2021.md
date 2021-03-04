@@ -16,3 +16,5 @@
 - 06:08
     - Yesterday evening, watched the film [[Small Axe]] - very good.
     - Also, saw some of the second episode of [[Star Trek: Picard]]. I am dubious about following the rest of the series.
+- 08:43
+    - When I spoke with [[Esther]]yesterday evening, she mentioned that the wireless doorbell that Ernest keeps in his room rang twice during the night recently, without her having pressed the button. I had no idea during our conversation how this might have occured, now it occurs to me that there might be a similar apparatus in the vicinity that operates on the same frequency.
