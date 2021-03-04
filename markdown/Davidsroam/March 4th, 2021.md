@@ -30,7 +30,7 @@
 - 16:03
     - Went for a long walk. Pleasant.
     - Listened to a #Podcast with [[Robert Salzman]] and [[Jim Newman]]. Interesting at times, but at times a tendency for Jim to claim a dogmatic certainty.
-    - Listening to a #Podcast in the [[Demistifying Science]] series with [[Dr. Vaibhav Diwadkar]] about how reasonable levels of discomfort can be beneficial.
+    - Listening to a #Podcast in the [[Demistifying Science]] series with [[Dr. Vaibhav Diwadkar]] about how reasonable levels of discomfort can be beneficial. Referring to [[Wim Hof]] as example.
     - Saw a post on [[Twitter]] about a new book about gene editing, [[The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race]] by [[Walter Isaacson]], which I would much like to read. #Books
     - #HT_Weight 78,6
     - #HT_Back_ex
