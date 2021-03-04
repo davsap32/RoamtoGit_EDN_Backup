@@ -28,5 +28,7 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2Fr1GCPfWO7R.jpeg?alt=media&token=a731e358-cf8d-42e1-89f0-b79e74536f97)
     - I still have symptoms of a cold, but they have lightened somewhat. #Illness
 - 16:03
-    - Went for a l0ng walk. Pleasant.
-    - Listened to a #Podcast with [[Robert Salzman]] and [[Jim Newman]]. Interesting at times, 
+    - Went for a long walk. Pleasant.
+    - Listened to a #Podcast with [[Robert Salzman]] and [[Jim Newman]]. Interesting at times, but at times a tendency for Jim to claim a dogmatic certainty.
+    - Listening to a #Podcast in the [[Demistifying Science]] series with [[Dr. Vaibhav Diwadkar]] about how reasonable levels of discomfort can be beneficial.
+    - Saw a post on [[Twitter]] about a new book about gene editing, [[The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race]] by [[Walter Isaacson]], which I would much like to read. #Books

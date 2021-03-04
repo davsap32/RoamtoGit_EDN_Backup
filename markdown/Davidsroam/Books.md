@@ -27,9 +27,10 @@
         - [[The Power of Writing It Down]] by [[Allison Fallon]]
         - [[Hunger Mountain]] by [[David Hinton]]
         - [[Daevabad Trilogy]] by [[S.A.Chakraborty]]: 
-            - [[The City of Brass]]
+            - [[The City of Brass]] #Readit
             - [[The Kingdom of Copper]]
             - [[The Empire of Gold]]
+        - [[The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race]] by [[Walter Isaacson]]
     - Reading
         - [[Sammetsdiktaturen]] by [[Anna-Lena Laurén]]
     - Paused
