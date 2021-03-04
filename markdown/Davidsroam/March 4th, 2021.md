@@ -34,3 +34,7 @@
     - Saw a post on [[Twitter]] about a new book about gene editing, [[The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race]] by [[Walter Isaacson]], which I would much like to read. #Books
     - #HT_Weight 78,6
     - #HT_Back_ex
+- 19:11
+    - Spoke with [[Esther]]. She mentioned two #Films that [[Roger Hummer]] (who visited them recently) had recommended:
+        - Away
+        - Penguin Bloom
