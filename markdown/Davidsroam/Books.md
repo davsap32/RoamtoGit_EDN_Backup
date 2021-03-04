@@ -21,7 +21,8 @@
         - [[Samlade verk]] by [[Lydia Sandgren]]
         - [[The Master and His Emissary - The Divided Brain and the Making of the Western World]] by [[Ian McGilchrist]]
         - [[Ernest Hemingway on Writing]] by [[Larry W. Phillips]]
-        - Books by [[Ernest Hemingway]]
+        - Books by [[Ernest Hemingway]]:
+            - The Collected Works of Ernest Hemingway
         - [[Ultralearning]] by [[Scott Young]]
         - [[How to Avoid a Climate Disaster]] by [[Bill Gates]]
         - [[The Power of Writing It Down]] by [[Allison Fallon]]
@@ -31,6 +32,7 @@
             - [[The Kingdom of Copper]]
             - [[The Empire of Gold]]
         - [[The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race]] by [[Walter Isaacson]]
+        - [[A Swim in a Pond in the Rain]] by [[George Saunders]]
     - Reading
         - [[Sammetsdiktaturen]] by [[Anna-Lena Laurén]]
     - Paused

@@ -38,3 +38,5 @@
     - Spoke with [[Esther]]. She mentioned two #Films that [[Roger Hummer]] (who visited them recently) had recommended:
         - Away
         - Penguin Bloom
+- 20:37
+    - Finished reading [[Sammetsdiktaturen]]. A description of life in modern Russia.
