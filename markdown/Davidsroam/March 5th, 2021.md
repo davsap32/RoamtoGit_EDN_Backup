@@ -21,3 +21,5 @@
 - 16:43
     - Thinking of a journey to Lofoten in July: #Journeys
         - https://www.vialulea.se/bokning-steg-3
+    - Thinking of a journey to Spain in October (22 days)
+        - https://www.albatros.se/resor/13/langtidssemester-i-andalusien-med-malaga-mijas-och-ronda
