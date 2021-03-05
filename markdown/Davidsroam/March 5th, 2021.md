@@ -14,4 +14,7 @@
         - 15:00
             - status digital
         - [[Need to plan]]
-- 
+- Applied [[Aldara creme]]. Next appplication [[March 7th, 2021]]
+- 10:59
+    - [App](https://letsview.com/) to mirror screen from iphone/ipad to PC:
+        - {{[[video]]: https://youtu.be/HPFhFbw4J-c}}
