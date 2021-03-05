@@ -127,6 +127,9 @@
     - Sibel Efremsdotter 011 233710
 - {{[[DONE]]}} rebook mtg with [[SHB]] if necessary
 - {{[[DONE]]}} minutes service review mtg. #Work
+- {{[[TODO]]}} mail on requirements for service owner role #Work
+    - Responsibility for functionality over organisation boundaries
+    - Responsibility for updated info on third party agreements
 - {{[[TODO]]}} notes from mtg with CTME. #Work
 - {{[[DONE]]}} fetch wood
 - {{[[TODO]]}} vacuum #[[Sort and Tidy]]
