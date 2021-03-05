@@ -2,3 +2,4 @@
 - {{[[TODO]]}} purchase iodine
 - {{[[TODO]]}}  consider purchasing sonos move #[[Home Tech]]
 - {{[[TODO]]}} consider purchasing Windows 10 mini PC #[[Home Tech]]
+    - https://www.komplett.se/product/1170070/dator-surfplatta/datorer-stationara/minidator/asus-mini-pc-pn50

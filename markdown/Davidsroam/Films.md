@@ -1,4 +1,7 @@
-- Movie recommendation, "The Wall Of Mexico" (2019) [[Robert Salzman]]
+- Finding where to stream movies: justwatch.com
+- Movie recommendation, "The Wall Of Mexico" (2019) [[Robert Salzman]]. 
+    - On [[FandangoNow.com]], requires USA IP.
+    - Also available on Microsoft store, does not require USA IP
 - The midnight sky recommended by [[Samuel]]
 - An officer and a spy recommended by [[Helene]]
 - Aniara recommended by [[Helene]]
@@ -6,9 +9,10 @@
 - Just Mercy recommended by [[Kenneth]]
 - Ethos series on [[Netflix]]
 - The wave
-- Downfall (on Hitler)
-- The Vow on [[HBO]]
-- Stepford Wives on [[Netflix]]?
+- Downfall (on Hitler) #Seen
+- The Vow on [[HBO]] About the NXIVM cult
+- Stepford Wives on [[HBO]]
 - I care a lot on [[Netflix]]USA
 - Black Narcissus on [[Disney+]]
 - [Bliss](https://www.primevideo.com/detail/0PI0H28MAZYMTM5S9TXJGS3SJU/ref=atv_sr_def_c_unkc__1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B08RLYRKQ4&qid=1614674617) recommended by [[Robert Salzman]] #Seen
+- 
