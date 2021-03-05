@@ -9,6 +9,7 @@
 - Just Mercy recommended by [[Kenneth]]
 - Ethos series on [[Netflix]]
 - The wave
+    - https://play.google.com/store/movies/details/The_Wave?gl=SE&hl=en&id=sCh8_L3VDHs.P
 - Downfall (on Hitler) #Seen
 - The Vow on [[HBO]] About the NXIVM cult
 - Stepford Wives on [[HBO]]

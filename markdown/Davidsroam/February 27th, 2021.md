@@ -8,7 +8,7 @@
         - Hoisin sauce
         - Lemon pickle
 - 20:37
-    - Watching a tv program about art and music in Vienna of the beginning of the 20th century. (Klimt, Scheel and others) We would probably enjoy visiting Vienna. #Travel
+    - Watching a tv program about art and music in Vienna of the beginning of the 20th century. (Klimt, Scheel and others) We would probably enjoy visiting Vienna. #Journeys
     - [[Kenneth]] phoned. Things are more or less back to normal after the storm in Texas. We talked about my prostate issues, he mentioned that he has been taking [[Finasteride Accord]] for some time. Same genes. [[BPH]].
     - I have some tooth problems - a pice of a tooth missing on my left upper jaw, and a sensitive tooth on the upper right, perhaps cracked. I stopped using my bite guard when it no longer fit because of a new crown. Maybe I should get a new one, I am probably damaging my teeth by pressing them in my sleep. #Teeth
     - Suffering from a mild cold. #Illness

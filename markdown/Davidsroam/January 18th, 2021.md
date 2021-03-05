@@ -25,4 +25,4 @@
 - 15:44
     - Started reading [[Caste: The Origins of Our Discontents]] - examining the ideas of caste and race (race being arbitrary but caste being a limiting factor for peoples' possibilities) #Books
 - 19:03
-    - We spoke with the family yesterday evening about travelling together to Gran Canaria to celebrate [[Kerstin]]’s birthday. Everyone was very keen. Today we were prepared to male bookings, but for some reason the price for [[Samuel]]’s family was double compared to what we saw yesterday. We may have too look for alternatives. I have also suggested that we pay 30 kkr for Samuel and family, they pay the rest. Samuel will look at alternatives. #Travel
+    - We spoke with the family yesterday evening about travelling together to Gran Canaria to celebrate [[Kerstin]]’s birthday. Everyone was very keen. Today we were prepared to male bookings, but for some reason the price for [[Samuel]]’s family was double compared to what we saw yesterday. We may have too look for alternatives. I have also suggested that we pay 30 kkr for Samuel and family, they pay the rest. Samuel will look at alternatives. #Journeys

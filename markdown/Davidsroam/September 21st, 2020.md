@@ -6,6 +6,6 @@
         - journey to Örebro
     - 20:00
         - Call Esther
--  20:37 #Travel
+-  20:37 #Journeys
     - Today we left home at about 10:30 am, drove to Örebro where we ate lunch at Svampen. Drove on from there to Nora, where we looked at an exhibition of embroidery at the library. Back to Örebro, where we checked in at Hjalmar hotel. This evening we ate at Makeriet - good food. Tomorrow we expect to meet up with [[Per Engström]] in the afternoon.
     - Spoke with [[Samuel]] earlier. He has received a valiation of his house at 6 million Sek. So he intends to borrow on the house and pay someone to do the remaining work.

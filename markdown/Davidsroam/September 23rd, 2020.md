@@ -9,7 +9,7 @@
     - 20:00
         - Call Esther
     - 
--  08:43 #Travel
+-  08:43 #Journeys
     - Ate dinner with [[Per Engström]] and Anette, showed some of our pictures: journeys, grandchildren, some of [[Kerstin]]s artwork. We bathed under the stars in Per’s jacuzzi. Per has made some wise investments in eco-technology, he has solar panels  on his garage roof and sells electricity to the net, he has geothermal heating to warm his house and a Prius hybrid car - his energy costs are negligible. His cost savings for the solar panels are 10% of the investment each year. 
     - Per is preparing breakfast, after which we will start our journey home.
     - Before dinner, we drove to a beach resort called [[Katrinelund Sjökrog och Gästgiveri]], it looked like a nice place for an outing, to eat and perhaps to stay overnight. #Örebro

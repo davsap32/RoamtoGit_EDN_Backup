@@ -7,7 +7,7 @@
         - Meet up with [[Per Engström]] at his home.
     - 20:00
         - Call Esther
-- 09:47 #Travel
+- 09:47 #Journeys
     - We are still at hotel Hjalmar, will check out soon and walk in [[Örebro]], eat lunch there. 
     - Reading [[Deep Work]], about focus, concentration and how memorisation practice can train the brain’s ability. It strikes me that playing chess must be very good exercise of this kind.
     - After lunch we drove to [[Linnea]]s shop [[Inolea]]. Håkan was there, Linnea was in hospital. She had been  operated to remove cysts from her ovaries, they had cut her utrethra by mistake. So she has has had to have a new operation and has to have a catheter until she is healed.

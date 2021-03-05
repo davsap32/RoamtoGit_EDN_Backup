@@ -26,6 +26,7 @@
     - Booked our journey to [[Gran Canaria]], 16-23/6. Looking forward to it. #Journeys
         - david.sapire@gmail.com booking number 11926562
         - samuel.sapire@gmail.com booking number 11927210
+        - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F7-E4_D9_85.pdf?alt=media&token=5f85543e-5a7a-447c-93fc-ebb8fec1d887}}
     - Dr. [[Sara Seaton]] called today. My tests are all ok, no infection, no blood or sugar in my urine, PSA normal (1,4 µg/L). She will still refer me to a urologist to check on my prostate. She issued presciptions for two medicines to reduce swelling of the prostate, I started taking them this evening. #Illness
     - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
         - {{[[slider]]}}

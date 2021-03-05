@@ -172,7 +172,7 @@
 - {{[[TODO]]}} Chaps questions from Erika #Work
 - {{[[TODO]]}} wash cars #[[Sort and Tidy]]
 - {{[[DONE]]}} dishwash air filters over stove #[[Sort and Tidy]]
-- {{[[DONE]]}} pay deposit to ving [[January 25th, 2021]] #Travel
+- {{[[DONE]]}} pay deposit to ving [[January 25th, 2021]] #Journeys
 - {{[[DONE]]}} service review meeting minutes #Work
 - {{[[DONE]]}} check for messages from [[SHB]]
 - {{[[DONE]]}} link questions #Work

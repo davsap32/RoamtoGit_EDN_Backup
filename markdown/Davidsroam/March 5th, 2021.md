@@ -18,3 +18,6 @@
 - 10:59
     - [App](https://letsview.com/) to mirror screen from iphone/ipad to PC:
         - {{[[video]]: https://youtu.be/HPFhFbw4J-c}}
+- 16:43
+    - Thinking of a journey to Lofoten in July: #Journeys
+        - https://www.vialulea.se/bokning-steg-3

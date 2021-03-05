@@ -13,7 +13,7 @@
     - level of discomfort due to [[lower back pain]] & [[Sciatica]]: #Illness
         - {{[[slider]]}}
     - I should plan ahead for the likely outcome that my contract with [[SHB]] ends in June this year at the latest. #Work #[[Business Future]]. Choices to consider:
-        - Stop working to earn money. Instead, spend time on #Travel and personal projects such as #Photography, #[[Sort and Tidy]] #[[Digital Garden]].
+        - Stop working to earn money. Instead, spend time on #Journeys and personal projects such as #Photography, #[[Sort and Tidy]] #[[Digital Garden]].
             - Freeze #Riscom
             - Liquidate #Riscom
         - Do something else with #Riscom, rather than IT consultancy
