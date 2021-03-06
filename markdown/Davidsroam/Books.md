@@ -33,6 +33,8 @@
             - [[The Empire of Gold]]
         - [[The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race]] by [[Walter Isaacson]]
         - [[A Swim in a Pond in the Rain]] by [[George Saunders]]
+        - [[The Anarchy]] by [[William Dalrymple]] 
+            - Review: https://www.theguardian.com/books/2019/sep/11/anarchy-relentless-rise-east-india-company-william-darymple-review?CMP=Share_iOSApp_Other
     - Reading
         - [[Sammetsdiktaturen]] by [[Anna-Lena Laurén]]
     - Paused
