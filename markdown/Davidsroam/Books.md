@@ -32,11 +32,10 @@
             - [[The Kingdom of Copper]]
             - [[The Empire of Gold]]
         - [[The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race]] by [[Walter Isaacson]]
-        - [[A Swim in a Pond in the Rain]] by [[George Saunders]]
         - [[The Anarchy]] by [[William Dalrymple]] 
             - Review: https://www.theguardian.com/books/2019/sep/11/anarchy-relentless-rise-east-india-company-william-darymple-review?CMP=Share_iOSApp_Other
     - Reading
-        - [[Sammetsdiktaturen]] by [[Anna-Lena Laurén]]
+        - [[A Swim in a Pond in the Rain]] by [[George Saunders]]
     - Paused
         - [[Transcendent Kingdom]] by [[Yaa Gyasi]]
         - [[Jonathan Strange and Mr. Norell]] by [[Susanna Clarke]]
@@ -181,6 +180,7 @@
     - [[This is Marketing]]
 - 
 - Read:
+    - [[Sammetsdiktaturen]] by [[Anna-Lena Laurén]]
     - [[Hitler Downfall 1939-1945]] by [[Volker Ullrich]]
     - [[The Cult of Trump]] by [[Steven Hassan]]
     - [[Hitler Ascent 1889-1939]] by [[Volker Ullrich]]
