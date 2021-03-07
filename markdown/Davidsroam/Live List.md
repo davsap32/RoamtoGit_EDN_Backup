@@ -127,14 +127,16 @@
     - Sibel Efremsdotter 011 233710
 - {{[[DONE]]}} rebook mtg with [[SHB]] if necessary
 - {{[[DONE]]}} minutes service review mtg. #Work
+- {{[[TODO]]}} bill gates book to [[Samuel]]
 - {{[[TODO]]}} mail on requirements for service owner role #Work
     - Responsibility for functionality over organisation boundaries
     - Responsibility for updated info on third party agreements
 - {{[[TODO]]}} notes from mtg with CTME. #Work
 - {{[[DONE]]}} fetch wood
-- {{[[TODO]]}} vacuum #[[Sort and Tidy]]
+- {{[[DONE]]}} vacuum #[[Sort and Tidy]]
 - {{[[TODO]]}} contact electrician
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FV0dru4Dcqr.jpeg?alt=media&token=2e99231e-fe0e-4f03-9222-b0b26f59c730)
+- {{[[TODO]]}} book service for [[KIA BBP137]]
 - {{[[DONE]]}} apply Aldera cream to [[Actinic Keratosis]] lesions #Health
 - {{[[TODO]]}} book dentist’s appointment #Waiting after recovering from cold.
 - {{[[DONE]]}} bookkeeping materials for feb to Oneeconomy #Work

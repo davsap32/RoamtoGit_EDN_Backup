@@ -40,6 +40,7 @@
                 - 2. [[White Mughals]] (1798-1832)
                 - 3. [[Return of a King]] (1839-42)
                 - 4. [[Last Mughal]] (1856-8)
+        - [[Klara and the Sun]] by [[Kazuo Ishiguro]]
     - Reading
         - [[A Swim in a Pond in the Rain]] by [[George Saunders]]
     - Paused
