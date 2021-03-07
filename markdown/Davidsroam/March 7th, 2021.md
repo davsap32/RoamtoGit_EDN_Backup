@@ -14,3 +14,5 @@
 - 15:09
     - We have invited the famliy for dinner. I will soon drive to town to fetch [[Amanda]].
     - Started reading [[A Swim in a Pond in the Rain]]. 
+- 20:55
+    - Applied [[Aldara creme]]. Next application [[March 10th, 2021]]
