@@ -2,6 +2,7 @@
 - Try kanban board for booklists:
 - {{kanban}}
     - To read shortlist
+        - [[The Expanse]] recommended by [[Samuel]]
         - [[The Third Door: The Wild Quest to Uncover How the World's Most Successful People Launched Their Careers]] by [[Alex Banayan]]
         - [[Promised Land]] by [[Barack Obama]]
         - [[The Art of Memoir]] by [[Mary Karr]]
