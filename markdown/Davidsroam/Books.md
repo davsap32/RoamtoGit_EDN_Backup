@@ -34,6 +34,11 @@
         - [[The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race]] by [[Walter Isaacson]]
         - [[The Anarchy]] by [[William Dalrymple]] 
             - Review: https://www.theguardian.com/books/2019/sep/11/anarchy-relentless-rise-east-india-company-william-darymple-review?CMP=Share_iOSApp_Other
+            - Order of reading [[The Company Quartet]]:
+                - 1. [[The Anarchy]] (1599-1803)
+                - 2. [[White Mughals]] (1798-1832)
+                - 3. [[Return of a King]] (1839-42)
+                - 4. [[Last Mughal]] (1856-8)
     - Reading
         - [[A Swim in a Pond in the Rain]] by [[George Saunders]]
     - Paused

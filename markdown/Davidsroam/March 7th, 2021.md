@@ -11,3 +11,6 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FvI_bmNZLjh.jpeg?alt=media&token=36ec49b2-3004-458f-bc17-fb5ce2632aac)
     - I saw the rest of the film [[The Wall of Mexico]] - worth watching, but something lacking.
     - I am getting better from my cold #Illness
+- 15:09
+    - We have invited the famliy for dinner. I will soon drive to town to fetch [[Amanda]].
+    - Started reading [[A Swim in a Pond in the Rain]]. 
