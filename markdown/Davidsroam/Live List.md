@@ -152,7 +152,9 @@
 - {{[[DONE]]}} mail to ctme #Work
 - {{[[DONE]]}} purchase Governo Rosso wine
 - {{[[DONE]]}}  book doctor's appointment for discoloration under right eye. #Waiting
-- {{[[TODO]]}} consider purchases for #Riscom 
+- {{[[TODO]]}} consider purchases for #Riscom
+- {{[[TODO]]}} check out roam-js video
+    - {{[[video]]: https://youtu.be/o-V1lLQ5fFw}} 
 - {{[[TODO]]}} lee townson missing item #Work
 - {{[[TODO]]}} take stuff to returpunkten #[[Sort and Tidy]]
 - {{[[DONE]]}} consider what to do with my habit tracker 
@@ -172,6 +174,7 @@
 - {{[[DONE]]}} clean behind stove #[[Sort and Tidy]]
 - {{[[DONE]]}} Riscom december expenses #Riscom
 - {{[[TODO]]}} Chaps questions from Erika #Work
+- {{[[TODO]]}} change to summer wheels for Kia and Toyota. 
 - {{[[TODO]]}} wash cars #[[Sort and Tidy]]
 - {{[[DONE]]}} dishwash air filters over stove #[[Sort and Tidy]]
 - {{[[DONE]]}} pay deposit to ving [[January 25th, 2021]] #Journeys
