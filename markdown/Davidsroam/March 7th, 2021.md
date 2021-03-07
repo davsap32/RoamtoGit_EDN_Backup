@@ -4,4 +4,7 @@
     - Listening to a talk on [[youtube]] with [[Timothy Snyder]] on “The State of Our Democracy”, given at Bowdoin College. Very good.
         - {{[[video]]: https://youtu.be/q3nJrtKPI00}}
 - 11:03
-    - We had a power and water outage of about 90 minutes this morning. When the power came back on, the fuse went for the cellar plugs. About the fifth time tha fuse has 
+    - We had a power and water outage of about 90 minutes this morning. When the power came back on, the fuse went for the cellar plugs. About the fifth time tha fuse has blown in the last few weeks. It may be necessary to increase the size of the fuse. Also, I want to start the electric radiator project - wifi control of thermostats. I should contact the electrician recommended by [[Josefine]]. #[[Home Tech]]
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FvI_bmNZLjh.jpeg?alt=media&token=36ec49b2-3004-458f-bc17-fb5ce2632aac)
+    - I saw the rest of the film [[The Wall of Mexico]] - worth watching, but something lacking.
+    - I am getting better from my cold #Illness
