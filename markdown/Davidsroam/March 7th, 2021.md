@@ -3,3 +3,5 @@
 - 08:30
     - Listening to a talk on [[youtube]] with [[Timothy Snyder]] on “The State of Our Democracy”, given at Bowdoin College. Very good.
         - {{[[video]]: https://youtu.be/q3nJrtKPI00}}
+- 11:03
+    - We had a power and water outage of about 90 minutes this morning. When the power came back on, the fuse went for the cellar plugs. About the fifth time tha fuse has 
