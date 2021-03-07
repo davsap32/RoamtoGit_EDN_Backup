@@ -1,3 +1,5 @@
 - #Weather
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FW7speEXX-a.jpeg?alt=media&token=82109634-6d6c-40b1-a5ea-433a4d89837b)
-- 
+- 08:30
+    - Listening to a talk on [[youtube]] with [[Timothy Snyder]] on “The State of Our Democracy”, given at Bowdoin College. Very good.
+        - {{[[video]]: https://youtu.be/q3nJrtKPI00}}
