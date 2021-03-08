@@ -147,7 +147,7 @@
 - {{[[DONE]]}} renew malwarebytes subscription #[[Home Tech]]
 - {{[[DONE]]}} email to Ann-Beate #Work
 - {{[[DONE]]}} book to [[Esther]]
-- {{[[TODO]]}}  Check out [[Harley Stagner]]'s  [Ideas on permanent notes](https://harleystagner.com/digital-smart-notes-part-4-creating-permanent-notes-in-roam-research/?fbclid=IwAR325PcJ4HSm4746Gaj-NIqxO1C2oD7bfkwYZW60GUn6-m08dyn_KtPGKOo)
+- {{[[TODO]]}}  Check out [[Harley Stagner]]'s  [Ideas on permanent notes](https://harleystagner.com/digital-smart-notes-part-4-creating-permanent-notes-in-roam-research/?fbclid=IwAR325PcJ4HSm4746Gaj-NIqxO1C2oD7bfkwYZW60GUn6-m08dyn_KtPGKOo) [[Digital Garden]]
 - {{[[DONE]]}} activate login smartcard #Work
 - {{[[DONE]]}} book mtg with Martin Arvidsson #Work
 - {{[[DONE]]}} preparation for VOST WS1 #Work
@@ -156,7 +156,7 @@
 - {{[[DONE]]}} purchase Governo Rosso wine
 - {{[[DONE]]}}  book doctor's appointment for discoloration under right eye. #Waiting
 - {{[[TODO]]}} consider purchases for #Riscom
-- {{[[TODO]]}} check out roam-js video
+- {{[[TODO]]}} check out roam-js video [[Roam Research]]
     - {{[[video]]: https://youtu.be/o-V1lLQ5fFw}} 
 - {{[[TODO]]}} lee townson missing item #Work
 - {{[[TODO]]}} take stuff to returpunkten #[[Sort and Tidy]]
@@ -349,4 +349,4 @@
 - {{[[DONE]]}} clean oven #[[Sort and Tidy]]
 - {{[[DONE]]}} Change to Norrköping branch office #[[Personal Finance]] #Waiting
 - {{[[DONE]]}} purchase apple cider vinegar
-- {{[[TODO]]}} try to start the [[Dlink DIR-815]]- #[[Home Tech]]
+- {{[[DONE]]}} try to start the [[Dlink DIR-815]]- #[[Home Tech]]
