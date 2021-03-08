@@ -129,7 +129,7 @@
 - {{[[DONE]]}} minutes service review mtg. #Work
 - {{[[DONE]]}} bill gates book to [[Samuel]]
 - {{[[TODO]]}}  prepare VOST workshop #Work
-- {{[[TODO]]}} mail on requirements for service owner role #Work
+- {{[[DONE]]}} mail on requirements for service owner role #Work
     - Responsibility for functionality over organisation boundaries
     - Responsibility for updated info on third party agreements
 - {{[[TODO]]}} notes from mtg with CTME. #Work
@@ -176,7 +176,7 @@
 - {{[[DONE]]}} reply to [[Cecilia]] about lunch
 - {{[[DONE]]}} clean behind stove #[[Sort and Tidy]]
 - {{[[DONE]]}} Riscom december expenses #Riscom
-- {{[[TODO]]}} Chaps questions from Erika #Work
+- {{[[DONE]]}} Chaps questions from Erika #Work
 - {{[[TODO]]}} change to summer wheels for Kia and Toyota. 
 - {{[[TODO]]}} wash cars #[[Sort and Tidy]]
 - {{[[DONE]]}} dishwash air filters over stove #[[Sort and Tidy]]
