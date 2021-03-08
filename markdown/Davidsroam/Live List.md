@@ -127,7 +127,8 @@
     - Sibel Efremsdotter 011 233710
 - {{[[DONE]]}} rebook mtg with [[SHB]] if necessary
 - {{[[DONE]]}} minutes service review mtg. #Work
-- {{[[TODO]]}} bill gates book to [[Samuel]]
+- {{[[DONE]]}} bill gates book to [[Samuel]]
+- {{[[TODO]]}}  prepare VOST workshop #Work
 - {{[[TODO]]}} mail on requirements for service owner role #Work
     - Responsibility for functionality over organisation boundaries
     - Responsibility for updated info on third party agreements
