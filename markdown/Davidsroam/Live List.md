@@ -132,7 +132,7 @@
 - {{[[DONE]]}} mail on requirements for service owner role #Work
     - Responsibility for functionality over organisation boundaries
     - Responsibility for updated info on third party agreements
-- {{[[TODO]]}} notes from mtg with CTME. #Work
+- {{[[DONE]]}} notes from mtg with CTME. #Work
 - {{[[DONE]]}} fetch wood
 - {{[[DONE]]}} vacuum #[[Sort and Tidy]]
 - {{[[TODO]]}} contact electrician
