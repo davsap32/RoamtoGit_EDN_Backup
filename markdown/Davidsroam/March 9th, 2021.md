@@ -8,8 +8,11 @@
         - 09:00
         - 10:00
         - 11:00
+            - Progress tracking mtg with UK
         - 12:00
+            - Status digital
         - 13:00
         - 14:00
-        - 15:00
+            - VOST workshop
+        - 16:00
         - [[Need to plan]]
