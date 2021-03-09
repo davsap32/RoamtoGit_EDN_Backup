@@ -1,0 +1,16 @@
+- #Weather
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F9ShYoWkwFt.png?alt=media&token=6d241d38-f42e-40c1-9370-23ecacf91e0f)
+- [[Daily agenda]]
+    - {{[[kanban]]}}
+        - All day
+        - 08:30
+            - core team mtg
+        - 09:00
+        - 10:00
+            - Financing SD with Martin Arvidsson
+        - 11:00
+        - 12:00
+        - 13:00
+        - 14:00
+        - 15:00
+        - [[Need to plan]]
