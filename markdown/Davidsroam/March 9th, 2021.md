@@ -16,3 +16,5 @@
             - VOST workshop
         - 16:00
         - [[Need to plan]]
+- 13:36
+    - The chimney sweep was here [[March 8th, 2021]]. He thought that our chimney was ok.
