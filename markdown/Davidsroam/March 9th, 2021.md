@@ -20,3 +20,5 @@
     - The chimney sweep was here [[March 8th, 2021]]. He thought that our chimney was ok.
 - 17:50
     - [[Amazon]] delivered my new [[Audioengine A5+]] speakers - a quick delivery. I connected them to my [[Desktop PC]], lovely sound. I also tested streaming through the new speakers via [[Bluetooth]] from my [[Ipad]] - works vey well. In making place for the new speakers on my desk, I realised that it is high time to make progress in my [[Sort and Tidy]] projects. #[[Home Tech]]
+- 21:15
+    - Listening to a #Podcast in the [[HomeGrown Humans]] series, hoosted by [[Jamie Wheal]], interviewing [[Lisa Feldman Barrett]] about how the brain works. Interesting. she has written a book titles [[Seven and a Half Lessons About the Brain]], which I would like to read. #Books
