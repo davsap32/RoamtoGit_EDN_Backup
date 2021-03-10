@@ -17,13 +17,15 @@
 - 08:08
     - #HT_Weight 79,4
     - #HT_Back_ex
-    - Received delivery of supplements I had ordered from [[Svensktkosttillskott.se]]:
+    - Received delivery of supplements I had ordered from [[Svensktkosttillskott.se]]: #[[Repeat Purchase]]
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FSwqQ1jkhnv.png?alt=media&token=6f6b1d9a-ee78-4202-82bf-5675110deb94)
     - Experienced pain while urinating early this morning. Can I have passed a bladder stone? The pain has so far not recurred. #Illness
 - 16:16
     - After much work comparing alternatives, [[Kerstin]] and I decided on a journey to [[Crete]] in September with [[TUI]]. Booked and paid a deposit about a half an hour ago, but have not received a confirmation yet. I chatted with [[TUI]], they said there were delays in confirming bookings, I should call them tomorrow if I have not received a confirmation by then. #Journeys
 - 17:50
-    - Now we have received confirmation of our booking with [[TUI]] to [[Crete]] in September.
+    - Now we have received confirmation of our booking with [[TUI]] to [[Crete]] in September. #Journeys
         - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F-ULpLvGMjR.pdf?alt=media&token=bf619817-890e-4342-ae8c-d3ff419d3610}}
         - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2F0mDrFflglS.pdf?alt=media&token=2b0fd219-5a3f-4c7c-9cd2-a2c949b5c1cc}}
     - We will have a fire prevention inspection 9-11 on [[April 7th, 2021]]
+- 20:41
+    - Applied [[Aldara creme]]. Next application [[March 12th, 2021]]
