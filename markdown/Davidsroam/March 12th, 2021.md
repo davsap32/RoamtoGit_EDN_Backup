@@ -1,0 +1,17 @@
+- #Weather
+- 
+- [[Daily agenda]]
+    - {{[[kanban]]}}
+        - All day
+        - 08:30
+            - Core team mtg
+        - 09:00
+        - 10:00
+        - 11:00
+        - 12:00
+        - 13:00
+            - Capturing changes in third party agreements
+        - 14:00
+            - review of coll & gov schedule with UK
+        - 15:00
+        - [[Need to plan]]
