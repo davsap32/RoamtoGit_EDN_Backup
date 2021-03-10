@@ -20,3 +20,5 @@
     - Received delivery of supplements I had ordered from [[Svensktkosttillskott.se]]:
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FSwqQ1jkhnv.png?alt=media&token=6f6b1d9a-ee78-4202-82bf-5675110deb94)
     - Experienced pain while urinating early this morning. Can I have passed a bladder stone? The pain has so far not recurred. #Illness
+- 16:16
+    - After much work comparing alternatives, [[Kerstin]] and I decided on a journey to [[Crete]] in September with [[TUI]]. Booked and paid a deposit about a half an hour ago, but have not received a confirmation yet. I chatted with [[TUI]], they said there were delays in confirming bookings, I should call them tomorrow if I have not received a confirmation by then. #Journeys

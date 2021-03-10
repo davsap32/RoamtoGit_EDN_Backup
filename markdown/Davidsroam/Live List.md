@@ -151,7 +151,6 @@
 - {{[[DONE]]}} activate login smartcard #Work
 - {{[[DONE]]}} book mtg with Martin Arvidsson #Work
 - {{[[DONE]]}} preparation for VOST WS1 #Work
-- {{[[TODO]]}} strategy to share jira issues with service owners #Work
 - {{[[DONE]]}} mail to ctme #Work
 - {{[[DONE]]}} purchase Governo Rosso wine
 - {{[[DONE]]}}  book doctor's appointment for discoloration under right eye. #Waiting
@@ -350,3 +349,4 @@
 - {{[[DONE]]}} Change to Norrköping branch office #[[Personal Finance]] #Waiting
 - {{[[DONE]]}} purchase apple cider vinegar
 - {{[[DONE]]}} try to start the [[Dlink DIR-815]]- #[[Home Tech]]
+- {{[[TODO]]}} strategy to share jira issues with service owners #Work
