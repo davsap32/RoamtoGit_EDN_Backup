@@ -14,3 +14,9 @@
         - 14:00
         - 15:00
         - [[Need to plan]]
+- 08:08
+    - #HT_Weight 79,4
+    - #HT_Back_ex
+    - Received delivery of supplements I had ordered from [[Svensktkosttillskott.se]]:
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FSwqQ1jkhnv.png?alt=media&token=6f6b1d9a-ee78-4202-82bf-5675110deb94)
+    - Experienced pain while urinating early this morning. Can I have passed a bladder stone? The pain has so far not recurred. #Illness
