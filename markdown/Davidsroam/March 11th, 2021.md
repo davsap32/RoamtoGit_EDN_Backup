@@ -14,4 +14,5 @@
         - 15:00
         - [[Need to plan]]
 - 11:03
-    - Drove to 
+    - Drove to [[Returpunkten]] with cardboard, plastic, tins and bottles. Good to get it done #[[Sort and Tidy]]
+    - I'm getting ready mentally to discard stuff from my study. #[[Sort and Tidy]]
