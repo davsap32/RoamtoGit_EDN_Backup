@@ -158,7 +158,7 @@
 - {{[[TODO]]}} check out roam-js video [[Roam Research]]
     - {{[[video]]: https://youtu.be/o-V1lLQ5fFw}} 
 - {{[[TODO]]}} lee townson missing item #Work
-- {{[[TODO]]}} take stuff to returpunkten #[[Sort and Tidy]]
+- {{[[DONE]]}} take stuff to returpunkten #[[Sort and Tidy]]
 - {{[[DONE]]}} consider what to do with my habit tracker 
 - {{[[TODO]]}} JIRA tracking for CHAPS #Work
 - {{[[DONE]]}} JIRA tracking for CRM service description #Work

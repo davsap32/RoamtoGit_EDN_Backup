@@ -1,5 +1,5 @@
 - #Weather
-- 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FhvAFaXhSLX.png?alt=media&token=7064cedd-ae65-4d3c-bcc5-76a24ba01140)
 - [[Daily agenda]]
     - {{[[kanban]]}}
         - All day
