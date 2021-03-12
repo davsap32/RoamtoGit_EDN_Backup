@@ -17,3 +17,6 @@
         - [[Need to plan]]
 - 08:39
     - Listening to a #Podcast on [[Spotify]] in the [[Dare to Lead]] series with [[Brené Brown]] and [[Susan David]], discussing [[Emotional Agility]]. Excellent. Refuting the philosophy of positive thinking. 
+- 14:13
+    - Making this dish (Långkok med högrev i ugn) for this evening: #Recipes
+        - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FoTYFadHaeu.pdf?alt=media&token=6338bac4-e0d5-4820-9511-44f025efa7ae}}
