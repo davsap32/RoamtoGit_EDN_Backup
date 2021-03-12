@@ -15,3 +15,5 @@
             - review of coll & gov schedule with UK
         - 15:00
         - [[Need to plan]]
+- 08:39
+    - Listening to a #Podcast on [[Spotify]] in the [[Dare to Lead]] series with [[Brené Brown]] and [[Susan David]], discussing [[Emotional Agility]]. Excellent. Refuting the philosophy of positive thinking. 

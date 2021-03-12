@@ -155,6 +155,7 @@
 - {{[[DONE]]}} purchase Governo Rosso wine
 - {{[[DONE]]}}  book doctor's appointment for discoloration under right eye. #Waiting
 - {{[[TODO]]}} consider purchases for #Riscom
+- {{[[TODO]]}} book for Vestanå teatern
 - {{[[TODO]]}} check out roam-js video [[Roam Research]]
     - {{[[video]]: https://youtu.be/o-V1lLQ5fFw}} 
 - {{[[TODO]]}} lee townson missing item #Work
