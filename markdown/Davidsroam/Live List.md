@@ -128,7 +128,7 @@
 - {{[[DONE]]}} rebook mtg with [[SHB]] if necessary
 - {{[[DONE]]}} minutes service review mtg. #Work
 - {{[[DONE]]}} bill gates book to [[Samuel]]
-- {{[[TODO]]}} status 
+- {{[[TODO]]}} status third party
 - {{[[TODO]]}}  LINK questions from Erika #Work
     - Mail to Stefan E concerning Evry & resilience
 - {{[[DONE]]}} mail on requirements for service owner role #Work
