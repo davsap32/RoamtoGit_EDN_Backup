@@ -16,3 +16,5 @@
     - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FNtnoPuj7h5.pdf?alt=media&token=3b2a4915-d9cc-47ac-816b-e44ebcdc83b1}}
 - Honung och hoisin glaserade revben
     - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FdNdR8kyKJh.pdf?alt=media&token=67ffa2c3-d7d1-4471-bd12-ac175e1162c0}}
+- Helstekt Kyckling i gryta
+    - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FXZsf40qOiu.pdf?alt=media&token=ce81f146-6fab-419d-b965-672ea018c3bc}}

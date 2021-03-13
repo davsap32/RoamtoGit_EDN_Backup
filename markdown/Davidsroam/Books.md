@@ -40,10 +40,11 @@
                 - 2. [[White Mughals]] (1798-1832)
                 - 3. [[Return of a King]] (1839-42)
                 - 4. [[Last Mughal]] (1856-8)
-        - [[Klara and the Sun]] by [[Kazuo Ishiguro]]
         - [[Seven and a Half Lessons About the Brain]] by [[Lisa Feldman Barret]]
-        - [[Strongmen]] by [[Ruth Ben-Ghiat]]
+        - [[Shuggie Bain]] by [[Douglas Stuart]]
     - Reading
+        - [[Klara and the Sun]] by [[Kazuo Ishiguro]]
+        - [[Strongmen]] by [[Ruth Ben-Ghiat]]
         - [[A Swim in a Pond in the Rain]] by [[George Saunders]]
     - Paused
         - [[Transcendent Kingdom]] by [[Yaa Gyasi]]
