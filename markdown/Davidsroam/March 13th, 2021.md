@@ -4,3 +4,5 @@
 - 09:23
     - Novel recommended by [[Dagens Nyheter]]: [[Shuggie Bain]] by [[Douglas Stuart]] #Books
     - Film recommended by [[Dagens Nyheter]]: [[Sweat]] #Films
+- 15:34
+    - Ate lunch at [[Il Cibo]] restaurant with [[Amanda]]
