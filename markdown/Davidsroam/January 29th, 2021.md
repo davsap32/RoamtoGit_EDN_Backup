@@ -19,7 +19,7 @@
     - 20:00
         - Call Esther
 - 15:02
-    - We had about 20 cm of snow when we woke up this morning, so I spent about 2 hours shovelling the driveway and also a path from the woodshed to the front door for the wheelbarrow, so that I can fetch wood. Our neighbour [[Fredrik]] offered the use of his snow blower, which I tried but it blew a fuse each time I used it, so I returned the machine and did the rest by hand. #[[Home Tech]]
+    - We had about 20 cm of snow when we woke up this morning, so I spent about 2 hours shovelling the driveway and also a path from the woodshed to the front door for the wheelbarrow, so that I can fetch wood. Our neighbour [[Fredrik]] offered the use of his snow blower, which I tried but it blew a fuse each time I used it, so I returned the machine and did the rest by hand. #[[Home Tech]] [[Fuse Issue]]
         - I should try to repair our own snow blower, or sell it or give it away.
     - I ordered Zinc tablets from [[Clearlife]], which are waiting for me at MyWay in Åby. I sat in the car to drive there and fetch them, but the battery was dead. I had turned on the diesel warmer in the car, I believe that it drains the battery. I do not drive enough at this time to keep the battery charged. Anyway, I have put the battery on charge, will leave it until tomorrow. #[[Home Tech]]
     - [[Kerstin]] has gone to the funeral of a friend, she will be back later this afternoon.

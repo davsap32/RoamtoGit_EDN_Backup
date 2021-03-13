@@ -128,7 +128,10 @@
 - {{[[DONE]]}} rebook mtg with [[SHB]] if necessary
 - {{[[DONE]]}} minutes service review mtg. #Work
 - {{[[DONE]]}} bill gates book to [[Samuel]]
-- {{[[TODO]]}} status third party
+- {{[[TODO]]}} write draft status description for third party agreement change management #Work
+- {{[[TODO]]}} clean out birdhouses #[[Sort and Tidy]]
+- {{[[TODO]]}} cull and sort bookshelves in study. #[[Sort and Tidy]]
+- {{[[TODO]]}} clean rust from [[Toyota AYF475]] and paint on rust protector. #[[Home Tech]]
 - {{[[TODO]]}}  LINK questions from Erika #Work
     - Mail to Stefan E concerning Evry & resilience
 - {{[[DONE]]}} mail on requirements for service owner role #Work
@@ -137,7 +140,7 @@
 - {{[[DONE]]}} notes from mtg with CTME. #Work
 - {{[[DONE]]}} fetch wood
 - {{[[DONE]]}} vacuum #[[Sort and Tidy]]
-- {{[[TODO]]}} contact electrician
+- {{[[TODO]]}} contact electrician #[[Home Tech]]
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDavidsroam%2FV0dru4Dcqr.jpeg?alt=media&token=2e99231e-fe0e-4f03-9222-b0b26f59c730)
 - {{[[TODO]]}} book service for [[KIA BBP137]]
 - {{[[DONE]]}} apply Aldera cream to [[Actinic Keratosis]] lesions #Health

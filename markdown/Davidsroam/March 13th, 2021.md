@@ -6,3 +6,5 @@
     - Film recommended by [[Dagens Nyheter]]: [[Sweat]] #Films
 - 15:34
     - Ate lunch at [[Il Cibo]] restaurant with [[Amanda]]
+- 17:17
+    - Washed both cars using the pressure washer. When I connected the washer to to the outlet by the garage, the cellar fuse blew. I tried using a cable from an outlet on the second floor, but the same thing happened. In the end, I used an electric radiator outlet on the third floor, which worked. I believe that the radiator outlet has a larger fuse. Anyway, the cars are cleaner, but they still need to be soaked in degreasing fluid and washed again, at a car wash. #[[Home Tech]] [[Fuse Issue]]
